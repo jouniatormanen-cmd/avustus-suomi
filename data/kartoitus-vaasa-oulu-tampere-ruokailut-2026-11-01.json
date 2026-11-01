@@ -1,0 +1,96 @@
+{
+  "records": [
+    {
+      "id": "20261101-vaasa-oulu-tampere-1",
+      "municipality": "Vaasa",
+      "name": "Huutoniemen yhteisölounas",
+      "address": "Kuninkaantie 1",
+      "schedule": "Maanantaisin 11–12.30",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://www.vaasansuomalainenseurakunta.fi/apua-ja-tukea/yhteisoruokailut",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    },
+    {
+      "id": "20261101-vaasa-oulu-tampere-2",
+      "municipality": "Vaasa",
+      "name": "Palosaaren maksuton yhteisölounas",
+      "address": "Kapteeninkatu 14–16",
+      "schedule": "Tiistaisin 11–12",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://www.vaasansuomalainenseurakunta.fi/apua-ja-tukea/yhteisoruokailut",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    },
+    {
+      "id": "20261101-vaasa-oulu-tampere-3",
+      "municipality": "Vaasa",
+      "name": "Vaasan keskustan yhteisölounas",
+      "address": "Koulukatu 28",
+      "schedule": "Joka toinen perjantai 11.9.–18.12.2026",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://www.vaasansuomalainenseurakunta.fi/apua-ja-tukea/yhteisoruokailut",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    },
+    {
+      "id": "20261101-vaasa-oulu-tampere-4",
+      "municipality": "Vaasa",
+      "name": "Vaasan keskustan aamupala",
+      "address": "Koulukatu 26",
+      "schedule": "Keskiviikkoisin 9.30–11",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://www.vaasansuomalainenseurakunta.fi/apua-ja-tukea/yhteisoruokailut",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    },
+    {
+      "id": "20261101-vaasa-oulu-tampere-5",
+      "municipality": "Oulu",
+      "name": "Hiukkavaaran maksuton diakonialounas",
+      "address": "Kenttämarssi 5",
+      "schedule": "Maanantaisin 11–12, 2.11.–7.12.2026",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    },
+    {
+      "id": "20261101-vaasa-oulu-tampere-6",
+      "municipality": "Oulu",
+      "name": "Haukiputaan maksuton Aamupuuro-akatemia",
+      "address": "Kirkkotie 10",
+      "schedule": "Maanantaisin 10–12, 7.9.–30.11.2026",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    },
+    {
+      "id": "20261101-vaasa-oulu-tampere-7",
+      "municipality": "Tampere",
+      "name": "Kauksun Kulman maksuton perjantaiaamupala",
+      "address": "",
+      "schedule": "Perjantaisin 10–12, 18.12.2026 saakka",
+      "category": "Ruoka-apu",
+      "fee_status": "free_per_organizer_page",
+      "source_url": "https://tampereenseurakunnat.fi/messukylan-seurakunta/tukea-ja-apua/avoimet-ruokailut/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_current_2026_check_duplicates"
+    }
+  ],
+  "note": "7 säännöllistä palvelua. Vaasan seurakunnan sivu sanoo ruokailut maksuttomiksi; perjantaiden kellonaika ei eksplisiittinen, tarkistettava. Muut mahdolliset päällekkäisyydet aiempiin Oulun eriin tarkistettava. Ei sivustomuutoksia."
+}
