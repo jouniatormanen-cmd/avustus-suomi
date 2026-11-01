@@ -1,0 +1,20 @@
+{
+  "records": [
+    {
+      "municipality": "tampere",
+      "name": "SPR Tampereen osasto – ystävätoiminta",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Tampereen osasto",
+      "phone": "050 338 9396",
+      "email": "ystavavalitys@sprtampere.fi",
+      "source_url": "https://www.lahella.fi/activities/4312906273",
+      "details": "Maksuton ystävätoiminta yksinäisille, ikääntyneille, vammaisille ja maahanmuuttajille; yhteydenotto sähköpostitse.",
+      "id": "kartoitus-20261101-1",
+      "price_status": "free",
+      "verification_status": "secondary_service_description_checked",
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events"
+    }
+  ],
+  "notes": "Erillinen kartoituserä; päällekkäisyydet pääaineistoon tarkistettu nimen ja kunnan perusteella; julkaisu edellyttää lisätarkastusta."
+}
