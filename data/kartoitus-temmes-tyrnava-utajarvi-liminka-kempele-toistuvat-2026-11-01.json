@@ -1,0 +1,80 @@
+{
+  "records": [
+    {
+      "id": "20261101-temmes-breakfast",
+      "municipality": "Tyrnävä",
+      "locality": "Temmes",
+      "name": "Kaiken kansan maksuton aamupala Temmeksellä",
+      "category": "Ruoka-apu",
+      "address": "Temmeksen seurakuntatalo, Petäjäsuvannontie 2, 91950 Temmes",
+      "schedule": "Parittomien viikkojen tiistaisin klo 8–10",
+      "conditions": "Kaikille avoin, vapaaehtoinen lahjoitus hyväntekeväisyyteen; klo 9.30 yhteislaulu ja hartaus.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.tyrnavanseurakunta.fi/tapahtumat/2026-10-06/kaiken-kansan-aamupala-temmeksella",
+      "verification_status": "primary_organizer_recurring_schedule_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-tyrnava-breakfast",
+      "municipality": "Tyrnävä",
+      "locality": "Keskusta",
+      "name": "Kaiken kansan aamupala Tyrnävällä",
+      "category": "Ruoka-apu",
+      "address": "Tyrnävän seurakuntatalo, Mankilantie 1, Tyrnävä",
+      "schedule": "Parillisten viikkojen keskiviikkoisin klo 8–10",
+      "conditions": "Kaikille avoin, vapaaehtoinen lahjoitus hyväntekeväisyyteen.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://rauhantervehdys.fi/artikkelit-2/diakonian-ruokailut-syksylla-2026/",
+      "verification_status": "dated_2026_local_publication_needs_primary_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-utajarvi-diakonian-breakfast",
+      "municipality": "Utajärvi",
+      "locality": "Keskusta",
+      "name": "Diakonian maksuton aamupuuro ja ylijäämäruokajako",
+      "category": "Ruoka-apu",
+      "address": "Uta-Tupa, Kirkkotie 11, Utajärvi",
+      "schedule": "Parittomien viikkojen perjantaisin klo 8.30–9.30",
+      "conditions": "Maksuton aamupala ja ylijäämäruokaa saatavuuden mukaan.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://rauhantervehdys.fi/artikkelit-2/diakonian-ruokailut-syksylla-2026/",
+      "verification_status": "dated_2026_local_publication_needs_primary_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-liminka-breakfast",
+      "municipality": "Liminka",
+      "locality": "Keskusta",
+      "name": "Koko kansan aamupuuro",
+      "category": "Ruoka-apu",
+      "address": "Limingan seurakuntatalo, Pappilantie 6, Liminka",
+      "schedule": "Torstaisin klo 9–10, 10.9.–3.12.2026; ei 5.11.2026",
+      "conditions": "Vapaaehtoinen 1 euron lahjoitus, ei pakollista maksua; ei 8.10.2026.",
+      "fee_status": "voluntary_payment_only",
+      "source_url": "https://liminganseurakunta.fi/toimintaa/lapset-ja-lapsiperheet/",
+      "verification_status": "primary_organizer_autumn_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-kempele-diakonia-meal",
+      "municipality": "Kempele",
+      "locality": "Keskusta",
+      "name": "Diakoniaruokailu Pappilassa",
+      "category": "Ruoka-apu",
+      "address": "Pappila, Kuokkamaantie 17, Kempele",
+      "schedule": "Syyskaudella 2026 tiistaisin 29.9., 27.10. ja 24.11. klo 12–13",
+      "conditions": "Kaikille avoin maksuton lounas; harvemmin toistuva palvelu, tarkista seuraava kausi.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://rauhantervehdys.fi/artikkelit-2/diakonian-ruokailut-syksylla-2026/",
+      "verification_status": "dated_2026_local_publication_needs_primary_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "5 säännöllistä tai kausittain toistuvaa ruokapalvelua, ei irrallisia kertatapahtumia. Temmes ja Liminka järjestäjän lähteestä; Tyrnävä, Utajärvi, Kempele 9.9.2026 paikallisesta julkaisusta, järjestäjätarkistus jäljellä. Ei sivuston muutoksia."
+}
