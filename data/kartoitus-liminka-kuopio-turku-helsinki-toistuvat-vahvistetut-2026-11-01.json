@@ -1,0 +1,83 @@
+{
+  "records": [
+    {
+      "id": "20261101-liminka-kierratystori",
+      "municipality": "Liminka",
+      "name": "Pappilan aitan ilmainen kierrätystori",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "Limingan seurakunta",
+      "address": "Pappilan aitta, Liminka (katuosoite tarkistettava)",
+      "schedule": "Tiistaisin 16–19 ja torstaisin 9.30–12, 4.8.–17.12.2026",
+      "conditions": "Vaatteita, leluja, astioita ja liinavaatteita ilmaiseksi omaan tarpeeseen, ei jälleenmyyntiin.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://liminganseurakunta.fi/toimintaa/aikuiset/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026_checked"
+    },
+    {
+      "id": "20261101-kuopio-postitalo-aamupuuro",
+      "municipality": "Kuopio",
+      "name": "Aamupuuro aikaisille",
+      "category": "Ruoka-apu",
+      "organizer": "Kuopion tuomiokirkkoseurakunta",
+      "address": "Postitalon seurakuntasali, Kuopio (katuosoite tarkistettava)",
+      "schedule": "Parillisten viikkojen maanantaisin 8.30–10, 14.9.–23.11.2026; puuro tarjolla 8.30–9",
+      "conditions": "Maksuton puuro; sen jälkeen olohuoneparlamentti.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://kuopionseurakunnat.fi/tuomiokirkkoseurakunta/toimintaa/ikaihmiset/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026_checked"
+    },
+    {
+      "id": "20261101-turku-halinen-ruoka-aika",
+      "municipality": "Turku",
+      "locality": "Halinen",
+      "name": "Halisten ruoka-aika",
+      "category": "Ruoka-apu",
+      "organizer": "Maarian seurakunta",
+      "address": "Halisten seurakuntatalo, Turku (katuosoite tarkistettava)",
+      "schedule": "19.11. ja 17.12.2026 klo 17–18; syyskaudella noin kerran kuussa",
+      "conditions": "Kaikille avoin ilmainen vegaaninen ja gluteeniton päivällinen.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026_checked"
+    },
+    {
+      "id": "20261101-helsinki-pitajanmaki-aamukellari",
+      "municipality": "Helsinki",
+      "locality": "Pitäjänmäki",
+      "name": "Pitäjänmäen Aamukellari",
+      "category": "Ruoka-apu",
+      "organizer": "Pitäjänmäen seurakunta",
+      "address": "Pitäjänmäen kirkko, Turkismiehenkuja 4, Helsinki, kellari sivuovesta",
+      "schedule": "Torstaisin 9–10.45, 13.8.–10.12.2026 (ei 10.9.)",
+      "conditions": "Maksutonta aamupuuroa, kahvia ja teetä sekä yhdessäoloa.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://helsinginseurakunnat.fi/uutiset/syksy2026160pitajanmaenseurakunnassa",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026_checked"
+    },
+    {
+      "id": "20261101-helsinki-pitajanmaki-olkkari",
+      "municipality": "Helsinki",
+      "locality": "Pitäjänmäki",
+      "name": "Kirkon olkkari – maksuton välipala ja lasten ruokailu",
+      "category": "Ruoka-apu",
+      "organizer": "Pitäjänmäen seurakunta",
+      "address": "Pitäjänmäen kirkko, Turkismiehenkuja 4, Helsinki",
+      "schedule": "Keskiviikkoisin 15–18, 23.9.–25.11.2026; välipala klo 15 ja iltaruoka klo 17",
+      "conditions": "Välipala ja kahvi maksutta; iltaruoka maksuton lapsille ja nuorille, aikuisille suositeltu vapaaehtoinen 3 € maksu. Ei 7.10.",
+      "fee_status": "free_snack_children_free_meal_adult_donation_voluntary",
+      "source_url": "https://helsinginseurakunnat.fi/uutiset/syksy2026160pitajanmaenseurakunnassa",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026_checked"
+    }
+  ],
+  "notes": "Viisi järjestäjän omasta 2026 ohjelmasta vahvistettua säännöllistä palvelua. Katuosoitteet Kuopion Postitalolle, Halisten seurakuntatalolle ja Limingan Pappilan aitalle tarkistettava ennen julkaisua. Pitäjänmäen olkkarin aikuisruokailu vapaaehtoisella maksulla; lapsille maksuton. Ei sivuston muutoksia."
+}
