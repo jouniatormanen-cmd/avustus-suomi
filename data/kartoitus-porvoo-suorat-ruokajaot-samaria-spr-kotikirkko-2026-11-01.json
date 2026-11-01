@@ -1,0 +1,73 @@
+{
+  "records": [
+    {
+      "id": "kartoitus-20261101-samaria-porvoo-lauantairuokajako",
+      "municipality": "Porvoo",
+      "locality": "Porvoo",
+      "name": "Samarian lauantain ruokajako",
+      "category": "Ruoka-apu",
+      "organizer": "Samaria rf",
+      "address": "Asentajantie 12, 06150 Porvoo",
+      "schedule": "Lauantaisin klo 11.30",
+      "details": "Samarian oma verkkosivu vahvistaa lauantain jakotapahtuman; ruokaa jaetaan myös omille asiakkaille ja Ukrainan pakolaisille. Jakotapahtuman mahdolliset osallistumisehdot ja maksuttomuus erikseen varmistettava.",
+      "source_url": "https://www.samaria.fi/ruoka/",
+      "record_kind": "direct_food_distribution",
+      "verification_status": "confirmed_by_organizer_page",
+      "price_status": "requires_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "kartoitus-20261101-spr-porvoo-gammelbacka-ruokajako",
+      "municipality": "Porvoo",
+      "locality": "Gammelbacka",
+      "name": "SPR Porvoon ruoka-apu Gammelbackassa",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Porvoon osasto",
+      "address": "Gammelbackan hyvinvointikeskus, Tornipolku 10, Porvoo",
+      "schedule": "Tiistaisin ja perjantaisin klo 12; numerolappuarvonta klo 11.40",
+      "details": "Vähävaraisille, ei tulotodistuksia. Hakija valitsee jaettavista hävikkituotteista. Yhteyshenkilö Päivi Waldvogel, 044 259 4825.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta/ruoka-apu",
+      "record_kind": "direct_food_distribution",
+      "verification_status": "confirmed_by_organizer_page",
+      "price_status": "free_food_aid",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "kartoitus-20261101-kotikirkko-porvoo-ruokajako",
+      "municipality": "Porvoo",
+      "locality": "Porvoo",
+      "name": "Porvoon Kotikirkon ruokajako",
+      "category": "Ruoka-apu",
+      "organizer": "Porvoon Kotikirkko (helluntaiseurakunta)",
+      "address": "Porvoon Kotikirkko, tarkka katuosoite vahvistettava",
+      "schedule": "Julkaistut syksyn 2026 jakopäivät: 16.10., 30.10., 6.11., 20.11., 4.12. ja 18.12. (alkuperäisessä tekstissä myös ristiriitainen 20.10.)",
+      "details": "Kotiin vietävää ruoka-apua. Ajantasaiset päivät ja kellonajat vahvistettava; lähteessä yksi ristiriitainen päivämäärä.",
+      "source_url": "https://www.porvoonkotikirkko.fi/l/soppa/",
+      "record_kind": "direct_food_distribution",
+      "verification_status": "organizer_post_2026_10_03",
+      "price_status": "requires_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "kartoitus-20261101-kotikirkko-porvoo-soppajako",
+      "municipality": "Porvoo",
+      "locality": "Porvoo",
+      "name": "Porvoon Kotikirkon Soppajako",
+      "category": "Ruoka-apu",
+      "organizer": "Porvoon Kotikirkko (helluntaiseurakunta)",
+      "address": "Porvoon Kotikirkko, tarkka katuosoite vahvistettava",
+      "schedule": "Syksyn 2026 erilliset soppahetket, mm. 23.10. klo 11; viimeinen ilmoitettu 20.11.2026",
+      "details": "Kaikille avoin yhteisöllinen lämmin ateria ja keskustelu. Joulukuussa ilmoitettu puurojuhlan suunnitelma, ei vahvistettua aikaa.",
+      "source_url": "https://www.porvoonkotikirkko.fi/l/soppa/",
+      "record_kind": "community_meal",
+      "verification_status": "organizer_post_2026_10_03",
+      "price_status": "requires_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Korjaava jatkokartoitus: eriytetään suorat asiakasjakelut logistiikkaterminaaleista. Samarian oma sivu vahvistaa lauantain klo 11.30 Asentajantie 12. SPR Porvoon ti/pe klo 12 Gammelbackassa. Kotikirkon ruoka- ja soppajako erillisinä. Ei poisteta vanhoja logistiikkavihjeitä, mutta niitä ei julkaista asiakasjakeluna. Ei sivuston muutoksia."
+}
