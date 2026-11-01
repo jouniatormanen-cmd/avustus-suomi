@@ -1,0 +1,160 @@
+{
+  "records": [
+    {
+      "id": "oulu-oulunsalo-diakonian-aamu",
+      "municipality": "Oulu",
+      "locality": "Oulunsalo",
+      "name": "Diakonian aamu – maksuton aamupala",
+      "address": "Vattukuja 2, 90460 Oulunsalo",
+      "schedule": "Tiistaisin 9–10, 15.9.–24.11.2026",
+      "conditions": "Saavu viimeistään 9.30.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "explicitly_free",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "oulu-sofia-diakonian-aamupala",
+      "municipality": "Oulu",
+      "locality": "Keskusta",
+      "name": "Sofia-seurakuntakeskuksen maksuton diakonian aamupala",
+      "address": "Isokatu 17, 90100 Oulu",
+      "schedule": "Tiistaisin 9–10.30, 8.9.–1.12.2026",
+      "conditions": "Samalla Prikka-hävikkiruokajako.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "explicitly_free",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "oulu-tuira-aamupala",
+      "municipality": "Oulu",
+      "locality": "Tuira",
+      "name": "Tuiran kirkon maksuton diakonian aamupala",
+      "address": "Myllytie 5, 90500 Oulu",
+      "schedule": "Keskiviikkoisin 10–11, 16.9.–2.12.2026",
+      "conditions": "Ei syyslomaviikolla 43.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "explicitly_free",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "oulu-pateniemi-ankkuri-lounas",
+      "municipality": "Oulu",
+      "locality": "Pateniemi",
+      "name": "Ankkurin maksuton diakonian lounas",
+      "address": "Pateniemenranta 3, 90800 Oulu",
+      "schedule": "Tiistaisin 12–13, 15.9.–1.12.2026",
+      "conditions": "Ei syyslomaviikolla 43.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "explicitly_free",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "tampere-annala-yhteisoneuvonta",
+      "municipality": "Tampere",
+      "locality": "Annala",
+      "name": "Annalan yhteisöneuvonta ja maksuton aamupala",
+      "address": "Hikivuorenkatu 63, 33710 Tampere",
+      "schedule": "Tiistaisin 9–11, 13.1.–15.12.2026",
+      "conditions": "Maksuton aamupala, digiasioinnin ja lomakkeiden täytön neuvonta ilman ajanvarausta.",
+      "source_url": "https://tampereenseurakunnat.fi/messukylan-seurakunta/tukea-ja-apua/avoimet-ruokailut/",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Ruoka-apu"
+      ],
+      "fee_status": "explicitly_free",
+      "organizer": "Messukylän seurakunta",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "oulu-maikkula-jouluateria",
+      "municipality": "Oulu",
+      "locality": "Maikkula",
+      "name": "Diakonian jouluateria vähävaraisille",
+      "address": "Kangaskontiontie 9, 90240 Oulu",
+      "schedule": "2.12.2026 klo 11",
+      "conditions": "Yksin tai kaksin asuvat taloudellisissa vaikeuksissa. Osallistumislippu noudettava 25.11. klo 13–14 Maikkulan kappelilta.",
+      "source_url": "https://oulunseurakunnat.fi/tapahtumahaku/diakonian-jouluavustukset-yksin-ja-kaksin-asuville/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "free_meal_in_diaconal_christmas_assistance",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "oulu-karjasilta-jouluateria",
+      "municipality": "Oulu",
+      "locality": "Karjasilta",
+      "name": "Diakonian jouluateria vähävaraisille",
+      "address": "Nokelantie 39, 90150 Oulu",
+      "schedule": "3.12.2026 klo 11",
+      "conditions": "Yksin tai kaksin asuvat taloudellisissa vaikeuksissa. Osallistumislippu noudettava 26.11. klo 15–16 Karjasillan kirkolta.",
+      "source_url": "https://oulunseurakunnat.fi/tapahtumahaku/diakonian-jouluavustukset-yksin-ja-kaksin-asuville/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "free_meal_in_diaconal_christmas_assistance",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "id": "oulu-kaakkuri-jouluateria",
+      "municipality": "Oulu",
+      "locality": "Kaakkuri",
+      "name": "Diakonian jouluateria vähävaraisille",
+      "address": "Sulkakuja 8, 90420 Oulu",
+      "schedule": "4.12.2026 klo 11",
+      "conditions": "Yksin tai kaksin asuvat taloudellisissa vaikeuksissa. Osallistumislippu noudettava 25.11. klo 13–14 Kaakkurin kirkolta.",
+      "source_url": "https://oulunseurakunnat.fi/tapahtumahaku/diakonian-jouluavustukset-yksin-ja-kaksin-asuville/",
+      "category": "Ruoka-apu",
+      "secondary_categories": [],
+      "fee_status": "free_meal_in_diaconal_christmas_assistance",
+      "organizer": "Oulun seurakunnat",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    }
+  ],
+  "corrections": [
+    {
+      "name": "Sofia-seurakuntakeskuksen keskiviikkolounas",
+      "note": "EI maksuton: 2 euroa, ei yleiseen maksuttomien palveluiden listaan.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/"
+    },
+    {
+      "name": "Oulun Hiukkavaaran lounas",
+      "note": "Aiemmin jo kartoitettu, ei uutta päällekkäistä palvelua.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/"
+    },
+    {
+      "name": "Haukiputaan Aamupuuro-akatemia",
+      "note": "Aiemmin jo kartoitettu, ei uutta päällekkäistä palvelua.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/"
+    }
+  ],
+  "notes": "Viisi toistuvaa palvelua ja kolme joulun poikkeussäännön mukaista jouluateriaa. Jouluruokailujen lipunnouto pakollinen. Kaikki järjestäjän sivuilta. Julkaisuvalmis false kunnes koko aineiston duplikaatit tarkistettu. Ei sivuston muutoksia."
+}
