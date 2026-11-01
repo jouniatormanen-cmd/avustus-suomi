@@ -1,0 +1,65 @@
+{
+  "records": [
+    {
+      "id": "20261101-savitaipale-nuokku-aamupuuro",
+      "municipality": "Savitaipale",
+      "name": "Nuokun maksuton aamupuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Taipaleen seurakunta",
+      "address": "Nuokku, Nikkarintie 2 F, Savitaipale",
+      "schedule": "Keskiviikkoisin 9–10, syyskausi alkanut 2.9.2026",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.taipaleenseurakunta.fi/documents/d/www.taipaleenseurakunta.fi/kesatarjotin-sle-2026-pdf",
+      "verification_status": "primary_organizer_2026_program",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-savitaipale-olokolo-soppa",
+      "municipality": "Savitaipale",
+      "name": "Soppa ja soitto – maksuton ateria",
+      "category": "Ruoka-apu",
+      "organizer": "Taipaleen seurakunta",
+      "address": "Olokolo, Nikkarintie 2 F, Savitaipale",
+      "schedule": "Kerran kuukaudessa tiistaisin 16; 10.11. ja 8.12.2026",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.taipaleenseurakunta.fi/documents/d/www.taipaleenseurakunta.fi/kesatarjotin-sle-2026-pdf",
+      "verification_status": "primary_organizer_2026_program",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-oulu-haukipudas-ruokakassi-varattu",
+      "municipality": "Oulu",
+      "locality": "Haukipudas",
+      "name": "Haukiputaan Kohtaamispaikan ennalta varattu ruokakassi",
+      "category": "Ruoka-apu",
+      "organizer": "Haukiputaan seurakunta",
+      "address": "Haukiputaan seurakuntakeskus, Kirkkotie 10, 90830 Haukipudas",
+      "schedule": "Tiistaisin 9–10.30, 24.3.–29.12.2026",
+      "conditions": "Ruokakassi vain sen etukäteen varanneille. Varausmenettely ja maksuttomuus vahvistettava ennen julkaisua; samalla diakoniatyöntekijä tavattavissa.",
+      "fee_status": "not_explicit",
+      "source_url": "https://oulunseurakunnat.fi/haukiputaan-seurakunta/toimintaa/aikuisille/",
+      "verification_status": "primary_organizer_2026_program",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-oulu-haukipudas-omaishoitaja",
+      "municipality": "Oulu",
+      "locality": "Haukipudas",
+      "name": "Omaishoitajien vertaistukiryhmä",
+      "category": "Keskusteluapu",
+      "organizer": "Haukiputaan seurakunta",
+      "address": "Haukiputaan seurakuntakeskus, Kirkkotie 10, Haukipudas",
+      "schedule": "Kerran kuukaudessa tiistaisin 11–12.30, 15.9.–8.12.2026",
+      "conditions": "Omaistaan hoitaville, myös ilman virallista omaishoitajastatusta. Ei ilmoittautumista. Maksuttomuus tarkistettava.",
+      "fee_status": "not_explicit",
+      "source_url": "https://oulunseurakunnat.fi/haukiputaan-seurakunta/toimintaa/aikuisille/",
+      "verification_status": "primary_organizer_2026_program",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Kaksi Savitaipaleen vahvistetusti maksutonta toistuvaa ateriapalvelua, kaksi Haukiputaan palveluehdokasta joiden maksuttomuus vielä tarkistettava. Kaikki järjestäjän 2026 ohjelmasta. Ei yksittäisiä tapahtumia eikä sivuston muutoksia."
+}
