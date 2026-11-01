@@ -1,0 +1,96 @@
+{
+  "records": [
+    {
+      "id": "kartoitus-20261101-suomifi-1",
+      "municipality": "lohja",
+      "name": "Lohjan seurakunnan maksuton diakonian keskusteluapu",
+      "category": "Keskusteluapu",
+      "organizer": "Lohjan seurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/apua-ja-tukea-elamaasi-lohjan-seurakunta/1d4e9d64-0699-4f2b-81ab-c6cfd227441a",
+      "requirements": "Ajanvaraus oman alueen diakoniatyöntekijälle; maksuton, ei kirkon jäsenyyttä.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    },
+    {
+      "id": "kartoitus-20261101-suomifi-2",
+      "municipality": "kokkola",
+      "name": "Kokkolan suomalaisen seurakunnan diakoniavastaanotto",
+      "category": "Raha-asiat",
+      "organizer": "Kokkolan suomalainen seurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/diakoniavastaanotto-kokkolan-suomalainen-seurakunta-kokkolan-seurakuntayhtyma-ja-seurakunnat/17d4e22a-b382-47bb-a098-3c2514175b43",
+      "requirements": "Ajanvaraus ma–to 9–10, 050 3147 297; maksuton, ei jäsenyyttä; Kälviä, Lohtaja ja Ullava ohjataan omaan seurakuntaan.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    },
+    {
+      "id": "kartoitus-20261101-suomifi-3",
+      "municipality": "lapua",
+      "name": "Lapuan tuomiokirkkoseurakunnan taloudellinen avustaminen",
+      "category": "Raha-asiat",
+      "organizer": "Lapuan tuomiokirkkoseurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/taloudellinen-avustaminen-lapuan-tuomiokirkkoseurakunta/05db4136-2db6-4d9e-bdd6-e03e17364b19",
+      "requirements": "Pienimuotoinen, harkinnanvarainen, pääasiassa kertaluonteinen talousapu; maksuton vastaanotto.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    },
+    {
+      "id": "kartoitus-20261101-suomifi-4",
+      "municipality": "koski tl",
+      "name": "Salon seurakunnan taloudellinen tuki – Koski Tl",
+      "category": "Raha-asiat",
+      "organizer": "Salon seurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/taloudellinen-tuki-salon-seurakunta/f1ce1bec-8eb5-4aa5-a951-179ae8bd1a6c",
+      "requirements": "Koski Tl:n asukkaille; ajanvaraus diakoniaan; tiliote kuukaudelta mukaan; harkinnanvarainen.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    },
+    {
+      "id": "kartoitus-20261101-suomifi-5",
+      "municipality": "marttila",
+      "name": "Salon seurakunnan taloudellinen tuki – Marttila",
+      "category": "Raha-asiat",
+      "organizer": "Salon seurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/taloudellinen-tuki-salon-seurakunta/f1ce1bec-8eb5-4aa5-a951-179ae8bd1a6c",
+      "requirements": "Marttilan asukkaille; ajanvaraus diakoniaan; tiliote kuukaudelta mukaan; harkinnanvarainen.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    },
+    {
+      "id": "kartoitus-20261101-suomifi-6",
+      "municipality": "kaavi",
+      "name": "Kuopion seurakuntien taloudellinen tuki – Kaavi",
+      "category": "Raha-asiat",
+      "organizer": "Järvi-Kuopion seurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/taloudellinen-tuki-kuopion-seurakunnat/1e9da357-f6b7-4be6-9b73-b597adb1d62b",
+      "requirements": "Kaavin asukkaille; oman asuinalueen diakoniatoimisto; ei kirkon jäsenyysvaatimusta.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    },
+    {
+      "id": "kartoitus-20261101-suomifi-7",
+      "municipality": "tuusniemi",
+      "name": "Kuopion seurakuntien taloudellinen tuki – Tuusniemi",
+      "category": "Raha-asiat",
+      "organizer": "Järvi-Kuopion seurakunta",
+      "source_url": "https://www.suomi.fi/palvelut/taloudellinen-tuki-kuopion-seurakunnat/1e9da357-f6b7-4be6-9b73-b597adb1d62b",
+      "requirements": "Tuusniemen asukkaille; oman asuinalueen diakoniatoimisto; ei kirkon jäsenyysvaatimusta.",
+      "price_status": "free_service_discretionary_assistance",
+      "verification_status": "provider_authored_suomifi_record",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service_no_dated_event"
+    }
+  ],
+  "notes": "Kunnat ja palvelut eriytetty. Kälviä, Lohtaja ja Ullava kuuluvat Kokkolaan mutta eivät samaan diakoniavastaanottoon; ei automaattista kattavuusoletusta. Ei verkkosivustomuutoksia."
+}
