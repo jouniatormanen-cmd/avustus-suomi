@@ -1739,12 +1739,13 @@
       "details": "Henkilökohtaista keskusteluapua, elämäntilanteen selvittelyä ja palveluohjausta. Ajanvaraus seurakunnan diakonian kautta.",
       "source_url": "https://www.porvoonseurakunta.fi/apua-ja-tukea",
       "price_status": "check_source",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0095",
@@ -1755,12 +1756,13 @@
       "details": "Keskusteluapua ja tukea elämän kriiseissä. Ota yhteys oman alueen seurakunnan diakoniaan; tarkista vastaanottoajat.",
       "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/",
       "price_status": "check_source",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0096",
@@ -1771,12 +1773,13 @@
       "details": "Harkinnanvaraista tukea taloudellisissa vaikeuksissa. Avustuksen mahdollisuus ja vaadittavat asiakirjat selvitetään tapaamisessa.",
       "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/",
       "price_status": "conditional",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0097",
@@ -1787,12 +1790,13 @@
       "details": "Luottamuksellista keskusteluapua ja palveluohjausta. Ota yhteys oman seurakunnan diakoniatyöntekijään.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/",
       "price_status": "check_source",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0098",
@@ -1803,12 +1807,13 @@
       "details": "Taloudellisen tilanteen selvittelyä ja mahdollisesti harkinnanvaraista avustamista. Tarkista ehdot suoraan diakoniatyöstä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/",
       "price_status": "conditional",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0099",
@@ -1819,12 +1824,13 @@
       "details": "Luottamuksellista keskusteluapua vaikeisiin elämäntilanteisiin. Ota yhteyttä alueesi seurakunnan diakoniatyöhön.",
       "source_url": "https://www.helsinginseurakunnat.fi/apuajajaksamista.html",
       "price_status": "check_source",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0100",
@@ -1835,12 +1841,13 @@
       "details": "Taloudellisen tilanteen kartoittamista ja harkinnanvaraista avustamista. Avustusta ei voida luvata ennakolta.",
       "source_url": "https://www.helsinginseurakunnat.fi/apuajajaksamista.html",
       "price_status": "conditional",
-      "verification_status": "pending_individual_verification",
+      "verification_status": "needs_service_level_details",
       "last_verified": null,
       "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false
+      "publication_ready": false,
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0101",
@@ -2136,7 +2143,7 @@
     {
       "id": "av-0119",
       "price_status": "pending_review",
-      "verification_status": "source_reviewed_2026-11-01",
+      "verification_status": "needs_service_level_details",
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
@@ -2146,7 +2153,8 @@
       "name": "SPR Joensuun osasto – ruoka-aputoiminta (kartoituskohde)",
       "address": "Torikatu 29 A, 80100 Joensuu",
       "details": "SPR Joensuun osasto ilmoittaa järjestävänsä ruoka-aputoimintaa. Jakelupaikka, aikataulu, ehdot ja mahdolliset maksut vielä tarkistamatta. Yhteydenotot joensuu@punainenristi.fi. Osaston osoite ei välttämättä ole jakelupaikka.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/yhteystiedot"
+      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/yhteystiedot",
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
     },
     {
       "id": "av-0120",
