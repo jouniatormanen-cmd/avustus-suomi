@@ -2167,11 +2167,11 @@
     {
       "id": "av-0120",
       "price_status": "membership_fee_40_eur_per_adult_year",
-      "verification_status": "event_source_checked_2026-11-01",
+      "verification_status": "organizer_event_listing_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": "Keskiviikkoisin 18.00–18.45; lähteessä listatut tulevat tapahtumakerrat tallennettu erikseen.",
-      "publication_ready": false,
+      "publication_ready": true,
       "category": "Ruoka-apu",
       "municipality": "inkoo",
       "name": "Inkoon A-kilta ry – keskiviikon ruokajako",
@@ -2184,64 +2184,78 @@
           "date": "2026-11-04",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         },
         {
           "date": "2026-11-11",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         },
         {
           "date": "2026-11-18",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         },
         {
           "date": "2026-11-25",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         },
         {
           "date": "2026-12-02",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         },
         {
           "date": "2026-12-09",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         },
         {
           "date": "2026-12-16",
           "start_time": "18:00",
           "end_time": "18:45",
-          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
           "address": "Grönkullantie 52, 10210 Inkoo",
           "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
+          "organizer": "Inkoon A-kilta ry"
         }
       ],
       "participation_conditions": [
@@ -2258,7 +2272,34 @@
       "alternate_phone": "050 432 2957",
       "additional_services": [
         "Keskusteluapu"
-      ]
+      ],
+      "venue_name": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
+      "email": "Petri.seulanto@gmail.com",
+      "service_tags": [
+        "ruokakassi",
+        "elintarvikejakelu",
+        "keskusteluapu",
+        "jäsenyys"
+      ],
+      "accessibility": null,
+      "booking_required": false,
+      "home_delivery": false,
+      "income_statement_required": false,
+      "sobriety_required": true,
+      "bring_own_bag": true,
+      "possible_waiting": true,
+      "membership_fee_eur_per_adult_per_year": 40,
+      "food_examples": [
+        "liha",
+        "kala",
+        "kana",
+        "eineksia",
+        "maitotuotteet",
+        "leipomotuotteet",
+        "kasvikset",
+        "hedelmat"
+      ],
+      "food_supply_note": "Tuotteet vaihtelevat lahjoitusten mukaan."
     },
     {
       "id": "av-0121",
