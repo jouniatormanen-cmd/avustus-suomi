@@ -1396,6 +1396,23 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false
+    },
+    {
+      "id": "av-0101",
+      "category": "Raha-asiat",
+      "municipality": "valtakunnallinen",
+      "name": "Kirkon diakonia – valtakunnallinen ohjaus talous- ja ruoka-apuun",
+      "address": null,
+      "details": "Suomen evankelis-luterilaisen kirkon diakoniatyö tarjoaa luottamuksellista talousneuvontaa ja voi myöntää harkinnanvaraista kertaluonteista ruoka-apua, ostokortteja tai apua kiireelliseen laskuun. Yhteys otetaan oman asuinalueen seurakunnan diakoniatyöntekijään. Seurakunnan yhteystiedot löytyvät lähdesivun hausta. Kirkon jäsenyyttä ei edellytetä kriisiavun saamiseen. Avustusta ei voida taata.",
+      "source_url": "https://evl.fi/apua-ja-tukea/rahahuolet/",
+      "additional_source_url": "https://evl.fi/apua-ja-tukea/suru-ja-kriisi/",
+      "price_status": "free_guidance_conditional_aid",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "record_type": "national_referral",
+      "publication_ready": true,
+      "event_date": null,
+      "recurrence": null
     }
   ]
 }
