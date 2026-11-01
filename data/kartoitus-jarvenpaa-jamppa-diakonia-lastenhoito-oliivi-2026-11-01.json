@@ -1,0 +1,87 @@
+{
+  "records": [
+    {
+      "id": "20261101-jarvenpaa-jamppa-food",
+      "municipality": "Järvenpää",
+      "locality": "Jamppa",
+      "name": "Jampan sydämen maksuton ruokajakelu",
+      "category": "Ruoka-apu",
+      "organizer": "Järvenpään seurakunta / Yhdessä katettu",
+      "address": "Rekikatu 1, 04440 Järvenpää",
+      "schedule": "Torstaisin klo 11.15, vuoronumerot arvotaan klo 11.15",
+      "conditions": "Oma kassi mukaan; hävikkiruokaa saatavuuden mukaan",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.jarvenpaanseurakunta.fi/tapahtumat/2026-10-29/ruokajakelu-maksuton-",
+      "verification_status": "organizer_2026_10_29_recurring",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-jarvenpaa-diakonia",
+      "municipality": "Järvenpää",
+      "name": "Maksuton diakonian keskusteluapu ja talousneuvonta",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Järvenpään seurakunta",
+      "address": "Kirkkotie 3 C, Järvenpää; myös Jampan sydän, Rekikatu 1",
+      "schedule": "Ajanvaraus ma ja to 9–10, Jampan sydämessä ma 9–10",
+      "phone": "050 571 1889",
+      "conditions": "Kuuntelu, palveluohjaus ja harkinnanvarainen kertaluonteinen taloudellinen apu; keskustelut luottamuksellisia ja maksuttomia",
+      "fee_status": "explicitly_free_consultation",
+      "source_url": "https://www.jarvenpaanseurakunta.fi/apua-ja-tukea/diakoniatyontekija-tavattavissa",
+      "verification_status": "organizer_current",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-jarvenpaa-muksukulma",
+      "municipality": "Järvenpää",
+      "name": "Muksukulma – tilapäinen lastenhoitoapu",
+      "category": "Kotiapu",
+      "organizer": "Järvenpään seurakunta",
+      "address": "Kirkonkulman päiväkerhotila, Kirkkotie 6 G, Järvenpää",
+      "schedule": "Torstaisin 9–11",
+      "phone": "050 462 4351",
+      "conditions": "Alle kouluikäisille lapsille; ilmoittautuminen ma–to tekstiviestillä, vahvistus paikasta viestitse",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://www.jarvenpaanseurakunta.fi/lapsetjaperheet/tilapainen-lastenhoito",
+      "verification_status": "organizer_recurring_fee_pending",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-jarvenpaa-muksujen-iltakulma",
+      "municipality": "Järvenpää",
+      "name": "Muksujen iltakulma – tilapäinen lastenhoitoapu",
+      "category": "Kotiapu",
+      "organizer": "Järvenpään seurakunta",
+      "address": "Kirkonkulman päiväkerhotila, Kirkkotie 6 G, Järvenpää",
+      "schedule": "Tiistaisin 17–19",
+      "phone": "050 462 4351",
+      "conditions": "Yli 2,5-vuotiaille lapsille; ilmoittautuminen ma–to tekstiviestillä, vahvistus paikasta viestitse",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://www.jarvenpaanseurakunta.fi/lapsetjaperheet/tilapainen-lastenhoito",
+      "verification_status": "organizer_recurring_fee_pending",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-jarvenpaa-oliivi",
+      "municipality": "Järvenpää",
+      "name": "Oliivin avoin kohtaamispaikka",
+      "category": "Keskusteluapu",
+      "organizer": "Järvenpään seurakunta",
+      "address": "Vanhankirkon alakerta, Kirkkotie 2, Järvenpää",
+      "schedule": "Maanantaisin ja keskiviikkoisin 10–13; perjantaisin 11–13 vain erikseen ilmoitettuina päivinä",
+      "conditions": "Avoin kohtaamispaikka, kahvia ja juttuseuraa; ei varsinainen ruoka-apujakelu. Syksyn 2026 perjantait tarkistettava erikseen.",
+      "fee_status": "entry_free_coffee_fee_not_explicit",
+      "source_url": "https://www.jarvenpaanseurakunta.fi/tule-mukaan/aikuisille/oliivi",
+      "verification_status": "organizer_autumn_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Viisi säännöllistä konkreettista palvelua. Ruokajako ja diakonian maksuton keskustelu vahvistettu suoraan järjestäjältä. Lastenhoidon maksuttomuus vahvistettava ennen julkaisua. Oliivi ei ole ruokajako; perjantain toimintapäivät vaihtelevat. Kolmannen osapuolen Arkikahvilan Järvenpää-listassa vanhentuneita päivämääräpoikkeuksia ja tuplarivejä, siksi käytetty järjestäjän ensisijaisia lähteitä. Ei verkkosivuston muutoksia."
+}
