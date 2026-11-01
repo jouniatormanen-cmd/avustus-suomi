@@ -1,0 +1,103 @@
+{
+  "records": [
+    {
+      "id": "20261101-kittila-perhejelppi",
+      "municipality": "Kittilä",
+      "name": "Perhejelppi – maksuton kotiin saatava tuki lapsiperheille",
+      "category": "Kotiapu",
+      "organizer": "Kittilän kunta",
+      "schedule": "Kerran viikossa 3 tuntia, enintään 3 kuukauden ajan virka-aikana; yhteydenotto perjantaisin klo 10–12",
+      "conditions": "Raskaana oleville ja alle kouluikäisten lasten perheille; etusijalla kotona lasta hoitavat. Pohjois-Kittilä ja Sirkka: 040 652 8587; kirkonkylä ja eteläosa: 040 664 1244.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kev%C3%A4t%202026_0.pdf",
+      "verification_status": "municipal_2026_guide",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-kittila-diakonia",
+      "municipality": "Kittilä",
+      "name": "Maksuton diakonian keskustelu- ja talousapu",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Raha-asiat"
+      ],
+      "organizer": "Kittilän seurakunta",
+      "schedule": "Yhteydenotto puhelimitse, tekstiviestillä tai sähköpostilla; vastaanotto sovittava",
+      "phone": "040 726 8205",
+      "conditions": "Kaikille, ei edellytä kirkkoon kuulumista; keskustelu- ja kriisiapu, talousneuvonta, harkinnanvarainen taloudellinen tuki.",
+      "fee_status": "explicitly_free_for_counselling",
+      "source_url": "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kev%C3%A4t%202026_0.pdf",
+      "verification_status": "municipal_2026_guide",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-kittila-asumisneuvonta",
+      "municipality": "Kittilä",
+      "name": "Kittilän asumisneuvonta",
+      "category": "Asuminen",
+      "organizer": "Kittilän kunta",
+      "schedule": "Ajanvarauksella",
+      "phone": "040 186 3766",
+      "email": "asumisneuvonta@kittila.fi",
+      "conditions": "Kuntalaisille, kuntaan muuttaville ja muuttoa harkitseville, vuokra- ja omistusasukkaille ja vuokranantajille. Maksuttomuus varmistettava erikseen.",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kev%C3%A4t%202026_0.pdf",
+      "verification_status": "municipal_2026_guide_fee_pending",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-tuusula-asumisneuvonta",
+      "municipality": "Tuusula",
+      "name": "Tuusulan maksuton asumisneuvonta",
+      "category": "Asuminen",
+      "organizer": "Tuusulan kunta",
+      "address": "Palvelukeskus Särmä, Autoasemankatu 4, 2. kerros, Hyrylä; muut tapaamispaikat Kellokoski ja Jokela",
+      "schedule": "Puhelimitse arkisin 9–15; Hyrylässä maanantai-iltapäivisin ilman ajanvarausta, muulloin ajanvaraus",
+      "phone": "040 314 2241 (alle 55-vuotiaat), 040 314 3068 (55 vuotta täyttäneet)",
+      "email": "asumisneuvonta@tuusula.fi",
+      "conditions": "Kaikille asumismuodosta riippumatta, myös asunnonhaku, vuokravelat ja asumisen tuet.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://tuusula.fi/en/home/housing-and-environment/housing/housing-advice/",
+      "secondary_source_url": "https://tuusula.fi/2026/09/10/kunnan-asiakaspalvelut-sarmassa-avataan-maanantaina-14-9/",
+      "verification_status": "municipal_current_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-tuusula-maspa-jokela",
+      "municipality": "Tuusula",
+      "locality": "Jokela",
+      "name": "MASPA – maksuton maahanmuuttaneiden asiointineuvonta Jokelassa",
+      "category": "Raha-asiat",
+      "organizer": "Tuusulan kunta",
+      "address": "Keskustie 2, Jokela",
+      "schedule": "Tiistaisin 12–16 ilman ajanvarausta",
+      "conditions": "Maahanmuuttaneille; Kela-, Migri- ja DVV-asioiden neuvonta sekä lomakkeet, asuminen, opiskelu ja työllistyminen. Maksuttomuus palvelulle tarkistettava erikseen.",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://tuusula.fi/2025/05/09/tule-tutustumaan-alueesi-tyollisyyspalveluihin-22-5/",
+      "verification_status": "municipal_2025_schedule_needs_current_check",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-tuusula-maspa-hyryla",
+      "municipality": "Tuusula",
+      "locality": "Hyrylä",
+      "name": "MASPA – maahanmuuttaneiden avoin asiointineuvonta Hyrylässä",
+      "category": "Raha-asiat",
+      "organizer": "Tuusulan kunta",
+      "address": "Autoasemankatu 1, 2. kerros (vuoden 2025 osoite; tarkista siirtyminen Särmään syyskuussa 2026)",
+      "schedule": "Maanantaisin 12–16 ilman ajanvarausta (vuoden 2025 tieto, vahvistettava)",
+      "conditions": "Maahanmuuttaneille; Kela-, Migri-, DVV- ja asumisasioiden neuvonta.",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://tuusula.fi/2025/05/09/tule-tutustumaan-alueesi-tyollisyyspalveluihin-22-5/",
+      "verification_status": "outdated_location_do_not_publish",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "6 tarkkaa palvelu- tai tarkistusmerkintää. Kittilän perhejelppi ja diakonia maksuttomia, asumisneuvonnan maksuttomuus avoin. Tuusulan asumisneuvonta vahvistettu, MASPA:n vuoden 2025 tiedot eivät julkaisuvalmiita ja osoite voi olla vanhentunut 14.9.2026 muuton jälkeen. Ei verkkosivuston muutoksia."
+}
