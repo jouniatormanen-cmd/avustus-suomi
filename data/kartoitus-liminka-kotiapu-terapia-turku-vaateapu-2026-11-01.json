@@ -1,0 +1,50 @@
+{
+  "records": [
+    {
+      "id": "20261101-liminka-pikkuhelppi",
+      "municipality": "Liminka",
+      "name": "Pikkuhelppi – maksuton tilapäinen kotiapu lapsiperheille",
+      "category": "Kotiapu",
+      "organizer": "Limingan seurakunta",
+      "address": "Perheen koti, lähiympäristö tai seurakunnan kerhotila, Liminka",
+      "schedule": "Ajanvarauksella; 1–3 tuntia kerrallaan, enintään 4 kertaa lukukaudessa",
+      "conditions": "Lapsiperheille, lastenhoitoon, pieniin kodinhoitotöihin ja keskustelutukeen. Ei korvaa sosiaalipalveluja. Sähköinen yhteydenottolomake.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://liminganseurakunta.fi/apua-ja-tukea/pikkuhelppi/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_current_page_checked"
+    },
+    {
+      "id": "20261101-liminka-walk-in-terapia",
+      "municipality": "Liminka",
+      "name": "Walk in terapia nuorille 15–29-vuotiaille",
+      "category": "Keskusteluapu",
+      "organizer": "Limingan seurakunta",
+      "address": "Avara, Pappilantie 6, Liminka, päätyovi",
+      "schedule": "Maanantaisin 15–17 ajanvarauksella",
+      "conditions": "15–29-vuotiaille; maksuton, ei lähetettä; voi asioida nimettömästi; ajanvaraus linkistä järjestäjän sivulla.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://liminganseurakunta.fi/apua-ja-tukea/walk-in-terapia/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_current_page_checked"
+    },
+    {
+      "id": "20261101-turku-karderoopi",
+      "municipality": "Turku",
+      "name": "Karderoopi – maksuton vaate- ja kodintarvikeapu",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "address": "Kaarlentie 2, Turku",
+      "schedule": "Tavallisesti ti–to 11–15, parittomien viikkojen torstaisin 11–17; sivulla ilmoitettu syyskausi 1.9.–29.10.2026 ja erillinen sulku 11.11., marraskuun todellinen aukiolo varmistettava",
+      "conditions": "Turun ja Kaarinan seurakuntayhtymän alueella asuville taloudellisesti tiukoilla oleville; diakoniatyöntekijän lähete vaaditaan. Ovi suljetaan 30 minuuttia ennen sulkemista. Lahjoitusten vastaanotto kiinni, tämä ei välttämättä tarkoita asiakasjaon sulkua.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/vaateapu-karderoopi/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_current_page_checked"
+    }
+  ],
+  "notes": "Kolme jatkuvaa konkreettista maksutonta avustuspalvelua. Karderoopin marraskuun aukiolo tarkistettava ennen julkaisua, lähde ilmoittaa syyskauden 29.10. asti mutta poikkeuksen 11.11. Ei sivuston muutoksia."
+}
