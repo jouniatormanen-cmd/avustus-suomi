@@ -300,6 +300,98 @@
       "price_status": "check_source",
       "event_date": null,
       "recurrence": null
+    },
+    {
+      "id": "av-0024",
+      "category": "Kotiapu",
+      "municipality": "porvoo",
+      "name": "SPR Porvoon ystävä- ja saattajapalvelu",
+      "address": null,
+      "details": "Maksuton ystävätoiminta ja saattamisapu esimerkiksi lääkärikäynnille. Yhteys: 040 757 1236, sprporvoo.ystavat@gmail.com.",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/porvoon-osasto/toiminta/ystavatoiminta",
+      "price_status": "free",
+      "verification_status": "source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "recurrence": null
+    },
+    {
+      "id": "av-0025",
+      "category": "Raha-asiat",
+      "municipality": "porvoo",
+      "name": "Talous- ja velkaneuvonta, Porvoon toimipaikka",
+      "address": "Tulliportinkatu 1, 06101 Porvoo",
+      "details": "Maksuton ja luottamuksellinen neuvonta. Vain ajanvarauksella, puh. 029 566 0175 arkisin 8–16.15. Palvelee myös Askolaa, Lapinjärveä, Loviisaa, Myrskylää, Pukkilaa, Sipoota ja Vantaata.",
+      "source_url": "https://www.oikeuspalveluvirasto.fi/yhteystiedot/talous-ja-velkaneuvonta-porvoon-toimipaikka-vain-ajanvarauksella/",
+      "price_status": "free",
+      "verification_status": "source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "recurrence": null
+    },
+    {
+      "id": "av-0026",
+      "category": "Raha-asiat",
+      "municipality": "porvoo",
+      "name": "Porvoon seurakuntien diakonian avustusneuvonta",
+      "address": "Lundinkatu 5, Porvoo",
+      "details": "Taloudellisen avun hakeminen ja keskusteluapu. Ajanvaraus tiistaisin puh. 019 6611 231. Avustusten myöntäminen harkinnanvaraista.",
+      "source_url": "https://www.porvoonseurakunta.fi/apua-ja-tukea",
+      "price_status": "free_consultation",
+      "verification_status": "source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "recurrence": null
+    },
+    {
+      "id": "av-0027",
+      "category": "Keskusteluapu",
+      "municipality": "porvoo",
+      "name": "Porvoon seurakuntien diakonian keskusteluapu",
+      "address": "Lundinkatu 5, Porvoo",
+      "details": "Luottamuksellista keskusteluapua vaikeisiin elämäntilanteisiin. Diakonian ajanvaraus tiistaisin puh. 019 6611 231.",
+      "source_url": "https://www.porvoonseurakunta.fi/apua-ja-tukea",
+      "price_status": "free_consultation",
+      "verification_status": "source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "recurrence": null
+    },
+    {
+      "id": "av-0028",
+      "category": "Asuminen",
+      "municipality": "porvoo",
+      "name": "Porvoon kotoutumiskeskuksen asumisasioiden neuvonta maahanmuuttajille",
+      "address": "Linnankoskenkatu 20, 06100 Porvoo",
+      "details": "Maksuton kotoutumiseen liittyvä neuvonta myös asumisasioissa. Neuvonta ti–to 13–16. Puh. 040 558 3791.",
+      "source_url": "https://www.porvoo.fi/palveluja-eri-elamantilanteissa/kotoutumispalvelut/",
+      "price_status": "free",
+      "verification_status": "source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "recurrence": null
+    },
+    {
+      "id": "av-0029",
+      "category": "Asuminen",
+      "municipality": "porvoo",
+      "name": "Vanhustyön keskusliiton maksuton korjausneuvonta",
+      "address": null,
+      "details": "Ikääntyneiden asumisen korjausneuvontaa; valtakunnallinen palvelu, jota Porvoon kaupunki suosittelee senioreiden palvelusivulla. Tarkista palvelun tarkat ehdot järjestäjältä.",
+      "source_url": "https://www.porvoo.fi/hyvinvointi-ja-turvallisuus/senioreiden-hyvinvointi/",
+      "price_status": "free",
+      "verification_status": "source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "recurrence": null
+    },
+    {
+      "id": "av-0030",
+      "category": "Vaatteet ja tavarat",
+      "municipality": "porvoo",
+      "name": "Porvoon maksuton vaatteidenvaihtopäivä – aiempi tapahtuma",
+      "address": "Taidetehdas, Läntinen Aleksanterinkatu 1, Porvoo",
+      "details": "Järjestettiin 19.5.2026 klo 17–20. Menneenä tapahtumana arkistossa; seuraavaa tapahtumaa ei vahvistettu.",
+      "source_url": "https://www.visitporvoo.fi/uutiset/vaatteidenvaihtopaiva-2026-vaatekaapin-kevatsiivous/",
+      "price_status": "free",
+      "verification_status": "historical_not_current",
+      "last_verified": "2026-11-01",
+      "event_date": "2026-05-19",
+      "recurrence": null
     }
   ]
 }
