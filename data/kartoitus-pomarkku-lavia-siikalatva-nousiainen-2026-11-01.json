@@ -1,0 +1,100 @@
+{
+  "records": [
+    {
+      "municipality": "pomarkku",
+      "locality": "Pomarkku",
+      "name": "Pomarkun helluntaiseurakunnan ruokakassijako",
+      "category": "Ruoka-apu",
+      "organizer": "Pomarkun helluntaiseurakunta",
+      "recurrence": "maanantaisin klo 13.40",
+      "details": "Kauppojen lahjoittamia elintarvikkeita; avoin ruoka-apua tarvitseville; jakotilaisuudessa lyhyt hengellinen osuus.",
+      "source_url": "https://www.pomarkunhelluntaisrk.fi/index.php/seurakuntamme/toiminnasta/",
+      "id": "kartoitus-20261101-lansi-1",
+      "price_status": "free_to_recipient_check_specific_conditions",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "event_data_status": "recurrence_only_no_individual_occurrences"
+    },
+    {
+      "municipality": "pori",
+      "locality": "Lavia",
+      "name": "Lavian seurakuntakodin hävikkiruokajako",
+      "category": "Ruoka-apu",
+      "organizer": "Noormarkun seurakunta ja Suomen Punainen Risti",
+      "recurrence": "parittomien viikkojen torstaisin klo 16–16.30, kunnes loppuu",
+      "details": "Kauppojen lahjoittamaa hävikkiruokaa noin 10–15 kassia; Lavian seurakuntakoti.",
+      "source_url": "https://www.kirkkoporissa.fi/fi/noormarkun-seurakunta/aikuiset-ja-diakonia",
+      "id": "kartoitus-20261101-lansi-2",
+      "price_status": "free_to_recipient_check_specific_conditions",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "event_data_status": "recurrence_only_no_individual_occurrences"
+    },
+    {
+      "municipality": "pomarkku",
+      "locality": "Pomarkku",
+      "name": "Pomarkun diakonian henkilökohtainen vastaanotto",
+      "category": "Keskusteluapu",
+      "organizer": "Noormarkun seurakunta",
+      "address": "Törmäläntie 1, Pomarkku",
+      "phone": "044 731 0204",
+      "details": "Tapaamisaika varataan diakoni Anne-Maarit Lahtivirralta.",
+      "source_url": "https://www.kirkkoporissa.fi/fi/noormarkun-seurakunta/aikuiset-ja-diakonia",
+      "id": "kartoitus-20261101-lansi-3",
+      "price_status": "free_to_recipient_check_specific_conditions",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service"
+    },
+    {
+      "municipality": "pori",
+      "locality": "Lavia",
+      "name": "Lavian diakonian henkilökohtainen vastaanotto",
+      "category": "Keskusteluapu",
+      "organizer": "Noormarkun seurakunta",
+      "address": "Tampereentie 32, Lavia",
+      "phone": "044 731 0204",
+      "details": "Tapaamisaika varataan diakonilta; lähdesivulla esiintyy myös ristiriitainen numero 040 7310 204, joten numero varmistettava.",
+      "source_url": "https://www.kirkkoporissa.fi/fi/noormarkun-seurakunta/aikuiset-ja-diakonia",
+      "id": "kartoitus-20261101-lansi-4",
+      "price_status": "free_to_recipient_check_specific_conditions",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service"
+    },
+    {
+      "municipality": "siikalatva",
+      "locality": null,
+      "name": "Siikalatvan seurakunnan diakonian taloudellinen tuki",
+      "category": "Raha-asiat",
+      "organizer": "Siikalatvan seurakunta",
+      "details": "Tilapäinen harkinnanvarainen apu, pääsääntöisesti laskun suora maksaminen; ei käteistä. Taloustilanteen selvittely ja ohjaus.",
+      "source_url": "https://www.siikalatvanseurakunta.fi/apua-ja-tukea/taloudellinen-tuki",
+      "id": "kartoitus-20261101-lansi-5",
+      "price_status": "free_to_recipient_check_specific_conditions",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service"
+    },
+    {
+      "municipality": "nousiainen",
+      "locality": null,
+      "name": "Nousiaisten diakonian ruoka-avustus lahjakortilla tai elintarvikkeina",
+      "category": "Ruoka-apu",
+      "organizer": "Nousiaisten seurakunta",
+      "phone": "044 431 5350",
+      "details": "Ruoka-apu pääasiassa kaupan lahjakorttina tai Operaatio Ruokakassin elintarvikkeina; lisäksi ESR+ aineellisen avun maksukortteja; henkilöllisyys, tulo- ja menotiedot sekä toimeentulotukipäätös mukaan.",
+      "source_url": "https://www.nousiaistenseurakunta.fi/apua-ja-tukea/diakoniatyo/taloudellinen-avustaminen",
+      "id": "kartoitus-20261101-lansi-6",
+      "price_status": "free_to_recipient_check_specific_conditions",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "event_data_status": "ongoing_service"
+    }
+  ],
+  "quality_notes": [
+    "Merikarvian ruoka-avun lähteen hakutulos näytti syksyn 2026 ajat, mutta avattu sivu syksyn 2025 ajat; siksi Merikarvia jätettiin odottamaan ajantasaista vahvistusta.",
+    "Lavian diakonian puhelinnumerosta lähdesivulla kaksi eri kirjoitusasua: tarkista ennen julkaisua.",
+    "Pomarkun diakonian vastaanotto ei ole kotiapu eikä ruoka-apu."
+  ]
+}
