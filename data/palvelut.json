@@ -169,7 +169,36 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-12",
+          "start_time": "09:30",
+          "end_time": "10:30",
+          "venue": null,
+          "note": "Vapaaehtoinen 2–3 euron maksu",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-19",
+          "start_time": "09:30",
+          "end_time": "10:30",
+          "venue": null,
+          "note": "Vapaaehtoinen 2–3 euron maksu",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "09:30",
+          "end_time": "10:30",
+          "venue": null,
+          "note": "Vapaaehtoinen 2–3 euron maksu",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0014",
@@ -779,7 +808,54 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-02",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Haukiputaan seurakuntakeskus",
+          "note": "Aamiainen 10.15–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-09",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Haukiputaan seurakuntakeskus",
+          "note": "Aamiainen 10.15–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-16",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Haukiputaan seurakuntakeskus",
+          "note": "Aamiainen 10.15–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-23",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Haukiputaan seurakuntakeskus",
+          "note": "Aamiainen 10.15–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-30",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Haukiputaan seurakuntakeskus",
+          "note": "Aamiainen 10.15–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0058",
@@ -793,7 +869,45 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-03",
+          "start_time": "09:00",
+          "end_time": "10:00",
+          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
+          "note": "Saavu viimeistään 9.30",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-10",
+          "start_time": "09:00",
+          "end_time": "10:00",
+          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
+          "note": "Saavu viimeistään 9.30",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-17",
+          "start_time": "09:00",
+          "end_time": "10:00",
+          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
+          "note": "Saavu viimeistään 9.30",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "09:00",
+          "end_time": "10:00",
+          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
+          "note": "Saavu viimeistään 9.30",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0059",
@@ -807,7 +921,54 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-03",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-10",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-17",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-12-01",
+          "start_time": "09:00",
+          "end_time": "10:30",
+          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0060",
@@ -821,7 +982,54 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-04",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Tuiran kirkko",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-11",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Tuiran kirkko",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-18",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Tuiran kirkko",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Tuiran kirkko",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-12-02",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Tuiran kirkko",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0061",
@@ -835,7 +1043,54 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-03",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-10",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-17",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-12-01",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0062",
@@ -849,7 +1104,63 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-02",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hiukkavaaran seurakuntatalo",
+          "note": "Ruokailu päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-09",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hiukkavaaran seurakuntatalo",
+          "note": "Ruokailu päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-16",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hiukkavaaran seurakuntatalo",
+          "note": "Ruokailu päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-23",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hiukkavaaran seurakuntatalo",
+          "note": "Ruokailu päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-30",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hiukkavaaran seurakuntatalo",
+          "note": "Ruokailu päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-12-07",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hiukkavaaran seurakuntatalo",
+          "note": "Ruokailu päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0063",
@@ -863,7 +1174,54 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-05",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-12",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-19",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-12-03",
+          "start_time": "12:00",
+          "end_time": "13:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0064",
@@ -877,7 +1235,54 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
+      "event_instances": [
+        {
+          "date": "2026-11-02",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-09",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-16",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-23",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-30",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "venue": "Pyhän Luukkaan kappeli",
+          "note": null,
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0065",
@@ -891,7 +1296,27 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Erikseen ilmoitetut tapahtumapäivät",
+      "event_instances": [
+        {
+          "date": "2026-11-05",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hintan seurakuntatalo",
+          "note": "Päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-12-03",
+          "start_time": "11:00",
+          "end_time": "12:00",
+          "venue": "Hintan seurakuntatalo",
+          "note": "Päättyy ruoan loppuessa",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0066",
@@ -905,7 +1330,27 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": "Erikseen ilmoitetut tapahtumapäivät",
+      "event_instances": [
+        {
+          "date": "2026-11-05",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Pyhän Tuomaan kirkko",
+          "note": "Aamupala 10–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        },
+        {
+          "date": "2026-11-19",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "venue": "Pyhän Tuomaan kirkko",
+          "note": "Aamupala 10–11",
+          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
+        }
+      ]
     },
     {
       "id": "av-0067",
