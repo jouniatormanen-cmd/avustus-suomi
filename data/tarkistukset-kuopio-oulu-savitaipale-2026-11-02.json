@@ -1,0 +1,60 @@
+{
+  "checked_on": "2026-11-02",
+  "new_candidates": [
+    {
+      "municipality": "Savitaipale",
+      "name": "Leskien vertaisryhmä",
+      "category": "Keskusteluapu",
+      "organizer": "Taipaleen seurakunta",
+      "address": "Nuokku, Nikkarintie 2 F",
+      "schedule": "Kuukausittain perjantaisin 12.30–14; 13.11. ja 11.12.2026",
+      "conditions": "Leskeksi jääneille, myös pidempään leskenä olleille; diakoni Laura mukana",
+      "fee_status": "not_explicit",
+      "publication_ready": false,
+      "source_url": "https://www.taipaleenseurakunta.fi/documents/d/www.taipaleenseurakunta.fi/kesatarjotin-sle-2026-pdf"
+    },
+    {
+      "municipality": "Savitaipale",
+      "name": "Iloa arkeen – arkea tukeva ryhmä",
+      "category": "Keskusteluapu",
+      "organizer": "Taipaleen seurakunta",
+      "address": "Nuokku, Nikkarintie 2 F",
+      "schedule": "Kerran kuukaudessa tiistaisin 12–14; 24.11.2026",
+      "conditions": "Yhteistä ruoanvalmistusta, ateria ja keskustelua; maksuttomuus tarkistettava",
+      "fee_status": "not_explicit",
+      "publication_ready": false,
+      "source_url": "https://www.taipaleenseurakunta.fi/documents/d/www.taipaleenseurakunta.fi/kesatarjotin-sle-2026-pdf"
+    }
+  ],
+  "exclusions": [
+    {
+      "municipality": "Kuopio",
+      "locality": "Kallavesi",
+      "name": "Arkinen ateria",
+      "reason": "Aikuisten ateria 8 euroa, ei maksuton",
+      "source_url": "https://kuopionseurakunnat.fi/toimintaa/aikuiset/ruokailut/"
+    },
+    {
+      "municipality": "Kuopio",
+      "locality": "Riistavesi, Vehmersalmi ja Säyneinen",
+      "name": "Arkinen ateria",
+      "reason": "7 euron ateriat, vain mahdollinen erikseen myönnettävä ruokalippu; ei yleisesti maksuton",
+      "source_url": "https://kuopionseurakunnat.fi/toimintaa/aikuiset/ruokailut/"
+    },
+    {
+      "municipality": "Oulu",
+      "locality": "Jääli",
+      "name": "Diakonian lounas",
+      "reason": "5 euron maksu",
+      "source_url": "https://rauhantervehdys.fi/artikkelit-2/diakonian-ruokailut-syksylla-2026/"
+    },
+    {
+      "municipality": "Oulu",
+      "locality": "Oulunsalo",
+      "name": "Kyläkamarin lounas",
+      "reason": "6,50 euron maksu",
+      "source_url": "https://rauhantervehdys.fi/artikkelit-2/diakonian-ruokailut-syksylla-2026/"
+    }
+  ],
+  "notes": "Vain kaksi uutta toistuvaa tukiryhmäehdokasta, ei julkaisuvalmiita ennen maksuttomuuden tarkistusta. Neljä maksullisten ruokailujen poissulkuhuomiota. Ei sivuston muutoksia."
+}
