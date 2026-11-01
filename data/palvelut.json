@@ -3406,6 +3406,63 @@
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences"
+    },
+    {
+      "id": "av-0145",
+      "event_date": null,
+      "recurrence": null,
+      "municipality": "savonlinna",
+      "category": "Keskusteluapu",
+      "organizer": "Suomen Punainen Risti, Savonlinnan osasto",
+      "phone": "040 065 9048",
+      "email": "paivi.piili@live.com",
+      "source_url": "https://osastot.punainenristi.fi/osastot/savonlinnan-osasto/toiminta/ystavatoiminta",
+      "price_status": "pending_review",
+      "verification_status": "official_organizer_page_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "publication_ready": false,
+      "name": "SPR Savonlinna – henkilökohtainen ystävätoiminta",
+      "address": null,
+      "organizer_address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
+      "service_phone": "041 319 9461",
+      "contact_hours": "Arkisin klo 12–16",
+      "details": "Ystävänvälitys arkisin klo 12–16 numerossa 041 319 9461. Vapaaehtoinen ystävä voi toimia kuuntelijana tai tukena kotona, palvelutalossa tai laitoksessa sekä auttaa ulkoilussa ja lukemisessa. Tapaamisajat ja -paikat sovitaan erikseen. Toimisto-osoite ei ole henkilökohtaisten tapaamisten yleinen tapahtumapaikka.",
+      "event_data_status": "service_without_dated_events"
+    },
+    {
+      "id": "av-0146",
+      "event_date": null,
+      "recurrence": "Kuukauden ensimmäinen maanantai klo 14",
+      "municipality": "savonlinna",
+      "category": "Keskusteluapu",
+      "organizer": "Suomen Punainen Risti, Savonlinnan osasto",
+      "phone": "040 065 9048",
+      "email": "paivi.piili@live.com",
+      "source_url": "https://osastot.punainenristi.fi/osastot/savonlinnan-osasto/toiminta/ystavatoiminta",
+      "price_status": "pending_review",
+      "verification_status": "official_organizer_page_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "publication_ready": false,
+      "name": "SPR Savonlinnan ystäväkerho – kuukauden ensimmäinen maanantai",
+      "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
+      "details": "Ystäväkerho kokoontuu kuukauden ensimmäisenä maanantaina klo 14 alkaen SPR:n toimistolla. Päättymisaikaa ei ilmoitettu. Yksittäiset marras- ja joulukuun päivämäärät on laskettu toistuvuudesta, ei vahvistettu erikseen.",
+      "event_data_status": "dated_instances_recorded",
+      "event_instances": [
+        {
+          "date": "2026-11-02",
+          "start_time": "14:00",
+          "end_time": null,
+          "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
+          "verification_status": "generated_from_monthly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-07",
+          "start_time": "14:00",
+          "end_time": null,
+          "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
+          "verification_status": "generated_from_monthly_recurrence_not_individually_confirmed"
+        }
+      ]
     }
   ],
   "audit_metadata": {
