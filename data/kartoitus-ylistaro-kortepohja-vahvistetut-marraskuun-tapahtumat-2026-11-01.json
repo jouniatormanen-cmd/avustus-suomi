@@ -1,0 +1,43 @@
+{
+  "records": [
+    {
+      "id": "20261101-ylistaro-20261106-food",
+      "municipality": "Seinäjoki",
+      "locality": "Ylistaro",
+      "name": "Ruokajako 6.11.2026",
+      "category": "Ruoka-apu",
+      "address": "Viertolankuja 1, 61400 Ylistaro",
+      "date": "2026-11-06",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "organizer": "Ylistaron helluntaiseurakunta",
+      "source_url": "https://www.ylistaronhelluntaiseurakunta.fi/tapahtumat/kuukausi/2026-11/",
+      "price_status": "not_explicitly_stated",
+      "frequency": "single_confirmed_event_only",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_calendar_confirmed",
+      "notes": "13., 20. ja 27.11. ei ilmoitettu ruokajakoa marraskuun kalenterissa; älä yleistää viikoittaiseksi."
+    },
+    {
+      "id": "20261101-jyvaskyla-kortepohja-20261105-food",
+      "municipality": "Jyväskylä",
+      "locality": "Kortepohja",
+      "name": "Lyydia-ruokakassijako 5.11.2026",
+      "category": "Ruoka-apu",
+      "address": "Kortepohjan seurakuntakeskus, Isännäntie 4, 40740 Jyväskylä",
+      "date": "2026-11-05",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "organizer": "Jyväskylän seurakunta / Lyydia",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/tapahtumat/2026-11-05/lyydia-ruokajakelu",
+      "price_status": "free_with_voucher",
+      "conditions": "Diakoniatyöntekijän myöntämä ruokapankkiseteli vaaditaan.",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_dated_event_confirmed",
+      "notes": "Tarkka tapahtuma ja postinumero; tarkistetaan aiempien Lyydia-kartoitusmerkintöjen kanssa."
+    }
+  ],
+  "notes": "Vain päivätyt, tapahtumakalentereista vahvistetut ruokajaot. Ylistaron maksuttomuus vielä varmistettava. Ei järjestöluetteloa, ei verkkosivuston muutoksia."
+}
