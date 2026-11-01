@@ -1,0 +1,63 @@
+{
+  "records": [
+    {
+      "id": "uk-ar-2026",
+      "municipality": "Uusikaupunki",
+      "locality": "Keskusta",
+      "name": "Arkipuuro – maksuton aamiainen",
+      "category": "Ruoka-apu",
+      "address": "Seurakuntakeskus, Koulukatu 6, 23500 Uusikaupunki",
+      "schedule": "Parittomien viikkojen tiistaisin klo 9–11; 25.8.–15.12.2026",
+      "conditions": "Maksuton aamiainen, mahdollisuus saapua klo 9–11",
+      "source_url": "https://uudenkaupunginseurakunta.fi/toimintaa/ikaihmiset/",
+      "fee": "free_explicit",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "uk-leftover-2026",
+      "municipality": "Uusikaupunki",
+      "locality": "Keskusta",
+      "name": "Hävikkiruoan jako",
+      "category": "Ruoka-apu",
+      "address": "Seurakuntakeskus, Koulukatu 6, 23500 Uusikaupunki",
+      "schedule": "Keskiviikkoisin klo 14–14.30, 19.8.–16.12.2026; ei koulujen loma-aikoina",
+      "conditions": "Omat rasiat mukaan; ruokaa saatavuuden mukaan",
+      "source_url": "https://uudenkaupunginseurakunta.fi/apua-ja-tukea/diakoniatyo/",
+      "fee": "verify_explicit_free",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "turku-food-hope-20261119",
+      "municipality": "Turku",
+      "locality": "Nummi",
+      "name": "Food & Hope – yhteinen ruokailu ja ruokakassijako",
+      "category": "Ruoka-apu",
+      "address": "Nummen seurakuntakoti, Papinkatu 2, 20540 Turku",
+      "date": "2026-11-19",
+      "schedule": "To 19.11.2026 klo 17–19",
+      "conditions": "Nuorille aikuisille ja opiskelijoille; ruokakassit taloudellisissa vaikeuksissa oleville; ennakkoilmoittautuminen pakollinen, ilmoittautumislinkki avautuu Facebookissa noin viikkoa ennen",
+      "source_url": "https://turunseurakunnat.fi/tapahtumahaku/foodhope/3/",
+      "fee": "not_explicitly_stated",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "uk-kalanti-messy-20261101",
+      "municipality": "Uusikaupunki",
+      "locality": "Kalanti",
+      "name": "Messy Church – ilmainen koko perheen ruokailu",
+      "category": "Ruoka-apu",
+      "address": "Kalannin seurakuntakoti, tarkka katuosoite varmistettava",
+      "date": "2026-11-01",
+      "schedule": "Su 1.11.2026 klo 16 alkaen; ruokailu ohjelman lopussa",
+      "conditions": "Koko perheen tapahtuma, jossa toimintarasteja ja lopuksi maksuton ruokailu",
+      "source_url": "https://uudenkaupunginseurakunta.fi/tapahtumahaku/messy-church/",
+      "fee": "free_explicit",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Neljä konkreettista tapahtumaa/jakelua. Tarkat ajat ja ehdot lähteistä; puuttuvat maksuttomuus- tai osoitetiedot merkitty. Ei sivuston muutoksia. Päällekkäisyydet aiempiin eriin tarkistetaan."
+}
