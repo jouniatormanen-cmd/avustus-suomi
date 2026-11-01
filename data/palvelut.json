@@ -3818,6 +3818,26 @@
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
+    },
+    {
+      "id": "av-0162",
+      "category": "Keskusteluapu",
+      "municipality": "kouvola",
+      "name": "SPR Kouvolan osaston ystävätoiminta",
+      "organizer": "Suomen Punainen Risti, Kouvolan osasto",
+      "organizer_address": "Savonkatu 23, 45100 Kouvola",
+      "address": null,
+      "phone": "0400 752 199",
+      "email": "kouvola@punainenristi.fi",
+      "details": "Kouvolan osasto järjestää vapaaehtoista ystävätoimintaa. Yhteys osaston puheenjohtajaan Juha Siiraan numerossa 0400 752 199 tai osaston sähköpostiin. Ystävänvälityksen erillisiä aukioloaikoja tai henkilökohtaisten tapaamisten paikkoja ei ilmoitettu. Toimiston osoite ei ole automaattisesti tapaamispaikka.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/kouvolan-osasto",
+      "price_status": "pending_review",
+      "verification_status": "official_organizer_page_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events"
     }
   ],
   "audit_metadata": {
