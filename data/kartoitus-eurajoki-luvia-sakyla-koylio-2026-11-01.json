@@ -15,20 +15,6 @@
       "event_data_status": "recurrence_only_no_individual_dates"
     },
     {
-      "id": "kartoitus-20261101-eurajoki-sakyla-2",
-      "municipality": "eurajoki",
-      "locality": "luvia",
-      "name": "Luvian seurakuntakeskuksen hävikkiruokajako",
-      "category": "Ruoka-apu",
-      "organizer": "Eurajoen seurakunta",
-      "details": "Jakelupäivät tapahtumahausta, ei vahvistettua viikkorytmiä",
-      "source_url": "https://eurajoenseurakunta.fi/apua-ja-tukea/",
-      "price_status": "free_to_recipient",
-      "verification_status": "primary_source_checked_2026-11-01",
-      "publication_ready": false,
-      "event_data_status": "recurrence_only_no_individual_dates"
-    },
-    {
       "id": "kartoitus-20261101-eurajoki-sakyla-3",
       "municipality": "eurajoki",
       "locality": "eurajoki",
@@ -169,5 +155,5 @@
       "event_data_status": "recurrence_only_no_individual_dates"
     }
   ],
-  "notes": "Kunta ja kylä erikseen. Luvian hävikkijakelun aikataulua ei keksitty. Säkylän ruokajaon ajat tarkistettu lähteen uusimmasta avatusta versiosta: ma ja to 10–11.30. Lopputarkastus ja duplikaattien vertailu kaikkiin erilliseriin tekemättä."
+  "notes": "Kunta ja kylä erikseen. Luvian hävikkijakelun aikataulua ei keksitty. Säkylän ruokajaon ajat tarkistettu lähteen uusimmasta avatusta versiosta: ma ja to 10–11.30. Lopputarkastus ja duplikaattien vertailu kaikkiin erilliseriin tekemättä. | 2026-11-01: Poistettu yksittäisiin tapahtumapäiviin perustuvat tai vain tapahtumakalenterista löytyvät palvelut. Vain jatkuvat palvelut sallitaan."
 }
