@@ -220,11 +220,19 @@
       "name": "Satakunnan Elämän Leipä Sinulle ry",
       "details": "Juhana Herttuankatu 20. Ruokajakoa ilman ennakkoilmoittautumista. Tarkista ajankohtainen jakoaika järjestäjältä.",
       "source_url": "https://www.ihimiset.fi/toiminta/ruoka-apu/pori/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
+      "verification_status": "organizer_contact_checked_event_unverified",
+      "last_verified": "2026-11-01",
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "organizer": "Satakunnan Elämän Leipä Sinulle ry",
+      "organizer_address": "Juhana Herttuankatu 20, 28100 Pori",
+      "organizer_phone": "044 751 7879",
+      "organizer_contact_name": "Kim Tapper",
+      "organizer_source_url": "https://ruoka-apu.fi/en/elintarvikkeiden-lahjoittajille/",
+      "address": null,
+      "publication_ready": false,
+      "data_quality_note": "Järjestäjän yhteystiedot vahvistettu Ruoka-apu.fi:n listasta, mutta jakelupaikka ja tulevat jakeluajat eivät ole vahvistettuja. Järjestäjän osoitetta ei saa esittää jakelupaikkana."
     },
     {
       "id": "av-0016",
