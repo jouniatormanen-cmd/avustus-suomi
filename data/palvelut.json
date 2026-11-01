@@ -12,9 +12,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -27,9 +26,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -42,9 +40,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -57,9 +54,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -72,9 +68,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -87,9 +82,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -102,9 +96,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -117,9 +110,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -132,39 +124,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
-      "source_kind": "other"
-    },
-    {
-      "id": "av-0010",
-      "category": "Ruoka-apu",
-      "municipality": "porvoo",
-      "name": "Porvoon Kotikirkon ruokajako",
-      "details": "Pe 6.11., 4.12. ja 18.12.2026 | Ruokajako. Tarkista kellonaika ja osoite järjestäjän sivulta ennen lähtöä.",
-      "source_url": "https://www.porvoonkotikirkko.fi/l/soppa/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
-      "event_date": null,
-      "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
-      "source_kind": "other"
-    },
-    {
-      "id": "av-0011",
-      "category": "Ruoka-apu",
-      "municipality": "porvoo",
-      "name": "Porvoon Kotikirkon soppajako",
-      "details": "Pe 20.11.2026 | Yhteinen soppajako. Järjestäjän mukaan viimeinen soppajako vuonna 2026. Tarkista kellonaika ja osoite järjestäjältä.",
-      "source_url": "https://www.porvoonkotikirkko.fi/l/soppa/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
-      "event_date": null,
-      "recurrence": null,
-      "event_data_status": "service_without_dated_events",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -177,54 +138,9 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
-    },
-    {
-      "id": "av-0013",
-      "category": "Ruoka-apu",
-      "municipality": "oulu",
-      "name": "Karjasillan aamupala",
-      "details": "Torstaisin klo 9.30–10.30, 26.11.2026 asti | Karjasillan kirkko, Kangaskontiontie 9. Aamupala, vapaaehtoinen 2–3 € maksu. Ei toimintaa 5.11.",
-      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
-      "event_date": null,
-      "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-12",
-          "start_time": "09:30",
-          "end_time": "10:30",
-          "venue": null,
-          "note": "Vapaaehtoinen 2–3 euron maksu",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-19",
-          "start_time": "09:30",
-          "end_time": "10:30",
-          "venue": null,
-          "note": "Vapaaehtoinen 2–3 euron maksu",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-26",
-          "start_time": "09:30",
-          "end_time": "10:30",
-          "venue": null,
-          "note": "Vapaaehtoinen 2–3 euron maksu",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
-      "source_kind": "other"
     },
     {
       "id": "av-0014",
@@ -236,9 +152,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -251,7 +166,6 @@
       "verification_status": "organizer_contact_checked_event_unverified",
       "last_verified": "2026-11-01",
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "organizer": "Satakunnan Elämän Leipä Sinulle ry",
       "organizer_address": "Juhana Herttuankatu 20, 28100 Pori",
@@ -261,7 +175,7 @@
       "address": null,
       "publication_ready": false,
       "data_quality_note": "Järjestäjän yhteystiedot vahvistettu Ruoka-apu.fi:n listasta, mutta jakelupaikka ja tulevat jakeluajat eivät ole vahvistettuja. Järjestäjän osoitetta ei saa esittää jakelupaikkana.",
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -274,9 +188,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -289,9 +202,8 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -304,7 +216,6 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -319,7 +230,6 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -334,7 +244,6 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -349,7 +258,6 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -364,7 +272,6 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -379,7 +286,6 @@
       "verification_status": "requires_recheck",
       "last_verified": null,
       "price_status": "check_source",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -426,7 +332,7 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -441,7 +347,7 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -485,9 +391,8 @@
       "price_status": "free",
       "verification_status": "historical_not_current",
       "last_verified": "2026-11-01",
-      "event_date": "2026-05-19",
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -501,9 +406,8 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -517,9 +421,8 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -533,7 +436,6 @@
       "price_status": "conditional",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -549,7 +451,6 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -565,7 +466,6 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -581,7 +481,6 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -597,9 +496,8 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -613,9 +511,8 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -629,9 +526,8 @@
       "price_status": "free",
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -646,9 +542,8 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -663,7 +558,6 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -680,9 +574,8 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -697,7 +590,6 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -714,7 +606,6 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -731,7 +622,6 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -748,7 +638,6 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross"
@@ -765,9 +654,8 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -782,9 +670,8 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -799,9 +686,8 @@
       "price_status": "check_source",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -815,7 +701,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -831,7 +716,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -847,7 +731,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -863,7 +746,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -879,7 +761,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -895,7 +776,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -911,7 +791,6 @@
       "price_status": "free_service_phone_charges_may_apply",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -927,56 +806,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-02",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Haukiputaan seurakuntakeskus",
-          "note": "Aamiainen 10.15–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-09",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Haukiputaan seurakuntakeskus",
-          "note": "Aamiainen 10.15–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-16",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Haukiputaan seurakuntakeskus",
-          "note": "Aamiainen 10.15–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-23",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Haukiputaan seurakuntakeskus",
-          "note": "Aamiainen 10.15–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-30",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Haukiputaan seurakuntakeskus",
-          "note": "Aamiainen 10.15–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -990,47 +821,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-03",
-          "start_time": "09:00",
-          "end_time": "10:00",
-          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
-          "note": "Saavu viimeistään 9.30",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-10",
-          "start_time": "09:00",
-          "end_time": "10:00",
-          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
-          "note": "Saavu viimeistään 9.30",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-17",
-          "start_time": "09:00",
-          "end_time": "10:00",
-          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
-          "note": "Saavu viimeistään 9.30",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-24",
-          "start_time": "09:00",
-          "end_time": "10:00",
-          "venue": "Oulunsalon seurakunnan toimitalo, Vattukuja 2",
-          "note": "Saavu viimeistään 9.30",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1044,56 +836,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-03",
-          "start_time": "09:00",
-          "end_time": "10:30",
-          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-10",
-          "start_time": "09:00",
-          "end_time": "10:30",
-          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-17",
-          "start_time": "09:00",
-          "end_time": "10:30",
-          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-24",
-          "start_time": "09:00",
-          "end_time": "10:30",
-          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-12-01",
-          "start_time": "09:00",
-          "end_time": "10:30",
-          "venue": "Sofia-seurakuntakeskus, Isokatu 17",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1107,56 +851,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-04",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Tuiran kirkko",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-11",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Tuiran kirkko",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-18",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Tuiran kirkko",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-25",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Tuiran kirkko",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-12-02",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Tuiran kirkko",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1170,56 +866,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-03",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-10",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-17",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-24",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-12-01",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pateniemenrannan seurakuntakoti Ankkuri",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1233,65 +881,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-02",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hiukkavaaran seurakuntatalo",
-          "note": "Ruokailu päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-09",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hiukkavaaran seurakuntatalo",
-          "note": "Ruokailu päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-16",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hiukkavaaran seurakuntatalo",
-          "note": "Ruokailu päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-23",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hiukkavaaran seurakuntatalo",
-          "note": "Ruokailu päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-30",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hiukkavaaran seurakuntatalo",
-          "note": "Ruokailu päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-12-07",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hiukkavaaran seurakuntatalo",
-          "note": "Ruokailu päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1305,56 +896,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-05",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-12",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-19",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-26",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-12-03",
-          "start_time": "12:00",
-          "end_time": "13:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1368,56 +911,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Viikoittainen toistuvuus ilmoitettuun päättymispäivään asti",
-      "event_instances": [
-        {
-          "date": "2026-11-02",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-09",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-16",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-23",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-30",
-          "start_time": "10:00",
-          "end_time": "11:00",
-          "venue": "Pyhän Luukkaan kappeli",
-          "note": null,
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1431,29 +926,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Erikseen ilmoitetut tapahtumapäivät",
-      "event_instances": [
-        {
-          "date": "2026-11-05",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hintan seurakuntatalo",
-          "note": "Päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-12-03",
-          "start_time": "11:00",
-          "end_time": "12:00",
-          "venue": "Hintan seurakuntatalo",
-          "note": "Päättyy ruoan loppuessa",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1467,29 +941,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Erikseen ilmoitetut tapahtumapäivät",
-      "event_instances": [
-        {
-          "date": "2026-11-05",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Pyhän Tuomaan kirkko",
-          "note": "Aamupala 10–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        },
-        {
-          "date": "2026-11-19",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "venue": "Pyhän Tuomaan kirkko",
-          "note": "Aamupala 10–11",
-          "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
-          "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
-        }
-      ],
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1503,9 +956,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -1519,9 +971,8 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -1535,7 +986,6 @@
       "price_status": "check_source",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -1551,7 +1001,6 @@
       "price_status": "free_or_conditional_as_described",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1567,9 +1016,8 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1583,9 +1031,8 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -1599,9 +1046,8 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -1615,7 +1061,6 @@
       "price_status": "conditional",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1631,7 +1076,6 @@
       "price_status": "check_source",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1647,9 +1091,8 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -1663,7 +1106,6 @@
       "price_status": "conditional",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1679,9 +1121,8 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -1695,7 +1136,6 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1711,7 +1151,6 @@
       "price_status": "free",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1727,7 +1166,6 @@
       "price_status": "conditional",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1743,7 +1181,6 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -1759,7 +1196,6 @@
       "price_status": "free_conditional_aid",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -1775,7 +1211,6 @@
       "price_status": "free_conditional_aid",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -1791,9 +1226,8 @@
       "price_status": "check_source",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1807,9 +1241,8 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1823,9 +1256,8 @@
       "price_status": "check_source",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1839,9 +1271,8 @@
       "price_status": "check_source",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1855,9 +1286,8 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1871,9 +1301,8 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1887,7 +1316,6 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other"
@@ -1903,9 +1331,8 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1919,9 +1346,8 @@
       "price_status": "free",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -1935,7 +1361,6 @@
       "price_status": "check_source",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -1954,7 +1379,6 @@
       "price_status": "check_source",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -1973,7 +1397,6 @@
       "price_status": "conditional",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -1992,7 +1415,6 @@
       "price_status": "check_source",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -2011,7 +1433,6 @@
       "price_status": "conditional",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -2030,7 +1451,6 @@
       "price_status": "check_source",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -2049,7 +1469,6 @@
       "price_status": "conditional",
       "verification_status": "needs_service_level_details",
       "last_verified": null,
-      "event_date": null,
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
@@ -2071,7 +1490,6 @@
       "last_verified": "2026-11-01",
       "record_type": "national_referral",
       "publication_ready": true,
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -2090,9 +1508,8 @@
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "other"
     },
     {
@@ -2108,9 +1525,8 @@
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2126,7 +1542,6 @@
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -2145,9 +1560,8 @@
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2163,7 +1577,6 @@
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -2181,7 +1594,6 @@
       "publication_ready": false,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church"
@@ -2198,10 +1610,9 @@
       "price_status": "free",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": true,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -2216,10 +1627,9 @@
       "price_status": "volunteer_free_travel_cost_check",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -2234,7 +1644,6 @@
       "price_status": "free",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": true,
       "event_data_status": "service_without_dated_events",
@@ -2252,7 +1661,6 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
@@ -2270,10 +1678,9 @@
       "price_status": "free",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": true,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -2288,7 +1695,6 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
@@ -2306,7 +1712,6 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
@@ -2324,10 +1729,9 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -2342,7 +1746,6 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
@@ -2360,10 +1763,9 @@
       "price_status": "check_source",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -2371,7 +1773,6 @@
       "price_status": "pending_review",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "category": "Keskusteluapu",
@@ -2381,7 +1782,7 @@
       "phone": "050 437 3068",
       "details": "Ystävätoimintaa erityisesti yksinäisille ikäihmisille. Ystävävälityksen puhelinpäivystys maanantaisin klo 19–20. Sähköposti jns-kontio.ystavavalitys@redcross.fi. Nuorten ystäväryhmä kokoontuu noin kahden viikon välein. Saatavuus ja mahdolliset kulut tarkistetaan myöhemmin.",
       "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/toiminta/ystavatoiminta",
-      "event_data_status": "needs_individual_occurrences",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross"
     },
     {
@@ -2389,7 +1790,6 @@
       "price_status": "pending_review",
       "verification_status": "needs_service_level_details",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "category": "Ruoka-apu",
@@ -2407,7 +1807,6 @@
       "price_status": "membership_fee_40_eur_per_adult_year",
       "verification_status": "organizer_event_listing_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Keskiviikkoisin 18.00–18.45; lähteessä listatut tulevat tapahtumakerrat tallennettu erikseen.",
       "publication_ready": false,
       "category": "Ruoka-apu",
@@ -2417,85 +1816,6 @@
       "phone": "040 058 6625",
       "details": "Ruokajako keskiviikkoisin klo 18.00–18.45; oma kassi mukaan. Ei varauksia tai kotiinkuljetusta. Tulotietoja ei kysytä. Järjestäjän mukaan 40 € vuosittainen jäsenmaksu per perheen aikuinen. Yhteyshenkilö Päivi Valo, 040 058 6625; Petri Seulanto 050 432 2957. Ruoka-apu.fi ilmoittaa tapahtumakertoja ainakin 16.12.2026 asti.",
       "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-      "event_instances": [
-        {
-          "date": "2026-11-04",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        },
-        {
-          "date": "2026-11-11",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        },
-        {
-          "date": "2026-11-18",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        },
-        {
-          "date": "2026-11-25",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        },
-        {
-          "date": "2026-12-02",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        },
-        {
-          "date": "2026-12-09",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        },
-        {
-          "date": "2026-12-16",
-          "start_time": "18:00",
-          "end_time": "18:45",
-          "venue": "Inkoon ruokajakelu / A-kilta Villa Bergbo",
-          "address": "Grönkullantie 52, 10210 Inkoo",
-          "event_type": "ruokajako",
-          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
-          "verification_status": "explicitly_listed_by_organizer_on_ruoka_apu_fi_2026-11-01",
-          "organizer": "Inkoon A-kilta ry"
-        }
-      ],
       "participation_conditions": [
         "Oma kassi mukaan",
         "Ei varauksia",
@@ -2538,7 +1858,7 @@
         "hedelmat"
       ],
       "food_supply_note": "Tuotteet vaihtelevat lahjoitusten mukaan.",
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "food_aid_event_portal",
       "eligibility_warning": "EI MAKSUTON: osallistuminen edellyttää järjestäjän ilmoituksen mukaan 40 € vuotuista jäsenmaksua per talouden aikuinen. Ei saa näyttää maksuttomien avustusten hakutuloksissa ilman erillistä maksullisuusmerkintää.",
       "free_service": false
@@ -2555,84 +1875,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Keskiviikkoisin klo 11–13",
-      "event_instances": [
-        {
-          "date": "2026-11-04",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-11",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-18",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-25",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-02",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-09",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-16",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-23",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-30",
-          "start_time": "11:00",
-          "end_time": "13:00",
-          "address": "Ahjokatu 16, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2647,44 +1892,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parittomien viikkojen tiistaisin klo 14–14.30",
-      "event_instances": [
-        {
-          "date": "2026-11-10",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": null,
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-24",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": null,
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-08",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": null,
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-22",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": null,
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2699,44 +1909,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parittomien viikkojen torstaisin klo 14–14.30",
-      "event_instances": [
-        {
-          "date": "2026-11-12",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": "Isännäntie 4, 40740 Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-26",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": "Isännäntie 4, 40740 Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-10",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": "Isännäntie 4, 40740 Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-24",
-          "start_time": "14:00",
-          "end_time": "14:30",
-          "address": "Isännäntie 4, 40740 Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2751,44 +1926,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parittomien viikkojen keskiviikkoisin klo 11–11.30",
-      "event_instances": [
-        {
-          "date": "2026-11-11",
-          "start_time": "11:00",
-          "end_time": "11:30",
-          "address": "Kirkkotie 11, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-25",
-          "start_time": "11:00",
-          "end_time": "11:30",
-          "address": "Kirkkotie 11, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-09",
-          "start_time": "11:00",
-          "end_time": "11:30",
-          "address": "Kirkkotie 11, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-23",
-          "start_time": "11:00",
-          "end_time": "11:30",
-          "address": "Kirkkotie 11, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2803,44 +1943,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parillisten viikkojen perjantaisin klo 13–14",
-      "event_instances": [
-        {
-          "date": "2026-11-06",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Okkerinkatu 2, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-20",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Okkerinkatu 2, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-04",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Okkerinkatu 2, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-18",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Okkerinkatu 2, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2855,52 +1960,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parillisten viikkojen keskiviikkoisin klo 13–14, ennakkovaraus diakoniatyöntekijältä",
-      "event_instances": [
-        {
-          "date": "2026-11-04",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Kirkonmäentie 1, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-18",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Kirkonmäentie 1, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-02",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Kirkonmäentie 1, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-16",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Kirkonmäentie 1, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-30",
-          "start_time": "13:00",
-          "end_time": "14:00",
-          "address": "Kirkonmäentie 1, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2915,52 +1977,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parillisten viikkojen torstaisin klo 10–12",
-      "event_instances": [
-        {
-          "date": "2026-11-05",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "address": "Pappilantie 6, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-19",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "address": "Pappilantie 6, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-03",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "address": "Pappilantie 6, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-17",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "address": "Pappilantie 6, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-31",
-          "start_time": "10:00",
-          "end_time": "12:00",
-          "address": "Pappilantie 6, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -2975,44 +1994,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parittomien viikkojen perjantaisin klo 13–13.30",
-      "event_instances": [
-        {
-          "date": "2026-11-13",
-          "start_time": "13:00",
-          "end_time": "13:30",
-          "address": "Kirkkokatu 18, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-27",
-          "start_time": "13:00",
-          "end_time": "13:30",
-          "address": "Kirkkokatu 18, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-11",
-          "start_time": "13:00",
-          "end_time": "13:30",
-          "address": "Kirkkokatu 18, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-25",
-          "start_time": "13:00",
-          "end_time": "13:30",
-          "address": "Kirkkokatu 18, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -3027,52 +2011,9 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parillisten viikkojen tiistaisin klo 13.15–14.15",
-      "event_instances": [
-        {
-          "date": "2026-11-03",
-          "start_time": "13:15",
-          "end_time": "14:15",
-          "address": "Polttolinja 35, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-17",
-          "start_time": "13:15",
-          "end_time": "14:15",
-          "address": "Polttolinja 35, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-01",
-          "start_time": "13:15",
-          "end_time": "14:15",
-          "address": "Polttolinja 35, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-15",
-          "start_time": "13:15",
-          "end_time": "14:15",
-          "address": "Polttolinja 35, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-29",
-          "start_time": "13:15",
-          "end_time": "14:15",
-          "address": "Polttolinja 35, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
@@ -3087,51 +2028,15 @@
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": "Parittomien viikkojen torstaisin klo 10–10.30",
-      "event_instances": [
-        {
-          "date": "2026-11-12",
-          "start_time": "10:00",
-          "end_time": "10:30",
-          "address": "Rovastintie 8, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-26",
-          "start_time": "10:00",
-          "end_time": "10:30",
-          "address": "Rovastintie 8, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-10",
-          "start_time": "10:00",
-          "end_time": "10:30",
-          "address": "Rovastintie 8, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-24",
-          "start_time": "10:00",
-          "end_time": "10:30",
-          "address": "Rovastintie 8, Jyväskylä",
-          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
-          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
-        }
-      ],
       "publication_ready": true,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church"
     },
     {
       "id": "av-0131",
       "verification_status": "organizer_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "category": "Keskusteluapu",
@@ -3153,9 +2058,8 @@
       "id": "av-0132",
       "verification_status": "organizer_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_data_status": "dated_instances_recorded",
+      "event_data_status": "not_applicable_service_directory",
       "category": "Keskusteluapu",
       "municipality": "mikkeli",
       "name": "SPR Mikkelin ystäväpartion vierailu Graanin palvelutalossa",
@@ -3167,31 +2071,12 @@
       "source_url": "https://osastot.punainenristi.fi/osastot/mikkelin-osasto/toiminta/ystavatoiminta",
       "price_status": "pending_review",
       "record_type": "resident_visit",
-      "publication_ready": false,
-      "event_instances": [
-        {
-          "date": "2026-11-17",
-          "start_time": "15:00",
-          "end_time": "16:00",
-          "venue": "Graanin palvelutalo",
-          "address": "Graanintie 10, Mikkeli",
-          "verification_status": "generated_from_monthly_schedule_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-15",
-          "start_time": "15:00",
-          "end_time": "16:00",
-          "venue": "Graanin palvelutalo",
-          "address": "Graanintie 10, Mikkeli",
-          "verification_status": "generated_from_monthly_schedule_not_individually_confirmed"
-        }
-      ]
+      "publication_ready": false
     },
     {
       "id": "av-0133",
       "verification_status": "organizer_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "category": "Keskusteluapu",
@@ -3212,7 +2097,6 @@
       "id": "av-0134",
       "verification_status": "organizer_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "category": "Keskusteluapu",
@@ -3242,10 +2126,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0136",
@@ -3260,10 +2143,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0137",
@@ -3278,10 +2160,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0138",
@@ -3296,10 +2177,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0139",
@@ -3314,10 +2194,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0140",
@@ -3332,10 +2211,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0141",
@@ -3350,10 +2228,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0142",
@@ -3368,10 +2245,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0143",
@@ -3386,10 +2262,9 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0144",
@@ -3404,14 +2279,12 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0145",
-      "event_date": null,
       "recurrence": null,
       "municipality": "savonlinna",
       "category": "Keskusteluapu",
@@ -3433,7 +2306,6 @@
     },
     {
       "id": "av-0146",
-      "event_date": null,
       "recurrence": "Kuukauden ensimmäinen maanantai klo 14",
       "municipality": "savonlinna",
       "category": "Keskusteluapu",
@@ -3448,23 +2320,7 @@
       "name": "SPR Savonlinnan ystäväkerho – kuukauden ensimmäinen maanantai",
       "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
       "details": "Ystäväkerho kokoontuu kuukauden ensimmäisenä maanantaina klo 14 alkaen SPR:n toimistolla. Päättymisaikaa ei ilmoitettu. Yksittäiset marras- ja joulukuun päivämäärät on laskettu toistuvuudesta, ei vahvistettu erikseen.",
-      "event_data_status": "dated_instances_recorded",
-      "event_instances": [
-        {
-          "date": "2026-11-02",
-          "start_time": "14:00",
-          "end_time": null,
-          "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
-          "verification_status": "generated_from_monthly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-07",
-          "start_time": "14:00",
-          "end_time": null,
-          "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
-          "verification_status": "generated_from_monthly_recurrence_not_individually_confirmed"
-        }
-      ]
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0147",
@@ -3481,9 +2337,7 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
     },
@@ -3502,9 +2356,7 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
     },
@@ -3521,9 +2373,7 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
     },
@@ -3541,74 +2391,8 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
-      "event_instances": [
-        {
-          "date": "2026-11-02",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-09",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-16",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-23",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-11-30",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-07",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-14",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-21",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        },
-        {
-          "date": "2026-12-28",
-          "start_time": "11:00",
-          "end_time": "14:00",
-          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
-          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
-        }
-      ],
       "publication_ready": false,
-      "event_data_status": "dated_instances_recorded"
+      "event_data_status": "not_applicable_service_directory"
     },
     {
       "id": "av-0151",
@@ -3625,9 +2409,7 @@
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
     },
@@ -3645,7 +2427,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3664,7 +2445,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3683,7 +2463,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3702,7 +2481,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3721,7 +2499,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3740,7 +2517,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3759,7 +2535,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3778,7 +2553,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3797,7 +2571,6 @@
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3816,7 +2589,6 @@
       "price_status": "free",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3836,7 +2608,6 @@
       "price_status": "pending_review",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "event_date": null,
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events"
@@ -3905,9 +2676,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -3924,9 +2693,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -3943,9 +2710,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -3962,9 +2727,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -3981,9 +2744,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4000,9 +2761,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4019,9 +2778,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4038,9 +2795,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4057,9 +2812,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4076,9 +2829,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4095,9 +2846,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4114,9 +2863,7 @@
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_date": null,
       "recurrence": null,
-      "event_instances": [],
       "event_data_status": "needs_event_detail_if_applicable"
     },
     {
@@ -4133,7 +2880,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4150,7 +2896,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4167,7 +2912,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4184,7 +2928,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4201,7 +2944,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4218,7 +2960,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4235,7 +2976,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4252,7 +2992,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4269,7 +3008,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4286,7 +3024,6 @@
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4304,7 +3041,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4322,7 +3058,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4340,7 +3075,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4358,7 +3092,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4376,7 +3109,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4394,7 +3126,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4412,7 +3143,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4430,7 +3160,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4448,7 +3177,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4466,7 +3194,6 @@
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
     },
     {
@@ -4482,7 +3209,6 @@
       "verification_status": "church_national_article_mentions_service_specific_details_pending",
       "last_verified": "2026-11-01",
       "publication_ready": false,
-      "event_instances": [],
       "event_data_status": "needs_location_hours_and_events",
       "additional_services": [
         "Keskusteluapu",
@@ -4495,10 +3221,15 @@
     "scope": "structural_inventory_not_individual_source_verification",
     "note": "Event schedules must be individually verified; source links do not replace detailed event records.",
     "counts": {
-      "event_specific": 22,
-      "recurring_without_instances": 0,
-      "non_event": 56,
-      "requires_event_research": 52
-    }
+      "records": 195
+    },
+    "service_scope": "ongoing_or_recurring_free_services_only_not_event_calendar",
+    "event_schedule_policy": "no_individual_event_instances",
+    "removed_one_off_or_finite_records": [
+      "av-0010",
+      "av-0011",
+      "av-0013"
+    ],
+    "review_note": "Removed obvious dated-only and finite 2026 events. Remaining entries require continued source and continuity review; no claim of full audit."
   }
 }
