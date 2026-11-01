@@ -1,0 +1,36 @@
+{
+  "records": [
+    {
+      "id": "20261101-kotka-silmut-food",
+      "municipality": "Kotka",
+      "locality": "Kotkansaari",
+      "name": "Maksuton ruokakassijako",
+      "organizer": "Silmut ry",
+      "address": "Vesitorninkatu 2 LH 57, 48600 Kotka",
+      "schedule": "Ma–pe klo 11.00–11.45",
+      "conditions": "Yksi ruokaerä taloutta kohti kerran viikossa. Ma–ti maahanmuuttajataustaisille, ke–pe suomalaisille; järjestäjän ilmoittama jakojärjestys.",
+      "price_status": "free",
+      "source_url": "https://www.silmutry.fi/ruoka-apu/",
+      "address_source_url": "https://arkikahvila.fi/food-aid/kotka",
+      "verification_status": "organizer_schedule_and_secondary_address_checked",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-kuopio-ruoka-apu",
+      "municipality": "Kuopio",
+      "locality": "Saarijärvi",
+      "name": "Kuopion Ruoka-avun ruokajako",
+      "organizer": "Kuopion Ruoka-apu ry",
+      "address": "Saarijärventie 9, Kuopio",
+      "schedule": "Ma ukrainalaisille; to ja la kantaväestölle ja opiskelijoille. Vuoronumerot noin klo 11.45, jako klo 12.00.",
+      "conditions": "Päivittäiset poikkeukset tarkistettava järjestäjän Facebook-sivulta tai numerosta 040 934 6488.",
+      "price_status": "free_status_verify",
+      "source_url": "https://www.kuopionruoka-apu.fi/",
+      "verification_status": "organizer_primary_source_checked",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Vain kaksi suoraa jakopistettä; ajankohdat ja osoitteet tarkistettu lähteistä. Kuopion maksuttomuuden erillinen vahvistus odottaa. Päällekkäisyydet aiempiin tietoihin tarkastetaan myöhemmin. Ei verkkosivuston muutoksia."
+}
