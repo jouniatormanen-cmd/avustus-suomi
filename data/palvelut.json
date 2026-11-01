@@ -2409,7 +2409,7 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": "Keskiviikkoisin 18.00–18.45; lähteessä listatut tulevat tapahtumakerrat tallennettu erikseen.",
-      "publication_ready": true,
+      "publication_ready": false,
       "category": "Ruoka-apu",
       "municipality": "inkoo",
       "name": "Inkoon A-kilta ry – keskiviikon ruokajako",
@@ -2539,7 +2539,9 @@
       ],
       "food_supply_note": "Tuotteet vaihtelevat lahjoitusten mukaan.",
       "event_data_status": "dated_instances_recorded",
-      "source_kind": "food_aid_event_portal"
+      "source_kind": "food_aid_event_portal",
+      "eligibility_warning": "EI MAKSUTON: osallistuminen edellyttää järjestäjän ilmoituksen mukaan 40 € vuotuista jäsenmaksua per talouden aikuinen. Ei saa näyttää maksuttomien avustusten hakutuloksissa ilman erillistä maksullisuusmerkintää.",
+      "free_service": false
     },
     {
       "id": "av-0121",
@@ -4466,6 +4468,26 @@
       "publication_ready": false,
       "event_instances": [],
       "event_data_status": "needs_individual_occurrences_if_applicable"
+    },
+    {
+      "id": "av-0198",
+      "category": "Ruoka-apu",
+      "municipality": "helsinki",
+      "name": "Pitäjänmäen seurakunnan diakoninen kauppa – ruoka-apu",
+      "organizer": "Pitäjänmäen seurakunta",
+      "address": null,
+      "details": "Diakoninen kauppa tarjoaa ruoka-apua sekä palveluohjausta, keskusteluapua, sielunhoitoa ja vertaistukea. Ruoka-avun saamisen tarkat ehdot, maksuttomuus, kaupan osoite ja aukioloajat on vielä vahvistettava seurakunnasta. Ei julkaisuvalmis.",
+      "source_url": "https://evl.fi/plus/seurakuntaelama/erityinen-tuki/diakonia/diakonia-avaa-kirkon-ovia/",
+      "price_status": "pending_review",
+      "verification_status": "church_national_article_mentions_service_specific_details_pending",
+      "last_verified": "2026-11-01",
+      "publication_ready": false,
+      "event_instances": [],
+      "event_data_status": "needs_location_hours_and_events",
+      "additional_services": [
+        "Keskusteluapu",
+        "Raha-asiat"
+      ]
     }
   ],
   "audit_metadata": {
