@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "id": "20261101-oulu-messukyla-1",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Oulu",
+      "locality": "Karjasilta",
+      "name": "Karjasillan maksuton aamupala",
+      "address": "Karjasillan kirkko, Nokelantie 39",
+      "schedule": "Torstaisin 9.30–10.30, 3.9.–26.11.2026; ei 5.11.",
+      "conditions": "Vapaaehtoinen 2–3 euron lahjoitus mahdollinen.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "fee_status": "free_voluntary_donation"
+    },
+    {
+      "id": "20261101-oulu-messukyla-2",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Oulu",
+      "locality": "Maikkula",
+      "name": "Maikkulan maksuton aamupala ja diakonian neuvonta",
+      "address": "Maikkulan kappeli, Kangaskontiontie 9",
+      "schedule": "Keskiviikkoisin 9.30–10.30, 2.9.–25.11.2026",
+      "conditions": "Diakonian keskustelu-, talous- ja lomakeapu; vapaaehtoinen lahjoitus mahdollinen.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "fee_status": "free_voluntary_donation"
+    },
+    {
+      "id": "20261101-oulu-messukyla-3",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Oulu",
+      "locality": "Puolivälinkangas",
+      "name": "Tuomaan puurot ja porinat",
+      "address": "Pyhän Tuomaan kirkko, Mielikintie 3",
+      "schedule": "Torstaisin 5.11. ja 19.11.2026 klo 10–11 aamupala, 11–12 keskustelu; sarja 3.9.–19.11.",
+      "conditions": "Kaikille avoin maksuton aamupala ja keskustelu.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "fee_status": "confirmed_free"
+    },
+    {
+      "id": "20261101-oulu-messukyla-4",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Tampere",
+      "locality": "Messukylä",
+      "name": "Messukylän aamukahvit ja sosiaaliohjaus",
+      "address": "Messukylän kirkko, Tampere (katuosoite tarkistettava)",
+      "schedule": "4.11., 18.11. ja 2.12.2026 klo 9.30–11; säännöllinen sarja",
+      "conditions": "Aamupalaa, juttuseuraa ja sosiaaliohjaaja paikalla; maksuttomuus ei nimenomaisesti vahvistettu.",
+      "source_url": "https://tampereenseurakunnat.fi/messukylan-seurakunta/tukea-ja-apua/avoimet-ruokailut/",
+      "fee_status": "not_explicit"
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Linnainmaan Ruokatunti",
+      "reason": "2 euron ateria aikuisille, ei yleisesti maksuton",
+      "source_url": "https://tampereenseurakunnat.fi/messukylan-seurakunta/tukea-ja-apua/avoimet-ruokailut/"
+    }
+  ],
+  "notes": "Kolme vahvistettua maksutonta Oulun toistuvaa palvelua, yksi Tampereen tarkistettava palveluehdokas. Ei sivuston muutoksia."
+}
