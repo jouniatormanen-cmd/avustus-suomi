@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "id": "kartoitus-20261101-satakunta2-1",
+      "municipality": "pyhäranta",
+      "name": "Pyhärannan seurakunnan ruoka-avustus",
+      "category": "Ruoka-apu",
+      "organizer": "Pyhärannan seurakunta",
+      "details": "Ruokakassi harkinnanvaraisesti, ensisijaiset etuudet haettava",
+      "source_url": "https://www.pyharannanseurakunta.fi/tule-mukaan/lahetystyo/diakonia-ja-avustustyo",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-2",
+      "municipality": "pyhäranta",
+      "name": "Pyhärannan seurakunnan laskuavustus",
+      "category": "Raha-asiat",
+      "organizer": "Pyhärannan seurakunta",
+      "details": "Harkinnanvarainen kertaluonteinen apu esimerkiksi vuokra-, sähkö-, vesi- tai puhelinlaskuun; ei käteistä",
+      "source_url": "https://www.pyharannanseurakunta.fi/tule-mukaan/lahetystyo/diakonia-ja-avustustyo",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-3",
+      "municipality": "pyhäranta",
+      "name": "Pyhärannan seurakunnan keskusteluapu",
+      "category": "Keskusteluapu",
+      "organizer": "Pyhärannan seurakunta",
+      "details": "Maksuton luottamuksellinen keskustelu, myös kotona tarvittaessa; 0440 684 913",
+      "source_url": "https://www.pyharannanseurakunta.fi/tule-mukaan/lahetystyo/diakonia-ja-avustustyo",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-4",
+      "municipality": "rauma",
+      "name": "Rauman seurakunnan diakonian keskusteluapu",
+      "category": "Keskusteluapu",
+      "organizer": "Rauman seurakunta",
+      "details": "Maksuton, myös kotikäynti sovittaessa; 044 769 1218",
+      "source_url": "https://raumanseurakunta.fi/apua-ja-tukea/diakonia/",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-5",
+      "municipality": "rauma",
+      "name": "Rauman seurakunnan taloudellinen avustaminen",
+      "category": "Raha-asiat",
+      "organizer": "Rauman seurakunta",
+      "details": "Harkinnanvarainen kertaluonteinen taloudellinen apu; ensisijaiset etuudet haettava",
+      "source_url": "https://www.suomi.fi/palvelut/diakoniatyon-taloudellinen-apu-rauman-seurakunta/98cb1923-c0e2-46ad-bf8a-f6d92a2c3434",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-6",
+      "municipality": "rauma",
+      "name": "Rauman seurakunnan perheasiain neuvottelukeskus",
+      "category": "Keskusteluapu",
+      "organizer": "Rauman seurakunta",
+      "details": "Maksuton keskusteluapu yksin, parina tai perheenä",
+      "source_url": "https://raumanseurakunta.fi/apua-ja-tukea/keskustelutukea-aikuisille/",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-7",
+      "municipality": "huittinen",
+      "name": "Huittisten seurakunnan diakonian keskusteluapu",
+      "category": "Keskusteluapu",
+      "organizer": "Huittisten seurakunta",
+      "details": "Maksuton Huittisten seurakunnan alueella asuville; ajanvaraus",
+      "source_url": "https://www.suomi.fi/palvelut/diakonia-apu-huittisten-seurakunta/91d65664-7db4-4a0d-882c-cc0ad05b64f9",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    },
+    {
+      "id": "kartoitus-20261101-satakunta2-8",
+      "municipality": "huittinen",
+      "name": "Huittisten seurakunnan taloudellisen avun arviointi",
+      "category": "Raha-asiat",
+      "organizer": "Huittisten seurakunta",
+      "details": "Maksuton vastaanotto; harkinnanvarainen avustus, muut etuudet haettu; toimeentulotukipäätös tai tiliote mukaan",
+      "source_url": "https://www.suomi.fi/palvelut/diakonia-apu-huittisten-seurakunta/91d65664-7db4-4a0d-882c-cc0ad05b64f9",
+      "price_status": "free_to_recipient",
+      "publication_ready": false,
+      "verification_status": "primary_source_or_organizer_authored_service_register",
+      "event_data_status": "ongoing_service_no_dated_events"
+    }
+  ],
+  "notes": "Eriytetty kunta ja palvelu. Rauman yhteisöruokailut jätetty pois kun maksuttomuutta ei lähteessä vahvistettu. Ei merkitty kuntaa valmiiksi; lähdetiedot lopputarkastetaan."
+}
