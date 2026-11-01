@@ -1,0 +1,108 @@
+{
+  "records": [
+    {
+      "id": "janakkala-tervakoski-aamupuuro-2026",
+      "municipality": "Janakkala",
+      "locality": "Tervakoski",
+      "name": "Tervakosken maksuton aamupuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Janakkalan seurakunta",
+      "address": "Tervakosken seurakuntakeskus, Kirkkotie 1, 12400 Tervakoski",
+      "schedule": "Keskiviikkoisin 9–11, 3.9.–9.12.2026",
+      "conditions": "Kaikenikäisille, vapaaehtoisten valmistama maksuton aamiainen.",
+      "source_url": "https://janakkalanseurakunta.fi/apua-ja-tukea/maksuttomat-ruokailut/",
+      "address_source_url": "https://janakkalanseurakunta.fi/tietoa-meista/kirkot-tilat-ja-hautausmaat/tervakosken-seurakuntakeskus/",
+      "fee_status": "explicitly_free_or_voluntary_donation",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_primary_2026"
+    },
+    {
+      "id": "janakkala-turenki-keskiviikkoruokailu-2026",
+      "municipality": "Janakkala",
+      "locality": "Turenki",
+      "name": "Turengin maksuton keskiviikkoruokailu",
+      "category": "Ruoka-apu",
+      "secondary_categories": [
+        "Raha-asiat",
+        "Keskusteluapu"
+      ],
+      "organizer": "Janakkalan seurakunta",
+      "address": "Turengin seurakuntakeskus, Juttilantie 2, 14200 Turenki",
+      "schedule": "Keskiviikkoisin 10.30–12, 5.8.–23.12.2026; ruoka tarjolla 11–12",
+      "conditions": "Ei ennakkoilmoittautumista. Erityisesti pienituloisille, työelämän ulkopuolella oleville ja yksinäisyyttä kokeville. Joka kuun viimeisenä keskiviikkona aikuissosiaalityön sosiaaliohjaaja tavattavissa talous- ja palveluasioissa.",
+      "source_url": "https://janakkalanseurakunta.fi/apua-ja-tukea/maksuttomat-ruokailut/",
+      "address_source_url": "https://janakkalanseurakunta.fi/tietoa-meista/kirkot-tilat-ja-hautausmaat/turengin-seurakuntakeskus/",
+      "fee_status": "explicitly_free_or_voluntary_donation",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_primary_2026"
+    },
+    {
+      "id": "pori-vainola-diakonia-aamupala-2026",
+      "municipality": "Pori",
+      "locality": "Väinölä",
+      "name": "Väinölän maksuton diakonia-aamupala",
+      "category": "Ruoka-apu",
+      "organizer": "Porin Teljän seurakunta",
+      "address": "Väinölän kirkko, Päkintie 1–3, 28330 Pori",
+      "schedule": "Torstaisin 9–10 (tarjoilu päättyy 9.50), 3.9.–17.12.2026",
+      "conditions": "Ei 22.10.2026. Kaurapuuroa, leipää, kahvia ja teetä; juttuseuraa.",
+      "phone": "0400 309 851",
+      "source_url": "https://www.kirkkoporissa.fi/tapahtumat/2026-10-08/diakonia-aamupala-vainolassa",
+      "fee_status": "explicitly_free_or_voluntary_donation",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_primary_2026"
+    },
+    {
+      "id": "helsinki-oulunkyla-maanantaipuuro-2026",
+      "municipality": "Helsinki",
+      "locality": "Oulunkylä",
+      "name": "Oulunkylän kirkon maanantaipuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Oulunkylän seurakunta",
+      "address": "Oulunkylän kirkko, Teinintie 10, 00640 Helsinki",
+      "schedule": "Maanantaisin 9.30–11.30, 31.8.–23.11.2026",
+      "conditions": "Vapaaehtoinen maksu, ei pakollista maksua. Ei 12.10.2026. Kirkon tilan käytössä muutoksia suunnitteilla; seuraa järjestäjän tiedotteita.",
+      "source_url": "https://www.helsinginseurakunnat.fi/artikkelit/yhteisoruokailutoulunkylassa",
+      "address_source_url": "https://helsinginseurakunnat.fi/material/attachments/zIFPzu1ie/oulunkylansrk_esite_kevat_2026_saavutettava.pdf",
+      "fee_status": "explicitly_free_or_voluntary_donation",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_primary_2026"
+    },
+    {
+      "id": "helsinki-kapyla-iltaruoka-2026",
+      "municipality": "Helsinki",
+      "locality": "Käpylä",
+      "name": "Käpylän kirkon iltaruoka",
+      "category": "Ruoka-apu",
+      "organizer": "Oulunkylän seurakunta",
+      "address": "Käpylän kirkko, Metsolantie 14, 00610 Helsinki",
+      "schedule": "Keskiviikkoisin 16–17.30, 2.9.–25.11.2026",
+      "conditions": "Vegaaninen keitto ja hävikkiruokaa; maksu vapaaehtoinen. Ei 14.10.2026.",
+      "source_url": "https://www.helsinginseurakunnat.fi/artikkelit/yhteisoruokailutoulunkylassa",
+      "address_source_url": "https://helsinginseurakunnat.fi/material/attachments/zIFPzu1ie/oulunkylansrk_esite_kevat_2026_saavutettava.pdf",
+      "fee_status": "explicitly_free_or_voluntary_donation",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_primary_2026"
+    }
+  ],
+  "review_notes": [
+    {
+      "municipality": "Helsinki",
+      "name": "Maunulan kirkon kahvila",
+      "note": "Torstaisin 10–14, mutta tammikuulle 2027 suunniteltu peruskorjaus voi vaikuttaa jatkuvuuteen. Ei kirjattu ruoka-avuksi, koska lähteessä kahvila ja pannukakku yleensä, ei varsinainen avustusateria.",
+      "source_url": "https://www.helsinginseurakunnat.fi/artikkelit/yhteisoruokailutoulunkylassa"
+    },
+    {
+      "municipality": "Helsinki",
+      "name": "Oulunkylän kirkon tilanne",
+      "note": "Seurakunnan mukaan kirkosta luopumista ja purkamista suunnitellaan. Maanantaipuuron syksyn 2026 ohjelma vahvistettu, mutta jatkokausi ja tila tarkistettava.",
+      "source_url": "https://helsinginseurakunnat.fi/uutiset/kirkkoherranterveiset"
+    }
+  ],
+  "notes": "Viisi suoraan järjestäjien 2026 lähteistä tarkistettua säännöllistä maksutonta ateriapalvelua. Vapaaehtoinen lahjoitus ei tee maksulliseksi. Kaksi tiloja ja luokitusta koskevaa tarkistusmerkintää. Ei sivustomuutoksia."
+}
