@@ -3463,6 +3463,171 @@
           "verification_status": "generated_from_monthly_recurrence_not_individually_confirmed"
         }
       ]
+    },
+    {
+      "id": "av-0147",
+      "municipality": "kotka",
+      "name": "SPR Kotkan osasto – ystävätoiminta",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Kotkan osasto",
+      "organizer_address": "Taitojen Talo, Tarinatie 2, 48350 Kotka",
+      "address": null,
+      "phone": "044 981 3362",
+      "email": "kotka@osasto.punainenristi.fi",
+      "details": "Kotkan Punaisen Ristin osasto tarjoaa vapaaehtoista ystävätoimintaa yksinäisille. Tiedustelut osastolta. Taitojen Talo on osaston yhteyspiste, ei vahvistettu yksilöllisten ystävätapaamisten paikka.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/kotkan-osasto",
+      "price_status": "pending_review",
+      "verification_status": "official_source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "event_instances": [],
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events"
+    },
+    {
+      "id": "av-0148",
+      "municipality": "lappeenranta",
+      "name": "SPR Lappeenrannan osasto – ystävätoiminta",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Lappeenrannan osasto",
+      "organizer_address": "Raatimiehenkatu 20 D, 53100 Lappeenranta",
+      "address": null,
+      "phone": "040 776 7305",
+      "email": "spr.lappeenranta@outlook.com",
+      "details": "Punaisen Ristin Lappeenrannan osasto välittää vapaaehtoisia ystäviä yksinäisille. Yksilölliset tapaamiset sovitaan ystävävälityksen kautta. Osaston toimisto-osoite ei ole automaattisesti tapaamispaikka.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/lappeenrannan-osasto",
+      "price_status": "pending_review",
+      "verification_status": "official_source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "event_instances": [],
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events"
+    },
+    {
+      "id": "av-0149",
+      "municipality": "helsinki",
+      "name": "SPR Töölö – Helsingin yhteinen saattajavälitys",
+      "category": "Kotiapu",
+      "organizer": "SPR Helsingin ystävä- ja saattajavälitys",
+      "address": null,
+      "email": "helsinki.saattajavalitys@punainenristi.fi",
+      "details": "Vapaaehtoinen saattaja esimerkiksi lääkäri- tai kauppakäynnille. Saattajapyyntö kannattaa jättää viimeistään edellisellä viikolla. Koko Helsingin alueen yhteinen palvelu. Saattaja-avun toteutuminen riippuu vapaaehtoisten saatavuudesta.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
+      "price_status": "pending_review",
+      "verification_status": "official_source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "event_instances": [],
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events"
+    },
+    {
+      "id": "av-0150",
+      "municipality": "helsinki",
+      "name": "SPR Kotipirtti – Haagan ikäihmisten ryhmä",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Töölön osasto",
+      "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+      "email": "tuija.tikanoja@osasto.punainenristi.fi",
+      "details": "Ikäihmisille suunnattua yhdessäoloa ja virkistäytymistä maanantaisin klo 11–14. Ohjelmassa esimerkiksi tuoli- ja aivojumppaa, pelejä, musiikkia, runoja ja esitelmiä. Yhteyshenkilö Tuija Tikanoja. Tulevat yksittäiset tapahtumapäivät on laskettu viikkoaikataulusta eikä vahvistettu erikseen.",
+      "recurrence": "Maanantaisin klo 11–14",
+      "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
+      "price_status": "pending_review",
+      "verification_status": "official_source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "event_instances": [
+        {
+          "date": "2026-11-02",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-09",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-16",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-23",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-30",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-07",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-14",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-21",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-28",
+          "start_time": "11:00",
+          "end_time": "14:00",
+          "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+          "verification_status": "generated_from_weekly_recurrence_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": false,
+      "event_data_status": "dated_instances_recorded"
+    },
+    {
+      "id": "av-0151",
+      "municipality": "vantaa",
+      "name": "SPR Länsi-Vantaan ystävävälitys",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Länsi-Vantaan osasto",
+      "organizer_address": "Myyrmäen asukastila, Paalutori 3, 01600 Vantaa",
+      "address": null,
+      "phone": "050 470 8443",
+      "email": "spr.lansivantaa.ystava@gmail.com",
+      "details": "Ystävävälitys yksinäisille, esimerkiksi juttu- ja ulkoiluseuraa. Osaston päivystys Myyrmäen asukastilassa maanantaisin klo 16–18 ja torstaisin klo 10–12. Yksilölliset ystävätapaamiset sovitaan erikseen.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/lansi-vantaan-osasto/toiminta/ystavatoiminta",
+      "price_status": "pending_review",
+      "verification_status": "official_source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "event_instances": [],
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events"
     }
   ],
   "audit_metadata": {
