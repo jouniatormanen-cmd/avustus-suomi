@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "id": "uki-arkipuuro-2026",
+      "municipality": "Uusikaupunki",
+      "name": "Arkipuuro – maksuton aamiainen",
+      "category": "Ruoka-apu",
+      "organizer": "Uudenkaupungin seurakunta",
+      "address": "Seurakuntakeskus, Koulukatu 6, 23500 Uusikaupunki",
+      "schedule": "Parittomien viikkojen tiistaisin 9–11, 25.8.–15.12.2026",
+      "conditions": "Maksuton aamiainen, voi saapua liukuvasti.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://uudenkaupunginseurakunta.fi/toimintaa/ikaihmiset/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "uki-sururyhma-2026",
+      "municipality": "Uusikaupunki",
+      "name": "Sururyhmä läheisensä menettäneille",
+      "category": "Keskusteluapu",
+      "organizer": "Uudenkaupungin seurakunta",
+      "address": "Seurakuntakeskuksen takkahuone, Koulukatu 6, 23500 Uusikaupunki",
+      "schedule": "Joka toinen torstai 16–17.30, 5.11.2026–11.2.2027, yhteensä seitsemän tapaamista",
+      "conditions": "Ilmoittautuminen avoinna; ryhmä läheisensä menettäneille, myös lapsensa menettäneille. Maksuttomuus ei eksplisiittinen lähteessä.",
+      "fee_status": "not_explicit",
+      "source_url": "https://uudenkaupunginseurakunta.fi/toimintaa/ikaihmiset/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "corrections": [
+    {
+      "municipality": "Uusikaupunki",
+      "name": "Seurakuntakeskuksen keskiviikkoinen hävikkiruokajako",
+      "schedule": "Keskiviikkoisin 14–14.30, 19.8.–16.12.2026, ei koulujen loma-aikoina",
+      "address": "Koulukatu 6, Uusikaupunki",
+      "conditions": "Omat rasiat mukaan",
+      "source_url": "https://uudenkaupunginseurakunta.fi/apua-ja-tukea/diakoniatyo/",
+      "note": "Aiemman Uudenkaupungin kartoituksen täydennys, ei uusi erillinen palvelu."
+    },
+    {
+      "municipality": "Uusikaupunki",
+      "locality": "Kalanti",
+      "name": "Ankkuripaikan maksuton keitto",
+      "schedule": "Kevään 2026 keskiviikkoisin klo 13, 1.4.–27.5.2026",
+      "address": "Pankkitie 2, Kalanti",
+      "note": "Järjestäjän sivulla syksyn päivämäärät puuttuvat; ei merkitä marraskuussa aktiiviseksi.",
+      "source_url": "https://uudenkaupunginseurakunta.fi/toimintaa/ikaihmiset/"
+    }
+  ],
+  "notes": "Järjestäjän 2026 ohjelmasta kaksi toistuvaa palvelua, joista Arkipuuro varmasti maksuton. Sururyhmän maksuttomuus varmistettava. Kaksi korjausta, ei verkkosivuston muutoksia."
+}
