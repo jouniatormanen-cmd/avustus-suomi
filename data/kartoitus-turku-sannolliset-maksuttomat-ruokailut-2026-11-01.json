@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "id": "20261101-turku-lauste-aamupuuro",
+      "municipality": "Turku",
+      "locality": "Lauste",
+      "name": "Lausteen maksuton aamupuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä, Henrikinseurakunta",
+      "address": "Lausteen seurakuntatalo, Maistraatinkulku 1, Turku",
+      "schedule": "Tiistaisin 9.30–11, syyskausi 1.9.–15.12.2026",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.turunseurakunnat.fi/documents/d/www.turunseurakunnat.fi/lilja_1_2026_menot_saavutettava-pdf",
+      "secondary_source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
+      "verification_status": "organizer_2026_schedule",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-turku-koivula-aamupuuro",
+      "municipality": "Turku",
+      "locality": "Koivula",
+      "name": "Koivulan maksuton aamupuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "address": "Koivulan seurakuntatalo, Savelkuja 3, Turku",
+      "schedule": "Perjantaisin 8.30–10 (tarkistettava onko voimassa marraskuussa 2026)",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.turunseurakunnat.fi/documents/d/www.turunseurakunnat.fi/lilja_1_2026_menot_saavutettava-pdf",
+      "verification_status": "organizer_january_2026_schedule_needs_autumn_check",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-turku-makasiini-ilmainen-iltapala",
+      "municipality": "Turku",
+      "locality": "Keskusta",
+      "name": "Maaherran makasiinin maksuton iltapala",
+      "category": "Ruoka-apu",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "address": "Maaherran makasiini, katuosoite tarkistettava, Turku",
+      "schedule": "Maanantaisin noin klo 19–20.30 messun jälkeen, 24.8.–21.12.2026",
+      "fee_status": "explicitly_free",
+      "conditions": "Nuorten aikuisten toimintaa; tarkista ikä- ja osallistumisehdot.",
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
+      "verification_status": "organizer_2026_schedule",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-turku-makasiini-nuoret-yhteisruokailu",
+      "municipality": "Turku",
+      "locality": "Keskusta",
+      "name": "Nuorten aikuisten maksuton yhteisruokailu",
+      "category": "Ruoka-apu",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "address": "Maaherran makasiini, katuosoite tarkistettava, Turku",
+      "schedule": "Torstaisin 17–18, 10.9.–17.12.2026",
+      "fee_status": "explicitly_free",
+      "conditions": "Ennakkoilmoittautuminen; ilmoittautumisikkuna lähteessä 28.9.–30.10.2026, marraskuun osallistumismahdollisuus varmistettava.",
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
+      "verification_status": "organizer_2026_schedule_registration_may_be_closed",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Vain säännöllisesti toistuvia maksuttomia palveluja; ei kertaluonteisia tapahtumia. Koivulan syyskausi, Makasiinin katuosoite ja yhteisruokailun ilmoittautumistilanne vaativat jatkotarkistuksen. Ei julkaisu- eikä sivustomuutoksia."
+}
