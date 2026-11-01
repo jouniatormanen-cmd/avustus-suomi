@@ -1,0 +1,21 @@
+{
+  "records": [
+    {
+      "id": "kartoitus-20261101-ystavat-1",
+      "municipality": "kouvola",
+      "name": "SPR Kuusankosken ystävätoiminta",
+      "category": "Keskusteluapu",
+      "organizer": "Suomen Punainen Risti, paikallisosasto",
+      "phone": "040 035 2250",
+      "email": "ystavat.sprkuusankoski@gmail.com",
+      "schedule": null,
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
+      "description": "Vapaaehtoinen ystävä yksinäisyyden lievittämiseen; ei terveydenhuollon hoitopalvelu.",
+      "price_status": "free_to_recipient_needs_confirmation",
+      "publication_ready": false,
+      "verification_status": "organizer_source_checked",
+      "event_data_status": "ongoing_service_no_dated_event"
+    }
+  ],
+  "notes": "Järjestäjälähteistä tarkistetut paikalliset ystävätoiminnat. Kuusankoski erillinen Kouvolan palvelupiste. Maksuttomuuden ehdot tarkistetaan lopputarkastuksessa. Ei muutoksia verkkosivustoon."
+}
