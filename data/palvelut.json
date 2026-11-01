@@ -1706,10 +1706,10 @@
     {
       "id": "av-0120",
       "price_status": "membership_fee_40_eur_per_adult_year",
-      "verification_status": "source_reviewed_2026-11-01",
+      "verification_status": "event_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null,
+      "recurrence": "Keskiviikkoisin 18.00–18.45; lähteessä listatut tulevat tapahtumakerrat tallennettu erikseen.",
       "publication_ready": false,
       "category": "Ruoka-apu",
       "municipality": "inkoo",
@@ -1717,7 +1717,87 @@
       "address": "Grönkullantie 52, 10210 Inkoo",
       "phone": "040 058 6625",
       "details": "Ruokajako keskiviikkoisin klo 18.00–18.45; oma kassi mukaan. Ei varauksia tai kotiinkuljetusta. Tulotietoja ei kysytä. Järjestäjän mukaan 40 € vuosittainen jäsenmaksu per perheen aikuinen. Yhteyshenkilö Päivi Valo, 040 058 6625; Petri Seulanto 050 432 2957. Ruoka-apu.fi ilmoittaa tapahtumakertoja ainakin 16.12.2026 asti.",
-      "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+      "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+      "event_instances": [
+        {
+          "date": "2026-11-04",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        },
+        {
+          "date": "2026-11-11",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        },
+        {
+          "date": "2026-11-18",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        },
+        {
+          "date": "2026-12-02",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "18:00",
+          "end_time": "18:45",
+          "venue": "Inkoon A-killan tilat, Villa Bergbo",
+          "address": "Grönkullantie 52, 10210 Inkoo",
+          "event_type": "ruokajako",
+          "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
+        }
+      ],
+      "participation_conditions": [
+        "Oma kassi mukaan",
+        "Ei varauksia",
+        "Ei kotiinkuljetusta",
+        "Tulotietoja ei kysytä",
+        "Päihteetön tapahtuma",
+        "Varaudu odottamaan",
+        "Jäsenmaksu 40 €/vuosi per talouden aikuinen"
+      ],
+      "organizer": "Inkoon A-kilta ry",
+      "contact_name": "Päivi Valo",
+      "alternate_phone": "050 432 2957",
+      "additional_services": [
+        "Keskusteluapu"
+      ]
     }
   ]
 }
