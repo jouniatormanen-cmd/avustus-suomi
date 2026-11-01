@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "id": "20261101-lahti-dila-ilmainen-puoti",
+      "municipality": "Lahti",
+      "name": "Dilan Ilmainen Puoti",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "Lahden Diakoniasäätiö",
+      "address": "Stoori, Sibeliuksenkatu 6 A, Lahti",
+      "schedule": "Perjantaisin 10–12",
+      "conditions": "Maksuttomia vaatteita ja arjen käyttötavaroita tarvitseville; maanantain lahjoitusten vastaanotto ei ole asiointiaika. Järjestäjän sivulla lahjoitusten vastaanotossa tilapäinen joulukuuhun asti ulottuva tauko.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://dila.fi/ilmainen-puoti/",
+      "verification_status": "primary_organizer_current",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_notes": "Korvaa vanhentunut Kirkkokatu 27 -osoite ja vanhat aukioloajat, jos esiintyvät muualla."
+    },
+    {
+      "id": "20261101-lahti-nastola-bedan-puuro",
+      "municipality": "Lahti",
+      "locality": "Nastola",
+      "name": "Bedan pirtin perjantaipuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Nastolan seurakunta",
+      "address": "Rakokiventie 10, 15550 Nastola",
+      "schedule": "Perjantaisin 9.30–11",
+      "conditions": "Maksuton puuro ja kahvi; alussa lyhyt hartaushetki.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.lahdenseurakunnat.fi/nastolan-seurakunta/diakoniatyo",
+      "verification_status": "primary_organizer_and_local_aid_directory",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-lahti-metsakangas-breakfast",
+      "municipality": "Lahti",
+      "locality": "Metsäkangas",
+      "name": "Metsäkankaan seurakuntakodin ilmainen aamupala",
+      "category": "Ruoka-apu",
+      "organizer": "Salpausselän seurakunta",
+      "address": "Satulakatu 31, Lahti",
+      "schedule": "Torstaisin 10–11.30",
+      "fee_status": "explicitly_free",
+      "source_url": "https://dila.fi/ruoka-apu-lahdessa/",
+      "verification_status": "local_aid_directory_schedule_requires_organizer_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-lahti-laune-breakfast-food",
+      "municipality": "Lahti",
+      "locality": "Laune",
+      "name": "Launeen kirkon ilmainen aamupala ja hävikkiruokajako",
+      "category": "Ruoka-apu",
+      "organizer": "Launeen seurakunta",
+      "address": "Launeen kirkko, Tapparakatu 22, Lahti",
+      "schedule": "Perjantaisin klo 10 aamupala, sen jälkeen hävikkiruoan jako (jakelun tarkka kellonaika puuttuu)",
+      "conditions": "Oma kassi mukaan.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://dila.fi/ruoka-apu-lahdessa/",
+      "verification_status": "local_aid_directory_schedule_requires_organizer_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-lahti-tuulensuoja-daycentre",
+      "municipality": "Lahti",
+      "name": "Päiväkeskus Tuulensuoja – ruokaa, peseytymistä ja vaatteita",
+      "category": "Kotiapu",
+      "secondary_categories": [
+        "Ruoka-apu",
+        "Vaatteet ja tavarat",
+        "Asuminen"
+      ],
+      "organizer": "Päiväkeskus Tuulensuoja",
+      "address": "Launeenkatu 74, Lahti",
+      "schedule": "Arkisin 10–17",
+      "conditions": "Yli 18-vuotiaille päijäthämäläisille päihteiden käyttäjille, asunnottomille tai palveluiden ulkopuolella oleville; tarjolla mahdollisuus syödä, saada vaatteita, käydä suihkussa, pestä pyykkiä ja levätä.",
+      "fee_status": "needs_explicit_confirmation",
+      "source_url": "https://dila.fi/ruoka-apu-lahdessa/",
+      "verification_status": "local_aid_directory_details_confirmed_fee_not_explicit",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Viisi säännöllistä konkreettista palvelua. Ilmaisen Puodin osoite ja aukiolo varmistettu järjestäjän nykyiseltä sivulta; vanhat tiedot merkitty korvattaviksi. Tuulensuojan maksuttomuutta ei vahvistettu ja se on ehdokas, ei julkaisuvalmis. Metsäkankaan ja Launeen tiedot paikallisesta koosteesta; järjestäjätarkistus jäljellä. Ei sivuston muutoksia."
+}
