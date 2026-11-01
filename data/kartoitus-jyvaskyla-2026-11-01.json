@@ -1,0 +1,102 @@
+{
+  "records": [
+    {
+      "id": "jyvaskyla-agape",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Cafe Agape – hävikkiruoan jako",
+      "address": "Yliopistonkatu 15, 40100 Jyväskylä",
+      "recurrence": "perjantaisin klo 13–14",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    },
+    {
+      "id": "jyvaskyla-helokantie",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Keltinmäen Helokantien hävikkiruokajako",
+      "address": "Helokantie 7 C, 40640 Jyväskylä",
+      "recurrence": "keskiviikkoisin noin klo 17.30–18",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    },
+    {
+      "id": "jyvaskyla-kuokkalanpelto",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Kuokkalanpellon hävikkiruokajako",
+      "address": "Isokatu 3, 40520 Jyväskylä",
+      "recurrence": "sunnuntaisin noin klo 19–19.30",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    },
+    {
+      "id": "jyvaskyla-lounaispuisto",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Lounaispuiston hävikkiruokajako",
+      "address": "Minna Canthin katu 11, 40100 Jyväskylä",
+      "recurrence": "tiistaisin ja perjantaisin noin klo 14.30–15.30",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    },
+    {
+      "id": "jyvaskyla-kris",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "KRIS Keski-Suomen ylijäämäruokajako",
+      "address": "Asemakatu 11 B, 40100 Jyväskylä",
+      "recurrence": "keskiviikkoisin klo 11–15",
+      "organizer": "KRIS Keski-Suomi ry",
+      "phone": "041 312 3146",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    },
+    {
+      "id": "jyvaskyla-leivantalo",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Leiväntalon maksuton lahjalounas",
+      "address": "Yliopistonkatu 15, 40100 Jyväskylä",
+      "recurrence": "torstaisin klo 11–14",
+      "organizer": "Lähi-Idän Lähetys ry",
+      "phone": "040 536 3154",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    },
+    {
+      "id": "jyvaskyla-leivantalo-tarvikkeet",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Leiväntalon ruokatarvikejakelu",
+      "address": "Yliopistonkatu 15, 40100 Jyväskylä",
+      "recurrence": "tiistaisin klo 13",
+      "organizer": "Lähi-Idän Lähetys ry",
+      "phone": "040 536 3154",
+      "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+      "verification_status": "secondary_directory_organizer_confirmation_pending",
+      "publication_ready": false,
+      "individual_event_dates_pending": true
+    }
+  ]
+}
