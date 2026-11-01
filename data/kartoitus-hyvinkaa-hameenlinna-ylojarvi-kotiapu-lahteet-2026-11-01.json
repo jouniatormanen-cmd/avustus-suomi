@@ -1,0 +1,50 @@
+{
+  "records": [
+    {
+      "kunta": "Hyvinkää",
+      "nimi": "Pikkuhelppi",
+      "luokka": "Kotiapu",
+      "puhelin": "040 685 1284",
+      "julkaisuvalmis": false,
+      "syyskausi_tarkistettava": true
+    },
+    {
+      "kunta": "Hyvinkää",
+      "nimi": "Lapsiparkki",
+      "luokka": "Kotiapu",
+      "puhelin": "040 685 1284",
+      "julkaisuvalmis": false,
+      "syyskausi_tarkistettava": true
+    },
+    {
+      "kunta": "Hämeenlinna",
+      "nimi": "Pikkuhelppi",
+      "luokka": "Kotiapu",
+      "puhelin": "040 8049 387",
+      "julkaisuvalmis": false,
+      "syyskausi_tarkistettava": true
+    },
+    {
+      "kunta": "Ylöjärvi",
+      "nimi": "PikkuHelppi",
+      "luokka": "Kotiapu",
+      "puhelin": "",
+      "julkaisuvalmis": false,
+      "syyskausi_tarkistettava": true
+    },
+    {
+      "kunta": "Ylöjärvi",
+      "nimi": "Pappilan piiat ja rengit",
+      "luokka": "Kotiapu",
+      "puhelin": "040 8682 565",
+      "julkaisuvalmis": false,
+      "syyskausi_tarkistettava": true
+    }
+  ],
+  "source_urls": [
+    "https://www.hyvinkaanseurakunta.fi/documents/d/www.hyvinkaanseurakunta.fi/kasvatuksen-esite-kevat-2026-netti-pdf",
+    "https://www.hameenlinna-vanajanseurakunta.fi/documents/d/www.hameenlinna-vanajanseurakunta.fi/perheille-kevat-2026",
+    "https://www.ylojarvenseurakunta.fi/documents/d/www.ylojarvenseurakunta.fi/kn-7-1-26-vedos2_final"
+  ],
+  "note": "Järjestäjien 2026 lähteistä löydetyt jatkuvat palvelut. Kevään aikataulut eivät todista marraskuun aukioloa. Ylöjärven Pappilan piikojen ja renkien maksuttomuus tarkistettava. Ei sivuston muutoksia."
+}
