@@ -1,0 +1,42 @@
+{
+  "category": "Ruoka-apu",
+  "municipality": "jyväskylä",
+  "source_url": "https://arkikahvila.fi/food-aid/jyvaskyla",
+  "source_type": "secondary_directory",
+  "verification_status": "organizer_confirmation_pending",
+  "publication_ready": false,
+  "records": [
+    {
+      "name": "Cafe Agape – hävikkiruokajako",
+      "address": "Yliopistonkatu 15, 40100 Jyväskylä",
+      "schedule": "Perjantaisin klo 13–14",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "requirements": "Oma kassi; ei ruokaseteliä eikä todistuksia; jonotusnumerot arvotaan."
+    },
+    {
+      "name": "Keltinmäen Helokantien hävikkiruokajako",
+      "address": "Helokantie 7 C, kerhohuone, 40640 Jyväskylä",
+      "schedule": "Keskiviikkoisin noin klo 17.30–18",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "requirements": "Oma kassi; ei ruokaseteliä eikä todistuksia; jonotusnumerot arvotaan."
+    },
+    {
+      "name": "Kuokkalanpellon hävikkiruokajako",
+      "address": "Isokatu 3, päiväkotien pysäköintialue, 40520 Jyväskylä",
+      "schedule": "Sunnuntaisin noin klo 19–19.30",
+      "organizer": "Rakkauden Valloittamat ry",
+      "phone": "045 884 3330",
+      "requirements": "Oma kassi; ei ruokaseteliä eikä todistuksia; jonotusnumerot arvotaan."
+    },
+    {
+      "name": "KRIS Keski-Suomen ylijäämäruokajako",
+      "address": "Asemakatu 11 B, 40100 Jyväskylä",
+      "schedule": "Keskiviikkoisin klo 11–15",
+      "organizer": "KRIS Keski-Suomi ry",
+      "phone": "041 312 3146",
+      "requirements": "Erityisesti päihde- ja rikostaustaisille; ei ennakkoilmoittautumista; oma kassi; saapumisjärjestys; ruokaa riittävyyden mukaan; päihteetön tila."
+    }
+  ]
+}
