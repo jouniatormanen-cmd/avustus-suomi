@@ -1,0 +1,50 @@
+{
+  "records": [
+    {
+      "id": "kartoitus-20261101-sipoo-spr-20261015",
+      "municipality": "Sipoo",
+      "locality": "Nikkilä",
+      "name": "SPR Sipoon ruoka-apujakelu 15.10.2026",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Sipoon osasto",
+      "address": "Juhlatalo, Vanha vesitorninmäki 1, 04130 Sipoo",
+      "schedule": "Torstai 15.10.2026 klo 13–14; ovet aikaisintaan 12.30",
+      "source_url": "https://osastot.punainenristi.fi/osastot/sipoon-osasto/ajankohtaista/seuraava-ruoka-apu",
+      "service_type": "past_one_off_distribution",
+      "current_schedule_confirmed": false,
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_notes": "Jako on jo mennyt; EI saa esittää tulevana tai viikoittaisena. Etsi uusi marraskuun jakopäivä."
+    },
+    {
+      "id": "kartoitus-20261101-espoo-spr-ystavavalitys",
+      "municipality": "Espoo",
+      "locality": "Tapiola",
+      "name": "SPR Espoon ystävävälitys",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Tapiolan osasto / Espoon ystävävälitys",
+      "address": "Kauppamiehentie 6, 2. kerros, Tapiola, Espoo",
+      "schedule": "Puhelinpalvelu ma klo 12–15 ja to klo 11–15; käynti vain etukäteen sovittuna",
+      "contact": "(09) 466 858, espoo.ystavavalitys@punainenristi.fi",
+      "source_url": "https://osastot.punainenristi.fi/osastot/tapiolan-osasto/yhteystiedot",
+      "service_type": "ongoing_friend_mediation",
+      "price_status": "requires_confirmation",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "kartoitus-20261101-espoo-tapiola-spr-ei-ruokajakoa",
+      "municipality": "Espoo",
+      "locality": "Tapiola",
+      "name": "SPR Tapiolan osasto ei järjestä vakituista ruoka-apujakoa",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Tapiolan osasto",
+      "record_kind": "negative_evidence_not_service",
+      "details": "Osaston oma sivu kertoo, ettei sillä ole tarjota suoraan ruoka-apua vähävaraisille vakituisen hävikkiruokatoimituksen puuttuessa. Älä julkaise jakopaikkana.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/tapiolan-osasto/yhteystiedot",
+      "publication_ready": false,
+      "duplicate_review_pending": false
+    }
+  ],
+  "notes": "Lähteistetty tarkennus: Sipoon jakelu 15.10. on mennyt, ei nykyinen. Espoon ystävävälityksen palveluajat vahvistettu. Tapiolan SPR:n suoran ruoka-avun puuttuminen merkitty poissulkevana tietona. Ei verkkosivuston muutoksia."
+}
