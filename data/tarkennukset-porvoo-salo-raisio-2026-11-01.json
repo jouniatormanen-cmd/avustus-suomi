@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "id": "20261101-porvoo-kotikirkko-food-dates",
+      "municipality": "Porvoo",
+      "name": "Kotikirkon ruokajako – marraskuun päivät",
+      "address": "Adlercreutzinkatu 31, 06100 Porvoo",
+      "category": "Ruoka-apu",
+      "dates": [
+        "2026-11-06"
+      ],
+      "time": "Ei vahvistettu lähteessä",
+      "conditions": "Ylijäämäruoan jako; erillinen soppajako",
+      "source_urls": [
+        "https://www.porvoonkotikirkko.fi/leipakirkko/",
+        "https://www.porvoonkotikirkko.fi/yhteystiedot/"
+      ],
+      "verification_status": "date_confirmed_time_missing",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Lähteessä toinen marraskuun merkintä on '20.10', vaikka tekstissä todetaan viimeinen soppajako 20.11. Älä tulkitse ruokajaoksi 20.11. ilman lisävahvistusta."
+    },
+    {
+      "id": "20261101-porvoo-kotikirkko-soup-20nov",
+      "municipality": "Porvoo",
+      "name": "Kotikirkon soppajako – marraskuun viimeinen",
+      "address": "Adlercreutzinkatu 31, 06100 Porvoo",
+      "category": "Ruoka-apu",
+      "date": "2026-11-20",
+      "time": "Ei vahvistettu marraskuun tapahtumalle",
+      "conditions": "Avoin kaikille, ei tarveharkintaa tai osallistumisvelvoitetta",
+      "source_url": "https://www.porvoonkotikirkko.fi/l/soppa/",
+      "verification_status": "date_in_article_time_unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-salo-viadia-lunch-21nov",
+      "municipality": "Salo",
+      "name": "ViaDia Salon yhteisöllinen lounas",
+      "address": "Perniöntie 13, 24100 Salo",
+      "category": "Ruoka-apu",
+      "date": "2026-11-21",
+      "time": "12:00–13:00",
+      "booking": "Nettiajanvaraus aukeaa edellisen viikon maanantaina; puhelinvaraus lounasviikon maanantaina klo 12–14, 045 7875 2036",
+      "fee_status": "not_explicitly_confirmed_free",
+      "source_url": "https://salo.viadia.fi/ruoka-aputyo/",
+      "verification_status": "organizer_calendar_confirmed_fee_pending",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-raisio-yhteinen-poyta-fee-check",
+      "municipality": "Raisio",
+      "name": "Yhteinen pöytä -yhteisöruokailu",
+      "category": "Ruoka-apu",
+      "schedule": "Kerran viikossa, tarkka tapahtuma-aika tarkistettava",
+      "fee_status": "explicitly_free",
+      "conditions": "Raisiolaisille, ei ilmoittautumista eikä seurakunnan jäsenyyttä vaadita",
+      "source_url": "https://hyvinvointiopastaja.varha.fi/fi/raision-seurakunta-ruoka-apu",
+      "verification_status": "fee_confirmed_time_pending",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Korjaa aiemman Kokinvuoren yhteinen pöytä -merkinnän maksuttomuus vahvistetuksi; tarkka aika ja paikka silti varmistettava."
+    }
+  ],
+  "notes": "Tapahtumakeskeinen lähdetarkennus, ei uusia järjestöluetteloita. Porvoon 20.10/20.11 epäselvyys eroteltu; Salon lounaan maksuttomuus vahvistamatta; Raision yhteisen pöydän maksuttomuus vahvistettu. Ei muutoksia julkaistuun sivustoon."
+}
