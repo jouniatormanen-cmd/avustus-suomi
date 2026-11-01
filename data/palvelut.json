@@ -1671,6 +1671,53 @@
       "event_date": null,
       "recurrence": null,
       "publication_ready": false
+    },
+    {
+      "id": "av-0118",
+      "price_status": "pending_review",
+      "verification_status": "source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "publication_ready": false,
+      "category": "Keskusteluapu",
+      "municipality": "joensuu",
+      "name": "SPR Joensuun osasto – ystävävälitys",
+      "address": "Torikatu 29 A, 80100 Joensuu",
+      "phone": "050 437 3068",
+      "details": "Ystävätoimintaa erityisesti yksinäisille ikäihmisille. Ystävävälityksen puhelinpäivystys maanantaisin klo 19–20. Sähköposti jns-kontio.ystavavalitys@redcross.fi. Nuorten ystäväryhmä kokoontuu noin kahden viikon välein. Saatavuus ja mahdolliset kulut tarkistetaan myöhemmin.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/toiminta/ystavatoiminta"
+    },
+    {
+      "id": "av-0119",
+      "price_status": "pending_review",
+      "verification_status": "source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "publication_ready": false,
+      "category": "Ruoka-apu",
+      "municipality": "joensuu",
+      "name": "SPR Joensuun osasto – ruoka-aputoiminta (kartoituskohde)",
+      "address": "Torikatu 29 A, 80100 Joensuu",
+      "details": "SPR Joensuun osasto ilmoittaa järjestävänsä ruoka-aputoimintaa. Jakelupaikka, aikataulu, ehdot ja mahdolliset maksut vielä tarkistamatta. Yhteydenotot joensuu@punainenristi.fi. Osaston osoite ei välttämättä ole jakelupaikka.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/yhteystiedot"
+    },
+    {
+      "id": "av-0120",
+      "price_status": "membership_fee_40_eur_per_adult_year",
+      "verification_status": "source_reviewed_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": null,
+      "publication_ready": false,
+      "category": "Ruoka-apu",
+      "municipality": "inkoo",
+      "name": "Inkoon A-kilta ry – keskiviikon ruokajako",
+      "address": "Grönkullantie 52, 10210 Inkoo",
+      "phone": "040 058 6625",
+      "details": "Ruokajako keskiviikkoisin klo 18.00–18.45; oma kassi mukaan. Ei varauksia tai kotiinkuljetusta. Tulotietoja ei kysytä. Järjestäjän mukaan 40 € vuosittainen jäsenmaksu per perheen aikuinen. Yhteyshenkilö Päivi Valo, 040 058 6625; Petri Seulanto 050 432 2957. Ruoka-apu.fi ilmoittaa tapahtumakertoja ainakin 16.12.2026 asti.",
+      "source_url": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/"
     }
   ]
 }
