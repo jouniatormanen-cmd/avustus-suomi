@@ -1,0 +1,151 @@
+{
+  "records": [
+    {
+      "municipality": "Espoo",
+      "locality": "Tuomarila",
+      "name": "Manna-talon ruokakorijako",
+      "address": "Tuomarilantie 19, 02760 Espoo",
+      "schedule": "Ma, ke, pe alkaen klo 12 (vuoden 2026 muutosilmoitus)",
+      "booking": "Soita samana päivänä klo 9–10.30, 0400 401 114",
+      "conditions": "Oma kassi; kerran viikossa/talous",
+      "source_urls": [
+        "https://www.manna-apu.fi/ajankohtaista/muutoksia-manna-talon-ruokajaossa-vuoden-2026-alusta",
+        "https://www.manna-apu.fi/foodaid",
+        "https://www.manna-apu.fi/"
+      ],
+      "verification_status": "conflicting_primary_source_times",
+      "review_notes": "Suomenkielinen etusivu sanoo jako klo 14, vuoden 2026 muutosilmoitus ja englanninkielinen palvelusivu klo 12. Julkaisussa EI saa näyttää vahvistettuna ennen järjestäjältä varmistamista.",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Espoo",
+      "locality": "Tuomarila",
+      "name": "Mannapuodin ruokatarvikeapu puotikortilla",
+      "address": "Tuomarilantie 19, 02760 Espoo",
+      "schedule": "Ti ja to klo 12–13.30",
+      "booking": "Puotikortti Espoon seurakuntien diakoniatyöstä tai Länsi-Uudenmaan aikuissosiaalityöstä; varaa aika verkossa tai puhelimitse edellisenä päivänä klo 11–12",
+      "conditions": "Ruoka-apua kerran viikossa, vaihtoehtoinen Manna-talon korijakoon nähden",
+      "source_urls": [
+        "https://www.manna-apu.fi/ajankohtaista/muutoksia-manna-talon-ruokajaossa-vuoden-2026-alusta",
+        "https://www.manna-apu.fi/foodaid"
+      ],
+      "verification_status": "organizer_2026_schedule",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Vihti",
+      "locality": "Nummela",
+      "name": "Vihdin Apajan hävikkiruokajako",
+      "address": "Keskikuja 4, Nummela; ViaDia-torin kautta kirpputorin takaovesta",
+      "schedule": "Ma, ke, pe klo 10.30–12",
+      "conditions": "Maksuton ja anonyymi. Ensimmäisellä kerralla henkilökohtainen numerollinen värikortti. Jonoa ei saa muodostaa ulos.",
+      "source_urls": [
+        "https://lansi-uusimaa.viadia.fi/vihdin-ruoka-apu/"
+      ],
+      "verification_status": "organizer_current_schedule",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Joensuu",
+      "locality": "Rantakylä",
+      "name": "ViaDia-keskuksen hävikkiruokajako",
+      "address": "Venetie 10, 80160 Joensuu",
+      "schedule": "Ma, ke, pe; vuoronumerot klo 11.30, jako alkaa klo 12",
+      "conditions": "Enintään 2 kertaa kuukaudessa; henkilöllisyys osoitettava esim. Kela-kortilla; oma kestokassi; saatavuuden mukaan",
+      "source_urls": [
+        "https://joensuu.viadia.fi/ruoka-aputyo/",
+        "https://joensuu.viadia.fi/viadia-keskus/"
+      ],
+      "verification_status": "organizer_current_schedule",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Raisio",
+      "locality": "Kokinvuori",
+      "name": "Kokinvuoren ruokakassijako",
+      "address": "Murroskuja 3, 21200 Raisio",
+      "schedule": "Ti klo 15–16.30, sukunimen alkukirjaimen mukaan vaihtuvat 30 minuutin ryhmät",
+      "conditions": "Pienituloisille raisiolaisille; Raisio-kortti haetaan ensin Olkkarista, Raisiontori 6; ruokaa vain omaan talouteen; oma kassi",
+      "source_urls": [
+        "https://www.raisionseurakunta.fi/apua-ja-tukea/aineellinen-apu",
+        "https://www.raisionseurakunta.fi/documents/d/www.raisionseurakunta.fi/ruokajaon-ajat-sukunimien-mukaan-2026-ilman-esitekstia-pdf"
+      ],
+      "verification_status": "organizer_2026_schedule",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Raisio",
+      "locality": "Kokinvuori",
+      "name": "Kokinvuoren yhteinen pöytä",
+      "address": "Murroskuja 3, 21200 Raisio",
+      "schedule": "Ti klo 14.30–16.30",
+      "conditions": "Ateria kaikille raisiolaisille; maksuttomuus erikseen vahvistettava ennen julkaisua",
+      "source_urls": [
+        "https://www.raisionseurakunta.fi/documents/d/www.raisionseurakunta.fi/ruokajaon-ajat-sukunimien-mukaan-2026-ilman-esitekstia-pdf"
+      ],
+      "verification_status": "meal_schedule_confirmed_fee_unknown",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Muurame",
+      "locality": "Keskusta",
+      "name": "Mannatuvan Ruthin leipäjako",
+      "address": "Mannatupa, Virastotie 2, Muurame",
+      "schedule": "La klo 17–17.30",
+      "conditions": "Leipää voi hakea viikoittaisen ruokakassin lisäksi; maksuton",
+      "source_urls": [
+        "https://www.mannatupa.fi/toiminta/"
+      ],
+      "verification_status": "organizer_primary_source_correction",
+      "review_notes": "Aiemmassa tallenteessa oli virheellisesti perjantai klo 18–18.30. Järjestäjän oma sivu ilmoittaa LAUANTAI klo 17–17.30. Merkitse vanha aika virheelliseksi tarkastuksessa.",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    },
+    {
+      "municipality": "Tohmajärvi",
+      "locality": "Keskusta",
+      "name": "Hyvä apu ry:n ruokajako",
+      "address": "Kirkkotie 6, 82600 Tohmajärvi",
+      "schedule": "Joka toinen tiistai klo 12–13, 26.5.–22.12.2026; suljettu 2.–9.11., 16.–23.11. ja 30.11.–7.12.2026",
+      "conditions": "Tarkka seuraava jakopäivä tarkistettava kalenterista; puh. 046 688 0478",
+      "source_urls": [
+        "https://www.miunhyvinvointi.fi/palvelu/ruokajako/"
+      ],
+      "verification_status": "regional_service_calendar_2026",
+      "review_notes": "Poikkeusviikot kirjattu; älä päättele kalenterista automaattisesti jakopäiviä ennen tarkistusta.",
+      "category": "Ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "review_date": "2026-11-01",
+      "record_kind": "direct_assistance"
+    }
+  ],
+  "notes": "8 palvelu- tai tarkistusmerkintää; Manna-talon klo 12 vs 14 ristiriita merkitty, Muuramen aiempi perjantain leipäjako korjattu lauantaille. Ei automaattista julkaisua, ei sivuston muutoksia."
+}
