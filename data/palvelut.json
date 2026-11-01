@@ -2251,6 +2251,570 @@
       "additional_services": [
         "Keskusteluapu"
       ]
+    },
+    {
+      "id": "av-0121",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Seppälä",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Ahjokatu 16, Jyväskylä",
+      "details": "Keskiviikkoisin klo 11–13. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Keskiviikkoisin klo 11–13",
+      "event_instances": [
+        {
+          "date": "2026-11-04",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-11",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-18",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-02",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "11:00",
+          "end_time": "13:00",
+          "address": "Ahjokatu 16, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0122",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Keltinmäen kirkko",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": null,
+      "details": "Parittomien viikkojen tiistaisin klo 14–14.30. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parittomien viikkojen tiistaisin klo 14–14.30",
+      "event_instances": [
+        {
+          "date": "2026-11-10",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": null,
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-24",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": null,
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-08",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": null,
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-22",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": null,
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0123",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Kortepohjan kirkko",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Isännäntie 4, 40740 Jyväskylä",
+      "details": "Parittomien viikkojen torstaisin klo 14–14.30. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parittomien viikkojen torstaisin klo 14–14.30",
+      "event_instances": [
+        {
+          "date": "2026-11-12",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": "Isännäntie 4, 40740 Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": "Isännäntie 4, 40740 Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": "Isännäntie 4, 40740 Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "14:00",
+          "end_time": "14:30",
+          "address": "Isännäntie 4, 40740 Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0124",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Vaajakosken kirkko",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Kirkkotie 11, Jyväskylä",
+      "details": "Parittomien viikkojen keskiviikkoisin klo 11–11.30. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parittomien viikkojen keskiviikkoisin klo 11–11.30",
+      "event_instances": [
+        {
+          "date": "2026-11-11",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "address": "Kirkkotie 11, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-25",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "address": "Kirkkotie 11, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-09",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "address": "Kirkkotie 11, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-23",
+          "start_time": "11:00",
+          "end_time": "11:30",
+          "address": "Kirkkotie 11, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0125",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Jyväskylän helluntaiseurakunta",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Okkerinkatu 2, Jyväskylä",
+      "details": "Parillisten viikkojen perjantaisin klo 13–14. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parillisten viikkojen perjantaisin klo 13–14",
+      "event_instances": [
+        {
+          "date": "2026-11-06",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Okkerinkatu 2, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-20",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Okkerinkatu 2, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-04",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Okkerinkatu 2, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-18",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Okkerinkatu 2, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0126",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Korpilahden seurakuntatalo",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Kirkonmäentie 1, Jyväskylä",
+      "details": "Parillisten viikkojen keskiviikkoisin klo 13–14, ennakkovaraus diakoniatyöntekijältä. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. Ennakkovaraus Korpilahden diakoniatyöntekijältä.",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parillisten viikkojen keskiviikkoisin klo 13–14, ennakkovaraus diakoniatyöntekijältä",
+      "event_instances": [
+        {
+          "date": "2026-11-04",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Kirkonmäentie 1, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-18",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Kirkonmäentie 1, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-02",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Kirkonmäentie 1, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-16",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Kirkonmäentie 1, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-30",
+          "start_time": "13:00",
+          "end_time": "14:00",
+          "address": "Kirkonmäentie 1, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0127",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Kylän Kammari, Säynätsalo",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Pappilantie 6, Jyväskylä",
+      "details": "Parillisten viikkojen torstaisin klo 10–12. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parillisten viikkojen torstaisin klo 10–12",
+      "event_instances": [
+        {
+          "date": "2026-11-05",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "address": "Pappilantie 6, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-19",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "address": "Pappilantie 6, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-03",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "address": "Pappilantie 6, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-17",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "address": "Pappilantie 6, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-31",
+          "start_time": "10:00",
+          "end_time": "12:00",
+          "address": "Pappilantie 6, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0128",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Tikkakosken kirkko",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Kirkkokatu 18, Jyväskylä",
+      "details": "Parittomien viikkojen perjantaisin klo 13–13.30. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parittomien viikkojen perjantaisin klo 13–13.30",
+      "event_instances": [
+        {
+          "date": "2026-11-13",
+          "start_time": "13:00",
+          "end_time": "13:30",
+          "address": "Kirkkokatu 18, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-27",
+          "start_time": "13:00",
+          "end_time": "13:30",
+          "address": "Kirkkokatu 18, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-11",
+          "start_time": "13:00",
+          "end_time": "13:30",
+          "address": "Kirkkokatu 18, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-25",
+          "start_time": "13:00",
+          "end_time": "13:30",
+          "address": "Kirkkokatu 18, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0129",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Satamaseurakunta, Kuokkala",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Polttolinja 35, Jyväskylä",
+      "details": "Parillisten viikkojen tiistaisin klo 13.15–14.15. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parillisten viikkojen tiistaisin klo 13.15–14.15",
+      "event_instances": [
+        {
+          "date": "2026-11-03",
+          "start_time": "13:15",
+          "end_time": "14:15",
+          "address": "Polttolinja 35, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-17",
+          "start_time": "13:15",
+          "end_time": "14:15",
+          "address": "Polttolinja 35, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-01",
+          "start_time": "13:15",
+          "end_time": "14:15",
+          "address": "Polttolinja 35, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-15",
+          "start_time": "13:15",
+          "end_time": "14:15",
+          "address": "Polttolinja 35, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-29",
+          "start_time": "13:15",
+          "end_time": "14:15",
+          "address": "Polttolinja 35, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
+    },
+    {
+      "id": "av-0130",
+      "category": "Ruoka-apu",
+      "municipality": "jyväskylä",
+      "name": "Ruoka-apu Lyydia – Palokan kirkko",
+      "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
+      "address": "Rovastintie 8, Jyväskylä",
+      "details": "Parittomien viikkojen torstaisin klo 10–10.30. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "price_status": "free_with_food_voucher",
+      "verification_status": "official_source_checked_2026-11-01",
+      "last_verified": "2026-11-01",
+      "event_date": null,
+      "recurrence": "Parittomien viikkojen torstaisin klo 10–10.30",
+      "event_instances": [
+        {
+          "date": "2026-11-12",
+          "start_time": "10:00",
+          "end_time": "10:30",
+          "address": "Rovastintie 8, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-11-26",
+          "start_time": "10:00",
+          "end_time": "10:30",
+          "address": "Rovastintie 8, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-10",
+          "start_time": "10:00",
+          "end_time": "10:30",
+          "address": "Rovastintie 8, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        },
+        {
+          "date": "2026-12-24",
+          "start_time": "10:00",
+          "end_time": "10:30",
+          "address": "Rovastintie 8, Jyväskylä",
+          "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+          "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
+        }
+      ],
+      "publication_ready": true
     }
   ]
 }
