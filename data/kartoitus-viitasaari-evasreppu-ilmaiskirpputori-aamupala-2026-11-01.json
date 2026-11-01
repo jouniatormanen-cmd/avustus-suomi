@@ -1,0 +1,52 @@
+{
+  "records": [
+    {
+      "id": "20261101-viitasaari-evasreppu-friday",
+      "municipality": "Viitasaari",
+      "locality": "Keskusta",
+      "name": "Eväsreppu – maksuton aamupala ja ylijäämäruokajako",
+      "category": "Ruoka-apu",
+      "address": "Takatasku, seurakuntatalon alakerta, Pappilantie 6, 44500 Viitasaari",
+      "schedule": "Perjantaisin klo 9.30–11",
+      "conditions": "Kaikille avoin; ilmainen aamupala, kauppojen lahjoittamaa ruokaa ja ylijäämäruokaa; omat astiat mukaan. Sisäänkäynti takapihan puolelta.",
+      "source_url": "https://www.viitasaarenseurakunta.fi/apua-ja-tukea/arjen-ongelmat",
+      "verification_status": "primary_organizer_recurring_schedule_confirmed",
+      "fee_status": "explicitly_free",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-viitasaari-free-items",
+      "municipality": "Viitasaari",
+      "locality": "Keskusta",
+      "name": "Ilmaiskirpputori – maksuttomia vaatteita ja kodintarvikkeita",
+      "category": "Vaatteet ja tavarat",
+      "address": "Seurakuntatalon alakerta, Pappilantie 6, 44500 Viitasaari",
+      "schedule": "Perjantaisin klo 9.30–11 Eväsrepun yhteydessä; muulloin sopimuksen mukaan",
+      "conditions": "Vaatteita, kenkiä ja kodintarvikkeita; huonekaluja erillisestä varastosta tarvitseville. Tiedustelut 050 588 4906 tai 050 588 4911.",
+      "source_url": "https://www.viitasaarenseurakunta.fi/apua-ja-tukea/arjen-ongelmat",
+      "verification_status": "primary_organizer_recurring_schedule_confirmed",
+      "fee_status": "explicitly_free",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-viitasaari-breakfast-nov4",
+      "municipality": "Viitasaari",
+      "locality": "Keskusta",
+      "name": "Kaikille avoin maksuton aamupala 4.11.2026",
+      "category": "Ruoka-apu",
+      "address": "Seurakuntatalo, Pappilantie 6, 44500 Viitasaari",
+      "date": "2026-11-04",
+      "start_time": "07:30",
+      "end_time": "10:00",
+      "conditions": "Maksuton, kaikille avoin, ei ilmoittautumista. Lyhyet hartaudet klo 8 ja 9.",
+      "source_url": "https://www.viitasaarenseurakunta.fi/tapahtumat/2026-11-04/kaikille-avoin-aamupala",
+      "verification_status": "primary_organizer_dated_event_confirmed",
+      "fee_status": "explicitly_free",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "3 todellista palvelua; perjantain Eväsreppu ja ilmaiskirpputori sekä 4.11. päivätty maksuton aamupala. Kaikki järjestäjän omista lähteistä. Mahdolliset duplikaatit myöhempään tarkastukseen. Ei verkkosivuston muutoksia."
+}
