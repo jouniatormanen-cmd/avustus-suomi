@@ -1,0 +1,53 @@
+{
+  "records": [
+    {
+      "id": "20261101-rautalampi-20261110",
+      "municipality": "Rautalampi",
+      "locality": "Keskusta",
+      "name": "Seurakuntatalon lounas ja ruokajako 10.11.",
+      "category": "Ruoka-apu",
+      "address": "Seurakuntatalo, Kirkkotie 5, Rautalampi",
+      "date": "2026-11-10",
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "conditions": "Lounas ja kauppojen ylijäämäruoan jako. Ruokaa jaetaan saatavuuden mukaan.",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://www.rautalampi.fi/tapahtumakalenteri/kategoria/ruoka/",
+      "verification_status": "municipal_calendar_dated_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-rautalampi-leipatiimi",
+      "municipality": "Rautalampi",
+      "locality": "Keskusta",
+      "name": "Leipätiimin ruokajako",
+      "category": "Ruoka-apu",
+      "address": "Mäkitie 1, Rautalampi",
+      "schedule": "Tiistaisin klo 16.30–17.30 paitsi seurakuntatalon jakoviikoilla; kuukauden viimeisenä tiistaina kahvit ja tilaisuus alkavat klo 15.30, ruokajaon tarkka alkamisaika tällöin vahvistettava",
+      "conditions": "Kauppojen ylijäämäruokaa saatavuuden mukaan. Ei 10.11.2026 seurakuntatalon jakoviikolla.",
+      "fee_status": "not_explicitly_confirmed",
+      "source_url": "https://www.rautalampi.fi/tapahtumakalenteri/kategoria/ruoka/",
+      "verification_status": "municipal_calendar_schedule_2026",
+      "review_notes": "Aiemman Rautalampi-merkinnän puuttuva kellonaika täydennetty; viimeisen tiistain ruokajaon kellonaikaa ei päätellä kahvitilaisuuden ajasta.",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261101-somero-free-breakfast",
+      "municipality": "Somero",
+      "locality": "Keskusta",
+      "name": "Aamiainen yhdessä – maksuton aamupuuro",
+      "category": "Ruoka-apu",
+      "address": "Someron seurakuntakeskus, Sali 2, katuosoite tarkistettava",
+      "schedule": "Maanantaisin klo 8.30–9.30, kalenterissa vahvistettu 2.11. ja 16.11.2026",
+      "conditions": "Kaikille avoin maksuton aamiainen",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.someronseurakunta.fi/kalenteri",
+      "verification_status": "primary_organizer_calendar_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Kolme suoraa ruokailu-/ruokajakelupalvelua. Rautalammin aiempi kellonajaton Leipätiimi täydennetty, ei väitetä kuukauden viimeisen tiistain ruokajaon alkavan klo 15.30. Someron aamupala nimenomaisesti maksuton. Lähteet 2026 kalentereista. Ei sivuston muutoksia."
+}
