@@ -1,0 +1,110 @@
+{
+  "records": [
+    {
+      "id": "20261101-viadia-etelasavo-1",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Mikkeli ry",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Mikkeli",
+      "locality": "Anttola",
+      "name": "ViaDia ruokajako Anttolassa",
+      "address": "Mikkelintie 29, Anttola",
+      "schedule": "Torstaisin klo 11.30",
+      "source_url": "https://mikkeli.viadia.fi/ruokajako-maakunnissa/",
+      "status": "organizer_verified",
+      "fee_status": "donated_surplus_food_free_status_confirm_before_publication"
+    },
+    {
+      "id": "20261101-viadia-etelasavo-2",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Mikkeli ry",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Mikkeli",
+      "locality": "Haukivuori",
+      "name": "ViaDia ruokajako Haukivuorella",
+      "address": "Työnkulma, Suojatie 16 A, Haukivuori",
+      "schedule": "Parittomien viikkojen keskiviikkoisin klo 10.30",
+      "source_url": "https://mikkeli.viadia.fi/ruokajako-maakunnissa/",
+      "status": "organizer_verified",
+      "fee_status": "donated_surplus_food_free_status_confirm_before_publication"
+    },
+    {
+      "id": "20261101-viadia-etelasavo-3",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Mikkeli ry",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Mäntyharju",
+      "name": "ViaDia ruokajako Mäntyharjulla",
+      "address": "Pyhävedentie 3, Mäntyharju",
+      "schedule": "Perjantaisin klo 12",
+      "source_url": "https://mikkeli.viadia.fi/ruokajako-maakunnissa/",
+      "status": "organizer_verified",
+      "fee_status": "donated_surplus_food_free_status_confirm_before_publication"
+    },
+    {
+      "id": "20261101-viadia-etelasavo-4",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Mikkeli ry",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Mikkeli",
+      "locality": "Ristiina",
+      "name": "ViaDia ruokajako Ristiinassa",
+      "address": "Kissalammentie 3, Ristiina",
+      "schedule": "Tiistaisin klo 11.30",
+      "source_url": "https://mikkeli.viadia.fi/ruokajako-maakunnissa/",
+      "status": "organizer_verified",
+      "fee_status": "donated_surplus_food_free_status_confirm_before_publication"
+    },
+    {
+      "id": "20261101-viadia-etelasavo-5",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Mikkeli ry",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Mikkeli",
+      "locality": "Keskusta",
+      "name": "ViaDia ja ortodoksiseurakunnan ruokajako",
+      "address": "Paavalinkatu 4, Mikkeli",
+      "schedule": "Torstaisin klo 11.30",
+      "source_url": "https://mikkeli.viadia.fi/paivakeskus-ja-ruokajako/",
+      "status": "organizer_verified",
+      "fee_status": "donated_surplus_food_free_status_confirm_before_publication"
+    },
+    {
+      "id": "20261101-viadia-etelasavo-6",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Mikkeli ry",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "municipality": "Mikkeli",
+      "locality": "Peitsari",
+      "name": "ViaDia ruokakassien nouto diakonian ohjauksella",
+      "address": "Juvantie 26, Mikkeli",
+      "schedule": "Diakoniapäivystys ma ja pe klo 9–11; ruokakassien noutoaika vahvistettava",
+      "phone": "0400 143 250",
+      "conditions": "Ohjaus diakoniapäivystyksen kautta",
+      "source_url": "https://mikkeli.viadia.fi/paivakeskus-ja-ruokajako/",
+      "status": "organizer_verified_pickup_time_pending",
+      "fee_status": "donated_surplus_food_free_status_confirm_before_publication"
+    }
+  ],
+  "corrections": [
+    {
+      "municipality": "Mikkeli",
+      "locality": "Moisio",
+      "note": "ViaDia ilmoittaa Moision toimipisteen ruokajaon päättyneen; ei saa näyttää aktiivisena.",
+      "source_url": "https://mikkeli.viadia.fi/paivakeskus-ja-ruokajako/"
+    },
+    {
+      "municipality": "Turku",
+      "name": "Turun Katulähetys Yläsali",
+      "note": "Järjestäjän nykyinen aikataulu: maanantai 12.30–13, keskiviikko ja perjantai noin 9.45–10.45 sekä 11.15–12.15. Aiempi keskiviikko 11.15–12.30 -merkintä puutteellinen. Lapsiperheille ja liikuntarajoitteisille oma maanantain kulku Kauppiaskatu 21 B:n kautta. Ei luoda useita duplikaattipalveluja.",
+      "source_url": "https://turunkatulahetys.fi/"
+    }
+  ],
+  "notes": "Kuusi järjestäjän ensisijaisesta lähteestä vahvistettua jakelupistettä tai asiointikanavaa. Maksuttomuuden sanamuoto tarkistettava vielä, julkaisuvalmius false. Lisäksi kaksi korjausmerkintää. Ei sivuston muutoksia."
+}
