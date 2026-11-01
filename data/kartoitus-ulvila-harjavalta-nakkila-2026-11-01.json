@@ -43,28 +43,6 @@
       "event_data_status": "ongoing_service_no_individual_dates"
     },
     {
-      "id": "kartoitus-20261101-satakunta-4",
-      "municipality": "ulvila",
-      "name": "Ulvilan Arkiolohuoneen maksuton ruokailu",
-      "category": "Ruoka-apu",
-      "organizer": "Ulvilan seurakunta",
-      "description": "Kaikenikäisille maksuton ruokailu klo 17–17.30; ilmoittautuminen edellisenä päivänä 044 735 0632.",
-      "requirements": "Tapahtumapäivät 30.9., 28.10. ja 25.11.2026; vain 25.11. tuleva tarkasteluhetkellä.",
-      "source_url": "https://ulvilanseurakunta.fi/apua-ja-tukea/",
-      "price_status": "free_to_recipient",
-      "verification_status": "organizer_primary_source_checked",
-      "publication_ready": false,
-      "event_data_status": "source_dates_available",
-      "event_dates": [
-        "2026-09-30",
-        "2026-10-28",
-        "2026-11-25"
-      ],
-      "future_event_dates_as_of_2026_11_01": [
-        "2026-11-25"
-      ]
-    },
-    {
       "id": "kartoitus-20261101-satakunta-5",
       "municipality": "harjavalta",
       "name": "Harjavallan seurakunnan diakonian ruokakaupan lahjakortti",
@@ -121,5 +99,5 @@
       "event_data_status": "ongoing_service_no_individual_dates"
     }
   ],
-  "notes": "Kolme kuntaa, eritellyt palvelut ja järjestäjän ensisijaiset lähteet. Julkaisuvalmius edellyttää tarkastusta ja pääaineiston täydellistä deduplikointia. Ulvilan Arkiolohuoneen tapahtumapäivät ovat lähteestä, ei generoituja."
+  "notes": "Kolme kuntaa, eritellyt palvelut ja järjestäjän ensisijaiset lähteet. Julkaisuvalmius edellyttää tarkastusta ja pääaineiston täydellistä deduplikointia. Ulvilan Arkiolohuoneen tapahtumapäivät ovat lähteestä, ei generoituja. | 2026-11-01: Poistettu yksittäisiin tapahtumapäiviin perustuvat tai vain tapahtumakalenterista löytyvät palvelut. Vain jatkuvat palvelut sallitaan."
 }
