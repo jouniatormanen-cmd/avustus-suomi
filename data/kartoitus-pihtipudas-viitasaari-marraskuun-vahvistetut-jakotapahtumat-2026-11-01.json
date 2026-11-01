@@ -1,0 +1,85 @@
+{
+  "records": [
+    {
+      "id": "avustus-20261101-pihtipudas-viitasaari-1",
+      "category": "Ruoka-apu",
+      "record_kind": "dated_actual_assistance_event",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "2026_11_calendar_checked",
+      "municipality": "Pihtipudas",
+      "name": "Helluntaiseurakunnan ruokajako",
+      "address": "Kolimantie 2 B, 44800 Pihtipudas",
+      "dates": [
+        "2026-11-05",
+        "2026-11-19"
+      ],
+      "start_time": "10:30",
+      "end_time": null,
+      "conditions": "Vuoronumero paikan päällä; kauppojen ylijäämätuotteita saatavuuden mukaan.",
+      "price_status": "not_explicitly_confirmed",
+      "source_url": "https://visitpihtipudas.fi/tapahtuma/helluntaiseurakunnan-ruokajako-3/"
+    },
+    {
+      "id": "avustus-20261101-pihtipudas-viitasaari-2",
+      "category": "Ruoka-apu",
+      "record_kind": "dated_actual_assistance_event",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "2026_11_calendar_checked",
+      "municipality": "Pihtipudas",
+      "name": "Koulun hävikkiruoan jako",
+      "address": "Valorinteen kerhohuone, Puistotie 15 A, 44800 Pihtipudas",
+      "dates": [
+        "2026-11-06",
+        "2026-11-13",
+        "2026-11-20",
+        "2026-11-27"
+      ],
+      "start_time": "13:30",
+      "end_time": null,
+      "conditions": "Omat kannelliset astiat mukaan; kouluruoan ylijäämää saatavuuden mukaan.",
+      "price_status": "not_explicitly_confirmed",
+      "source_url": "https://visitpihtipudas.fi/tapahtuma/koulun-havikkiruoan-jako-10/"
+    },
+    {
+      "id": "avustus-20261101-pihtipudas-viitasaari-3",
+      "category": "Ruoka-apu",
+      "record_kind": "dated_actual_assistance_event",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "2026_11_calendar_checked",
+      "municipality": "Pihtipudas",
+      "name": "KeittoKeskiiviikko – ilmainen keittolounas",
+      "address": "Seurakuntakeskus Sallila, Sallilantie 4, 44800 Pihtipudas",
+      "dates": [
+        "2026-11-11"
+      ],
+      "start_time": "11:00",
+      "end_time": null,
+      "conditions": "Seurakunnan tarjoama ilmainen keittolounas.",
+      "price_status": "explicitly_free",
+      "source_url": "https://visitpihtipudas.fi/tapahtuma/keskiviikkokeitto/"
+    },
+    {
+      "id": "avustus-20261101-pihtipudas-viitasaari-4",
+      "category": "Ruoka-apu",
+      "record_kind": "dated_actual_assistance_event",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "2026_11_calendar_checked",
+      "municipality": "Viitasaari",
+      "name": "Seurakuntatalon ylijäämäruokajako ja ilmaiskirpputori",
+      "address": "Seurakuntatalo, Pappilantie 6, 44500 Viitasaari",
+      "dates": [
+        "2026-11-02"
+      ],
+      "start_time": "09:00",
+      "end_time": null,
+      "conditions": "Koulujen ja kauppojen ylijäämäruokaa; omat astiat mukaan mahdollisuuksien mukaan. Sisäänkäynti Takataskuun talon takapuolelta, autotallien jälkeen viimeinen ovi vasemmalla. Ilmaiskirpputori avoinna.",
+      "price_status": "food_distribution_fee_not_explicit;free_flea_market_confirmed",
+      "source_url": "https://www.viitasaarenseurakunta.fi/tapahtumat/2026-11-02/ruokajako"
+    }
+  ],
+  "notes": "4 tapahtumatyypin merkintää, yhteensä 8 päivättyä toteutuskertaa. Lähteissä vahvistettu aika on aloitusaika, ei oletettua päättymisaikaa. Maksuttomuus varmistettu nimenomaisesti vain keittolounaalle ja ilmaiskirpputorille. Ei sivuston muutoksia. Aiemmat duplikaatit tarkistetaan."
+}
