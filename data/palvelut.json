@@ -13,7 +13,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0002",
@@ -26,7 +28,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0003",
@@ -39,7 +43,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0004",
@@ -52,7 +58,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0005",
@@ -65,7 +73,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0006",
@@ -78,7 +88,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0007",
@@ -91,7 +103,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0008",
@@ -104,7 +118,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0009",
@@ -117,7 +133,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0010",
@@ -130,7 +148,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0011",
@@ -143,7 +163,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0012",
@@ -156,7 +178,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0013",
@@ -198,7 +222,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0014",
@@ -211,7 +237,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0015",
@@ -232,7 +260,9 @@
       "organizer_source_url": "https://ruoka-apu.fi/en/elintarvikkeiden-lahjoittajille/",
       "address": null,
       "publication_ready": false,
-      "data_quality_note": "Järjestäjän yhteystiedot vahvistettu Ruoka-apu.fi:n listasta, mutta jakelupaikka ja tulevat jakeluajat eivät ole vahvistettuja. Järjestäjän osoitetta ei saa esittää jakelupaikkana."
+      "data_quality_note": "Järjestäjän yhteystiedot vahvistettu Ruoka-apu.fi:n listasta, mutta jakelupaikka ja tulevat jakeluajat eivät ole vahvistettuja. Järjestäjän osoitetta ei saa esittää jakelupaikkana.",
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0016",
@@ -245,7 +275,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0017",
@@ -258,7 +290,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0018",
@@ -271,7 +305,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0019",
@@ -284,7 +320,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0020",
@@ -297,7 +335,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0021",
@@ -310,7 +350,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0022",
@@ -323,7 +365,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0023",
@@ -336,7 +380,9 @@
       "last_verified": null,
       "price_status": "check_source",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0024",
@@ -349,7 +395,9 @@
       "price_status": "free",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0025",
@@ -362,7 +410,9 @@
       "price_status": "free",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0026",
@@ -375,7 +425,9 @@
       "price_status": "free_consultation",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0027",
@@ -388,7 +440,9 @@
       "price_status": "free_consultation",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0028",
@@ -401,7 +455,9 @@
       "price_status": "free",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0029",
@@ -414,7 +470,9 @@
       "price_status": "free",
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0030",
@@ -428,7 +486,9 @@
       "verification_status": "historical_not_current",
       "last_verified": "2026-11-01",
       "event_date": "2026-05-19",
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0031",
@@ -442,7 +502,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0032",
@@ -456,7 +518,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0033",
@@ -470,7 +534,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0034",
@@ -484,7 +550,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0035",
@@ -498,7 +566,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0036",
@@ -512,7 +582,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0037",
@@ -526,7 +598,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0038",
@@ -540,7 +614,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0039",
@@ -554,7 +630,9 @@
       "verification_status": "public_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0040",
@@ -569,7 +647,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0041",
@@ -584,7 +664,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0042",
@@ -599,7 +681,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0043",
@@ -614,7 +698,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0044",
@@ -629,7 +715,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0045",
@@ -644,7 +732,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0046",
@@ -659,7 +749,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0047",
@@ -674,7 +766,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0048",
@@ -689,7 +783,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0049",
@@ -704,7 +800,9 @@
       "verification_status": "source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0050",
@@ -718,7 +816,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0051",
@@ -732,7 +832,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0052",
@@ -746,7 +848,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0053",
@@ -760,7 +864,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0054",
@@ -774,7 +880,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0055",
@@ -788,7 +896,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0056",
@@ -802,7 +912,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0057",
@@ -863,7 +975,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0058",
@@ -915,7 +1029,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0059",
@@ -976,7 +1092,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0060",
@@ -1037,7 +1155,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0061",
@@ -1098,7 +1218,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0062",
@@ -1168,7 +1290,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0063",
@@ -1229,7 +1353,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0064",
@@ -1290,7 +1416,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0065",
@@ -1324,7 +1452,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0066",
@@ -1358,7 +1488,9 @@
           "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
           "verification_status": "schedule_expansion_from_record_pending_individual_date_confirmation"
         }
-      ]
+      ],
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "other"
     },
     {
       "id": "av-0067",
@@ -1372,7 +1504,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0068",
@@ -1386,7 +1520,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0069",
@@ -1400,7 +1536,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0070",
@@ -1414,7 +1552,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0071",
@@ -1428,7 +1568,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0072",
@@ -1442,7 +1584,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0073",
@@ -1456,7 +1600,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0074",
@@ -1470,7 +1616,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0075",
@@ -1484,7 +1632,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0076",
@@ -1498,7 +1648,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0077",
@@ -1512,7 +1664,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0078",
@@ -1526,7 +1680,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0079",
@@ -1540,7 +1696,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0080",
@@ -1554,7 +1712,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0081",
@@ -1568,7 +1728,9 @@
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0082",
@@ -1582,7 +1744,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0083",
@@ -1596,7 +1760,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0084",
@@ -1610,7 +1776,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0085",
@@ -1624,7 +1792,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0086",
@@ -1638,7 +1808,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0087",
@@ -1652,7 +1824,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0088",
@@ -1666,7 +1840,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0089",
@@ -1680,7 +1856,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0090",
@@ -1694,7 +1872,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0091",
@@ -1708,7 +1888,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0092",
@@ -1722,7 +1904,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0093",
@@ -1736,7 +1920,9 @@
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0094",
@@ -1753,7 +1939,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0095",
@@ -1770,7 +1958,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0096",
@@ -1787,7 +1977,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0097",
@@ -1804,7 +1996,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0098",
@@ -1821,7 +2015,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0099",
@@ -1838,7 +2034,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0100",
@@ -1855,7 +2053,9 @@
       "recurrence": null,
       "record_type": "regional_service_lead",
       "publication_ready": false,
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "other"
     },
     {
       "id": "av-0101",
@@ -1872,7 +2072,9 @@
       "record_type": "national_referral",
       "publication_ready": true,
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0102",
@@ -1889,7 +2091,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "other"
     },
     {
       "id": "av-0103",
@@ -1905,7 +2109,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0104",
@@ -1921,7 +2127,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0105",
@@ -1938,7 +2146,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0106",
@@ -1954,7 +2164,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0107",
@@ -1970,7 +2182,9 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "event_date": null,
-      "recurrence": null
+      "recurrence": null,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0108",
@@ -1986,7 +2200,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0109",
@@ -2002,7 +2218,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0110",
@@ -2018,7 +2236,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0111",
@@ -2034,7 +2254,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0112",
@@ -2050,7 +2272,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0113",
@@ -2066,7 +2290,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0114",
@@ -2082,7 +2308,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0115",
@@ -2098,7 +2326,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0116",
@@ -2114,7 +2344,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0117",
@@ -2130,7 +2362,9 @@
       "last_verified": "2026-11-01",
       "event_date": null,
       "recurrence": null,
-      "publication_ready": false
+      "publication_ready": false,
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0118",
@@ -2146,7 +2380,9 @@
       "address": "Torikatu 29 A, 80100 Joensuu",
       "phone": "050 437 3068",
       "details": "Ystävätoimintaa erityisesti yksinäisille ikäihmisille. Ystävävälityksen puhelinpäivystys maanantaisin klo 19–20. Sähköposti jns-kontio.ystavavalitys@redcross.fi. Nuorten ystäväryhmä kokoontuu noin kahden viikon välein. Saatavuus ja mahdolliset kulut tarkistetaan myöhemmin.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/toiminta/ystavatoiminta"
+      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/toiminta/ystavatoiminta",
+      "event_data_status": "needs_individual_occurrences",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0119",
@@ -2162,7 +2398,9 @@
       "address": "Torikatu 29 A, 80100 Joensuu",
       "details": "SPR Joensuun osasto ilmoittaa järjestävänsä ruoka-aputoimintaa. Jakelupaikka, aikataulu, ehdot ja mahdolliset maksut vielä tarkistamatta. Yhteydenotot joensuu@punainenristi.fi. Osaston osoite ei välttämättä ole jakelupaikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/yhteystiedot",
-      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua."
+      "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
+      "event_data_status": "service_without_dated_events",
+      "source_kind": "red_cross"
     },
     {
       "id": "av-0120",
@@ -2299,7 +2537,9 @@
         "kasvikset",
         "hedelmat"
       ],
-      "food_supply_note": "Tuotteet vaihtelevat lahjoitusten mukaan."
+      "food_supply_note": "Tuotteet vaihtelevat lahjoitusten mukaan.",
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "food_aid_event_portal"
     },
     {
       "id": "av-0121",
@@ -2389,7 +2629,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0122",
@@ -2439,7 +2681,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0123",
@@ -2489,7 +2733,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0124",
@@ -2539,7 +2785,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0125",
@@ -2589,7 +2837,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0126",
@@ -2647,7 +2897,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0127",
@@ -2705,7 +2957,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0128",
@@ -2755,7 +3009,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0129",
@@ -2813,7 +3069,9 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     },
     {
       "id": "av-0130",
@@ -2863,7 +3121,20 @@
           "verification_status": "generated_from_recurring_schedule_not_individually_confirmed"
         }
       ],
-      "publication_ready": true
+      "publication_ready": true,
+      "event_data_status": "dated_instances_recorded",
+      "source_kind": "parish_or_church"
     }
-  ]
+  ],
+  "audit_metadata": {
+    "audit_date": "2026-11-01",
+    "scope": "structural_inventory_not_individual_source_verification",
+    "note": "Event schedules must be individually verified; source links do not replace detailed event records.",
+    "counts": {
+      "event_specific": 22,
+      "recurring_without_instances": 0,
+      "non_event": 56,
+      "requires_event_research": 52
+    }
+  }
 }
