@@ -1,0 +1,68 @@
+{
+  "records": [
+    {
+      "type": "new_service",
+      "municipality": "Järvenpää",
+      "name": "Lapsiperheiden Tuki ry – säännöllinen ruokajako",
+      "category": "Ruoka-apu",
+      "organizer": "Lapsiperheiden Tuki ry",
+      "address": "Anttilan koulun kentän reuna, Vanha Valtatie 40, Järvenpää (katunumero toissijaisesta lähteestä)",
+      "schedule": "Torstaisin klo 18.30 (järjestäjän kevät–syysaikataulu; talvikausi tarkistettava)",
+      "conditions": "Ota yhteyttä ennen ensimmäistä käyntiä puh. 045 173 4749. Jonoon aikaisintaan 15 min ennen. Omat kassit ja tarvittaessa astiat. Yksi hakija taloutta kohden. Kiireellinen ruoka-apu erikseen yhteydenotolla.",
+      "fee_status": "not_explicit_on_organizer_page",
+      "publication_ready": false,
+      "source_url": "https://www.lapsiperheidentukiry.com/ruoka-apu/",
+      "secondary_source_url": "https://arkikahvila.fi/apua-lahella/jarvenpaa",
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_schedule_confirmed_seasonal"
+    },
+    {
+      "type": "new_service",
+      "municipality": "Turku",
+      "name": "Pastapäivä – maksuton lounas Henrikinkirkolla",
+      "category": "Ruoka-apu",
+      "organizer": "Henrikinseurakunta",
+      "address": "Henrikinkirkon Ruususali, Peltolantie 2, 20720 Turku",
+      "schedule": "Parittomien viikkojen torstaisin klo 11–13, 24.9.–17.12.2026",
+      "conditions": "Kaikille avoin, maksuton lounas; myös juttuseuraa ja palveluohjausta.",
+      "fee_status": "explicitly_free",
+      "publication_ready": false,
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
+      "address_source_url": "https://turunseurakunnat.fi/tietoa-meista/kirkot-tilat-ja-hautausmaat/kirkot-ja-kappelit/henrikinkirkko/",
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_2026"
+    },
+    {
+      "type": "correction",
+      "municipality": "Turku",
+      "name": "Maaherran makasiinin maksuttomien ruokailujen osoitetäydennys",
+      "correct_address": "Henrikinkatu 10, 20500 Turku",
+      "applies_to": [
+        "Maanantain iltapala",
+        "Torstain nuorten aikuisten yhteisruokailu"
+      ],
+      "notes": "Aiemmassa kartoituksessa katuosoite puuttui. Torstain ruokailu edellyttää ennakkoilmoittautumista; lähteen ilmoittautumisaika 7.–24.9.2026 on jo päättynyt, osallistumismahdollisuus tarkistettava.",
+      "source_url": "https://turunseurakunnat.fi/tietoa-meista/kirkot-tilat-ja-hautausmaat/muut-tilat/maaherran-makasiini/",
+      "schedule_source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/"
+    },
+    {
+      "type": "correction",
+      "municipality": "Turku",
+      "name": "Koivulan aamupuuron syyskausi vahvistettu",
+      "address": "Savelkuja 3, Turku",
+      "schedule": "Perjantaisin 8.30–10, 4.9.–18.12.2026",
+      "notes": "Aiemmin kevään aikataulusta johdettu epävarmuus poistuu; 2026 syyskausi löytyy järjestäjän omalta sivulta.",
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/"
+    },
+    {
+      "type": "correction",
+      "municipality": "Järvenpää",
+      "name": "Jampan sydämen toistuvan ruokajaon vahvistus",
+      "address": "Rekikatu 1, Järvenpää",
+      "schedule": "Torstaisin klo 11.15 (vuoronumerot); ruokajako järjestäjän tapahtumatiedoissa",
+      "notes": "Ei uusi palvelu, vaan aiemmin kerätyn jakopisteen lähdevahvistus.",
+      "source_url": "https://www.jarvenpaanseurakunta.fi/kirkko-ja-tilat/jamppa-rekikatu-1"
+    }
+  ],
+  "notes": "Kaksi palveluehdokasta ja kolme tarkistettua korjausta. Lapsiperheiden Tuki ry:n kevät–syysaika ei välttämättä jatku marraskuussa, joten julkaisuvalmis false. Turun Pastapäivä on vahvistetusti maksuton. Ei sivuston muutoksia."
+}
