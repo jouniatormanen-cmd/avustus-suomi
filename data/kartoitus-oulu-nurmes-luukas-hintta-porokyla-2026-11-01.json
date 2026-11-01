@@ -1,0 +1,84 @@
+{
+  "records": [
+    {
+      "id": "oulu-luukkaan-puuroporinat-2026",
+      "municipality": "Oulu",
+      "locality": "Linnanmaa",
+      "name": "Luukkaan Puuroporinat",
+      "category": "Ruoka-apu",
+      "organizer": "Tuiran seurakunta",
+      "address": "Pyhän Luukkaan kappeli, Yliopistokatu 7, Oulu",
+      "schedule": "Maanantaisin klo 10–11, 17.8.–30.11.2026",
+      "conditions": "Ei viikolla 43",
+      "fee_status": "confirmed_free",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "oulu-luukkaan-diakonialounas-2026",
+      "municipality": "Oulu",
+      "locality": "Linnanmaa",
+      "name": "Pyhän Luukkaan maksuton diakonian lounas",
+      "category": "Ruoka-apu",
+      "organizer": "Tuiran seurakunta",
+      "address": "Pyhän Luukkaan kappeli, Yliopistokatu 7, Oulu",
+      "schedule": "Torstaisin klo 12–13, 17.9.–3.12.2026",
+      "conditions": "Ei viikolla 43",
+      "fee_status": "confirmed_free",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "oulu-hintta-diakonialounas-2026",
+      "municipality": "Oulu",
+      "locality": "Hintta",
+      "name": "Hintan maksuton diakonian lounas",
+      "category": "Ruoka-apu",
+      "organizer": "Oulujoen seurakunta",
+      "address": "Hintan seurakuntatalo, Hintantie 89, Oulu",
+      "schedule": "Torstaisin 5.11. ja 3.12.2026 klo 11–12; kerran kuukaudessa",
+      "conditions": "Päättyy ruoan loputtua, vapaaehtoinen lahjoitus mahdollinen",
+      "fee_status": "confirmed_free",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "nurmes-porokyla-aamupuuro-2026",
+      "municipality": "Nurmes",
+      "locality": "Porokylä",
+      "name": "Kaiken kansan ilmainen aamupuuro",
+      "category": "Ruoka-apu",
+      "organizer": "Nurmeksen seurakunta",
+      "address": "Seurakuntakeskus, Ikolantie 3, alakerran ovi, Nurmes",
+      "schedule": "Parittomien viikkojen tiistaisin klo 9–10.30, 8.9.2026 alkaen",
+      "fee_status": "confirmed_free",
+      "source_url": "https://www.nurmeksenseurakunta.fi/apua-ja-tukea/ruoka-apu",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "corrections": [
+    {
+      "municipality": "Nurmes",
+      "name": "Elämän Eväät ry elintarvikejakelu",
+      "note": "Järjestäjän tämänhetkisessä sivussa osoite Kehäkatu 72, 75500 Nurmes, perjantaisin 17–18. Hakutuloksessa näkyi vanha Laamilantie 1, joten sitä ei saa julkaista.",
+      "source_url": "https://www.nurmeksenseurakunta.fi/apua-ja-tukea/ruoka-apu"
+    },
+    {
+      "municipality": "Nurmes",
+      "name": "Seurakunnan leipäjakelu",
+      "note": "Tiistaisin 10–10.30, Ikolantie 3, käynti alakerran ovesta. Tarkista aiempi Nurmeksen kartoitus päällekkäisyyden välttämiseksi.",
+      "source_url": "https://www.nurmeksenseurakunta.fi/apua-ja-tukea/ruoka-apu"
+    },
+    {
+      "municipality": "Oulu",
+      "name": "Sofian keskiviikkolounas",
+      "note": "Maksullinen 2 euroa, rajattava maksuttomien palvelujen ulkopuolelle.",
+      "source_url": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/"
+    }
+  ],
+  "notes": "4 vahvistetusti maksutonta toistuvaa ateriapalvelua ja 3 korjaus-/duplikaattihuomiota. Nurmeksen hakukoneen välimuistissa eri osoite kuin avatussa järjestäjän sivussa. Ei sivuston muutoksia."
+}
