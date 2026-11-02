@@ -23,7 +23,7 @@
   "current_position": {
     "municipality": "Brändö",
     "category": "Kotiapu",
-    "status": "maksulliset palvelut rajattu pois; maksuttomien kotiapujen kartoitus kesken"
+    "status": "lähdekartoitus laajennettu Brändö/Eckerö/Finström -matriisiin; vain Brändössä ensisijaislähteitä tarkistettu, ei kunnista yhtään loppuunkäsitelty"
   },
   "findings": [
     {
@@ -90,10 +90,161 @@
     }
   ],
   "next_actions": [
-    "Brändö / Kotiapu: etsi maksuttomat vapaaehtois- ja järjestöpalvelut, älä hyväksy maksullista kotihoitoa.",
-    "Brändö / Vaatteet, Tavarat, Raha ja Asuminen järjestyksessä; taloudellisen avun löydös odottaa tarkistusta.",
-    "Eckerö vasta Brändön käsittelyn jälkeen."
+    "Brändö: käy järjestäjälähteet loppuun kaikissa kuudessa kategoriassa ja merkitse vasta sitten kunta valmiiksi.",
+    "Eckerö: tarkista kuusi kategoriaa lähteittäin; alustava kartoitus ei ole valmis tarkistus.",
+    "Finström: tarkista kuusi kategoriaa lähteittäin; alustava kartoitus ei ole valmis tarkistus."
   ],
   "registry_changes": 0,
-  "public_site_changes": 0
+  "public_site_changes": 0,
+  "category_review": [
+    {
+      "municipality": "Brändö",
+      "category": "Ruoka-apu",
+      "status": "organizer_confirmed_conditions_pending",
+      "verified_service_count": 0,
+      "notes": "Brändö-Kumlinge seurakunnan ruokakassi; ehdot vahvistettava."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Kotiapu",
+      "status": "paid_municipal_services_excluded_other_sources_pending",
+      "verified_service_count": 0,
+      "notes": "Kunnan maksulliset palvelut rajattu pois; vapaaehtoisapu selvittämättä."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Vaatteet",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Tavarat",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Raha",
+      "status": "organizer_confirmed_conditions_pending",
+      "verified_service_count": 0,
+      "notes": "Seurakunnan taloudellinen apu ja Ahvenanmaan diakoniarahasto; päällekkäisyys ja ehdot tarkistettava."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Asuminen",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Ruoka-apu",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Kotiapu",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Vaatteet",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Tavarat",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Raha",
+      "status": "diaconal_support_source_pending_specifics",
+      "verified_service_count": 0,
+      "notes": "Eckerö-Hammarlands församling; alueellinen diakoniarahasto mahdollinen paikallisen diakonian kautta."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Asuminen",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Finström",
+      "category": "Ruoka-apu",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Finström",
+      "category": "Kotiapu",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Finström",
+      "category": "Vaatteet",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Finström",
+      "category": "Tavarat",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    },
+    {
+      "municipality": "Finström",
+      "category": "Raha",
+      "status": "regional_fund_route_identified",
+      "verified_service_count": 0,
+      "notes": "Norra Ålands församling toimii paikallisena reittinä Ålands diakonifond -avustukseen; tarkat ehdot vahvistettava."
+    },
+    {
+      "municipality": "Finström",
+      "category": "Asuminen",
+      "status": "initial_source_screening_only",
+      "verified_service_count": 0,
+      "notes": "Ei päätelmää palvelujen puuttumisesta; järjestäjäkohtainen kattava tarkistus vielä tehtävä."
+    }
+  ],
+  "regional_sources": [
+    {
+      "name": "Ålands diakonifond",
+      "url": "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond",
+      "coverage": "Ahvenanmaa; paikalliset seurakunnat, myös Brändö, Eckerö ja Finström",
+      "category": "Raha",
+      "note": "Yksityinen ei hae suoraan rahastosta; paikallisen seurakunnan diakoniatyöntekijä hakee. Älä luo samaa rahastoa uutena itsenäisenä palveluna jokaiselle kunnalle ilman tietomallin ratkaisua."
+    },
+    {
+      "name": "Brändö-Kumlinge församling",
+      "url": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+      "coverage": "Brändö, Kumlinge",
+      "category": "Ruoka-apu/Raha",
+      "note": "Ruokakassi ja taloudellinen tuki yhteydenotolla."
+    },
+    {
+      "name": "Brändö kommun avgifter",
+      "url": "https://www.brando.ax/kommunen/avgifter/",
+      "coverage": "Brändö",
+      "category": "Kotiapu/Ruoka-apu",
+      "note": "Maksulliset koti- ja tukipalvelut eivät kuulu hakemistoon."
+    }
+  ]
 }
