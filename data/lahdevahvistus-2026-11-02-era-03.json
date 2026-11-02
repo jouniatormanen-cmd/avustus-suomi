@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-02",
+  "phase": "alkuperäislähteiden varmistus",
+  "checks": [
+    {
+      "service": "Kuopion nuorten asumisneuvonta",
+      "source_url": "https://www.kuopio.fi/palvelut/asumisneuvonta/",
+      "result": "Maksuton 18–29-vuotiaille, torstaisin 12–15 ilman ajanvarausta TyöNavigaattori Asemakatu 7; yhteyshenkilö Petri Ruuskanen 040 0579 772. Sivulla myös kesätauko 2026, ei nykyinen este.",
+      "status": "confirmed_free"
+    },
+    {
+      "service": "Lahden Talojen asumisneuvonta",
+      "source_url": "https://lahdentalot.fi/palvelut-asukkaalle/asumisneuvonta-ja-vuokravalvonta/",
+      "result": "Lahden Talojen asukkaille, ti/to 9–15 Trion palvelutorilla; lähteessä ei nimenomaista maksuttomuuslausetta.",
+      "status": "fee_not_explicitly_confirmed"
+    },
+    {
+      "service": "Kirkon Palveleva netti",
+      "source_url": "https://evl.fi/sanasto/palveleva-puhelin-ja-palveleva-netti/",
+      "result": "Nimenomaisesti maksuton verkkoviestipalvelu, vastataan viiden päivän kuluessa.",
+      "status": "confirmed_free"
+    },
+    {
+      "service": "Kirkon Palveleva puhelin",
+      "source_url": "https://evl.fi/apua-ja-tukea/kirkon-keskusteluapu/",
+      "result": "Puhelu operaattorin hinnaston mukainen, joka päivä 18–24.",
+      "status": "phone_charges_apply"
+    },
+    {
+      "service": "Kirkon Palveleva chat",
+      "source_url": "https://evl.fi/apua-ja-tukea/kirkon-keskusteluapu/",
+      "result": "Chat ma–pe 16–20; sivulla ei nimenomaista maksuttomuuslausetta.",
+      "status": "fee_not_explicitly_confirmed"
+    }
+  ],
+  "main_registry_count_checked": 211,
+  "public_site_changed": false,
+  "original_records_preserved": true
+}
