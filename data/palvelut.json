@@ -2137,10 +2137,12 @@
       "record_type": "national_online_service",
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "parish_or_church"
+      "source_kind": "parish_or_church",
+      "contact_channel": "Palveleva chat verkkosivulla, ma–pe klo 16–20",
+      "contact_field_audit": "web_only_service_no_physical_address_needed_2026-11-02"
     },
     {
       "id": "av-0104",
@@ -2154,10 +2156,12 @@
       "record_type": "national_online_service",
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "parish_or_church"
+      "source_kind": "parish_or_church",
+      "contact_channel": "Palveleva nettikirje verkkosivulla, viestin voi lähettää milloin tahansa",
+      "contact_field_audit": "web_only_service_no_physical_address_needed_2026-11-02"
     },
     {
       "id": "av-0105",
@@ -2552,18 +2556,19 @@
       "municipality": "jyväskylä",
       "name": "Ruoka-apu Lyydia – Keltinmäen kirkko",
       "organizer": "Ruoka-apu Lyydia (Jyväskylän Suvanto ry, Jyväskylän seurakunta ja yhteistyökumppanit)",
-      "address": null,
+      "address": "Keltinmäen kirkko, Jyväskylä",
       "details": "Parittomien viikkojen tiistaisin klo 14–14.30. Ruokakassin saamiseen tarvitaan seurakunnan diakoniatyöntekijän kirjoittama ruokaseteli; ruokakassi on maksuton ja sen voi saada joka toinen viikko. Ruokakassin sisältö riippuu lahjoituksista. ",
       "source_url": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
       "price_status": "free_with_food_voucher",
       "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": "Parittomien viikkojen tiistaisin klo 14–14.30",
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
       "access_requirement": "Ruokaseteli diakoniatyöntekijältä; avustus on maksuton mutta edellyttää ennakkohyväksyntää.",
-      "review_note": "Maksuttomuus ei tarkoita avointa ruokajakoa. Ruokaseteli vaaditaan."
+      "review_note": "Maksuttomuus ei tarkoita avointa ruokajakoa. Ruokaseteli vaaditaan.",
+      "contact_field_audit": "organizer_confirms_distribution_site_2026-11-02"
     },
     {
       "id": "av-0123",
