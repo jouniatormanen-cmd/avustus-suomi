@@ -1,0 +1,50 @@
+{
+  "round": 1,
+  "batch": "jatko-07",
+  "date": "2026-11-02",
+  "reviewed_files": [
+    "data/kartoitus-tampere-raisio-espoo-lohja-kangasala-monialaiset-2026-11-02.json",
+    "data/kartoitus-asuminen-tavara-2026-11-02-erä2.json"
+  ],
+  "record_count": 12,
+  "findings": [
+    {
+      "service": "Kotila Peltsu, Mummun ja vaarin tupa",
+      "finding": "Sama osoite ja osittain sama aika, mutta ateria on eri palvelusisältö kuin perheiden kohtaamispaikka.",
+      "action": "Säilytä erillisinä palveluina, linkitä toisiinsa; tarkista syyskauden päättymisen jälkeen jatkuvuus."
+    },
+    {
+      "service": "Raision Yhteinen pöytä ja ruokakassijako",
+      "finding": "Sama osoite ja osittain päällekkäinen aika, mutta eri palvelut ja ruokakassiin vaaditaan Raisio-kortti.",
+      "action": "Älä yhdistä ateriaa ja kassijakoa; kuvaa korttivaatimus vain kassijaossa."
+    },
+    {
+      "service": "Raision Kohtaamispaikka Olkkari",
+      "finding": "Tallennettu lähdeviite osoittaa Raision seurakunnan ruoka-apuun, ei yksilöi Olkkarin omaa palvelukuvausta.",
+      "action": "Vaihda palvelukohtaiseen lähteeseen ja tarkista aukiolo."
+    },
+    {
+      "service": "Espoon Ison Omenan talousneuvola",
+      "finding": "Parittomien ja parillisten viikkojen palvelutapa eroaa; 6.11.2026 poikkeus.",
+      "action": "Esitä poikkeus ja varmista ajantasainen palveluvuoro."
+    },
+    {
+      "service": "Kangasalan Yhteinen keittiö",
+      "finding": "Tarkka paikka ja kellonaika puuttuvat.",
+      "action": "Täydennä järjestäjältä."
+    },
+    {
+      "service": "Kuopion Puijolan ja Lahden Talojen asumisneuvonta",
+      "finding": "Maksuttomuutta ei vielä nimenomaisesti vahvistettu.",
+      "action": "Säilytä ehdokkaina, älä hyväksy julkaistavaksi ennen maksuttomuusvahvistusta."
+    },
+    {
+      "service": "Hope ry:n valtakunnalliset hakuehdot",
+      "finding": "Tämä on paikallisten Hope-merkintöjen yhteinen ehtotäydennys, ei uusi erillinen palvelu.",
+      "action": "Yhdistä ehtotiedot paikallisiin merkintöihin; älä laske uudeksi palveluksi."
+    }
+  ],
+  "verification": "aineiston sisäinen; ei uusia ulkoisia lähdevahvistuksia",
+  "original_records_preserved": true,
+  "public_site_changed": false
+}
