@@ -2172,15 +2172,17 @@
       "name": "SPR Nokian osasto – kertaluonteinen ystäväsaatto",
       "address": "Pirkkalaistori 1, 37100 Nokia",
       "phone": "040 547 3601",
-      "details": "Vapaaehtoinen voi tulla kotiin ja saattaa esimerkiksi terveyskeskukseen tai hammashoitoon ja takaisin. Tilaukset keskiviikkoisin. Taksikulujen maksuttomuutta ei vahvistettu; saattajan saatavuus vaihtelee.",
+      "details": "Vapaaehtoinen saattaja voi tulla kotiin ja saattaa esimerkiksi terveyskeskukseen tai hammashoitoon ja takaisin. Tilaukset keskiviikkoisin. Vapaaehtoisen apu ei sisällä taksi- tai muita matkakuluja; saatavuus vaihtelee. Pirkkalaistori 1 on osaston yhteysosoite, ei automaattisesti tapaamispaikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/nokian-osasto/toiminta/ystavatoiminta",
-      "price_status": "volunteer_free_travel_cost_check",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "publication_review_status": "organizer_source_and_volunteer_scope_reviewed",
+      "publication_review_reason": "Vapaaehtoisen SPR-avun maksuton osuus; mahdolliset omat matka- tai muut kulut jäävät asiakkaalle. Avun saatavuus varmistettava järjestäjältä."
     },
     {
       "id": "av-0110",
@@ -2343,20 +2345,22 @@
     },
     {
       "id": "av-0118",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "category": "Keskusteluapu",
       "municipality": "joensuu",
       "name": "SPR Joensuun osasto – ystävävälitys",
       "address": "Torikatu 29 A, 80100 Joensuu",
       "phone": "050 437 3068",
-      "details": "Ystävätoimintaa erityisesti yksinäisille ikäihmisille. Ystävävälityksen puhelinpäivystys maanantaisin klo 19–20. Sähköposti jns-kontio.ystavavalitys@redcross.fi. Nuorten ystäväryhmä kokoontuu noin kahden viikon välein. Saatavuus ja mahdolliset kulut tarkistetaan myöhemmin.",
+      "details": "Vapaaehtoinen ystävä erityisesti yksinäisille ikäihmisille. Ystävävälityksen puhelinpäivystys maanantaisin klo 19–20; sähköposti jns-kontio.ystavavalitys@redcross.fi. Henkilökohtaiset tapaamiset sovitaan erikseen. Nuorten ystäväryhmän vahvistamattomia kokoontumisia ei sisällytetä tähän palveluun.",
       "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/toiminta/ystavatoiminta",
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "publication_review_status": "organizer_source_and_volunteer_scope_reviewed",
+      "publication_review_reason": "Vapaaehtoisen SPR-avun maksuton osuus; mahdolliset omat matka- tai muut kulut jäävät asiakkaalle. Avun saatavuus varmistettava järjestäjältä."
     },
     {
       "id": "av-0119",
