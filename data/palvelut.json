@@ -3688,7 +3688,8 @@
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "needs_event_details_and_price_confirmation"
     },
     {
       "id": "av-0183",
@@ -3774,20 +3775,22 @@
       "id": "av-0187",
       "category": "Keskusteluapu",
       "municipality": "alajärvi",
-      "name": "SPR Alajärven ystäväkahvila ja Lehtimäen ystävävälitys",
-      "details": "Osaston ystäväkahvila sekä Lehtimäen ystävätoiminta ja ystävävälitys. Kokoontumispäivät tarkistettava. Kohtaamispaikka Aaltola, Lääkärintie 1, Alajärvi, on osaston yhteysosoite, ei vahvistettu kaikkien tapaamisten paikaksi.",
+      "name": "SPR Alajärven osaston Lehtimäen ystävävälitys",
+      "details": "Lehtimäen alueen vapaaehtoinen ystävätoiminta ja ystävävälitys. Henkilökohtaiset tapaamiset sovitaan osaston kanssa. Osaston Aaltolan yhteysosoitetta ei pidä tulkita tapaamispaikaksi. Osaston erillisen ystäväkahvilan kokoontumisajat eivät ole vahvistettuja, eikä kahvilaa sisällytetä tähän palveluun.",
       "source_url": "https://osastot.punainenristi.fi/osastot/alajarven-osasto/toiminta",
       "email": "alajarvi@osasto.punainenristi.fi",
       "organizer": "Suomen Punainen Risti",
       "address": null,
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "organizer_source_friend_service_only",
+      "publication_review_reason": "Järjestäjän lähteessä kuvattu vapaaehtoinen ystävävälitys; yhdistetyn kahvilan vahvistamattomat tapahtumat rajattu pois."
     },
     {
       "id": "av-0188",
@@ -3913,13 +3916,13 @@
     {
       "id": "av-0194",
       "municipality": "espoo",
-      "category": "Kotiapu",
+      "category": "Keskusteluapu",
       "name": "SPR Keski-Espoon läksyhelppi",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "laksyhelppi@sprkeskiespoo.fi",
       "address": null,
-      "details": "Läksyhelppi ja kouluyhteistyö. Opiskelun tukemista; tarkka toimipaikka ja aikataulu tarkistettava. Kotiapu-luokka on alustava ja vaatii taksonomian tarkistuksen.",
+      "details": "Läksyhelppi ja kouluyhteistyö: opiskelun tukemista. Ei kotona annettavaa kotiapua. Tarkka toimipaikka, osallistumisehdot, maksuttomuus ja aikataulu tarkistettava järjestäjältä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
       "price_status": "pending_review",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
@@ -3928,7 +3931,8 @@
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "needs_service_details_and_price_confirmation"
     },
     {
       "id": "av-0195",
