@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-02",
+  "scope": "data/palvelut.json",
+  "method": "Koko päärekisterin 211 merkinnän automaattinen rakenne- ja maksullisuusriskien sisäinen tarkistus; ei verkkolähteiden uutta vahvistusta.",
+  "total_records": 211,
+  "category_counts": {
+    "Ruoka-apu": 57,
+    "Kotiapu": 27,
+    "Raha-asiat": 22,
+    "Keskusteluapu": 81,
+    "Asuminen": 12,
+    "Vaatteet ja tavarat": 12
+  },
+  "missing_source_urls": 0,
+  "missing_municipality": 0,
+  "exact_normalized_same_municipality_name_duplicates": 0,
+  "high_priority": [
+    {
+      "id": "av-0030",
+      "finding": "19.5.2026 pidetty Porvoon vaatteidenvaihtopäivä on historiallinen tapahtuma, ei jatkuva palvelu.",
+      "recommendation": "Älä sisällytä jatkuvien palvelujen julkiseen hakuun; säilytä arkistotieto."
+    },
+    {
+      "id": "av-0120",
+      "finding": "Inkoon A-killan ruokajaon tiedoissa on 40 €/aikuinen/vuosi jäsenmaksu; ei ole selvää, edellytetäänkö jäsenyyttä ruoka-avun saamiseksi.",
+      "recommendation": "Selvitä jäsenyyden pakollisuus ja ruoka-avun maksuttomuus ennen julkaisua."
+    },
+    {
+      "id": "av-0105",
+      "finding": "Kirkon Palveleva puhelin sisältää liittymäsopimuksen mukaisen puhelumaksun.",
+      "recommendation": "Merkitse puhelukulut näkyvästi ja arvioi soveltuuko maksuttomien palvelujen rajaukseen."
+    },
+    {
+      "id": "av-0102",
+      "finding": "Hietaniemenkadun hätämajoitus maksuton mutta ruokailu ei välttämättä ole.",
+      "recommendation": "Pidä maksuton majoitus ja mahdollisesti maksulliset ateriat erillään."
+    },
+    {
+      "ids": [
+        "av-0057",
+        "av-0058",
+        "av-0059",
+        "av-0060",
+        "av-0061",
+        "av-0062",
+        "av-0063",
+        "av-0064",
+        "av-0065",
+        "av-0066",
+        "av-0067"
+      ],
+      "finding": "Useat Oulun seudun ruokailut on merkitty päättymään marras-joulukuussa 2026.",
+      "recommendation": "Älä lupaa jatkuvuutta vuoden 2027 puolella ilman uutta lähdevahvistusta."
+    }
+  ],
+  "notes": "Tarkka samannimisyys ei kata sisällöllisiä duplikaatteja. Palveluiden määrä ei ole sama kuin julkaisuvalmiiden maksuttomien palvelujen määrä.",
+  "original_records_preserved": true,
+  "public_site_changed": false
+}
