@@ -9,12 +9,13 @@
       "name": "ViaDia – Aleksanterin kirkon ruokajako",
       "details": "Milloin: Ti klo 12 ja to klo 13 | Missä: Aleksanterin kirkko, Pirkankatu, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://pirkanmaa.viadia.fi/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä."
     },
     {
       "id": "av-0002",
@@ -23,12 +24,13 @@
       "name": "ViaDia – Hervannan kirkon ruokajako",
       "details": "Milloin: Pe klo 13 | Missä: Lindforsinkatu 7, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://pirkanmaa.viadia.fi/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä."
     },
     {
       "id": "av-0003",
@@ -37,12 +39,13 @@
       "name": "ViaDia – Kangasalan ruokajako",
       "details": "Milloin: Ma ja ke klo 13 | Missä: Artturintie 14, 36220 Kangasala | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://pirkanmaa.viadia.fi/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä."
     },
     {
       "id": "av-0004",
@@ -288,12 +291,13 @@
       "name": "Talous- ja velkaneuvonta",
       "details": "Maksutonta apua talouden ja velkojen selvittämiseen.",
       "source_url": "https://www.oikeuspalveluvirasto.fi/talous-ja-velkaneuvonta/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "official_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Valtion talous- ja velkaneuvonta maksutonta. Ei myönnä rahallista tukea."
     },
     {
       "id": "av-0021",
@@ -316,12 +320,14 @@
       "name": "MIELI Kriisipuhelin",
       "details": "Keskusteluapua numerossa 09 2525 0111. Operaattori veloittaa puhelun hinnan.",
       "source_url": "https://mieli.fi/tukea-ja-apua/kriisipuhelin/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free_service_phone_charges_apply",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "other"
+      "source_kind": "other",
+      "publication_ready": false,
+      "review_note": "MIELI ei peri keskustelusta maksua, mutta soittajan operaattori veloittaa puhelusta. Ei täysin kuluton palvelukanava."
     },
     {
       "id": "av-0023",
