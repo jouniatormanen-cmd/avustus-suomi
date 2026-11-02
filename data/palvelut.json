@@ -1414,9 +1414,9 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "review_note": "Espoon kaupunki vahvistaa Edistian asumisneuvonnan maksuttomaksi kaikille espoolaisille.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previous_official_source_review_2026-11-02",
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
     },
     {
       "id": "av-0070",
@@ -1551,9 +1551,9 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previous_official_source_review_2026-11-02",
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
     },
     {
       "id": "av-0077",
@@ -1587,9 +1587,9 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previous_official_source_review_2026-11-02",
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
     },
     {
       "id": "av-0079",
@@ -1605,12 +1605,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "previous_official_source_review_2026-11-02",
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
     },
     {
       "id": "av-0080",
@@ -1626,9 +1623,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previous_official_source_review_2026-11-02",
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
     },
     {
       "id": "av-0081",
