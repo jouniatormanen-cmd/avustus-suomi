@@ -305,8 +305,8 @@
       "source_kind": "other",
       "review_note": "Porin kaupungin oma sivu sekä Satakunnan hyvinvointialueen palveluhakemisto ilmoittavat maksuttomuuden. Kyse on usean jakopisteen koontimerkinnästä, ei yhdestä Porin kaupungin järjestämästä jaosta; eri pisteiden järjestäjät ja ajat on eroteltava jatkossa.",
       "publication_ready": false,
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Koonti- tai valtakunnallinen ohjausmerkintä: palvelukohtainen julkaisumalli selvitettävä.",
+      "publication_review_status": "verified_multi_location_listing_requires_split",
+      "publication_review_reason": "Porin kaupungin ajantasainen sivu vahvistaa kuusi maksutonta ruokailu-/jakelupaikkaa, niiden ajat ja koulujen loma-aikarajauksen. Koontimerkintää ei julkaista yhtenä väärin kohdennettuna palveluna; erilliset pisteet voidaan tallentaa omina palveluinaan.",
       "audit_flags_2026_11_02": [
         "contact_channel_review",
         "distribution_location_review"
@@ -1693,7 +1693,7 @@
       "municipality": "turku",
       "name": "Food & Hope – Nummen seurakuntakoti",
       "address": "Papinkatu 2, Turku",
-      "details": "Food & Hope -yhteisöllinen maksuton ruokailu nuorille aikuisille ja opiskelijoille Nummen seurakuntakodilla, Papinkatu 2. Syyskausi 24.9.–17.12.2026. Ruokakassijakopäivät 24.9., 15.10., 19.11. ja 17.12. Ennakkoilmoittautuminen pakollista. Tarkista kellonaika järjestäjältä, koska lähteissä ristiriita (17–19 / 18–20).",
+      "details": "Food & Hope – yhteisöllinen ruokailu nuorille aikuisille ja opiskelijoille Nummen seurakuntakodilla, Papinkatu 2, torstaisin 24.9.–17.12.2026 klo 18–20. Ruokakassijakopäivät 19.11. ja 17.12. Ennakkoilmoittautuminen pakollista; ilmoittautumislinkki julkaistaan Food & Hopen Facebook-sivulla noin viikko ennen tapahtumaa.",
       "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
       "price_status": "free",
       "verification_status": "coorganizer_free_meal_and_parish_schedule_checked_2026-11-02",
@@ -1703,13 +1703,15 @@
       "source_kind": "other",
       "review_note": "Kansan Raamattuseura kuvaa Food & Hope -ruokailun ilmaiseksi; Katariinanseurakunnan syksyn 2026 sivu vahvistaa ruokakassijakopäivät 24.9., 15.10., 19.11., 17.12. ja ennakkoilmoittautumisen. Seurakunnan sivuilla esiintyy ristiriita klo 17–19 vs 18–20, joten tarkka kellonaika varmistettava järjestäjältä. Ruokakassien maksuttomuus pääteltävissä lahjoitusluonteesta, mutta erillinen maksuttomuusvahvistus puuttuu.",
       "access_requirement": "Nuoret aikuiset ja opiskelijat; ruokakassit taloudellisia haasteita kokeville; ennakkoilmoittautuminen pakollinen.",
-      "publication_ready": false,
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua.",
+      "publication_ready": true,
+      "publication_review_status": "approved_organizer_2026_autumn_schedule",
+      "publication_review_reason": "Järjestäjän ajantasainen syksyn 2026 aikataulu, paikka, kohderyhmä, ilmoittautumistapa ja yhteyshenkilö vahvistettu. Maksuttomuus kirjattu aiemmassa järjestäjätarkistuksessa.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ]
+      ],
+      "phone": "040 341 7135",
+      "email": "oona.hakanpaa@evl.fi"
     },
     {
       "id": "av-0086",
@@ -1740,7 +1742,7 @@
       "municipality": "turku",
       "name": "Koivulan aamupuuro",
       "address": "Koivulan seurakuntatalo, Turku",
-      "details": "Perjantaisin klo 8.30–10 syyskaudella 4.9.–18.12.2026. Yhteinen aamupuuro ja keskustelua; maksuttomuus varmistettava.",
+      "details": "Avoin aamupuuro Koivulan seurakuntatalolla perjantaisin klo 8.30–10, syyskausi 4.9.–18.12.2026. Aamupalan yhteydessä yhdessäoloa ja keskustelua.",
       "source_url": "https://turunseurakunnat.fi/henrikinseurakunta/toimintaa/aikuiset/",
       "price_status": "free",
       "verification_status": "parish_primary_sources_checked_2026-11-02",
@@ -1749,13 +1751,15 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "Vuoden 2026 syyskauden järjestäjän sivu vahvistaa aamupuuron; seurakunnan 2025 ohjelmalehti vahvistaa maksuttomuuden. Koivula pe 8.30–10 (4.9.–18.12.2026), Lauste ti 9.30–11 (1.9.–15.12.2026).",
-      "publication_ready": false,
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua.",
+      "publication_ready": true,
+      "publication_review_status": "approved_organizer_2026_autumn_schedule",
+      "publication_review_reason": "Järjestäjän ajantasainen syksyn 2026 aika, paikka ja yhteyshenkilö vahvistettu; maksuttomuus kirjattu aiemmassa seurakunnan ohjelmatarkistuksessa.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ]
+      ],
+      "phone": "040 341 7163",
+      "email": "marja-liisa.vilpponen@evl.fi"
     },
     {
       "id": "av-0088",
@@ -1763,7 +1767,7 @@
       "municipality": "turku",
       "name": "Lausteen aamupuuro",
       "address": "Lausteen seurakuntakoti, Turku",
-      "details": "Tiistaisin klo 9.30–11 syyskaudella 1.9.–15.12.2026. Yhteinen aamupuuro; maksuttomuus varmistettava.",
+      "details": "Avoin aamupuuro Lausteen seurakuntakodilla tiistaisin klo 9.30–11, syyskausi 1.9.–15.12.2026. Aamupalan yhteydessä yhdessäoloa ja keskustelua.",
       "source_url": "https://turunseurakunnat.fi/henrikinseurakunta/toimintaa/aikuiset/",
       "price_status": "free",
       "verification_status": "parish_primary_sources_checked_2026-11-02",
@@ -1772,13 +1776,15 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "Vuoden 2026 syyskauden järjestäjän sivu vahvistaa aamupuuron; seurakunnan 2025 ohjelmalehti vahvistaa maksuttomuuden. Koivula pe 8.30–10 (4.9.–18.12.2026), Lauste ti 9.30–11 (1.9.–15.12.2026).",
-      "publication_ready": false,
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua.",
+      "publication_ready": true,
+      "publication_review_status": "approved_organizer_2026_autumn_schedule",
+      "publication_review_reason": "Järjestäjän ajantasainen syksyn 2026 aika, paikka ja yhteyshenkilö vahvistettu; maksuttomuus kirjattu aiemmassa seurakunnan ohjelmatarkistuksessa.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ]
+      ],
+      "phone": "040 341 7493",
+      "email": "kaisa.lahdenkauppi@evl.fi"
     },
     {
       "id": "av-0089",
