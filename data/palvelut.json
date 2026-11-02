@@ -16,12 +16,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä."
     },
     {
       "id": "av-0002",
@@ -37,12 +34,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Lindforsinkatu 7, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
@@ -60,12 +54,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Artturintie 14, Kangasala",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
