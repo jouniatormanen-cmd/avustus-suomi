@@ -1,0 +1,35 @@
+{
+  "round": 1,
+  "batch": "jatko-02",
+  "date": "2026-11-02",
+  "status": "aineiston sisäinen tarkistus, ulkoiset lähteet vahvistettava",
+  "reviewed_files": [
+    "data/kartoitus-tampere-etelasavo-valtakunnallinen-maksuton-tuki-2026-11-02.json",
+    "data/kartoitus-turku-kaarina-karderoopi-2026-11-02.json"
+  ],
+  "findings": [
+    {
+      "service": "Eloisa ikääntyneiden asiakas- ja palveluohjaus",
+      "issue": "Vain neuvonta maksutonta, ei automaattisesti kotihoito. Kotiapu-luokitus vaatii täsmennyksen.",
+      "action": "Merkitse neuvonta ja mahdollisesti maksulliset palvelut erikseen."
+    },
+    {
+      "service": "Vaateapu Karderoopi",
+      "issue": "Asiointipisteen osoite ja aukiolo puuttuvat.",
+      "action": "Vahvista sijainti ja käytännöt järjestäjältä."
+    },
+    {
+      "service": "Hyvä kysymys",
+      "issue": "Yleismerkintä kattaa eri kohderyhmiä ja vaihtelevia chatteja.",
+      "action": "Erittele konkreettiset jatkuvat maksuttomat chatit."
+    },
+    {
+      "service": "Mummon Kammari",
+      "issue": "Asiointi-, saatto- ja ystäväavun päällekkäisyydet muiden Tampereen merkintöjen kanssa tarkistettava.",
+      "action": "Vertaile järjestäjä, kohderyhmä ja palvelusisältö ennen yhdistämistä."
+    }
+  ],
+  "publication_ready": false,
+  "public_site_changed": false,
+  "previous_report": "data/tarkistuskierros-1-era-01-2026-11-02.json"
+}
