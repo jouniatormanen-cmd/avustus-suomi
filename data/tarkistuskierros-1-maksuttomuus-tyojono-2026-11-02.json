@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-02",
+  "phase": "maksuttomuuden jatkotarkistus: lähdekohtainen työjono",
+  "total_registry_records": 211,
+  "unconfirmed_fee_records": 112,
+  "unconfirmed_by_category": {
+    "Ruoka-apu": 27,
+    "Kotiapu": 11,
+    "Raha-asiat": 6,
+    "Keskusteluapu": 67,
+    "Asuminen": 1
+  },
+  "priority_source_groups": [
+    {
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
+      "count": 12,
+      "ids": [
+        "av-0040",
+        "av-0041",
+        "av-0042",
+        "av-0043",
+        "av-0044",
+        "av-0045",
+        "av-0046",
+        "av-0047",
+        "av-0049",
+        "av-0158",
+        "av-0159",
+        "av-0160"
+      ]
+    },
+    {
+      "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
+      "count": 6,
+      "ids": [
+        "av-0004",
+        "av-0005",
+        "av-0006",
+        "av-0007",
+        "av-0008",
+        "av-0009"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
+      "count": 6,
+      "ids": [
+        "av-0189",
+        "av-0190",
+        "av-0191",
+        "av-0192",
+        "av-0193",
+        "av-0194"
+      ]
+    },
+    {
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
+      "count": 5,
+      "ids": [
+        "av-0153",
+        "av-0154",
+        "av-0155",
+        "av-0156",
+        "av-0157"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
+      "count": 4,
+      "ids": [
+        "av-0116",
+        "av-0117",
+        "av-0149",
+        "av-0150"
+      ]
+    },
+    {
+      "source_url": "https://pirkanmaa.viadia.fi/ruoka-apu/",
+      "count": 3,
+      "ids": [
+        "av-0001",
+        "av-0002",
+        "av-0003"
+      ]
+    },
+    {
+      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
+      "count": 3,
+      "ids": [
+        "av-0085",
+        "av-0087",
+        "av-0088"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/osastot/salon-osasto/toiminta/ylijaamaruokajakelu",
+      "count": 3,
+      "ids": [
+        "av-0138",
+        "av-0139",
+        "av-0140"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/branches/421/contact",
+      "count": 3,
+      "ids": [
+        "av-0163",
+        "av-0164",
+        "av-0165"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/osastot/meri-lapin-osasto/yhteystiedot",
+      "count": 3,
+      "ids": [
+        "av-0168",
+        "av-0169",
+        "av-0170"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/kuopion-osasto/toiminta/hyvinvointi",
+      "count": 3,
+      "ids": [
+        "av-0180",
+        "av-0181",
+        "av-0182"
+      ]
+    },
+    {
+      "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta/ruoka-apu",
+      "count": 2,
+      "ids": [
+        "av-0012",
+        "av-0014"
+      ]
+    }
+  ],
+  "notes": [
+    "Lähdekohtainen ryhmittely estää saman järjestäjäsivun tarpeettoman toistotarkastamisen.",
+    "Tämä raportti on rakenteellinen työjono, ei uusi riippumaton lähdevahvistus.",
+    "Maksuttomuutta ei merkitä vahvistetuksi ilman lähdenäyttöä."
+  ],
+  "public_site_changed": false,
+  "records_deleted": 0
+}
