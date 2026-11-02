@@ -413,7 +413,7 @@
       "publication_review_status": "source_reviewed_2026-11-02",
       "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
       "contact_channel": "Sähköinen asiointi, chat ja toimipaikkakohtainen puhelinneuvonta",
-      "contact_field_audit": "national_service_no_single_address_or_phone_2026-11-02"
+      "contact_field_audit": "no_single_national_contact_expected_online_and_local_offices_2026-11-02"
     },
     {
       "id": "av-0021",
@@ -460,7 +460,7 @@
       "category": "Keskusteluapu",
       "municipality": "helsinki",
       "name": "Helsingin ruoka-avun sosiaalityö",
-      "details": "Ruoka-avun etsivä työ: neuvontaa, keskustelutukea ja ohjausta palveluihin ruoka-avun piirissä oleville tai sitä tarvitseville. Tavattavissa ruokajaoissa, puhelimitse ja tekstiviestillä; asiointi mahdollista anonyymisti.",
+      "details": "Helsingin ruoka-avun etsivä työ tarjoaa maksutonta neuvontaa ja palveluohjausta ruokajakelujen asiakkaille ja apua tarvitseville. Työntekijät Eila Silinch, 040 675 4790, eila.silinch@hel.fi, ja Markus Honkonen, 040 675 4789, markus.honkonen@hel.fi. Voit ottaa yhteyttä myös tekstiviestillä ja asioida nimettömästi. Henkilötiedot tulee tietosuojasyistä antaa puhelimessa.",
       "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/aikuissosiaalityo/etsiva-lahityo/ruoka-avun-etsiva-tyo",
       "verification_status": "city_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
@@ -471,7 +471,10 @@
       "review_note": "Helsingin kaupungin ruoka-avun etsivä työ tarjoaa maksutonta sosiaaliohjausta ja palveluihin hakeutumisen tukea ruokajaoissa ja puhelimitse. Ei ruoan jakamista itsessään. Asiakas voi asioida anonyymisti.",
       "publication_ready": true,
       "publication_review_status": "source_reviewed_2026-11-02",
-      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
+      "phone": "040 675 4790",
+      "email": "eila.silinch@hel.fi",
+      "contact_field_audit": "verified_city_primary_source_2026-11-02"
     },
     {
       "id": "av-0024",
@@ -588,17 +591,20 @@
       "municipality": "porvoo",
       "name": "Vanhustyön keskusliiton maksuton korjausneuvonta",
       "address": null,
-      "details": "Ikääntyneiden asumisen korjausneuvontaa; valtakunnallinen palvelu, jota Porvoon kaupunki suosittelee senioreiden palvelusivulla. Tarkista palvelun tarkat ehdot järjestäjältä.",
-      "source_url": "https://www.porvoo.fi/hyvinvointi-ja-turvallisuus/senioreiden-hyvinvointi/",
+      "details": "Vanhustyön keskusliiton maksuton korjausneuvonta auttaa yli 65-vuotiaita ja heidän läheisiään asunnon korjaus- ja muutostarpeissa sekä avustusten hakemisessa. Korjausneuvoja Timo Pakkanen, 0400 371 586, timo.pakkanen@vtkl.fi. Korjausneuvonta on maksutonta, mutta itse korjaustyöt eivät ole.",
+      "source_url": "https://vtkl.fi/toiminta/korjausneuvonta/",
       "price_status": "free",
       "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
+      "phone": "0400 371 586",
+      "email": "timo.pakkanen@vtkl.fi",
+      "contact_field_audit": "verified_organizer_staff_directory_2026-11-02"
     },
     {
       "id": "av-0030",
@@ -2093,12 +2099,14 @@
       "additional_source_url": "https://evl.fi/apua-ja-tukea/suru-ja-kriisi/",
       "price_status": "free_guidance_conditional_aid",
       "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "record_type": "national_referral",
       "publication_ready": true,
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "parish_or_church"
+      "source_kind": "parish_or_church",
+      "contact_channel": "Oman asuinalueen seurakunnan diakoniatyöntekijä; yhteystiedot seurakuntahausta",
+      "contact_field_audit": "national_guidance_local_parish_contact_required_2026-11-02"
     },
     {
       "id": "av-0102",
@@ -2197,10 +2205,12 @@
       "record_type": "national_referral",
       "publication_ready": true,
       "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "parish_or_church"
+      "source_kind": "parish_or_church",
+      "contact_channel": "Oman asuinalueen seurakunnan diakoniatyöntekijä hakee avustusta hakijan kanssa",
+      "contact_field_audit": "national_fund_application_via_local_parish_2026-11-02"
     },
     {
       "id": "av-0107",
@@ -4400,8 +4410,8 @@
       "municipality": "salo",
       "name": "Salon seurakunnan PikkuHelppi",
       "source_url": "https://www.salonseurakunta.fi/lapsillejalapsiperheille",
-      "phone": null,
-      "details": "Maksuton lastenhoito perheen kotona sisällä tai ulkona, tarvittaessa keskustelua arjesta. 1–4 käyntiä syys- ja kevätkaudella, enintään 3 tuntia kerrallaan.",
+      "phone": "044 774 5334",
+      "details": "Salon seurakunnan maksuton PikkuHelppi tarjoaa lastenhoitoa ensisijaisesti perheen kotona, 1–4 kertaa syys- ja kevätkaudella, enintään kolme tuntia kerrallaan. Tiedustelut Johanna Rytkönen, 044 774 5334, johanna.rytkonen@evl.fi. Ilmoittautumislinkki löytyy seurakunnan palvelusivulta.",
       "free_service": true,
       "verification_status": "organizer_primary_source_checked_2026-11-02",
       "publication_ready": true,
@@ -4409,7 +4419,9 @@
       "last_verified": "2026-11-02",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "email": "johanna.rytkonen@evl.fi",
+      "contact_field_audit": "verified_organizer_primary_source_2026-11-02"
     },
     {
       "id": "av-0212",
