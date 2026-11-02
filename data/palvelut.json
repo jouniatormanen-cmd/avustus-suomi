@@ -727,7 +727,10 @@
       "review_note": "Saman palvelun rinnakkaismerkintä av-0158 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta. SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa.",
       "publication_ready": false,
       "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava."
+      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "duplicate_review_group": "av-0040",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0041",
@@ -790,7 +793,10 @@
       "review_note": "Saman palvelun rinnakkaismerkintä av-0160 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta. SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa.",
       "publication_ready": false,
       "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava."
+      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "duplicate_review_group": "av-0043",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0044",
@@ -855,7 +861,10 @@
       "review_note": "Paikallisen SPR-osaston toiminta ja SPR:n yleiset ystävätoiminnan maksuttomuusperiaatteet tarkistettu. Vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota; asiakkaan omat matka-, kahvila- tai pääsylippukulut voivat jäädä maksettaviksi. Yksittäisen paikallisen palvelun tarkat kulukäytännöt varmistettava järjestäjältä.",
       "publication_ready": false,
       "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava."
+      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "duplicate_review_group": "av-0046",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0047",
@@ -896,7 +905,10 @@
         "av-0151"
       ],
       "publication_ready": false,
-      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot."
+      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot.",
+      "duplicate_review_group": "av-0048",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0049",
@@ -2832,7 +2844,10 @@
       "event_data_status": "service_without_dated_events",
       "exclude_from_free_service_search": true,
       "possible_duplicate_of": "av-0048",
-      "duplicate_status": "same_friend_service_as_av-0048"
+      "duplicate_status": "same_friend_service_as_av-0048",
+      "duplicate_review_group": "av-0048",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0152",
@@ -2962,7 +2977,10 @@
       "exclude_from_free_service_search": true,
       "duplicate_status": "same_organizer_same_municipality_same_service_same_source",
       "possible_duplicate_of": "av-0040",
-      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0040. Maksuttomuus on vielä erikseen vahvistettava."
+      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0040. Maksuttomuus on vielä erikseen vahvistettava.",
+      "duplicate_review_group": "av-0040",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0159",
@@ -2984,7 +3002,10 @@
       "exclude_from_free_service_search": true,
       "duplicate_status": "same_organizer_same_municipality_same_service_same_source",
       "possible_duplicate_of": "av-0046",
-      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0046. Maksuttomuus on vielä erikseen vahvistettava."
+      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0046. Maksuttomuus on vielä erikseen vahvistettava.",
+      "duplicate_review_group": "av-0046",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0160",
@@ -3006,7 +3027,10 @@
       "exclude_from_free_service_search": true,
       "duplicate_status": "same_organizer_same_municipality_same_service_same_source",
       "possible_duplicate_of": "av-0043",
-      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0043. Maksuttomuus on vielä erikseen vahvistettava."
+      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0043. Maksuttomuus on vielä erikseen vahvistettava.",
+      "duplicate_review_group": "av-0043",
+      "duplicate_review_status": "same_service_confirmed_2026-11-02",
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
     },
     {
       "id": "av-0161",
