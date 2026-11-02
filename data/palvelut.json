@@ -2835,12 +2835,14 @@
       "email": "salo@osasto.punainenristi.fi",
       "details": "Koulujen ylijäämäruoan jakelua Halikossa. Tarkka jakelupaikka koululla, kellonaika, osallistumisehdot ja tulevat tapahtumakerrat on tarkistettava Ruoka-apu.fi:stä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/salon-osasto/toiminta/ylijaamaruokajakelu",
-      "price_status": "pending_review",
+      "price_status": "free_surplus_food_subject_to_availability",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "publication_ready": true,
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "approved_recurring_service_check_schedule",
+      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä."
     },
     {
       "id": "av-0139",
@@ -2850,14 +2852,16 @@
       "address": "Hermannin koulu, Salo",
       "phone": "02 733 4106",
       "email": "salo@osasto.punainenristi.fi",
-      "details": "Koulujen ylijäämäruoan jakelua Salon keskustassa. Kellonaika ja tarkka jakelupiste koululla vielä tarkistamatta.",
+      "details": "Koulujen ylijäämäruoan jakelua Salon keskustassa. Tarkista ajantasainen jakeluaika ja tarkka paikka Ruoka-apu.fi-palvelusta ennen käyntiä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/salon-osasto/toiminta/ylijaamaruokajakelu",
-      "price_status": "pending_review",
+      "price_status": "free_surplus_food_subject_to_availability",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "publication_ready": true,
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "approved_recurring_service_check_schedule",
+      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä."
     },
     {
       "id": "av-0140",
@@ -2867,14 +2871,16 @@
       "address": "Salon lukio, Salo",
       "phone": "02 733 4106",
       "email": "salo@osasto.punainenristi.fi",
-      "details": "Koulujen ylijäämäruoan jakelua Salon lukion yhteydessä. Kellonaika, jakelupiste ja tulevat tapahtumapäivät vielä tarkistamatta.",
+      "details": "Koulujen ylijäämäruoan jakelua Salon lukion yhteydessä. Tarkista jakeluajat ja tarkka paikka Ruoka-apu.fi-palvelusta ennen käyntiä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/salon-osasto/toiminta/ylijaamaruokajakelu",
-      "price_status": "pending_review",
+      "price_status": "free_surplus_food_subject_to_availability",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "publication_ready": true,
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "approved_recurring_service_check_schedule",
+      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä."
     },
     {
       "id": "av-0141",
