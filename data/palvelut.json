@@ -314,8 +314,8 @@
       "id": "av-0017",
       "category": "Ruoka-apu",
       "municipality": "helsinki",
-      "name": "Hietaniemenkadun palvelukeskus",
-      "details": "Asunnottomille maksuton aamiainen ja peseytymismahdollisuus. Lounas ja päivällinen ovat maksullisia.",
+      "name": "Hietaniemenkadun palvelukeskus – maksuton aamiainen hätämajoittujille",
+      "details": "Maksuton aamiainen vain palvelukeskuksen hätämajoituksessa yöpyville. Lisäksi peseytymismahdollisuus. Lounas ja päivällinen maksavat 1,20 € kumpikin eivätkä sisälly maksuttomaan apuun. Ei kaikille avoin ruokajako.",
       "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/asunnottomien-palvelut/asunnottomien-ruoka-ja-hygieniapalvelut",
       "verification_status": "city_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
@@ -325,11 +325,13 @@
       "source_kind": "other",
       "review_note": "Maksuton aamiainen vain hätämajoituksessa yöpyville kaupungin palvelukeskuksen yksityiskohtaisen sivun mukaan. Suihku, sauna ja vaatteiden pesu käytössä; lounas ja päivällinen maksavat 1,20 euroa kumpikin.",
       "access_requirement": "Maksuton aamiainen hätämajoituksessa yöpyville.",
-      "publication_ready": false,
+      "publication_ready": true,
       "audit_flags_2026_11_02": [
         "contact_channel_review",
         "distribution_location_review"
-      ]
+      ],
+      "publication_review_status": "approved_strict_access_and_free_scope",
+      "publication_review_reason": "Kaupungin ensisijainen lähde tarkistettu 2.11.2026; rajattu vain hätämajoituksen asukkaiden maksuttomaan aamiaiseen."
     },
     {
       "id": "av-0018",
