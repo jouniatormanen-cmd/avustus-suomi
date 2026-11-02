@@ -1459,10 +1459,10 @@
       "municipality": "porvoo",
       "name": "Porvoon seurakunnan diakoniavastaanotto",
       "address": "Lundinkatu 5, Porvoo",
-      "details": "Diakonian keskustelu- ja avustusasioiden ajanvaraus tiistaisin klo 11–14, puh. 019 661 1231. Vastaanotto tiistaisin klo 10–11, Lundinkatu 5, 1. kerros. Keskustelutuki ja palveluohjaus; taloudelliset avustukset harkinnanvaraisia.",
-      "source_url": "https://www.porvoonseurakunta.fi/rahahuoliin",
+      "details": "Luottamuksellista keskusteluapua ja elämäntilanteen selvittelyä diakonian työntekijän kanssa. Ajanvaraus tiistaisin numerosta 019 661 1231 (verkkosivuilla vaihtelevasti klo 10–14 tai 11–14); vastaanotto tiistaisin klo 10–11, Lundinkatu 5. Varmista ajanvarauksen aika puhelimitse.",
+      "source_url": "https://www.porvoonseurakunta.fi/apua-ja-tukea",
       "price_status": "check_source",
-      "verification_status": "parish_primary_source_contact_and_hours_checked_2026-11-02_price_pending",
+      "verification_status": "local_parish_service_confirmed_price_not_explicit_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
@@ -1471,7 +1471,7 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
       "phone": "019 661 1231",
-      "review_note": "Seurakunnan sivu vahvistaa osoitteen, vastaanottoajan ja avustuksen harkinnanvaraisuuden; keskustelupalvelun maksuttomuutta ei mainita yksiselitteisesti. Jätetty maksuttomuus avoimeksi."
+      "review_note": "Porvoon seurakunnan virallinen sivu vahvistaa luottamuksellisen diakonian keskustelutuen ja vastaanoton, mutta ei ilmaise keskustelutapaamisen maksuttomuutta sanallisesti. Ei muuteta maksuttomuusluokkaa ilman nimenomaista vahvistusta. Ajanvaraussivulla ristiriitaisia tiistain aikoja (10–14 / 11–14); tarkista puhelimitse."
     },
     {
       "id": "av-0095",
