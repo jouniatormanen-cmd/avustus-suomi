@@ -1,0 +1,47 @@
+{
+  "round": 1,
+  "batch": 1,
+  "date": "2026-11-02",
+  "scope": "Ensimmäiset 10 data-kansion tiedostoa aakkosjärjestyksessä",
+  "file_count": 10,
+  "status": "osittain tarkistettu; ei koko erän hyväksyntää",
+  "findings": [
+    {
+      "service": "Suolahden seurakuntatalon aamupuuro",
+      "source_file": "data/kartoitus-aanekoski-suolahti-sumiainen-konginkangas-sannolliset-palvelut-2026-11-01.json",
+      "result": "korjattava",
+      "verified": "22.10. ja 29.10.2026 tapahtumat klo 7.30–9.30; yleissivu sanoo klo 8–10. Tapahtumakohtainen aika ensisijainen; tulevat päivät tarkistettava erikseen. Vapaaehtoinen maksu, ei pakollista maksua.",
+      "sources": [
+        "https://www.aanekoskenseurakunta.fi/tapahtumat/2026-10-29/aamupuuro",
+        "https://www.aanekoskenseurakunta.fi/tule-mukaan/aikuisille"
+      ]
+    },
+    {
+      "service": "Asikkalan Maijan kammarin ruokajako ja diakonin päivystys",
+      "source_file": "data/kartoitus-asikkala-heinola-akaa-pyhtaa-2026-11-01.json",
+      "result": "vahvistettu lähteestä perustiedot",
+      "verified": "Ruokajako keskiviikkoisin klo 10–11, diakonin tapaaminen klo 9–11, Rusthollintie 4. Ruokajaon maksuttomuus tarkistettava erikseen eksplisiittisesti.",
+      "sources": [
+        "https://www.asikkalanseurakunta.fi/apua-ja-tukea/arjen-ongelmat"
+      ]
+    },
+    {
+      "service": "Maijan kammarin diakoniaruokailu",
+      "result": "ei lisätä maksuttomana",
+      "verified": "Tiistain ruokailun hinta 3 euroa; eri palvelu kuin keskiviikon ruokajako.",
+      "sources": [
+        "https://www.asikkalanseurakunta.fi/tapahtumat/2026-11-03/diakoniaruokailu"
+      ]
+    },
+    {
+      "service": "Tampereen asumisneuvonta",
+      "source_file": "data/kartoitus-asuminen-tavara-kotiapu-2026-11-02.json",
+      "result": "vahvistettu lähteestä",
+      "verified": "Maksuton kaikille tamperelaisille asumismuodosta riippumatta, puhelin 03 565 74700 ti 9–12, to 12–15. Kaupungintalon yleisen asiakaspalvelun puhelinajat eivät ole samat.",
+      "sources": [
+        "https://www.tampere.fi/kaupunki-ja-paatoksenteko/asioi-kaupungin-kanssa/kaupungintalon-asiakaspalvelu.html"
+      ]
+    }
+  ],
+  "pending": "Muiden ensimmäisen 10 tiedoston jokaisen palvelurivin lähde- ja päällekkäisyystarkistus kesken. Julkaisu estetty kunnes koko kierros valmis."
+}
