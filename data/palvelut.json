@@ -3011,7 +3011,10 @@
       "event_data_status": "service_without_dated_events",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "excluded_duplicate",
+      "duplicate_of": "av-0116",
+      "publication_review_reason": "Helsingin yhteinen saattajavälitys on jo julkaisuvalmiina av-0116; Töölön osaston merkintä on saman palvelun rinnakkaiskuvaus."
     },
     {
       "id": "av-0150",
