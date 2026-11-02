@@ -1640,7 +1640,7 @@
       "municipality": "hartola",
       "name": "Tainionvirran seurakunnan taloudellinen diakonia-apu",
       "address": null,
-      "details": "Harkinnanvaraisia osto- ja maksukortteja, lääkemaksusitoumuksia tai kertaluonteista laskuapua. Maksuton neuvonta; palvelee myös Sysmää.",
+      "details": "Maksuton taloudellisen tilanteen selvittely ja diakoninen neuvonta Hartolan ja Sysmän asukkaille. Harkinnanvaraisesti voidaan myöntää osto- tai maksukortteja, lääkemaksusitoumuksia tai kertaluonteista laskuapua; avustusta ei luvata etukäteen. Ota yhteys seurakunnan diakoniaan.",
       "source_url": "https://hyvinvointiopas.paijatha.fi/palveluhakemisto/taloudellinen-avustaminen-2/",
       "price_status": "free_conditional_aid",
       "verification_status": "source_reviewed_2026-11-01",
@@ -1648,11 +1648,15 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava. Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "regional_service_canonical",
+      "publication_review_reason": "Tainionvirran seurakunnan sama taloudellisen avun palvelu Hartolassa ja Sysmässä. Yksi palvelutietue, alue molemmat kunnat; avustus harkinnanvaraista.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
+      ],
+      "service_municipalities": [
+        "hartola",
+        "sysmä"
       ]
     },
     {
@@ -1670,11 +1674,12 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava. Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_review_status": "excluded_same_regional_service",
+      "publication_review_reason": "Sama Tainionvirran seurakunnan taloudellisen avun palvelu kuin av-0083; molemmat kunnat sisältyvät ensisijaiseen tietueeseen.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "duplicate_of": "av-0083"
     },
     {
       "id": "av-0085",
