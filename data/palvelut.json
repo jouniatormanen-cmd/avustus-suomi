@@ -1523,7 +1523,7 @@
       "municipality": "loppi",
       "name": "Lopen seurakunnan PikkuHelppi lapsiperheille",
       "address": null,
-      "details": "Arjen tukea lapsiperheille; palvelun saatavuus ja maksuttomuus tarkistettava suoraan seurakunnalta. Yhteys 050 426 4100.",
+      "details": "Lopen seurakunnan maksuton PikkuHelppi tarjoaa lapsiperheille tilapäistä arjen apua. Käynti kestää kaksi tuntia ja käyntejä on yleensä enintään neljä kaudessa. Ota yhteyttä seurakuntaan numerossa 050 426 4100. Saatavuus vaihtelee esimerkiksi työntekijöiden lomien aikana.",
       "source_url": "https://www.lopenseurakunta.fi/pikkuhelppi",
       "price_status": "free",
       "verification_status": "parish_primary_source_checked_2026-11-02",
@@ -1533,9 +1533,9 @@
       "source_kind": "parish_or_church",
       "access_requirement": "Pienten lasten huoltajille; ennakkovaraus; yleensä enintään neljä kahden tunnin käyntiä syys- tai kevätkaudessa.",
       "review_note": "Seurakunta vahvistaa palvelun maksuttomaksi. Kaksi tuntia kerrallaan arkipäivisin, mahdollinen ilta-aika sovittaessa. Työntekijöiden lomilla tauolla.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "parish_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän lähde vahvistaa maksuttomuuden ja palveluehdot. Aiempi ristiriitainen maininta korjattu."
     },
     {
       "id": "av-0076",
