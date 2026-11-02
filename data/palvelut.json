@@ -171,8 +171,8 @@
       "name": "SPR Porvoo – ruokajako",
       "details": "Tiistaisin ja perjantaisin klo 12 | Gammelbackan hyvinvointikeskus, Tornipolku 10. Numerolappujen arvonta klo 11.40. Oma kassi mukaan. Maksuton vähävaraisille.",
       "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta/ruoka-apu",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "price_status": "check_source",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
@@ -180,7 +180,8 @@
       "publication_ready": false,
       "exclude_from_free_service_search": true,
       "possible_duplicate_of": "av-0014",
-      "duplicate_status": "same_distribution_as_av-0014"
+      "duplicate_status": "same_distribution_as_av-0014",
+      "review_note": "SPR:n Porvoon osasto vahvistaa ruokajaon Gammelbackassa tiistaisin ja perjantaisin klo 12, osoitteessa Tornipolku 10. Ruokakassin saa vähävarainen ilman tulotietojen esittämistä. Maksuttomuus ei ole sivulla sanallisesti yksiselitteinen, joten price_status jätetty tarkistettavaksi. Tarkista myös, ovatko av-0012 ja av-0014 sama palvelu ennen yhdistämistä."
     },
     {
       "id": "av-0014",
@@ -189,8 +190,8 @@
       "name": "SPR Porvoon osasto – Gammelbackan ruokajako",
       "details": "Tornipolku 10, Gammelbackan hyvinvointikeskus. Tiistaisin ja perjantaisin klo 12 alkaen. Numerolappujen arvonta klo 11.40. Maksuton vähävaraisille, ei tuloselvitystä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta/ruoka-apu",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "price_status": "check_source",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
@@ -198,7 +199,8 @@
       "merged_equivalent_ids": [
         "av-0012"
       ],
-      "publication_ready": false
+      "publication_ready": false,
+      "review_note": "SPR:n Porvoon osasto vahvistaa ruokajaon Gammelbackassa tiistaisin ja perjantaisin klo 12, osoitteessa Tornipolku 10. Ruokakassin saa vähävarainen ilman tulotietojen esittämistä. Maksuttomuus ei ole sivulla sanallisesti yksiselitteinen, joten price_status jätetty tarkistettavaksi. Tarkista myös, ovatko av-0012 ja av-0014 sama palvelu ennen yhdistämistä."
     },
     {
       "id": "av-0015",
@@ -273,17 +275,17 @@
       "municipality": "porvoo",
       "name": "SPR Porvoon osasto – ystävä- ja saattamistoiminta",
       "details": "Vapaaehtoisten ystävätoimintaa sekä saattamisapua esimerkiksi vastaanotolle. Kysy saatavuus ja ehdot osastolta.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/porvoon-osasto/toiminta/ystavatoiminta",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "publication_ready": false,
       "duplicate_review_pending": true,
       "possible_duplicate_of": "av-0024",
-      "review_note": "Sisällöllinen kaksoiskappale av-0024:n kanssa (SPR Porvoo, ystävä- ja saattamistoiminta). Säilytetään alkuperäinen tietue, mutta ei tarjota erillisenä hakutuloksena.",
+      "review_note": "SPR Porvoon osasto vahvistaa ystäväpalvelun maksuttomaksi. Saattamistoiminnan mahdolliset omat matka- ja pääsymaksut eivät sisälly maksuttomuuslupaukseen.",
       "duplicate_status": "confirmed_same_organizer_and_service_scope_as_av-0024",
       "exclude_from_free_service_search": true
     },
