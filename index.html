@@ -47,14 +47,14 @@ function render(){
  empty.hidden=!hasSearch||matches.length>0;
  empty.textContent='Tällä alueella ei vielä ole julkaisuvalmiita palveluita. Voit kokeilla toista paikkakuntaa.';
  result.hidden=!hasSearch;
- result.textContent=(!city&&!province&&!term)?'Voit hakea avuntarpeella sekä rajata paikkakunnan mukaan.':matches.length+' palvelua alueella '+(city?municipalityLabel(city):province)+'. Avaa alla oleva avun aihe nähdäksesi palvelut.';
+ result.textContent=hasSearch?matches.length+' palvelua löytyi'+(city?' paikkakunnalta '+municipalityLabel(city):province?' maakunnasta '+province:'')+'. Avaa alta avun aihe nähdäksesi palvelut.':'';
 }
-document.getElementById('need').addEventListener('input',()=>{if(loaded)render()});region.addEventListener('change',()=>{place.value='';refreshPlaces();render()});place.addEventListener('change',render);function refreshPlaces(){const cities=[...new Set(records.flatMap(r=>[r.municipality,...(r.service_municipalities||[])]))].filter(c=>regionMap[norm(c)]&&(!region.value||regionMap[norm(c)]===region.value)).sort((a,b)=>a.localeCompare(b,'fi'));place.replaceChildren(new Option('Kaikki paikkakunnat',''));cities.forEach(c=>place.add(new Option(municipalityLabel(c),c)))}tiles.forEach(button=>button.addEventListener('click',()=>{
+document.getElementById('need').addEventListener('input',clearResults);region.addEventListener('change',()=>{place.value='';refreshPlaces();clearResults()});place.addEventListener('change',clearResults);function clearResults(){document.getElementById('directory').hidden=true;result.hidden=true;}function refreshPlaces(){const cities=[...new Set(records.flatMap(r=>[r.municipality,...(r.service_municipalities||[])]))].filter(c=>regionMap[norm(c)]&&(!region.value||regionMap[norm(c)]===region.value)).sort((a,b)=>a.localeCompare(b,'fi'));place.replaceChildren(new Option('Kaikki paikkakunnat',''));cities.forEach(c=>place.add(new Option(municipalityLabel(c),c)))}tiles.forEach(button=>button.addEventListener('click',()=>{
  chosen=chosen===button.dataset.category?'':button.dataset.category;
  tiles.forEach(t=>t.setAttribute('aria-pressed',String(t.dataset.category===chosen)));
- if(loaded)render();
+ clearResults();
 }));
-document.getElementById('search').addEventListener('submit',e=>{e.preventDefault();render();result.scrollIntoView({behavior:'smooth',block:'start'})});
+document.getElementById('search').addEventListener('submit',e=>{e.preventDefault();if(!loaded){result.hidden=false;result.textContent='Palvelutietoja ladataan vielä. Yritä hetken kuluttua.';return}const hasQuery=Boolean(document.getElementById('need').value.trim()||region.value||place.value);if(!hasQuery){clearResults();result.hidden=false;result.textContent='Kirjoita hakusana tai valitse maakunta tai paikkakunta.';result.scrollIntoView({behavior:'smooth',block:'start'});return}render();result.scrollIntoView({behavior:'smooth',block:'start'})});
 (async()=>{
  try{
   const response=await fetch('data/palvelut.json',{cache:'no-store'});
@@ -62,7 +62,7 @@ document.getElementById('search').addEventListener('submit',e=>{e.preventDefault
   const data=await response.json();
   if(!Array.isArray(data.records))throw Error('Virheellinen palveluaineisto');
   records=data.records.filter(r=>r.publication_ready===true&&r.name&&r.category&&r.source_url);
-  [...new Set(Object.values(regionMap))].sort((a,b)=>a.localeCompare(b,'fi')).forEach(r=>region.add(new Option(r,r)));loaded=true;refreshPlaces();render();
+  [...new Set(Object.values(regionMap))].sort((a,b)=>a.localeCompare(b,'fi')).forEach(r=>region.add(new Option(r,r)));loaded=true;refreshPlaces();clearResults();
  }catch(e){
   empty.hidden=false;empty.textContent='Palvelutietojen lataus epäonnistui. Yritä päivittää sivu.';
   result.hidden=false;result.textContent='Palveluhaku ei ole juuri nyt käytettävissä.';
