@@ -208,9 +208,9 @@
     }
   ],
   "next_actions": [
-    "Varmista viiden alueellisen palvelun nykyiset hakukanavat ja nouto-/vastaanottoajat, sekä ettei alueellisista palveluista synny kuntakohtaisia kaksoiskappaleita.",
-    "Jatka kunta/kategoria-matriisia Ahvenanmaan kunnissa järjestyksessä; älä pysähdy Brändöön.",
-    "Hyväksy päärekisteriin vasta kun palvelun pakolliset kentät ja duplikaattitarkistus täyttyvät."
+    "Jatka kaikkien Ahvenanmaan kuntien kuuden kategorian lähteiden läpikäyntiä suurina erinä.",
+    "Varmista Emmaus-lipukkeiden maksuttomuus, nouto ja ehdot sekä diakonian kotikäyntien maksuttomuus.",
+    "Älä kirjaa lahjoitusten vastaanottopaikkaa ruoka-avun jakelupaikaksi."
   ],
   "registry_changes": 0,
   "public_site_changes": 0,
@@ -485,5 +485,40 @@
       "checked_at": "2026-11-03"
     }
   ],
-  "regional_coverage_note": "Viisi alueellista palvelu- tai hakukanavakokonaisuutta löydetty; 16 kunnan kattavuus viittaa palvelualueeseen, EI 16 valmiiksi tarkistettuun kuntaan. Kuntakohtaiset kuusi kategoriaa edelleen kesken."
+  "regional_coverage_note": "Viisi alueellista palvelu- tai hakukanavakokonaisuutta löydetty; 16 kunnan kattavuus viittaa palvelualueeseen, EI 16 valmiiksi tarkistettuun kuntaan. Kuntakohtaiset kuusi kategoriaa edelleen kesken.",
+  "verified_source_details": [
+    {
+      "service": "Matbanken på Åland",
+      "area": "Ahvenanmaa",
+      "category": "Ruoka-apu",
+      "free_status": "confirmed_free",
+      "application": "Yhteys seurakunnan diakoniatyöntekijään, taloustilanteen kartoitus, lipuke seuraavaan ruokakassijakeluun",
+      "contact": "matbanken.aland@gmail.com; Maarianhaminan diakonia 018 536 107 tai 018 536 127",
+      "source": "https://www.mariehamnsforsamling.fi/stod-och-hjalp/matbanken",
+      "note": "Måsvägen 1 mainitaan lahjoitusten vastaanottopaikkana, ei vahvistettuna ruokakassin noutopaikkana.",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "service": "Norra Ålands församling – Matbanken ja Emmaus -lipukkeet",
+      "area": "Finström, Geta, Sund, Vårdö",
+      "category": "Ruoka-apu/Tavarat",
+      "free_status": "food_voucher_channel_confirmed_goods_conditions_pending",
+      "application": "Ota yhteyttä diakoni Maria Sjölundiin",
+      "contact": "045 736 13463; maria.sjolund@evl.fi",
+      "source": "https://www.norraalandsforsamling.ax/stod-och-hjalp",
+      "note": "Matbanken on sama alueellinen ruokapankki; Emmaus-lipukkeiden ehdot tarkistettava.",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "service": "Norra Ålands församling – diakonian koti- ja kriisiapu",
+      "area": "Finström, Geta, Sund, Vårdö",
+      "category": "Kotiapu",
+      "free_status": "not_explicitly_confirmed",
+      "application": "Diakonian yhteydenotto",
+      "contact": "045 736 13463",
+      "source": "https://www.norraalandsforsamling.ax/stod-och-hjalp",
+      "note": "Kotikäynnit ja käytännön kriisiapu mainittu; tarkista maksuttomuus ja avun rajaus ennen hyväksyntää.",
+      "checked_at": "2026-11-03"
+    }
+  ]
 }
