@@ -3393,14 +3393,16 @@
       "address": null,
       "source_url": "https://osastot.punainenristi.fi/branches/421/contact",
       "verification_status": "official_contact_page_service_details_pending",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "price_status": "pending_review",
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
       "name": "SPR Porvoon osaston Ukkokerho – keikka-apu",
       "category": "Kotiapu",
-      "phone": "040 682 2888",
-      "details": "SPR Porvoon Ukkokerhon keikkapyynnöt puhelimitse. Keikkatöiden tarkka sisältö, mahdolliset maksut ja saatavuus tarkistettava järjestäjältä."
+      "phone": "046 962 8675",
+      "details": "SPR Porvoon Ukko-kerho tekee kertaluonteisia, enintään kahden tunnin tehtäviä esimerkiksi ikäihmisille tai yksinäisille henkilöille, joilla ei ole läheisten apua Porvoossa. Keikkapyynnöt: 046 962 8675. Mahdolliset maksut varmistettava järjestäjältä.",
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "Järjestäjän toimintakuvaus ja keikkapyyntöjen ajantasainen numero vahvistettu. Maksuttomuutta ei erikseen vahvisteta."
     },
     {
       "id": "av-0165",
@@ -3409,15 +3411,18 @@
       "address": null,
       "source_url": "https://osastot.punainenristi.fi/branches/421/contact",
       "verification_status": "official_contact_page_service_details_pending",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "price_status": "pending_review",
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
       "name": "SPR Porvoon osaston kotimaan apu",
-      "category": "Raha-asiat",
+      "category": "Kriisiapu",
       "phone": "044 259 4825",
       "contact_name": "Päivi Waldvogel",
-      "details": "SPR Porvoon osaston kotimaan avun yhteyshenkilöt Päivi Waldvogel (044 259 4825) ja Ari Ruotsalainen (040 071 8273). Yksittäiset avustusmuodot, myöntämisehdot ja hakutapa tarkistettava; ei vahvistettu rahallista avustusta."
+      "details": "SPR Porvoon osaston kotimaan avun yhteyshenkilöt Päivi Waldvogel (044 259 4825) ja Ari Ruotsalainen (040 071 8273). Yksittäiset avustusmuodot, myöntämisehdot ja hakutapa tarkistettava; ei vahvistettu rahallista avustusta.",
+      "email": "porvoo@osasto.punainenristi.fi",
+      "publication_review_status": "organizer_contact_verified_service_terms_pending",
+      "publication_review_reason": "SPR Porvoon osaston kotimaan avun yhteyshenkilöt vahvistettu. Yksilöity avustusmuoto, maksuttomuus ja avun hakemisen ehdot eivät ilmene yhteystietosivulta."
     },
     {
       "id": "av-0166",
