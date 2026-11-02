@@ -1719,12 +1719,14 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "approved_specific_autumn_2026_schedule",
+      "publication_review_reason": "Järjestäjän lähteestä aiemmin tarkistettu maksuton ruokailu ja syyskauden aikataulu. Ei oleteta jatkoa kauden päättymisen jälkeen.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "seasonal_service": true,
+      "reverification_required_after": "2026-12-17"
     },
     {
       "id": "av-0087",
@@ -1786,13 +1788,15 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "approved_specific_autumn_2026_schedule",
+      "publication_review_reason": "Järjestäjän lähteestä aiemmin tarkistettu maksuton ruokailu ja syyskauden aikataulu. Ei oleteta jatkoa kauden päättymisen jälkeen.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ]
+      ],
+      "seasonal_service": true,
+      "reverification_required_after": "2026-12-21"
     },
     {
       "id": "av-0090",
