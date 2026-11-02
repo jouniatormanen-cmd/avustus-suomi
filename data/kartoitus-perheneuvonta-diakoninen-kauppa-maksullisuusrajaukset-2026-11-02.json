@@ -1,0 +1,56 @@
+{
+  "records": [
+    {
+      "id": "20261102-keusote-perheneuvonta",
+      "municipality": "Hyvinkää, Järvenpää, Nurmijärvi, Mäntsälä, Pornainen ja Tuusula",
+      "name": "Lapsiperheiden ja nuorten neuvonta ja ohjaus",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Kotiapu"
+      ],
+      "organizer": "Keski-Uudenmaan hyvinvointialue",
+      "service_pattern": "Jatkuva palvelu, yhteydenotto tarpeen mukaan",
+      "eligibility": "Alueella asuvat tai oleskelevat 0–17-vuotiaiden perheet, myös lapsi tai nuori itse",
+      "source_url": "https://www.suomi.fi/palvelut/lapsiperheiden-neuvonta-ja-ohjaus-keski-uudenmaan-hyvinvointialue/06633050-6db7-469a-9907-f3faf209bb4b",
+      "fee_status": "maksuttomuus_tarkistettava",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261102-pitajanmaki-diakoninen-kauppa",
+      "municipality": "Helsinki",
+      "locality": "Pitäjänmäki",
+      "name": "Pitäjänmäen diakoninen kauppa",
+      "category": "Ruoka-apu",
+      "secondary_categories": [
+        "Raha-asiat",
+        "Keskusteluapu"
+      ],
+      "organizer": "Pitäjänmäen seurakunta",
+      "service_pattern": "Jatkuva palvelu; ajantasaiset asiointiajat tarkistettava",
+      "conditions": "Ruoka-apua, palveluohjausta, keskusteluapua ja talousneuvontaa; asiakaskriteerit ja maksuttomuus tarkistettava",
+      "source_url": "https://evl.fi/plus/seurakuntaelama/erityinen-tuki/diakonia/diakonia-avaa-kirkon-ovia/",
+      "fee_status": "maksuttomuus_tarkistettava",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "exclusions": [
+    {
+      "name": "Pirkanmaan hyvinvointialueen lapsiperheiden kotipalvelu",
+      "reason": "Maksullinen, 2026 tilapäinen palvelu 7 €/h, joten ei yleisesti maksuton",
+      "source_url": "https://www.suomi.fi/palvelut/lapsiperheiden-kotipalvelu-pirkanmaan-hyvinvointialue/a2857baf-0a86-4b72-abdb-73c8d6ccb66b"
+    },
+    {
+      "name": "Keski-Uudenmaan hyvinvointialueen lapsiperheiden kotipalvelu",
+      "reason": "Pääsääntöisesti maksullinen, maksuttomat arviointikäynnit eivät tee kotipalvelusta ilmaista",
+      "source_url": "https://www.suomi.fi/palvelut/lapsiperheen-kotipalvelu-keski-uudenmaan-hyvinvointialue/8641ddc4-6fbc-41b3-9280-4f0ced7c88d8"
+    },
+    {
+      "name": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu",
+      "reason": "Yleensä maksullinen, mutta toimeentulotukea saavalle tai tietyissä asiakkuuksissa maksuton; mahdollinen rajattu maksuton hakutulos tarkistettava",
+      "source_url": "https://www.suomi.fi/palvelut/lapsiperheiden-kotipalvelu-lapin-hyvinvointialue/f00c1257-0d00-44e7-9e59-429677dca508"
+    }
+  ],
+  "notes": "Jatkuvat palvelut; maksuttomuus vielä tarkistettava. Kolme tärkeää maksullisuusrajausta, jotta yleisesti maksullisia kotiapupalveluja ei julkaista maksuttomina. Ei yksittäisiä tapahtumia eikä sivuston muutoksia."
+}
