@@ -1168,7 +1168,8 @@
       "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä.",
       "phone": "050 391 2335",
       "email": "asumisneuvonta@otesaatio.fi",
-      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02",
+      "organizer": "Ote-Säätiö"
     },
     {
       "id": "av-0055",
@@ -1459,7 +1460,7 @@
       "municipality": "espoo",
       "name": "Edistian asumisneuvonta espoolaisille",
       "address": null,
-      "details": "Neuvontaa asumismuodoista, asunnonhausta, asumiskustannuksista ja asukkaan oikeuksista. Soittopyyntö 044 727 3415 ma–pe 8–18, asumisneuvonta@espoo.fi. Maksuttomuus tarkistettava.",
+      "details": "Neuvontaa asumismuodoista, asunnonhausta, asumiskustannuksista ja asukkaan oikeuksista. Soittopyyntö 044 727 3415 ma–pe 8–18, asumisneuvonta@espoo.fi. Maksuton espoolaisille.",
       "source_url": "https://www.espoo.fi/fi/hello-espoo-tervetuloa-espooseen/asuminen-ja-yhteisollisyys",
       "price_status": "free",
       "verification_status": "city_primary_source_checked_2026-11-02",
@@ -1473,7 +1474,8 @@
       "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
       "phone": "044 727 3415",
       "email": "asumisneuvonta@espoo.fi",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Edistia"
     },
     {
       "id": "av-0070",
@@ -1512,7 +1514,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
-      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua."
+      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä"
     },
     {
       "id": "av-0072",
