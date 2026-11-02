@@ -1341,13 +1341,14 @@
       "name": "Koivulan aamupuuro",
       "address": "Koivulan seurakuntatalo, Turku",
       "details": "Perjantaisin klo 8.30–10 syyskaudella 4.9.–18.12.2026. Yhteinen aamupuuro ja keskustelua; maksuttomuus varmistettava.",
-      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
-      "price_status": "check_source",
-      "verification_status": "source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "source_url": "https://turunseurakunnat.fi/henrikinseurakunta/toimintaa/aikuiset/",
+      "price_status": "free",
+      "verification_status": "parish_primary_sources_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Vuoden 2026 syyskauden järjestäjän sivu vahvistaa aamupuuron; seurakunnan 2025 ohjelmalehti vahvistaa maksuttomuuden. Koivula pe 8.30–10 (4.9.–18.12.2026), Lauste ti 9.30–11 (1.9.–15.12.2026)."
     },
     {
       "id": "av-0088",
@@ -1356,13 +1357,14 @@
       "name": "Lausteen aamupuuro",
       "address": "Lausteen seurakuntakoti, Turku",
       "details": "Tiistaisin klo 9.30–11 syyskaudella 1.9.–15.12.2026. Yhteinen aamupuuro; maksuttomuus varmistettava.",
-      "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
-      "price_status": "check_source",
-      "verification_status": "source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "source_url": "https://turunseurakunnat.fi/henrikinseurakunta/toimintaa/aikuiset/",
+      "price_status": "free",
+      "verification_status": "parish_primary_sources_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Vuoden 2026 syyskauden järjestäjän sivu vahvistaa aamupuuron; seurakunnan 2025 ohjelmalehti vahvistaa maksuttomuuden. Koivula pe 8.30–10 (4.9.–18.12.2026), Lauste ti 9.30–11 (1.9.–15.12.2026)."
     },
     {
       "id": "av-0089",
