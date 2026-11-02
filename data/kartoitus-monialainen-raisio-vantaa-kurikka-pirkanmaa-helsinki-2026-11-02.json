@@ -1,0 +1,132 @@
+{
+  "records": [
+    {
+      "id": "20261102-raisio-naulakko",
+      "municipality": "Raisio",
+      "name": "Naulakko – maksuton vaate- ja tavara-apu",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "Raision seurakunta",
+      "address": "Purokatu 9, 21200 Raisio",
+      "schedule": "Maanantaisin klo 15–17",
+      "phone": "044 7160 365",
+      "conditions": "Vähävaraisille raisiolaisille; henkilökohtainen tavaranhakulomake diakoniatyöntekijältä. Enintään neljä asiointikertaa vuodessa, kodintarvikkeita ja liinavaatteita kerran vuodessa. Lomake: diakonian puhelin 044 7160 325 ma 14–16 ja to 9–10.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://www.raisionseurakunta.fi/kirkko-ja-tilat/naulakko",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    },
+    {
+      "id": "20261102-vantaa-talousneuvola",
+      "municipality": "Vantaa",
+      "name": "Tikkurilan maksuton talousneuvola",
+      "category": "Raha-asiat",
+      "organizer": "Vantaan ja Keravan hyvinvointialue",
+      "address": "Tikkurilan sosiaaliasema Verso, Vernissakatu 8 C, 01300 Vantaa",
+      "schedule": "Tiistaisin 12.30–15; 10.11., 24.11., 8.12. ja 22.12.2026",
+      "conditions": "Kaikenikäisille, ilman ajanvarausta. Mukana talous- ja velkaneuvonta, Ulosottolaitos ja hyvinvointialue.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://www.vakehyva.fi/fi/hyvinvointitarjotin/talousneuvola",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    },
+    {
+      "id": "20261102-kurikka-diakonia",
+      "municipality": "Kurikka",
+      "name": "Diakonian talous- ja keskusteluapu",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Kurikan seurakunta",
+      "address": "Kurikantie 21, Kurikka",
+      "schedule": "Ma ja ti 9–11, ke 11–13",
+      "phone": "040 688 1507",
+      "conditions": "Luottamuksellinen keskustelu ja harkinnanvarainen taloudellisen avun arviointi. Avustushakemukseen tiliotteet, päätökset, laskut ja henkilöllisyystodistus.",
+      "fee_status": "consultation_fee_not_explicit",
+      "source_url": "https://kurikanseurakunta.fi/apua-ja-tukea/apua-ja-tukea-diakoniasta/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    },
+    {
+      "id": "20261102-jalasjarvi-diakonia",
+      "municipality": "Kurikka",
+      "locality": "Jalasjärvi",
+      "name": "Jalasjärven diakonian talous- ja keskusteluapu",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Kurikan seurakunta",
+      "address": "Keskustie 14, Jalasjärvi",
+      "schedule": "Tiistaisin 9–11",
+      "phone": "040 688 1505",
+      "conditions": "Luottamuksellinen keskustelu, taloustilanteen selvittely ja harkinnanvarainen apu.",
+      "fee_status": "consultation_fee_not_explicit",
+      "source_url": "https://kurikanseurakunta.fi/apua-ja-tukea/apua-ja-tukea-diakoniasta/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    },
+    {
+      "id": "20261102-jurva-diakonia",
+      "municipality": "Kurikka",
+      "locality": "Jurva",
+      "name": "Jurvan diakonian talous- ja keskusteluapu",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Kurikan seurakunta",
+      "address": "Kauppatie 3, Jurva",
+      "schedule": "Maanantaisin 9–11",
+      "phone": "040 688 1506",
+      "conditions": "Luottamuksellinen keskustelu, taloustilanteen selvittely ja harkinnanvarainen apu.",
+      "fee_status": "consultation_fee_not_explicit",
+      "source_url": "https://kurikanseurakunta.fi/apua-ja-tukea/apua-ja-tukea-diakoniasta/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    },
+    {
+      "id": "20261102-pirkanmaa-sosiaalineuvonta",
+      "municipality": "Pirkanmaa",
+      "coverage": "Kaikki Pirkanmaan kunnat",
+      "name": "Työikäisten maksuton sosiaalipalvelujen neuvonta",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Keskusteluapu",
+        "Asuminen"
+      ],
+      "organizer": "Pirkanmaan hyvinvointialue",
+      "delivery_mode": "Puhelin ja chat, alueellinen",
+      "schedule": "Ma, ti, to ja pe 9–15; ke 12–17.30",
+      "phone": "03 384 5700",
+      "conditions": "Arjen hallinta, kriisit, taloushuolet, etuuksien hakeminen ja palveluohjaus; chatissa voi asioida nimettömästi.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://pirha.fi/fi/palvelut/sosiaalipalvelut/tyoikaisten-sosiaalipalvelujen-neuvonta",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    },
+    {
+      "id": "20261102-helsinki-asumisneuvonta",
+      "municipality": "Helsinki",
+      "name": "Helsingin asumisneuvonta",
+      "category": "Asuminen",
+      "organizer": "Helsingin kaupunki",
+      "delivery_mode": "Chat ja ajanvaraus toimipisteissä",
+      "schedule": "Chat ma–pe 9–15; käynnit ajanvarauksella",
+      "conditions": "Kaikille helsinkiläisille, joilla on vuokranmaksun, asunnonhaun tai asumisen ongelmia. Chat suomeksi ja englanniksi. Asiakkaalle maksuton kaupungin päätösasiakirjan mukaan.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/ohjeistusta-ja-neuvontaa/asumisneuvonta",
+      "fee_source_url": "https://paatokset.hel.fi/fi/asia/hel-2021-004500/96510e2d-d886-cf79-af13-797f51800005",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_source_checked_2026-11-02"
+    }
+  ],
+  "notes": "Monialainen kartoituserä: 7 konkreettista palvelua, neljä pääkategoriaa. Kurikan kolmen diakoniavastaanoton maksuttomuus ei ole lähteessä eksplisiittinen; tarkistettava. Pirkanmaan neuvonta on yksi alueellinen palvelu, ei kopioida jokaiseen kuntaan eri palveluksi. Mahdolliset päällekkäisyydet Raision aiempaan kartoitukseen tarkistettava. Ei verkkosivuston muutoksia."
+}
