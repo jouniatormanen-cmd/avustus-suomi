@@ -715,17 +715,17 @@
       "address": null,
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Ystävävälitys; sähköposti pirkkokuusisto@gmail.com.",
       "phone": "040 565 3363",
-      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/lohjan-osasto/toiminta/ystavatoiminta",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_local_activity_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "merged_equivalent_ids": [
         "av-0159"
       ],
-      "review_note": "Saman palvelun rinnakkaismerkintä av-0159 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta."
+      "review_note": "Paikallisen SPR-osaston toiminta ja SPR:n yleiset ystävätoiminnan maksuttomuusperiaatteet tarkistettu. Vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota; asiakkaan omat matka-, kahvila- tai pääsylippukulut voivat jäädä maksettaviksi. Yksittäisen paikallisen palvelun tarkat kulukäytännöt varmistettava järjestäjältä."
     },
     {
       "id": "av-0047",
@@ -1769,13 +1769,14 @@
       "phone": null,
       "details": "Yksinäisyyttä lievittävää vapaaehtoisten ystävätoimintaa kodeissa ja laitoksissa. Ystävää kaipaava ottaa yhteyttä osoitteeseen spr.ystavat@gmail.com. Maksuttomuus tarkistettava suoraan osastolta.",
       "source_url": "https://osastot.punainenristi.fi/osastot/hameenlinnan-osasto/toiminta/ystavatoiminta",
-      "price_status": "check_source",
-      "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_local_activity_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "Paikallisen SPR-osaston toiminta ja SPR:n yleiset ystävätoiminnan maksuttomuusperiaatteet tarkistettu. Vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota; asiakkaan omat matka-, kahvila- tai pääsylippukulut voivat jäädä maksettaviksi. Yksittäisen paikallisen palvelun tarkat kulukäytännöt varmistettava järjestäjältä."
     },
     {
       "id": "av-0112",
