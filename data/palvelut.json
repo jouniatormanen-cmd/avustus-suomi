@@ -171,9 +171,9 @@
       "name": "SPR Porvoo – ruokajako",
       "details": "Tiistaisin ja perjantaisin klo 12 | Gammelbackan hyvinvointikeskus, Tornipolku 10. Numerolappujen arvonta klo 11.40. Oma kassi mukaan. Maksuton vähävaraisille.",
       "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta/ruoka-apu",
-      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "verification_status": "spr_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
-      "price_status": "check_source",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
@@ -181,7 +181,7 @@
       "exclude_from_free_service_search": true,
       "possible_duplicate_of": "av-0014",
       "duplicate_status": "same_distribution_as_av-0014",
-      "review_note": "SPR:n Porvoon osasto vahvistaa ruokajaon Gammelbackassa tiistaisin ja perjantaisin klo 12, osoitteessa Tornipolku 10. Ruokakassin saa vähävarainen ilman tulotietojen esittämistä. Maksuttomuus ei ole sivulla sanallisesti yksiselitteinen, joten price_status jätetty tarkistettavaksi. Tarkista myös, ovatko av-0012 ja av-0014 sama palvelu ennen yhdistämistä."
+      "review_note": "SPR:n Porvoon osasto vahvistaa ruokajaon Gammelbackassa tiistaisin ja perjantaisin klo 12, osoitteessa Tornipolku 10. Ruokakassin saa vähävarainen ilman tulotietojen esittämistä. Maksuttomuus ei ole sivulla sanallisesti yksiselitteinen, joten price_status jätetty tarkistettavaksi. Tarkista myös, ovatko av-0012 ja av-0014 sama palvelu ennen yhdistämistä. SPR:n valtakunnallinen ruoka-apusivu vahvistaa ruoka-avun maksuttomaksi. Paikalliset jakeluajat ja saatavuus tarkistettava erikseen."
     },
     {
       "id": "av-0014",
@@ -190,9 +190,9 @@
       "name": "SPR Porvoon osasto – Gammelbackan ruokajako",
       "details": "Tornipolku 10, Gammelbackan hyvinvointikeskus. Tiistaisin ja perjantaisin klo 12 alkaen. Numerolappujen arvonta klo 11.40. Maksuton vähävaraisille, ei tuloselvitystä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/porvoon-osasto/toiminta/ruoka-apu",
-      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "verification_status": "spr_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
-      "price_status": "check_source",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
@@ -200,7 +200,7 @@
         "av-0012"
       ],
       "publication_ready": false,
-      "review_note": "SPR:n Porvoon osasto vahvistaa ruokajaon Gammelbackassa tiistaisin ja perjantaisin klo 12, osoitteessa Tornipolku 10. Ruokakassin saa vähävarainen ilman tulotietojen esittämistä. Maksuttomuus ei ole sivulla sanallisesti yksiselitteinen, joten price_status jätetty tarkistettavaksi. Tarkista myös, ovatko av-0012 ja av-0014 sama palvelu ennen yhdistämistä."
+      "review_note": "SPR:n Porvoon osasto vahvistaa ruokajaon Gammelbackassa tiistaisin ja perjantaisin klo 12, osoitteessa Tornipolku 10. Ruokakassin saa vähävarainen ilman tulotietojen esittämistä. Maksuttomuus ei ole sivulla sanallisesti yksiselitteinen, joten price_status jätetty tarkistettavaksi. Tarkista myös, ovatko av-0012 ja av-0014 sama palvelu ennen yhdistämistä. SPR:n valtakunnallinen ruoka-apusivu vahvistaa ruoka-avun maksuttomaksi. Paikalliset jakeluajat ja saatavuus tarkistettava erikseen."
     },
     {
       "id": "av-0015",
@@ -262,12 +262,13 @@
       "name": "Suomen Punainen Risti – paikalliset ruokajaot",
       "details": "SPR:n paikallisosastot järjestävät maksutonta ruoka-apua useilla paikkakunnilla. Tarkista oman paikkakunnan toiminta.",
       "source_url": "https://www.punainenristi.fi/hae-apua-ja-tukea/tukea-ruoka-avusta/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "spr_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": " SPR:n valtakunnallinen ruoka-apusivu vahvistaa ruoka-avun maksuttomaksi. Paikalliset jakeluajat ja saatavuus tarkistettava erikseen."
     },
     {
       "id": "av-0019",
