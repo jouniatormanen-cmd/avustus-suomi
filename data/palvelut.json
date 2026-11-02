@@ -3741,24 +3741,24 @@
     },
     {
       "id": "av-0181",
-      "category": "Keskusteluapu",
+      "category": "Ystävätoiminta",
       "municipality": "kuopio",
       "name": "SPR Kuopion Timanttiset – eläkeläisten ryhmä",
-      "details": "Eläkeläisten yhteisöllinen ryhmä, kahvittelua ja toimintaa. Kokoontumisaika ja paikka tarkistettava.",
-      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/kuopion-osasto/toiminta/hyvinvointi",
+      "details": "SPR Kuopion maksuton Timanttiset-eläkeläisryhmä kokoontuu perjantaisin klo 12–14, Puijonkatu 9. Ryhmässä kahvitellaan, keskustellaan ja osallistutaan vaihtelevaan toimintaan. Tarkista poikkeukset ryhmältä: timanttiset@sprkuopio.com.",
+      "source_url": "https://omahyte.fi/organization_type/yhdistykset-ja-seurakunnat/page/28/",
       "email": "timanttiset@sprkuopio.com",
       "organizer": "Suomen Punainen Risti",
-      "address": null,
-      "price_status": "pending_review",
+      "address": "Puijonkatu 9, 70100 Kuopio",
+      "price_status": "free",
       "verification_status": "official_source_checked_2026-11-01_details_pending",
-      "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "last_verified": "2026-11-02",
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "publication_review_status": "approved_regional_service_directory_2026_11_02",
+      "publication_review_reason": "OmaHyte-palveluhakemisto vahvistaa maksuttomuuden, osoitteen, perjantain kellonajan ja 2026 marraskuun tulevat kokoontumiset."
     },
     {
       "id": "av-0182",
@@ -3931,46 +3931,46 @@
     {
       "id": "av-0190",
       "municipality": "espoo",
-      "category": "Keskusteluapu",
+      "category": "Opiskeluapu",
       "name": "SPR Keski-Espoon tiistain suomen kielen kahvila",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "kielikahvila.tiistai@sprkeskiespoo.fi",
-      "address": null,
-      "details": "Tiistain kielikahvila. Osaston kokoontumistila Kohtaamispaikka Samarian C-talo, Terveyskuja 2 C, mutta juuri tämän ryhmän kokoontumispaikka ja kellonaika on vahvistettava.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "address": "Entressen kirjasto, Siltakatu 11, 02770 Espoo",
+      "details": "Maksuton suomen kielen kielikahvila tiistaisin klo 18–19.30 Entressen kirjaston Sinisessä huoneessa, 18.8.–8.12.2026. Ei kokoontumista 13.10.2026. Yhteys: kielikahvila.tiistai@sprkeskiespoo.fi.",
+      "source_url": "https://www.espoo.fi/fi/tapahtumat/espooevents:agpmwgi53e",
+      "price_status": "free",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
-      "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "last_verified": "2026-11-02",
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla."
+      "publication_review_status": "approved_city_2026_schedule",
+      "publication_review_reason": "Espoon kaupungin 2026 tapahtumasivu vahvistaa maksuttomuuden, paikan, ajat ja järjestäjän."
     },
     {
       "id": "av-0191",
       "municipality": "espoo",
-      "category": "Keskusteluapu",
+      "category": "Opiskeluapu",
       "name": "SPR Keski-Espoon perjantain suomen kielen kahvila",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "kielikahvila.perjantai@sprkeskiespoo.fi",
-      "address": null,
-      "details": "Perjantain kielikahvila. Tarkka kokoontumisaika ja paikka vahvistettava järjestäjältä.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "address": "Entressen kirjasto, Siltakatu 11, 02770 Espoo",
+      "details": "Maksuton suomen kielen kielikahvila perjantaisin klo 12–13.30 Entressen kirjaston Sinisessä huoneessa, 4.9.–18.12.2026. Ei kokoontumista 16.10.2026. Yhteys: kielikahvila.perjantai@sprkeskiespoo.fi.",
+      "source_url": "https://www.espoo.fi/fi/tapahtumat/espooevents:agpmwdkkg4",
+      "price_status": "free",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
-      "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "last_verified": "2026-11-02",
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla."
+      "publication_review_status": "approved_city_2026_schedule",
+      "publication_review_reason": "Espoon kaupungin 2026 tapahtumasivu vahvistaa maksuttomuuden, paikan, ajat ja järjestäjän."
     },
     {
       "id": "av-0192",
