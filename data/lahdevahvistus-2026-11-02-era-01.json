@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-02",
+  "phase": "alkuperäislähteiden varmistus",
+  "checks": [
+    {
+      "record_id": "av-0120",
+      "name": "Inkoon A-kilta ruokajako",
+      "result": "maksullinen 40 euroa vuodessa per perheen aikuinen",
+      "source": "https://ruoka-apu.fi/inkoon-a-kilta-ry/tapahtuman/ruoka-jako/",
+      "action": "Ei maksuttomien palveluiden hakutuloksiin."
+    },
+    {
+      "record_id": "av-0102",
+      "name": "Hietaniemenkadun hätämajoitus",
+      "result": "Hätämajoitus ja siihen sisältyvä aamupala maksuttomia; lounas ja päivällinen 1,20 euroa kumpikin. Tilapäisasuminen erikseen maksullista.",
+      "source": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/asunnottomien-palvelut/hietaniemenkadun-palvelukeskus-eli-hietsu",
+      "action": "Pidä hätämajoitus maksuttomana palveluna, mutta erittele aterioiden hinnat."
+    },
+    {
+      "record_id": "av-0057",
+      "name": "Haukiputaan Aamupuuro-akatemia",
+      "result": "Maksuton aamupala, vapaaehtoinen lahjoitus mahdollinen, kausi päättyy 30.11.2026.",
+      "source": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "action": "Säilytä maksuttomana kausipalveluna, tarkista jatko myöhemmin."
+    },
+    {
+      "record_id": "av-0058",
+      "name": "Oulunsalon Diakonian aamu",
+      "result": "Maksuton aamupala tiistaisin 9–10, kausi päättyy 24.11.2026.",
+      "source": "https://oulunseurakunnat.fi/apua-ja-tukea/ruokailut-ja-ruoka-apu/",
+      "action": "Säilytä maksuttomana kausipalveluna."
+    },
+    {
+      "record_id": "av-0059",
+      "name": "Sofian diakonian aamupala",
+      "result": "Maksuton aamupala tiistaisin 9–10.30, kausi päättyy 1.12.2026.",
+      "source": "https://oulunseurakunnat.fi/oulun-tuomiokirkkoseurakunta/toimintaa/aikuisille/",
+      "action": "Säilytä maksuttomana kausipalveluna."
+    }
+  ],
+  "source_verification_performed": true,
+  "public_site_changed": false,
+  "original_records_preserved": true
+}
