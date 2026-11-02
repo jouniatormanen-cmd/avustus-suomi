@@ -87,12 +87,34 @@
       "publication_ready": false,
       "checked_at": "2026-11-02",
       "notes": "Rahasto kattaa Ahvenanmaan; hakemus tehdään seurakunnan diakoniatyön kautta. Ehdot ja mahdollinen päällekkäisyys Brändön seurakunnan taloudellisen avun kanssa tarkistettava ennen hyväksyntää."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Kotiapu",
+      "organizer": "Brändö kommun",
+      "name": "Omaishoitajan vapaan aikainen hoito ja huolenpito",
+      "source_url": "https://www.brando.ax/kommunen/avgifter/",
+      "verification_status": "official_2026_fee_schedule_confirms_free_eligibility_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-02",
+      "notes": "Kunnan vuoden 2026 maksutaulukon mukaan lain tarkoittamat omaishoitajan vapaan aikaiset korvaavat hoito- ja huolenpitopalvelut ovat maksuttomia. Kohderyhmä, järjestämistapa, yhteystiedot ja mahdolliset lisäkulut vielä tarkistettava."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Raha",
+      "organizer": "Brändö kommun",
+      "name": "Lasten kotihoidon tuki (hemvårdsstöd)",
+      "source_url": "https://www.brando.ax/hemvardsstod/",
+      "verification_status": "official_municipal_source_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-02",
+      "notes": "Kunnan julkaisema lakisääteinen perhe-etuus; päätettävä kuuluuko hakemiston maksuttoman avun rajaukseen vai jätetäänkö viranomaisetuudet pois."
     }
   ],
   "next_actions": [
-    "Brändö: käy järjestäjälähteet loppuun kaikissa kuudessa kategoriassa ja merkitse vasta sitten kunta valmiiksi.",
-    "Eckerö: tarkista kuusi kategoriaa lähteittäin; alustava kartoitus ei ole valmis tarkistus.",
-    "Finström: tarkista kuusi kategoriaa lähteittäin; alustava kartoitus ei ole valmis tarkistus."
+    "Brändö: tarkista omaishoitajan vapaan aikaisen maksuttoman hoidon hakeminen, yhteystiedot ja mahdolliset rajaukset.",
+    "Brändö: jatka Vaatteet, Tavarat, Raha ja Asuminen järjestyksessä; älä merkitse kategorioita valmiiksi ilman kattavaa tarkistusta.",
+    "Eckerö ja Finström seuraavina kuntina, ei satunnaista siirtymistä muualle."
   ],
   "registry_changes": 0,
   "public_site_changes": 0,
@@ -107,9 +129,9 @@
     {
       "municipality": "Brändö",
       "category": "Kotiapu",
-      "status": "paid_municipal_services_excluded_other_sources_pending",
+      "status": "free_respite_care_identified_eligibility_pending",
       "verified_service_count": 0,
-      "notes": "Kunnan maksulliset palvelut rajattu pois; vapaaehtoisapu selvittämättä."
+      "notes": "Vuoden 2026 maksutaulukko: omaishoitajan vapaan aikainen hoito maksuton tietyin ehdoin; maksulliset kotihoito ja siivous rajattu pois."
     },
     {
       "municipality": "Brändö",
