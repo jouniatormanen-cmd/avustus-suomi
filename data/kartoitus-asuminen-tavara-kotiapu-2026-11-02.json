@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-02",
+  "status": "source_checked_candidates_not_merged",
+  "records": [
+    {
+      "category": "Asuminen",
+      "municipality": "tampere",
+      "name": "Tampereen kaupungin maksuton asumisneuvonta",
+      "phone": "03 565 74700",
+      "phone_hours": "ti 9–12, to 12–15",
+      "address": "Aleksis Kiven katu 14–16 C, Tampere (ajanvarauksella)",
+      "source_url": "https://www.tampere.fi/asuminen-ja-rakentaminen/asuminen/asumisneuvonta",
+      "free_service": true,
+      "publication_ready": false
+    },
+    {
+      "category": "Asuminen",
+      "municipality": "oulu",
+      "name": "Oulun kaupungin asumisneuvonta",
+      "address": "BusinessAsema, Uusikatu 52, Oulu (ti 12–15)",
+      "phone": "040 184 3365 / 040 154 8239",
+      "email": "asumisneuvonta@ouka.fi",
+      "source_url": "https://www.ouka.fi/asumisneuvonta",
+      "free_service": true,
+      "publication_ready": false
+    },
+    {
+      "category": "Vaatteet ja tavarat",
+      "municipality": "valtakunnallinen paikallistoimijoittain",
+      "name": "Hope ry – vähävaraisten lapsiperheiden vaate- ja tavara-apu",
+      "eligibility": "Perheessä vähintään yksi alle 18-vuotias huollettava; Suomen sosiaaliturvan piirissä; hakemus lähimmälle paikallistoimijalle",
+      "source_url": "https://hopeyhdistys.fi/tarvitsen-apua/",
+      "free_service": true,
+      "publication_ready": false,
+      "review": "Jaa myöhemmin paikallisiin palveluihin; ei 20 automaattista merkintää"
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "paikallisesti",
+      "name": "SPR – vapaaehtoisen saattamisapu",
+      "source_url": "https://vapaaehtoistieto.punainenristi.fi/globalassets/vapaaehtoistieto/ystavatoiminta/ystavavalittajat/ohje-ystavaasiakkaiden-saattaminen.pdf",
+      "free_service": null,
+      "publication_ready": false,
+      "review": "Vapaaehtoisen matkakustannukset voivat jäädä asiakkaalle; tarkista paikallinen maksuttomuus ja saatavuus ennen hyväksyntää"
+    }
+  ],
+  "note": "Tarkistettu lähteistä 2.11.2026. Ei muutoksia verkkosivustoon eikä pääaineistoon."
+}
