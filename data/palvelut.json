@@ -3381,10 +3381,10 @@
       "id": "av-0163",
       "municipality": "porvoo",
       "organizer": "SPR Porvoon osasto",
-      "address": null,
+      "address": "Tulliportinkatu 4, Porvoo",
       "source_url": "https://osastot.punainenristi.fi/branches/421/contact",
       "verification_status": "official_contact_page_service_details_pending",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "price_status": "pending_review",
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
@@ -3392,9 +3392,9 @@
       "category": "Keskusteluapu",
       "phone": "041 505 0942",
       "contact_name": "Raija Halén",
-      "details": "SPR Porvoon osaston omaishoitajien tukitoiminnan yhteyshenkilö Raija Halén. Tarkka toimintamuoto, ajankohdat ja osallistumisehdot on vielä selvitettävä.",
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "details": "SPR Porvoon omaishoitajien tukiryhmä kokoontuu kuukausittain Omenamäen palvelukeskuksessa, Tulliportinkatu 4. Ryhmään voi osallistua myös ilman virallista omaishoidontuen päätöstä. Yhteyshenkilö Raija Halén, 041 505 0942. Kysy seuraava kokoontumisaika järjestäjältä.",
+      "publication_review_status": "organizer_activity_verified_price_pending",
+      "publication_review_reason": "SPR:n Porvoon osaston sivu vahvistaa kuukausittaisen ryhmän, paikan ja osallistumisen ilman omaishoidontuen päätöstä. Maksuttomuus ei ilmene yksiselitteisesti."
     },
     {
       "id": "av-0164",
@@ -3975,46 +3975,46 @@
     {
       "id": "av-0192",
       "municipality": "espoo",
-      "category": "Keskusteluapu",
+      "category": "Opiskeluapu",
       "name": "SPR Keski-Espoon Zoom-suomen kielikerho",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "nettikielikerho@sprkeskiespoo.fi",
       "address": null,
-      "details": "Suomea oppimaan -kielikerho verkossa Zoomin välityksellä. Liittymislinkki ja kokoontumisajat pyydettävä järjestäjältä.",
+      "details": "SPR Keski-Espoon Suomea oppimaan -nettikielikerho Zoomissa. Ilmoittautuminen ja liittymisohjeet sähköpostitse nettikielikerho@sprkeskiespoo.fi. Ryhmä on tarkoitettu suomen kielen harjoitteluun; kokoontumisajat ja maksuttomuus varmistettava järjestäjältä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
       "price_status": "pending_review",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja Zoom-liittymisohje puuttuvat. Ei julkaista arvauksilla."
+      "publication_review_status": "organizer_activity_verified_access_pending",
+      "publication_review_reason": "Järjestäjän sivu vahvistaa Zoom-kielikerhon ja ilmoittautumissähköpostin. Maksuttomuutta ja kokoontumisaikaa ei ilmaista nimenomaisesti."
     },
     {
       "id": "av-0193",
       "municipality": "espoo",
-      "category": "Keskusteluapu",
+      "category": "Ystävätoiminta",
       "name": "SPR Keski-Espoon Suomikamu-toiminta",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "suomikamusprespoo@gmail.com",
       "address": null,
-      "details": "Suomikamu-toiminnan yhteyspiste. Tapaamisajat ja osallistumisehdot tarkistettava järjestäjältä.",
+      "details": "SPR Keski-Espoon Suomikamu-toiminta tukee maahan muuttaneiden suomen kielen harjoittelua ja tutustumista arkeen vapaaehtoisen kanssa. Yhteydenotot suomikamusprespoo@gmail.com. Tarkat osallistumisehdot ja maksuttomuus varmistettava järjestäjältä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
       "price_status": "pending_review",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "publication_review_status": "organizer_activity_verified_access_pending",
+      "publication_review_reason": "Järjestäjän toimintakuvaus ja yhteydenottokanava vahvistettu; osallistumisehdot ja maksuttomuus eivät käy ilmi."
     },
     {
       "id": "av-0194",
