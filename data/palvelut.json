@@ -1015,12 +1015,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "official_source_previously_checked_2026-11-02",
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
     },
     {
       "id": "av-0051",
@@ -1036,12 +1033,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "official_source_previously_checked_2026-11-02",
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
     },
     {
       "id": "av-0052",
@@ -1057,12 +1051,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "official_source_previously_checked_2026-11-02",
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
     },
     {
       "id": "av-0053",
@@ -1078,12 +1069,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "official_source_previously_checked_2026-11-02",
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
     },
     {
       "id": "av-0054",
@@ -1117,9 +1105,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "official_source_previously_checked_2026-11-02",
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
     },
     {
       "id": "av-0056",
@@ -1135,9 +1123,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "official_source_previously_checked_2026-11-02",
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
     },
     {
       "id": "av-0057",
