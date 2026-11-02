@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-02",
+  "status": "source_reviewed_candidates",
+  "records": [
+    {
+      "category": "Asuminen",
+      "municipality": "kuopio",
+      "name": "Kuopion asumisneuvonta – Setlementti Puijola",
+      "organizer": "Kuopion Setlementti Puijola ry / Kuopion kaupunki",
+      "address": "Kuninkaankatu 23 B, 70100 Kuopio",
+      "phone": [
+        "050 352 0886",
+        "044 493 8473"
+      ],
+      "email": "asumisneuvonta@puijola.net",
+      "eligibility": "Kuopiossa asuvat, kaikki asumismuodot",
+      "source_url": "https://www.kuopio.fi/asuminen-ja-ymparisto/asuminen/asumisneuvonta/",
+      "free_service": "verify_explicit_price",
+      "publication_ready": false
+    },
+    {
+      "category": "Asuminen",
+      "municipality": "lahti",
+      "name": "Lahden Talojen asukkaiden asumisneuvonta",
+      "organizer": "Lahden Talot",
+      "address": "Kauppakeskus Trio, palvelutori, Lahti",
+      "schedule": "ti ja to 9–15 ilman ajanvarausta",
+      "email": "asumisneuvonta@lahti.fi",
+      "phone": [
+        "044 482 6287",
+        "044 482 0810",
+        "044 482 6769"
+      ],
+      "eligibility": "Lahden Talojen asukkaat, tarkka aluejako lähteessä",
+      "source_url": "https://lahdentalot.fi/palvelut-asukkaalle/asumisneuvonta-ja-vuokravalvonta/",
+      "free_service": "verify_explicit_price",
+      "publication_ready": false
+    },
+    {
+      "category": "Vaatteet ja tavarat",
+      "municipality": "valtakunnallinen paikallistoimijoittain",
+      "name": "Hope ry – lapsiperheiden vaate- ja tavara-avun tarkennetut hakuehdot",
+      "organizer": "Hope ry",
+      "eligibility": "Alle 18-vuotias huollettava, Suomen sosiaaliturva; vain oma perhe ja lähin toimipiste",
+      "details": "Vaatteet, kengät, lelut, harrastusvälineet ja paikkakunnasta riippuen kodin pientarvikkeet; 20 paikallistoimijaa; ei suoraa rahalahjoitusta",
+      "source_url": "https://hopeyhdistys.fi/tarvitsen-apua/",
+      "secondary_source": "https://omahyte.fi/tapahtuma/aineellista-apua-vahavaraisille-lapsiperheille/",
+      "free_service": true,
+      "publication_ready": false,
+      "review": "Päivitä aiemman Hope-ehdokkaan ehdot; älä luo päällekkäistä palvelua"
+    }
+  ],
+  "note": "Erillinen kartoituserä; ei yhdistetty pääaineistoon eikä muutettu verkkosivustoa."
+}
