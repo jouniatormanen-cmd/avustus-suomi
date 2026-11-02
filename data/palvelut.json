@@ -1933,22 +1933,24 @@
       "id": "av-0096",
       "category": "Raha-asiat",
       "municipality": "turku",
-      "name": "Turun seurakuntien diakoninen taloudellinen tuki",
+      "name": "Turun seurakuntien diakoninen maksuton talousneuvonta",
       "address": "Turku, alueellisen seurakunnan diakoniavastaanotto",
-      "details": "Harkinnanvaraista tukea taloudellisissa vaikeuksissa. Avustuksen mahdollisuus ja vaadittavat asiakirjat selvitetään tapaamisessa.",
+      "details": "Seurakunnan diakoniatyön maksutonta keskustelu- ja talousneuvontaa taloudellisissa vaikeuksissa. Mahdollinen rahallinen tai aineellinen avustus on erillinen, harkinnanvarainen eikä sitä voi luvata ennakolta. Selvitä ajanvaraus ja paikalliset ehdot seurakunnalta.",
       "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/",
-      "price_status": "conditional",
+      "price_status": "free_counselling_conditional_discretionary_aid",
       "verification_status": "needs_service_level_details",
-      "last_verified": null,
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_free_counselling_only",
+      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä."
     },
     {
       "id": "av-0097",
@@ -1975,22 +1977,24 @@
       "id": "av-0098",
       "category": "Raha-asiat",
       "municipality": "tampere",
-      "name": "Tampereen seurakuntien taloudellinen diakonia-apu",
+      "name": "Tampereen seurakuntien maksuton talousneuvonta",
       "address": "Tampere, alueellinen seurakunta",
-      "details": "Taloudellisen tilanteen selvittelyä ja mahdollisesti harkinnanvaraista avustamista. Tarkista ehdot suoraan diakoniatyöstä.",
+      "details": "Seurakunnan diakoniatyön maksutonta keskustelu- ja talousneuvontaa taloudellisissa vaikeuksissa. Mahdollinen rahallinen tai aineellinen avustus on erillinen, harkinnanvarainen eikä sitä voi luvata ennakolta. Selvitä ajanvaraus ja paikalliset ehdot seurakunnalta.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/",
-      "price_status": "conditional",
+      "price_status": "free_counselling_conditional_discretionary_aid",
       "verification_status": "needs_service_level_details",
-      "last_verified": null,
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_free_counselling_only",
+      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä."
     },
     {
       "id": "av-0099",
@@ -2018,22 +2022,24 @@
       "id": "av-0100",
       "category": "Raha-asiat",
       "municipality": "helsinki",
-      "name": "Helsingin seurakuntien diakoninen taloudellinen apu",
+      "name": "Helsingin seurakuntien maksuton talousneuvonta",
       "address": "Helsinki, seurakuntakohtaiset toimipisteet",
-      "details": "Taloudellisen tilanteen kartoittamista ja harkinnanvaraista avustamista. Avustusta ei voida luvata ennakolta.",
+      "details": "Seurakunnan diakoniatyön maksutonta keskustelu- ja talousneuvontaa taloudellisissa vaikeuksissa. Mahdollinen rahallinen tai aineellinen avustus on erillinen, harkinnanvarainen eikä sitä voi luvata ennakolta. Selvitä ajanvaraus ja paikalliset ehdot seurakunnalta.",
       "source_url": "https://www.helsinginseurakunnat.fi/apuajajaksamista.html",
-      "price_status": "conditional",
+      "price_status": "free_counselling_conditional_discretionary_aid",
       "verification_status": "needs_service_level_details",
-      "last_verified": null,
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_free_counselling_only",
+      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä."
     },
     {
       "id": "av-0101",
