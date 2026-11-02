@@ -563,7 +563,9 @@
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
       "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti.",
-      "organizer": "Porvoon suomalainen seurakunta"
+      "organizer": "Porvoon suomalainen seurakunta",
+      "phone": "019 6611 231",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0027",
@@ -585,7 +587,9 @@
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
       "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti.",
-      "organizer": "Porvoon suomalainen seurakunta"
+      "organizer": "Porvoon suomalainen seurakunta",
+      "phone": "019 6611 231",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0028",
@@ -604,7 +608,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
       "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
-      "organizer": "Porvoon kaupunki"
+      "organizer": "Porvoon kaupunki",
+      "phone": "040 558 3791",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0029",
@@ -688,7 +694,9 @@
       "publication_ready": true,
       "publication_review_status": "source_reviewed_2026-11-02",
       "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
-      "organizer": "Isojoen seurakunta"
+      "organizer": "Isojoen seurakunta",
+      "phone": "040 156 4749",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0033",
@@ -707,7 +715,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
       "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
-      "organizer": "Isojoen seurakunta"
+      "organizer": "Isojoen seurakunta",
+      "phone": "040 156 4749",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0034",
@@ -765,7 +775,10 @@
       "publication_ready": true,
       "publication_review_status": "source_reviewed_2026-11-02",
       "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
-      "organizer": "Vantaan kaupunki"
+      "organizer": "Vantaan kaupunki",
+      "email": "asumisneuvonta@vantaa.fi",
+      "phone": "09 839 50410",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0037",
@@ -789,7 +802,9 @@
       ],
       "seasonal_service": true,
       "reverification_required_after": "2026-12-15",
-      "organizer": "Länsi-Uudenmaan hyvinvointialue"
+      "organizer": "Länsi-Uudenmaan hyvinvointialue",
+      "phone": "040 639 3944",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0038",
@@ -813,7 +828,9 @@
       ],
       "seasonal_service": true,
       "reverification_required_after": "2026-12-15",
-      "organizer": "Länsi-Uudenmaan hyvinvointialue"
+      "organizer": "Länsi-Uudenmaan hyvinvointialue",
+      "phone": "040 639 3944",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0039",
@@ -1468,7 +1485,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
-      "organizer": "Oulaisten seurakunta"
+      "organizer": "Oulaisten seurakunta",
+      "phone": "044 579 7426",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0069",
@@ -1531,7 +1550,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
-      "organizer": "Turun ja Kaarinan seurakuntayhtymä"
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "phone": "040 341 7656",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0072",
@@ -1552,7 +1573,9 @@
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-17",
-      "organizer": "Lopen seurakunta"
+      "organizer": "Lopen seurakunta",
+      "phone": "050 426 4100",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0073",
@@ -1573,7 +1596,9 @@
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-17",
-      "organizer": "Lopen seurakunta"
+      "organizer": "Lopen seurakunta",
+      "phone": "050 426 4100",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0074",
@@ -1636,7 +1661,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
       "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
-      "organizer": "Sodankylän seurakunta"
+      "organizer": "Sodankylän seurakunta",
+      "phone": "0400 380 228",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0077",
@@ -1655,7 +1682,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
       "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
-      "organizer": "Sodankylän seurakunta"
+      "organizer": "Sodankylän seurakunta",
+      "phone": "0400 380 228",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0078",
@@ -1674,7 +1703,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
       "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
-      "organizer": "Kurikan seurakunta"
+      "organizer": "Kurikan seurakunta",
+      "phone": "050 350 7659",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0079",
@@ -1693,7 +1724,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
       "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
-      "organizer": "Raision seurakunta"
+      "organizer": "Raision seurakunta",
+      "email": "diakonia.raisio@evl.fi",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0080",
@@ -1712,7 +1745,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
       "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
-      "organizer": "Loimaan seurakunta"
+      "organizer": "Loimaan seurakunta",
+      "phone": "0400 397 468",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0081",
@@ -1731,7 +1766,9 @@
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
-      "organizer": "Loimaan seurakunta"
+      "organizer": "Loimaan seurakunta",
+      "phone": "0400 397 468",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0082",
@@ -1956,7 +1993,9 @@
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-17",
-      "organizer": "Kaarinan seurakunta"
+      "organizer": "Kaarinan seurakunta",
+      "phone": "040 341 7271",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0091",
@@ -1977,7 +2016,9 @@
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-17",
-      "organizer": "Martinseurakunta"
+      "organizer": "Martinseurakunta",
+      "phone": "040 341 7297",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0092",
@@ -1998,7 +2039,9 @@
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-17",
-      "organizer": "Katariinanseurakunta"
+      "organizer": "Katariinanseurakunta",
+      "phone": "040 341 7622",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0093",
@@ -2019,7 +2062,9 @@
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-17",
-      "organizer": "Mikaelinseurakunta"
+      "organizer": "Mikaelinseurakunta",
+      "phone": "040 341 7275",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0094",
@@ -2420,7 +2465,9 @@
       ],
       "publication_review_status": "spr_sources_checked_2026-11-02",
       "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa.",
-      "organizer": "Suomen Punainen Risti, Hämeenlinnan osasto"
+      "organizer": "Suomen Punainen Risti, Hämeenlinnan osasto",
+      "email": "spr.ystavat@gmail.com",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0112",
@@ -2440,7 +2487,9 @@
       "source_kind": "red_cross",
       "schedule_verification_pending": true,
       "review_note": "Joka toinen keskiviikko; tarkka kellonaika ja viikkorytmi tarkistettava ennen täsmällisen ajan näyttämistä.",
-      "organizer": "Suomen Punainen Risti, Hämeenlinnan osasto"
+      "organizer": "Suomen Punainen Risti, Hämeenlinnan osasto",
+      "email": "spr.hml@gmail.com",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0113",
