@@ -252,7 +252,9 @@
       "publication_ready": false,
       "duplicate_review_pending": true,
       "possible_duplicate_of": "av-0024",
-      "review_note": "Sama SPR Porvoon ystävä- ja saattamistoiminta kuin av-0024; tarkista ennen yhdistämistä."
+      "review_note": "Sisällöllinen kaksoiskappale av-0024:n kanssa (SPR Porvoo, ystävä- ja saattamistoiminta). Säilytetään alkuperäinen tietue, mutta ei tarjota erillisenä hakutuloksena.",
+      "duplicate_status": "confirmed_same_organizer_and_service_scope_as_av-0024",
+      "exclude_from_free_service_search": true
     },
     {
       "id": "av-0020",
@@ -324,8 +326,11 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
-      "duplicate_review_pending": true,
-      "review_note": "Mahdollinen sama palvelu kuin av-0019; tarkistettava ennen lopullista yhdistämistä."
+      "duplicate_review_pending": false,
+      "review_note": "Ensisijainen SPR Porvoon ystävä- ja saattajapalvelun tietue; av-0019 on sisällöllinen kaksoiskappale. Lähde ja yhteystiedot säilytetty.",
+      "merged_equivalent_ids": [
+        "av-0019"
+      ]
     },
     {
       "id": "av-0025",
@@ -1647,7 +1652,8 @@
       "recurrence": null,
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "availability_note": "Vapaaehtoisen ystävän löytymistä ei voida taata; ystäväpyynnöt keskiviikkoisin."
     },
     {
       "id": "av-0109",
@@ -1715,7 +1721,9 @@
       "recurrence": null,
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "schedule_verification_pending": true,
+      "review_note": "Joka toinen keskiviikko; tarkka kellonaika ja viikkorytmi tarkistettava ennen täsmällisen ajan näyttämistä."
     },
     {
       "id": "av-0113",
