@@ -1,0 +1,117 @@
+{
+  "records": [
+    {
+      "municipality": "Maalahti",
+      "name": "SPR:n säännöllinen ruoka-apu",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Maalahden osasto",
+      "address": "Bygdegården, tarkka katuosoite avoin",
+      "schedule": "Keskiviikkoisin klo 14.30",
+      "conditions": "Myös valmiiksi pakattuja ruokapusseja sovittaessa myöhemmin noudettavaksi",
+      "source_url": "https://www.malax.fi/assets/Sidor/1/163/Maalahden-kunnan-tiedotuslehti.pdf",
+      "fee_status": "maksuttomuus_tarkistettava",
+      "id": "20261102-monialainen-säännölliset-1",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Maalahti",
+      "name": "SPR:n maksuton tavaravarasto",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "SPR Maalahden osasto",
+      "address": "Nimismiehentie 1, Maalahti",
+      "schedule": "Maanantaisin klo 17–19",
+      "conditions": "Tarvikkeita saa ilmaiseksi tai vapaaehtoisella maksulla; myös ehjien puhtaiden tavaroiden lahjoitus",
+      "source_url": "https://www.malax.fi/assets/Sidor/1/163/Maalahden-kunnan-tiedotuslehti.pdf",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-2",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Juupajoki",
+      "name": "Juupajoen lähitorin maksuton lounas",
+      "category": "Ruoka-apu",
+      "organizer": "Juupajoen lähitori",
+      "schedule": "Kuukauden viimeisenä perjantaina",
+      "conditions": "Jatkuva kuukausittainen ruokailu, tarkka osoite tarkistettava",
+      "source_url": "https://pirha.fi/web/hyvinvointiaelintavoilla/yhteisolliset-ruokailut-ja-ruoka-apu",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-3",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Juupajoki",
+      "name": "Toivontuvan maksuton lounas",
+      "category": "Ruoka-apu",
+      "organizer": "Juupajoen seurakunta",
+      "schedule": "Kuukauden toisena torstaina",
+      "conditions": "Säännöllinen kuukausittainen ruokailu; osoite tarkistettava",
+      "source_url": "https://pirha.fi/web/hyvinvointiaelintavoilla/yhteisolliset-ruokailut-ja-ruoka-apu",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-4",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Juupajoki",
+      "name": "Perhetupa Metsätähden maksuton lapsiperheiden ruokailu",
+      "category": "Ruoka-apu",
+      "organizer": "MLL Juupajoki ja Juupajoen kunta",
+      "schedule": "Noin kaksi kertaa kuukaudessa",
+      "conditions": "Lapsiperheille; osoite ja ajankohdat tarkistettava",
+      "source_url": "https://pirha.fi/web/hyvinvointiaelintavoilla/yhteisolliset-ruokailut-ja-ruoka-apu",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-5",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Lempäälä",
+      "locality": "Sääksjärvi",
+      "name": "Suuntapaikan maksuton aamupala ja kohtaamispaikka",
+      "category": "Ruoka-apu",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Sääksjärven Satamakahvila Suuntapaikka",
+      "schedule": "Tiistaisin klo 10–12",
+      "conditions": "Kaikille avoin kohtaamispaikka, aamupala ja matalan kynnyksen tuki; osoite tarkistettava",
+      "source_url": "https://pirha.fi/web/hyvinvointiaelintavoilla/yhteisolliset-ruokailut-ja-ruoka-apu",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-6",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Lempäälä",
+      "locality": "Sääksjärvi",
+      "name": "Suuntapaikan maksuton keittolounas",
+      "category": "Ruoka-apu",
+      "organizer": "Sääksjärven Satamakahvila Suuntapaikka",
+      "schedule": "Parillisten viikkojen sunnuntaisin klo 13 messun jälkeen",
+      "conditions": "Maksuton keittolounas; osoite tarkistettava",
+      "source_url": "https://pirha.fi/web/hyvinvointiaelintavoilla/yhteisolliset-ruokailut-ja-ruoka-apu",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-7",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "municipality": "Lohja",
+      "name": "ViaDia Soppakirkko – maksuton ateria",
+      "category": "Ruoka-apu",
+      "organizer": "ViaDia Länsi-Uusimaa ry",
+      "address": "Metsolankatu 16, Lohja",
+      "schedule": "Joka kuukauden toinen keskiviikko klo 11.30–13",
+      "conditions": "Avoin kaikille tarvitseville, myös kahvitarjoilu",
+      "source_url": "https://lansi-uusimaa.viadia.fi/lohjan-ruoka-apu/",
+      "fee_status": "vahvistettu_maksuton",
+      "id": "20261102-monialainen-säännölliset-8",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Vain säännöllisesti toistuvia avustuspalveluja; ei yksittäisiä tapahtumia. Maalahden ruoka-avun maksuttomuus ja puuttuvat katuosoitteet tarkistettava myöhemmin. Mahdolliset duplikaatit aiempaan aineistoon myöhemmin. Julkista sivustoa ei muutettu."
+}
