@@ -1,0 +1,69 @@
+{
+  "records": [
+    {
+      "municipality": "Kangasala",
+      "name": "SPR Kangasalan maksuton aamupalakohtaaminen",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Kangasalan osasto",
+      "schedule": "Torstaisin 9–11",
+      "address": "Kangasala; tarkka palvelupisteen osoite tarkistettava",
+      "conditions": "Kaikille halukkaille avoin maksuton aamupala",
+      "fee_status": "confirmed_free",
+      "source_url": "https://osastot.punainenristi.fi/osastot/kangasalan-osasto/toiminta",
+      "id": "20261102-kangasala-lohja-1",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing_or_recurring"
+    },
+    {
+      "municipality": "Kangasala",
+      "name": "SPR Kangasalan maksuton terveyspiste",
+      "category": "Keskusteluapu",
+      "subcategory": "Terveysneuvonta",
+      "organizer": "SPR Kangasalan osasto",
+      "schedule": "Torstaisin 9–11 aamupalakohtaamisen yhteydessä",
+      "address": "Kangasala; tarkka palvelupisteen osoite tarkistettava",
+      "conditions": "Maksuton terveysneuvonta, verenpaineen mittaus ja keskustelu hyvinvoinnista. Ei terveydenhuollon vastaanotto.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://osastot.punainenristi.fi/osastot/kangasalan-osasto/toiminta",
+      "id": "20261102-kangasala-lohja-2",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing_or_recurring"
+    },
+    {
+      "municipality": "Lohja",
+      "name": "SPR Lohjan kotimaan apu äkillisissä kriiseissä",
+      "category": "Vaatteet ja tavarat",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "SPR Lohjan osasto",
+      "contact": "040 545 5155; spr.lohja@gmail.com",
+      "conditions": "Onnettomuuden tai äkillisen kriisin kohdanneille; ota yhteyttä kolmen vuorokauden sisällä tapahtuneesta. Apu harkitaan tilanteen mukaan; avun maksuttomuus varmistettava.",
+      "fee_status": "unconfirmed",
+      "source_url": "https://osastot.punainenristi.fi/osastot/lohjan-osasto/toiminta",
+      "id": "20261102-kangasala-lohja-3",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing_or_recurring"
+    },
+    {
+      "municipality": "Lohja",
+      "locality": "Virkkala",
+      "name": "SPR Lohjan kotimaan avun vaate- ja tavaravarasto",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "SPR Lohjan osasto",
+      "address": "Pailantie 14, 08700 Lohja",
+      "schedule": "Kuukauden ensimmäisenä sunnuntaina 13–14; lahjoitusten vastaanotto 14–14.30",
+      "conditions": "Varastossa vaatteita, astioita, liinavaatteita, leluja ja kodintarvikkeita. Varmistettava, miten avunsaajat saavat tavaroita ja onko jako maksuton.",
+      "fee_status": "unconfirmed",
+      "source_url": "https://osastot.punainenristi.fi/osastot/lohjan-osasto/toiminta",
+      "id": "20261102-kangasala-lohja-4",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing_or_recurring"
+    }
+  ],
+  "notes": "Neljä jatkuvaa tai säännöllistä palvelua. Kaksi vahvistetusti maksutonta Kangasalla, kaksi Lohjalla avunsaajan pääsy- ja maksuttomuusehtojen tarkistusta odottamassa. Ei kertaluonteisia tapahtumia. Mahdolliset duplikaatit myöhemmin. Ei julkisen sivuston muutoksia."
+}
