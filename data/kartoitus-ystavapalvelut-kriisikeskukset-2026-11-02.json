@@ -1,0 +1,127 @@
+{
+  "records": [
+    {
+      "municipality": "Porvoo",
+      "name": "SPR Porvoon maksuton ystävä- ja saattajapalvelu",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Kotiapu"
+      ],
+      "organizer": "SPR Porvoon osasto",
+      "contact": "sprporvoo.ystavat@gmail.com; 040 757 1236",
+      "conditions": "Ystävä yksinäiselle, vanhukselle, vammaiselle tai muulle tukea tarvitsevalle; myös saattaja esimerkiksi lääkärikäynnille. Palvelu on maksuton.",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/porvoon-osasto/toiminta/ystavatoiminta",
+      "fee_status": "confirmed_free",
+      "id": "20261102-ystava-kriisi-1",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Nokia",
+      "name": "SPR Nokian maksuton pitkäaikainen ystäväpalvelu",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Nokian osasto",
+      "phone": "040 547 3601",
+      "schedule": "Ystävätilaukset keskiviikkoisin; tapaamiset noin kahden viikon välein",
+      "conditions": "Yksin kotona asuvalle, vapaaehtoisen saatavuus vaihtelee; palvelu maksuton.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/nokian-osasto/toiminta/ystavatoiminta",
+      "fee_status": "confirmed_free",
+      "id": "20261102-ystava-kriisi-2",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Nokia",
+      "name": "SPR Nokian ystäväsaatto",
+      "category": "Kotiapu",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "SPR Nokian osasto",
+      "phone": "040 547 3601",
+      "schedule": "Tilaukset keskiviikkoisin",
+      "conditions": "Saattaja terveydenhuollon asiointiin; taksi ja mahdolliset matkakulut eivät sisälly maksuttomuuteen. Palvelun maksuttomuus asiakkaalle vahvistettava erikseen.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/nokian-osasto/toiminta/ystavatoiminta",
+      "fee_status": "unconfirmed",
+      "id": "20261102-ystava-kriisi-3",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "name": "SPR Hämeenlinnan maksuton keskiviikkokahvila",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Hämeenlinnan osasto",
+      "address": "Palokunnankatu 20 A, 13100 Hämeenlinna",
+      "schedule": "Joka toinen keskiviikko",
+      "conditions": "Kaikille avoin maksuton kohtaamispaikka ja juttuseura; ei ammattimaista kriisiapua.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/hameenlinnan-osasto/toiminta/ystavatoiminta",
+      "fee_status": "confirmed_free",
+      "id": "20261102-ystava-kriisi-4",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Helsinki",
+      "name": "SPR Helsingin ystävävälitys",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Helsingin ja Uudenmaan piiri",
+      "phone": "050 409 2702",
+      "contact": "helsinki.ystavavalitys@punainenristi.fi",
+      "schedule": "Puhelinpäivystys ti 13–17.30 ja ke 11–14",
+      "conditions": "Vapaaehtoinen ystävä yksinäisyyteen; palvelun maksuttomuus varmistettava paikalliselta välitykseltä.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
+      "fee_status": "unconfirmed",
+      "id": "20261102-ystava-kriisi-5",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Pääkaupunkiseutu",
+      "name": "MIELI Kriisikeskus Helsinki – maksuton kriisikeskustelu",
+      "category": "Keskusteluapu",
+      "organizer": "MIELI Suomen Mielenterveys ry",
+      "address": "Maistraatinportti 4 A, 4. kerros, Helsinki",
+      "phone": "09 4135 0510",
+      "conditions": "Maksuton, luottamuksellinen lyhytkestoinen keskusteluapu ajanvarauksella, ilman lähetettä.",
+      "source_url": "https://www.suomi.fi/palvelut/palvelupiste/mieli-kriisikeskus-helsinki-mieli-suomen-mielenterveys-ry/1663ee87-183b-458c-a55d-77f9c7298b15",
+      "fee_status": "confirmed_free",
+      "id": "20261102-ystava-kriisi-6",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Etelä-Karjala",
+      "name": "MIELI Etelä-Karjalan maksuton kriisikeskustelu",
+      "category": "Keskusteluapu",
+      "organizer": "MIELI Etelä-Karjalan mielenterveys ry",
+      "conditions": "Ajanvarauksella, kasvokkain Lappeenrannassa tai etänä Etelä-Karjalan alueella; luottamuksellinen, myös nimettömänä, ei lähetettä.",
+      "source_url": "https://www.suomi.fi/palvelut/keskusteluapua-kriiseihin-ja-erilaisiin-vaikeisiin-elamantilanteisiin-mieli-etela-karjalan-mielenterveys-ry/1d2ba1b8-ec61-411e-bf82-e0ad1a52f2bb",
+      "fee_status": "confirmed_free",
+      "id": "20261102-ystava-kriisi-7",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Etelä-Karjala",
+      "name": "MIELI Etelä-Karjalan maksuton keskusteluapu miehille",
+      "category": "Keskusteluapu",
+      "organizer": "MIELI Etelä-Karjalan mielenterveys ry",
+      "conditions": "Miehille ajanvarauksella, Lappeenrannassa kasvokkain tai etänä koko Etelä-Karjalassa; nimettömästi ja ilman lähetettä.",
+      "source_url": "https://www.suomi.fi/palvelut/keskusteluapua-miehille-kriiseihin-ja-erilaisiin-vaikeisiin-elamantilanteisiin-mieli-etela-karjalan-mielenterveys-ry/4c40474a-bd7a-4a22-93fe-8e1e6477d4e5",
+      "fee_status": "confirmed_free",
+      "id": "20261102-ystava-kriisi-8",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    }
+  ],
+  "notes": "Kahdeksan jatkuvaa palvelua; mukana vapaaehtoisten ystävä- ja saattaja-apu sekä kriisikeskustelu. Nokian saattoavun ja Helsingin ystävävälityksen maksuttomuus varmistettava. Ei yksittäisiä tapahtumia, ei sivustomuutoksia."
+}
