@@ -682,14 +682,14 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Yhteys sähköpostilla kirkkonummi-siuntio@osasto.punainenristi.fi. Palvelee myös Siuntiota.",
       "phone": null,
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "shared_service_group": "spr-kirkkonummi-siuntio-ystavatoiminta",
-      "review_note": "Sama osaston palvelu kahdella palvelualueella, ei kaksi erillistä palvelua. Säilytä molemmat kuntahakujen löydettävyydessä; maksuttomuus vielä vahvistamatta."
+      "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua. Sama alueellinen palvelu näkyy kahdessa kunnassa tarkoituksellisesti, ei kahtena erillisenä palveluna."
     },
     {
       "id": "av-0045",
@@ -700,14 +700,14 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Yhteys sähköpostilla kirkkonummi-siuntio@osasto.punainenristi.fi. Palvelee myös Kirkkonummea.",
       "phone": null,
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "shared_service_group": "spr-kirkkonummi-siuntio-ystavatoiminta",
-      "review_note": "Sama osaston palvelu kahdella palvelualueella, ei kaksi erillistä palvelua. Säilytä molemmat kuntahakujen löydettävyydessä; maksuttomuus vielä vahvistamatta."
+      "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua. Sama alueellinen palvelu näkyy kahdessa kunnassa tarkoituksellisesti, ei kahtena erillisenä palveluna."
     },
     {
       "id": "av-0046",
@@ -738,12 +738,13 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Puhelinpäivystys keskiviikkoisin klo 14.30–17; sähköposti spr.korso.ystava@gmail.com.",
       "phone": "050 314 5722",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua."
     },
     {
       "id": "av-0048",
@@ -775,12 +776,13 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Puhelinpäivystys tiistaisin klo 15–18; spr.ystavatikkurila@gmail.com.",
       "phone": "043 826 9999",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua."
     },
     {
       "id": "av-0050",
