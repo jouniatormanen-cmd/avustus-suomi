@@ -1161,13 +1161,15 @@
       "name": "Lopen seurakunnan PikkuHelppi lapsiperheille",
       "address": null,
       "details": "Arjen tukea lapsiperheille; palvelun saatavuus ja maksuttomuus tarkistettava suoraan seurakunnalta. Yhteys 050 426 4100.",
-      "source_url": "https://www.lopenseurakunta.fi/apua-ja-tukea",
-      "price_status": "check_source",
-      "verification_status": "official_source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "source_url": "https://www.lopenseurakunta.fi/pikkuhelppi",
+      "price_status": "free",
+      "verification_status": "parish_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "parish_or_church"
+      "source_kind": "parish_or_church",
+      "access_requirement": "Pienten lasten huoltajille; ennakkovaraus; yleensä enintään neljä kahden tunnin käyntiä syys- tai kevätkaudessa.",
+      "review_note": "Seurakunta vahvistaa palvelun maksuttomaksi. Kaksi tuntia kerrallaan arkipäivisin, mahdollinen ilta-aika sovittaessa. Työntekijöiden lomilla tauolla."
     },
     {
       "id": "av-0076",
@@ -1313,11 +1315,13 @@
       "details": "Nuorten aikuisten ja opiskelijoiden yhteinen ruokailuilta torstaisin klo 18–20, syyskausi 24.9.–17.12.2026. Ruokakassijako 19.11. ja 17.12.2026. Ennakkoilmoittautuminen pakollista; kysy ohje diakonissa Oona Hakanpäältä 040 341 7135.",
       "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
       "price_status": "check_source",
-      "verification_status": "source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "verification_status": "parish_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Järjestäjän syksyn 2026 sivulla ruokakassijakopäivät 24.9.,15.10.,19.11.,17.12.; ennakkoilmoittautuminen pakollinen. Maksuttomuutta ei ilmaista yksiselitteisesti, joten jätetty avoimeksi.",
+      "access_requirement": "Nuoret aikuiset ja opiskelijat; ruokakassit taloudellisia haasteita kokeville; ennakkoilmoittautuminen pakollinen."
     },
     {
       "id": "av-0086",
