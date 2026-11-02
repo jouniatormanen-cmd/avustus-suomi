@@ -3377,12 +3377,14 @@
       "phone": "045 118 4884",
       "details": "Ystävävälityksen puhelinpäivystys keskiviikkoisin klo 16–18. Vapaaehtoisystävä yksinäisyyden lievittämiseen. Muulloin tekstiviesti.",
       "source_url": "https://osastot.punainenristi.fi/osastot/meri-lapin-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
-      "event_data_status": "needs_event_detail_if_applicable"
+      "event_data_status": "needs_event_detail_if_applicable",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävätoiminta; mahdolliset asiakkaan omat kulut erikseen."
     },
     {
       "id": "av-0169",
@@ -3428,12 +3430,14 @@
       "phone": "046 560 1962",
       "details": "Vapaaehtoinen ystävä ja keskusteluseura. Yhteys myös WhatsAppilla tai sähköpostilla sprtornioystava@gmail.com. Toimiston osoite Kemintie 4 ei ole automaattisesti ystävätapaamisen paikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/tornion-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
-      "event_data_status": "needs_event_detail_if_applicable"
+      "event_data_status": "needs_event_detail_if_applicable",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävätoiminta; mahdolliset asiakkaan omat kulut erikseen."
     },
     {
       "id": "av-0172",
@@ -3445,12 +3449,14 @@
       "phone": "040 700 0710",
       "details": "Vapaaehtoisystävä esimerkiksi ikäihmiselle, nuorelle, maahan muuttaneelle tai mielenterveyskuntoutujalle. Ystävä voi olla keskusteluseura tai tukena asioilla, ei hoiva- tai siivouspalvelu. Puhelimeen vastataan mahdollisuuksien mukaan klo 8–20; takaisinsoitto. Sähköposti rovaniemi.ystavavalitys@punainenristi.fi.",
       "source_url": "https://osastot.punainenristi.fi/osastot/rovaniemen-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
-      "event_data_status": "needs_event_detail_if_applicable"
+      "event_data_status": "needs_event_detail_if_applicable",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävätoiminta; mahdolliset asiakkaan omat kulut erikseen."
     },
     {
       "id": "av-0173",
