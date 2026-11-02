@@ -4054,9 +4054,11 @@
       "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
       "free_service": true,
       "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
+      "verification_status": "organizer_page_rechecked_2026-11-02_intake_unclear",
       "price_status": "free_per_organizer",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-02",
+      "publication_review_status": "hold_intake_form_summer_pause_not_resolved",
+      "publication_review_reason": "Paikallissivulla avunpyyntölomakkeen kerrotaan olevan kesätauolla, vaikka nyt on marraskuu 2026. Ennen julkaisua varmistettava, että avunpyyntöjä otetaan vastaan."
     },
     {
       "id": "av-0200",
