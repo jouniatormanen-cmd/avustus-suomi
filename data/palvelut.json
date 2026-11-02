@@ -1941,14 +1941,13 @@
       "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "review_note": "Turun ja Kaarinan seurakunnat vahvistavat diakonian maksuttomaksi kaikille myös kirkkoon kuulumattomille.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_review_status": "parish_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä."
     },
     {
       "id": "av-0096",
@@ -1984,14 +1983,13 @@
       "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "review_note": "Tampereen seurakuntayhtymä vahvistaa diakonian maksuttomaksi kaikille, myös kirkkoon kuulumattomille. Taloudellinen avustus on harkinnanvaraista.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_review_status": "parish_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä."
     },
     {
       "id": "av-0098",
@@ -2027,15 +2025,14 @@
       "last_verified": "2026-11-02",
       "recurrence": null,
       "record_type": "regional_service_lead",
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "access_requirement": "Kaikille, ei edellytä kirkon jäsenyyttä. Puhelinpalvelusta voi aiheutua operaattorin normaali puhelumaksu.",
       "review_note": "Helsingin seurakuntien 19.8.2026 julkaisu vahvistaa keskusteluavun maksuttomaksi ja luottamukselliseksi ilman jäsenyysvaatimusta. Palvelevan puhelimen operaattorimaksu erotettava palvelumaksusta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_review_status": "parish_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä."
     },
     {
       "id": "av-0100",
