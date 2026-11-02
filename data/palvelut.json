@@ -591,7 +591,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "merged_equivalent_ids": [
+        "av-0158"
+      ],
+      "review_note": "Saman palvelun rinnakkaismerkintä av-0158 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta."
     },
     {
       "id": "av-0041",
@@ -639,7 +643,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "merged_equivalent_ids": [
+        "av-0160"
+      ],
+      "review_note": "Saman palvelun rinnakkaismerkintä av-0160 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta."
     },
     {
       "id": "av-0044",
@@ -655,7 +663,9 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "shared_service_group": "spr-kirkkonummi-siuntio-ystavatoiminta",
+      "review_note": "Sama osaston palvelu kahdella palvelualueella, ei kaksi erillistä palvelua. Säilytä molemmat kuntahakujen löydettävyydessä; maksuttomuus vielä vahvistamatta."
     },
     {
       "id": "av-0045",
@@ -671,7 +681,9 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "shared_service_group": "spr-kirkkonummi-siuntio-ystavatoiminta",
+      "review_note": "Sama osaston palvelu kahdella palvelualueella, ei kaksi erillistä palvelua. Säilytä molemmat kuntahakujen löydettävyydessä; maksuttomuus vielä vahvistamatta."
     },
     {
       "id": "av-0046",
@@ -687,7 +699,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "merged_equivalent_ids": [
+        "av-0159"
+      ],
+      "review_note": "Saman palvelun rinnakkaismerkintä av-0159 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta."
     },
     {
       "id": "av-0047",
@@ -2617,7 +2633,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "event_data_status": "service_without_dated_events",
+      "exclude_from_free_service_search": true,
+      "duplicate_status": "same_organizer_same_municipality_same_service_same_source",
+      "possible_duplicate_of": "av-0040",
+      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0040. Maksuttomuus on vielä erikseen vahvistettava."
     },
     {
       "id": "av-0159",
@@ -2635,7 +2655,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "event_data_status": "service_without_dated_events",
+      "exclude_from_free_service_search": true,
+      "duplicate_status": "same_organizer_same_municipality_same_service_same_source",
+      "possible_duplicate_of": "av-0046",
+      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0046. Maksuttomuus on vielä erikseen vahvistettava."
     },
     {
       "id": "av-0160",
@@ -2653,7 +2677,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "event_data_status": "service_without_dated_events",
+      "exclude_from_free_service_search": true,
+      "duplicate_status": "same_organizer_same_municipality_same_service_same_source",
+      "possible_duplicate_of": "av-0043",
+      "review_note": "Päällekkäinen ystävävälityksen merkintä; ensisijainen tietue av-0043. Maksuttomuus on vielä erikseen vahvistettava."
     },
     {
       "id": "av-0161",
