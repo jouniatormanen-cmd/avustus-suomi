@@ -2978,14 +2978,16 @@
       "phone": "040 065 9048",
       "email": "paivi.piili@live.com",
       "source_url": "https://osastot.punainenristi.fi/osastot/savonlinnan-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_participation",
       "verification_status": "official_organizer_page_checked_2026-11-01",
-      "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "last_verified": "2026-11-02",
+      "publication_ready": true,
       "name": "SPR Savonlinnan ystäväkerho – kuukauden ensimmäinen maanantai",
       "address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
       "details": "Ystäväkerho kokoontuu kuukauden ensimmäisenä maanantaina klo 14 alkaen SPR:n toimistolla. Päättymisaikaa ei ilmoitettu. Yksittäiset marras- ja joulukuun päivämäärät on laskettu toistuvuudesta, ei vahvistettu erikseen.",
-      "event_data_status": "not_applicable_service_directory"
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "approved_organizer_source_with_caveats",
+      "publication_review_reason": "SPR:n osaston ilmoittama säännöllinen ystäväkerho. Yksittäiset poikkeuspäivät tarkistettava järjestäjältä."
     },
     {
       "id": "av-0147",
@@ -4003,14 +4005,16 @@
       "address": null,
       "details": "Varttuneiden kerho keskiviikkoisin klo 10–12 Pikku-Jumbossa. Yhteislaulua, tarinoita ja kahvittelua. Vapaaehtoinen kahvimaksu. Tarkka katuosoite ja mahdolliset poikkeuspäivät vahvistettava.",
       "source_url": "https://osastot.punainenristi.fi/sites/default/files/2026-02/jasentiedote-2026.pdf",
-      "price_status": "pending_review",
+      "price_status": "free_participation_optional_coffee_contribution",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
-      "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "last_verified": "2026-11-02",
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_organizer_source_with_caveats",
+      "publication_review_reason": "SPR:n vuoden 2026 jäsentiedote: osallistuminen maksutonta, kahvimaksu vapaaehtoinen. Tarkka katuosoite kysyttävä järjestäjältä."
     },
     {
       "id": "av-0197",
