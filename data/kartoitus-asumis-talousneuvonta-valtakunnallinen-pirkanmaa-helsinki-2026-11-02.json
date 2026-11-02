@@ -1,0 +1,62 @@
+{
+  "records": [
+    {
+      "id": "20261102-kuluttajaliitto-asumisneuvonta",
+      "name": "Kuluttajaliiton asumisneuvonta",
+      "municipality": "Koko Suomi",
+      "category": "Asuminen",
+      "organizer": "Kuluttajaliitto ry",
+      "phone": "040 923 3842",
+      "schedule": "ma 14–16, ti 11–13 ja 17–19, ke–pe 11–13",
+      "conditions": "Vuokra-asumisen ja asunto-osakeyhtiöiden kysymykset; neuvonta maksuton, puhelusta tavanomainen liittymämaksu.",
+      "fee_status": "free_advice_normal_call_charges",
+      "source_url": "https://www.suomi.fi/palvelut/puhelinasiointi/puhelinneuvonta-kuluttajaliitto-ry/4208bb6e-d3f8-471d-8764-621527be4585",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "continuous_or_on_demand"
+    },
+    {
+      "id": "20261102-pirha-asumisneuvonta-alueellinen",
+      "name": "Pirkanmaan hyvinvointialueen asumisneuvonta",
+      "municipality": "Pirkanmaan 23 kuntaa",
+      "category": "Asuminen",
+      "organizer": "Pirkanmaan hyvinvointialue",
+      "contact": "asumisneuvonta@pirha.fi",
+      "conditions": "Asumisen ongelmat, vuokravelka, asunnottomuuden uhka ja asunnonhaku. Tampereella ja Nokialla asumisneuvonta; muissa kunnissa työikäisten sosiaalipalvelujen neuvonta. Avoin neuvonta myös nimettömästi.",
+      "fee_status": "public_service_fee_not_explicit_on_page",
+      "source_url": "https://www.suomi.fi/palvelut/asumisneuvonta-pirkanmaan-hyvinvointialue/8b6ff0e6-ad7d-417c-adc6-4a218e50a9e2",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "continuous_or_on_demand"
+    },
+    {
+      "id": "20261102-helsinki-talousneuvonta-sosiaalinen-luototus",
+      "name": "Helsingin talousneuvonta ja sosiaalisen luototuksen neuvonta",
+      "municipality": "Helsinki",
+      "category": "Raha-asiat",
+      "organizer": "Helsingin kaupunki",
+      "phone": "09 310 43929",
+      "schedule": "ma–ti ja to–pe 9–11 ja 12–14",
+      "conditions": "Maksuton neuvontapuhelin; sosiaalinen luotto itsessään on takaisin maksettava laina eikä avustus.",
+      "fee_status": "confirmed_free_advice",
+      "source_url": "https://www.suomi.fi/palvelut/puhelinasiointi/talousneuvonta-ja-sosiaalinen-luototus-asiakaspalvelu-ja-neuvonta-helsingin-kaupunki-sosiaali-terveys-ja-pelastustoimiala/163149d9-30e7-45da-a67b-58c9fa5c9fdd",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "continuous_or_on_demand"
+    },
+    {
+      "id": "20261102-helsinki-asunnottomien-neuvonta",
+      "name": "Helsingin asunnottomien neuvonta",
+      "municipality": "Helsinki",
+      "category": "Asuminen",
+      "organizer": "Helsingin kaupunki",
+      "conditions": "Tietoa asunnottomien palveluista, yöpymisestä ja tuetusta asumisesta. Neuvonnan maksuttomuus varmistettava erikseen.",
+      "fee_status": "unconfirmed",
+      "source_url": "https://www.suomi.fi/palvelut/asunnottomien-neuvonta-asumisen-tuki-helsingin-kaupunki-sosiaali-terveys-ja-pelastustoimiala/c57e7e9a-49c6-449c-8122-65f2563dfa4c",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "continuous_or_on_demand"
+    }
+  ],
+  "notes": "Neljä jatkuvaa neuvontapalvelua, ei yksittäisiä tapahtumia. Kaksi maksuttomuutta vahvistettu ja kaksi tarkistettava. Pirkanmaan alueellinen palvelu yksi merkintä. Mahdolliset aiemmat päällekkäisyydet tarkistetaan. Ei julkisen sivuston muutoksia."
+}
