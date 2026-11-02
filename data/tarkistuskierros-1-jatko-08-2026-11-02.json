@@ -1,0 +1,40 @@
+{
+  "round": 1,
+  "batch": "jatko-08",
+  "date": "2026-11-02",
+  "reviewed_files": [
+    "data/laaduntarkistus-kotiapu-asuminen-tavarat-2026-11-02.json",
+    "data/kartoitus-ystavapalvelut-kriisikeskukset-2026-11-02.json",
+    "data/kartoitus-tampere-raisio-espoo-lohja-kangasala-monialaiset-2026-11-02.json"
+  ],
+  "findings": [
+    {
+      "item": "SPR Porvoo ystävä- ja saattajapalvelu",
+      "issue": "Laaduntarkistus nimeää av-0019 ja av-0020 mahdolliseksi päällekkäisyydeksi; uudempi kartoitus yhdistää samaan palvelunimeen.",
+      "action": "Vertaile päärekisterin palvelusisällöt ennen yhdistämistä; säilytä molemmat lähdetiedot."
+    },
+    {
+      "item": "Porvoon vaatteidenvaihtopäivä",
+      "issue": "Aiempi kertaluonteinen tapahtuma.",
+      "action": "Älä esitä jatkuvana avustuspalveluna."
+    },
+    {
+      "item": "SPR Keski-Espoon läksyhelppi",
+      "issue": "Kotiapu-luokka harhaanjohtava.",
+      "action": "Luokittele opiskelu- tai läksyavuksi, jos luokitus sallii; älä sekoita kotona tehtäviin askareisiin."
+    },
+    {
+      "item": "SPR Nokian saattajapalvelu",
+      "issue": "Yksittäinen saattokerta ei tee palvelusta kertaluonteista, jos välitys on jatkuvaa; maksuttomuus epäselvä.",
+      "action": "Tarkista välityksen jatkuvuus ja palvelumaksut erikseen."
+    },
+    {
+      "item": "Raision Olkkari",
+      "issue": "Lähdeviite osoittaa ruoka-apuun, ei Olkkarin palvelusivulle.",
+      "action": "Korjaa palvelukohtainen lähde ennen hyväksyntää."
+    }
+  ],
+  "note": "Tämä jatkoerä tarkistaa aiemman laaduntarkistusraportin ristiriitoja. Ei uusia riippumattomia verkkolähdevahvistuksia, ei muutoksia alkuperäisiin palveluihin.",
+  "public_site_changed": false,
+  "original_records_preserved": true
+}
