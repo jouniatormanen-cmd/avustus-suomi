@@ -1,0 +1,96 @@
+{
+  "records": [
+    {
+      "id": "20261102-jatkuvat-monialaiset-1",
+      "municipality": "Oulu",
+      "name": "Oulun kaupungin asumisneuvonta",
+      "category": "Asuminen",
+      "address": "Uusikatu 52, Oulu",
+      "schedule": "Tiistaisin klo 12–15 ilman ajanvarausta; puhelin ja sähköposti jatkuvasti",
+      "contact": "040 184 3365 / 040 154 8239",
+      "source_url": "https://www.ouka.fi/asumisneuvonta",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": ""
+    },
+    {
+      "id": "20261102-jatkuvat-monialaiset-2",
+      "municipality": "Kuopio",
+      "name": "Kuopion asumisneuvonta – Setlementti Puijola",
+      "category": "Asuminen",
+      "address": "Kuninkaankatu 23 B, Kuopio",
+      "schedule": "Puhelimitse tai sovittuna tapaamisena, myös kotikäynti",
+      "contact": "050 352 0886 / 044 493 8473",
+      "source_url": "https://www.kuopio.fi/asuminen-ja-ymparisto/asuminen/asumisneuvonta/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Maksuttomuus varmistettava erikseen"
+    },
+    {
+      "id": "20261102-jatkuvat-monialaiset-3",
+      "municipality": "Kuopio",
+      "name": "Nuorten maksuton asumisneuvonta",
+      "category": "Asuminen",
+      "address": "Asemakatu 7, Kuopio",
+      "schedule": "Torstaisin klo 12–15 ilman ajanvarausta, muulloin yhteydenotolla",
+      "contact": "040 0579 772",
+      "source_url": "https://www.kuopio.fi/palvelut/asumisneuvonta/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": ""
+    },
+    {
+      "id": "20261102-jatkuvat-monialaiset-4",
+      "municipality": "Kuopio",
+      "name": "Talousneuvola",
+      "category": "Raha-asiat",
+      "address": "Asemakatu 7, Kuopio",
+      "schedule": "Kuukauden toiseksi viimeinen maanantai klo 14–16; 23.11. ja 14.12.2026",
+      "contact": "050 4344 027",
+      "source_url": "https://www.kuopio.fi/palvelut/talousneuvola/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": ""
+    },
+    {
+      "id": "20261102-jatkuvat-monialaiset-5",
+      "municipality": "Kuopio",
+      "name": "Särkiniemen asukastilan leipäjakelu",
+      "category": "Ruoka-apu",
+      "address": "Nurmitie 11, Kuopio",
+      "schedule": "Tiistaisin klo 10",
+      "contact": "044 718 2823",
+      "source_url": "https://www.kuopio.fi/vapaa-aika-ja-hyvinvointi/meidan-kuopio/asukastoiminta/asukastilat/sarkiniemen-asukastila/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Leipäjaon maksuttomuus varmistettava erikseen"
+    },
+    {
+      "id": "20261102-jatkuvat-monialaiset-6",
+      "municipality": "Kuopio",
+      "name": "Särkiniemen maksuton asukastoiminta",
+      "category": "Keskusteluapu",
+      "address": "Nurmitie 11, Kuopio",
+      "schedule": "Tiistaisin ja keskiviikkoisin klo 9–13",
+      "contact": "044 718 2823",
+      "source_url": "https://www.kuopio.fi/vapaa-aika-ja-hyvinvointi/meidan-kuopio/asukastoiminta/asukastilat/sarkiniemen-asukastila/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Kohtaamispaikka, ei ammatillista keskusteluapua"
+    },
+    {
+      "id": "20261102-jatkuvat-monialaiset-7",
+      "municipality": "Kuopio",
+      "name": "International House – maksuton monikielinen neuvonta",
+      "category": "Raha-asiat",
+      "address": "Asemakatu 7, Kuopio",
+      "schedule": "Maanantaista perjantaihin klo 12–15 ilman ajanvarausta",
+      "contact": "internationalhouse@kuopio.fi",
+      "source_url": "https://www.kuopio.fi/tyollisyys-ja-yrittaminen/tyollisyyspalvelu/internationalhouse/monikielinen-ohjaus-ja-neuvontapalvelu/",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Kohderyhmä maahanmuuttaneet; myös asumis- ja viranomaisasiat"
+    }
+  ],
+  "notes": "Seitsemän jatkuvaa tai säännöllistä palvelua. Epäselvät maksuttomuudet merkitty tarkistettaviksi, eivät julkaisuvalmiita. Ei yksittäisiä tapahtumia eikä verkkosivustomuutoksia."
+}
