@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-02",
+  "phase": "tarkistuskierros-1",
+  "status": "odottaa päärekisteriin hyväksymistä",
+  "public_site_changed": false,
+  "records_to_keep": [
+    "av-0012",
+    "av-0014",
+    "av-0048",
+    "av-0151",
+    "av-0132",
+    "av-0137"
+  ],
+  "findings": [
+    {
+      "ids": [
+        "av-0012",
+        "av-0014"
+      ],
+      "finding": "Sama SPR Porvoon Gammelbackan ruokajako, sama osoite ja aikataulu.",
+      "proposed_action": "Yksi hakutulos; molemmat lähdetietueet säilyvät. Maksuttomuus erikseen vahvistettava."
+    },
+    {
+      "ids": [
+        "av-0048",
+        "av-0151"
+      ],
+      "finding": "Sama SPR Länsi-Vantaan ystävävälitys, yhteystiedot ja päivystysajat vastaavat.",
+      "proposed_action": "Yksi hakutulos; molemmat lähdetietueet säilyvät."
+    },
+    {
+      "ids": [
+        "av-0132"
+      ],
+      "finding": "Mikkelin Graanin palvelutalon asukkaille rajattu ystäväpartion vierailu.",
+      "proposed_action": "Ei avoimeksi keskusteluavuksi; rajaa kohderyhmä."
+    },
+    {
+      "ids": [
+        "av-0137"
+      ],
+      "finding": "Salon ystävätoiminnan kuukausitapaamisen yleisö ja kellonaika vahvistamatta.",
+      "proposed_action": "Ei merkitä avoimeksi palveluksi ennen vahvistusta."
+    }
+  ],
+  "note": "Tämä on erillinen tarkistusmerkintä, ei vahvistus päärekisterin korjauksesta."
+}
