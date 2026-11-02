@@ -1,0 +1,45 @@
+{
+  "round": 1,
+  "date": "2026-11-02",
+  "policy": "Vain avunsaajalle täysin maksuttomat jatkuvat tai säännöllisesti toistuvat palvelut. Vapaaehtoinen lahjoitus ei ole pakollinen maksu. Maksulliset palvelut pois. Epäselvä maksuttomuus estää hyväksynnän.",
+  "decisions": [
+    {
+      "service": "Asikkalan Maijan kammarin tiistain diakoniaruokailu",
+      "status": "excluded",
+      "reason": "3 euron osallistumismaksu"
+    },
+    {
+      "service": "Asikkalan Maijan kammarin keskiviikon ruokajako",
+      "status": "hold",
+      "reason": "maksuttomuus ei vielä eksplisiittisesti vahvistettu"
+    },
+    {
+      "service": "Sumiaisten ja Konginkankaan aamupuurot",
+      "status": "hold",
+      "reason": "maksuttomuus vahvistamatta"
+    },
+    {
+      "service": "Suolahden aamupuuro",
+      "status": "hold",
+      "reason": "vapaaehtoinen maksu sallittu, mutta kellonaikaristiriita"
+    },
+    {
+      "service": "Eloisan ikääntyneiden asiakasohjaus",
+      "status": "advice_only",
+      "reason": "neuvonta maksutonta; kotihoito ei automaattisesti maksuton"
+    },
+    {
+      "service": "SPR saattamisapu",
+      "status": "hold",
+      "reason": "mahdolliset matkakulut ja paikallinen saatavuus tarkistettava"
+    },
+    {
+      "service": "Karderoopi",
+      "status": "hold",
+      "reason": "maksuttomuus kirjattu vahvistetuksi, mutta asiointipiste ja ajat puuttuvat"
+    }
+  ],
+  "publication_ready": false,
+  "public_site_changed": false,
+  "notes": "Aineiston sisäinen rajaus; ei uusia järjestäjien lähdevahvistuksia. Ei automaattista siirtoa päärekisteriin."
+}
