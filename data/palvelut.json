@@ -2322,7 +2322,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
-      "availability_note": "Vapaaehtoisen ystävän löytymistä ei voida taata; ystäväpyynnöt keskiviikkoisin."
+      "availability_note": "Vapaaehtoisen ystävän löytymistä ei voida taata; ystäväpyynnöt keskiviikkoisin.",
+      "organizer": "Suomen Punainen Risti, Nokian osasto"
     },
     {
       "id": "av-0109",
@@ -2341,7 +2342,8 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "publication_review_status": "organizer_source_and_volunteer_scope_reviewed",
-      "publication_review_reason": "Vapaaehtoisen SPR-avun maksuton osuus; mahdolliset omat matka- tai muut kulut jäävät asiakkaalle. Avun saatavuus varmistettava järjestäjältä."
+      "publication_review_reason": "Vapaaehtoisen SPR-avun maksuton osuus; mahdolliset omat matka- tai muut kulut jäävät asiakkaalle. Avun saatavuus varmistettava järjestäjältä.",
+      "organizer": "Suomen Punainen Risti, Nokian osasto"
     },
     {
       "id": "av-0110",
@@ -2358,7 +2360,8 @@
       "recurrence": null,
       "publication_ready": true,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "organizer": "Suomen Punainen Risti, Lahden alueen osasto"
     },
     {
       "id": "av-0111",
@@ -2381,7 +2384,8 @@
         "contact_channel_review"
       ],
       "publication_review_status": "spr_sources_checked_2026-11-02",
-      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa."
+      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa.",
+      "organizer": "Suomen Punainen Risti, Hämeenlinnan osasto"
     },
     {
       "id": "av-0112",
@@ -2400,7 +2404,8 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "schedule_verification_pending": true,
-      "review_note": "Joka toinen keskiviikko; tarkka kellonaika ja viikkorytmi tarkistettava ennen täsmällisen ajan näyttämistä."
+      "review_note": "Joka toinen keskiviikko; tarkka kellonaika ja viikkorytmi tarkistettava ennen täsmällisen ajan näyttämistä.",
+      "organizer": "Suomen Punainen Risti, Hämeenlinnan osasto"
     },
     {
       "id": "av-0113",
@@ -2420,7 +2425,8 @@
       "source_kind": "red_cross",
       "review_note": "Paikallisosaston yhteystietosivu vahvistaa ystävätoiminnan yhteyshenkilön; SPR:n yleinen vapaaehtoisen ystävätoiminnan periaate on palkkiottomuus. Mahdolliset asiakkaan omat kulut ja vapaaehtoisen saatavuus tarkistettava osastolta. Paikallisen palvelun kaikkia käytäntöjä ei ole vahvistettu.",
       "publication_review_status": "spr_sources_checked_2026-11-02",
-      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa."
+      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa.",
+      "organizer": "Suomen Punainen Risti, Ilmajoen osasto"
     },
     {
       "id": "av-0114",
@@ -2440,7 +2446,8 @@
       "source_kind": "red_cross",
       "review_note": "Paikallisosaston yhteystietosivu vahvistaa ystävätoiminnan yhteyshenkilön; SPR:n yleinen vapaaehtoisen ystävätoiminnan periaate on palkkiottomuus. Mahdolliset asiakkaan omat kulut ja vapaaehtoisen saatavuus tarkistettava osastolta. Paikallisen palvelun kaikkia käytäntöjä ei ole vahvistettu.",
       "publication_review_status": "spr_sources_checked_2026-11-02",
-      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa."
+      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa.",
+      "organizer": "Suomen Punainen Risti, Hämeenkyrön osasto"
     },
     {
       "id": "av-0115",
@@ -2460,7 +2467,8 @@
       "source_kind": "red_cross",
       "review_note": "Paikallisosaston nykyinen ystävätoiminnan sivu vahvistaa yhteystiedot ja ke klo 15–18 päivystyksen. Vapaaehtoisen ystävätoiminnan palvelu on palkkioton; asiakkaan omia kuluja voi syntyä.",
       "publication_review_status": "spr_sources_checked_2026-11-02",
-      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen.",
+      "organizer": "Suomen Punainen Risti, Riihimäen osasto"
     },
     {
       "id": "av-0116",
@@ -2482,7 +2490,8 @@
       "publication_review_status": "spr_sources_checked_2026-11-02",
       "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen.",
       "email": "helsinki.saattajavalitys@punainenristi.fi",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Suomen Punainen Risti, Pohjois- ja Keski-Helsingin osasto"
     },
     {
       "id": "av-0117",
@@ -2502,7 +2511,8 @@
       "source_kind": "red_cross",
       "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot.",
       "publication_review_status": "spr_sources_checked_2026-11-02",
-      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen.",
+      "organizer": "Suomen Punainen Risti, Töölön osasto"
     },
     {
       "id": "av-0118",
@@ -2521,7 +2531,8 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "publication_review_status": "organizer_source_and_volunteer_scope_reviewed",
-      "publication_review_reason": "Vapaaehtoisen SPR-avun maksuton osuus; mahdolliset omat matka- tai muut kulut jäävät asiakkaalle. Avun saatavuus varmistettava järjestäjältä."
+      "publication_review_reason": "Vapaaehtoisen SPR-avun maksuton osuus; mahdolliset omat matka- tai muut kulut jäävät asiakkaalle. Avun saatavuus varmistettava järjestäjältä.",
+      "organizer": "Suomen Punainen Risti, Joensuun osasto"
     },
     {
       "id": "av-0119",
@@ -2913,7 +2924,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia.",
+      "organizer": "Suomen Punainen Risti, Keravan osasto"
     },
     {
       "id": "av-0136",
@@ -2932,7 +2944,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia.",
+      "organizer": "Suomen Punainen Risti, Salon osasto"
     },
     {
       "id": "av-0137",
@@ -2975,7 +2988,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "publication_review_status": "approved_recurring_service_check_schedule",
-      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä."
+      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä.",
+      "organizer": "Suomen Punainen Risti, Salon osasto"
     },
     {
       "id": "av-0139",
@@ -2994,7 +3008,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "publication_review_status": "approved_recurring_service_check_schedule",
-      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä."
+      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä.",
+      "organizer": "Suomen Punainen Risti, Salon osasto"
     },
     {
       "id": "av-0140",
@@ -3013,7 +3028,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "publication_review_status": "approved_recurring_service_check_schedule",
-      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä."
+      "publication_review_reason": "SPR Salon osaston lähteessä mainittu koulun ylijäämäruoan jako. Jakopäivät ja kellonaika varmistettava Ruoka-apu.fi:stä ennen käyntiä.",
+      "organizer": "Suomen Punainen Risti, Salon osasto"
     },
     {
       "id": "av-0141",
@@ -3032,7 +3048,8 @@
       "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia.",
+      "organizer": "Suomen Punainen Risti, Länsi-Helsingin osasto"
     },
     {
       "id": "av-0142",
@@ -3054,7 +3071,8 @@
         "contact_channel_review"
       ],
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia.",
+      "organizer": "Suomen Punainen Risti, Yläneen osasto"
     },
     {
       "id": "av-0143",
@@ -3076,7 +3094,8 @@
         "contact_channel_review"
       ],
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia.",
+      "organizer": "Suomen Punainen Risti, Yläneen osasto"
     },
     {
       "id": "av-0144",
