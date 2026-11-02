@@ -18,7 +18,9 @@
       "review_note": "ViaDia Pirkanmaa kertoo ruoka-avun olevan ilmaista. Jakeluaika tulee tarkistaa ajantasaisesta lähteestä.",
       "publication_ready": true,
       "publication_review_status": "organizer_source_checked_2026-11-02",
-      "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä."
+      "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
+      "address": "Aleksanterin kirkko, Pirkankatu, Tampere",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0002",
@@ -78,7 +80,9 @@
       "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä.",
       "publication_ready": true,
       "publication_review_status": "organizer_source_checked_2026-11-02",
-      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä."
+      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
+      "address": "Valtaraitti, Hervannan kirkon takana, Tampere",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0005",
@@ -1155,7 +1159,9 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "official_source_previously_checked_2026-11-02",
-      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
+      "phone": "09 310 22530",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0057",
@@ -1412,7 +1418,10 @@
       "review_note": "Espoon kaupunki vahvistaa Edistian asumisneuvonnan maksuttomaksi kaikille espoolaisille.",
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
-      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
+      "phone": "044 727 3415",
+      "email": "asumisneuvonta@espoo.fi",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0070",
@@ -1430,7 +1439,9 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
-      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua."
+      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
+      "phone": "040 558 0435",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0071",
@@ -1506,7 +1517,9 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
-      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua."
+      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
+      "phone": "050 426 4100",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0075",
@@ -1526,7 +1539,9 @@
       "review_note": "Seurakunta vahvistaa palvelun maksuttomaksi. Kaksi tuntia kerrallaan arkipäivisin, mahdollinen ilta-aika sovittaessa. Työntekijöiden lomilla tauolla.",
       "publication_ready": true,
       "publication_review_status": "parish_source_checked_2026-11-02",
-      "publication_review_reason": "Järjestäjän lähde vahvistaa maksuttomuuden ja palveluehdot. Aiempi ristiriitainen maininta korjattu."
+      "publication_review_reason": "Järjestäjän lähde vahvistaa maksuttomuuden ja palveluehdot. Aiempi ristiriitainen maininta korjattu.",
+      "phone": "050 426 4100",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0076",
@@ -2363,7 +2378,7 @@
       "municipality": "helsinki",
       "name": "SPR Helsingin saattajavälitys",
       "address": null,
-      "phone": null,
+      "phone": "045 117 0982",
       "details": "Koko Helsingin saattajavälitys esimerkiksi lääkäri- ja kauppakäynteihin. Puhelin 045 117 0982, päivystys to klo 10–13; helsinki.saattajavalitys@punainenristi.fi. Pyyntö mieluiten viimeistään edellisellä viikolla.",
       "source_url": "https://osastot.punainenristi.fi/osastot/pohjois-ja-keski-helsingin-osasto/toiminta/ystavatoiminta",
       "price_status": "free_service_possible_personal_expenses",
@@ -2375,7 +2390,9 @@
       "source_kind": "red_cross",
       "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot.",
       "publication_review_status": "spr_sources_checked_2026-11-02",
-      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen.",
+      "email": "helsinki.saattajavalitys@punainenristi.fi",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0117",
@@ -3254,7 +3271,7 @@
       "name": "SPR Taipalsaaren ryhmä- ja ystävätoiminta",
       "organizer": "Suomen Punainen Risti",
       "address": null,
-      "phone": null,
+      "phone": "040 860 1413",
       "email": null,
       "details": "Ryhmäkokoontumisia ja ystävätoimintaa palvelukeskuksissa. Piirin sosiaalisen hyvinvoinnin suunnittelijan numero 040 860 1413. Ajankohdat ja kokoontumispaikat tarkistettava.",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
@@ -3265,7 +3282,8 @@
       "publication_ready": true,
       "event_data_status": "service_without_dated_events",
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia; ryhmien ajankohdat sovitaan järjestäjältä."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia; ryhmien ajankohdat sovitaan järjestäjältä.",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0158",
@@ -3625,7 +3643,9 @@
         "contact_channel_review"
       ],
       "publication_review_status": "prior_organizer_source_reviewed",
-      "publication_review_reason": "SPR:n vapaaehtoistoiminta; avun saatavuus sovitaan järjestäjältä, mahdolliset asiakkaan omat kulut erikseen."
+      "publication_review_reason": "SPR:n vapaaehtoistoiminta; avun saatavuus sovitaan järjestäjältä, mahdolliset asiakkaan omat kulut erikseen.",
+      "email": "meeri.holmberg@gmail.com",
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
     },
     {
       "id": "av-0175",
