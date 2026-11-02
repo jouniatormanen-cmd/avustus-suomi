@@ -4123,11 +4123,11 @@
       "name": "Keravan seurakunnan PikkuHelppi",
       "source_url": "https://www.keravanseurakunta.fi/fi/pikkuhelppi",
       "phone": "040 484 7876",
-      "details": "Maksuton lastenhoito ja arjen tuki, myös kotona",
+      "details": "Maksuton ja luottamuksellinen matalan kynnyksen lapsiperheiden arjen apu: lastenhoitoa, ulkoilu- ja leikkiseuraa, keskustelua ja vanhemmuuden tukea. Kotona, pihalla, leikkipuistossa tai seurakunnan tiloissa. Lisätiedot Virpi Vähäkuopus, 040 484 7876.",
       "free_service": true,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "publication_ready": false,
-      "price_status": "free_per_organizer",
+      "verification_status": "organizer_primary_source_live_checked_2026-11-02",
+      "publication_ready": true,
+      "price_status": "free",
       "last_verified": "2026-11-02"
     },
     {
@@ -4137,11 +4137,11 @@
       "name": "Limingan seurakunnan Pikku-Helppi",
       "source_url": "https://www.liminganseurakunta.fi/pikku-helppi",
       "phone": "044 752 1223",
-      "details": "Maksuton 1–3 tunnin lastenhoitoapu; ei edellytä kirkon jäsenyyttä",
+      "details": "Maksuton 1–3 tunnin lastenhoitoapu liminkalaisille lapsiperheille kotona tai lähiympäristössä, arkisin virka-aikaan (yleensä to–pe), ei loma-aikoina. Ei edellytä kirkon jäsenyyttä. Ilmoittaudu verkkolomakkeella; käyntejä voidaan rajata. Ei erityistä tukea tai sosiaalipalvelua tarvitseviin tilanteisiin. Yhteyshenkilö Anja Sivula, 044 752 1223.",
       "free_service": true,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "publication_ready": false,
-      "price_status": "free_per_organizer",
+      "verification_status": "organizer_primary_source_live_checked_2026-11-02",
+      "publication_ready": true,
+      "price_status": "free",
       "last_verified": "2026-11-02"
     },
     {
