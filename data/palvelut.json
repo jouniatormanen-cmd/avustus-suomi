@@ -2830,12 +2830,14 @@
       "email": "lh.ystavavalitys@gmail.com",
       "details": "Ystävätoimintaa yksinäisyyden lievittämiseen. Ystävävälityksen puhelinpäivystys ti 15.30–17.30. Toiminta kaikenikäisille; ystävän saatavuus riippuu vapaaehtoisista.",
       "source_url": "https://osastot.punainenristi.fi/index.php/osastot/lansi-helsingin-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "publication_ready": true,
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0142",
@@ -2867,15 +2869,17 @@
       "email": "ylane@osasto.punainenristi.fi",
       "details": "Henkilökohtainen puhelin-, ulkoilu- tai laitosystävä sekä saattohoitoystävä. Tapaamiset sovitaan yksilöllisesti. Yläne kuuluu Pöytyän kuntaan.",
       "source_url": "https://osastot.punainenristi.fi/osastot/ylaneen-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0144",
