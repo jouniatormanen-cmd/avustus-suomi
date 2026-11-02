@@ -413,7 +413,8 @@
       "publication_review_status": "source_reviewed_2026-11-02",
       "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
       "contact_channel": "Sähköinen asiointi, chat ja toimipaikkakohtainen puhelinneuvonta",
-      "contact_field_audit": "no_single_national_contact_expected_online_and_local_offices_2026-11-02"
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
     },
     {
       "id": "av-0021",
@@ -1702,7 +1703,10 @@
       "service_municipalities": [
         "hartola",
         "sysmä"
-      ]
+      ],
+      "contact_channel": "Yhteydenotto Tainionvirran seurakunnan diakoniaan. Suora yhteysnumero tarkistettava järjestäjän sivulta.",
+      "contact_audit_outcome": "direct_contact_still_to_verify",
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02"
     },
     {
       "id": "av-0084",
@@ -2106,7 +2110,8 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
       "contact_channel": "Oman asuinalueen seurakunnan diakoniatyöntekijä; yhteystiedot seurakuntahausta",
-      "contact_field_audit": "national_guidance_local_parish_contact_required_2026-11-02"
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
     },
     {
       "id": "av-0102",
@@ -2150,7 +2155,8 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
       "contact_channel": "Palveleva chat verkkosivulla, ma–pe klo 16–20",
-      "contact_field_audit": "web_only_service_no_physical_address_needed_2026-11-02"
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
     },
     {
       "id": "av-0104",
@@ -2169,7 +2175,8 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
       "contact_channel": "Palveleva nettikirje verkkosivulla, viestin voi lähettää milloin tahansa",
-      "contact_field_audit": "web_only_service_no_physical_address_needed_2026-11-02"
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
     },
     {
       "id": "av-0105",
@@ -2210,7 +2217,8 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
       "contact_channel": "Oman asuinalueen seurakunnan diakoniatyöntekijä hakee avustusta hakijan kanssa",
-      "contact_field_audit": "national_fund_application_via_local_parish_2026-11-02"
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
     },
     {
       "id": "av-0107",
@@ -4438,7 +4446,10 @@
       "last_verified": "2026-11-02",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "contact_channel": "Ilmoittautuminen Jyväskylän seurakunnan verkkosivun kautta; suora yhteystieto tarkistettava.",
+      "contact_audit_outcome": "direct_contact_still_to_verify",
+      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02"
     },
     {
       "id": "av-0213",
