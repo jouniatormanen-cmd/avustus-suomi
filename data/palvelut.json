@@ -608,16 +608,16 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Maanantaisin klo 19–21; muulloin vastaajaviesti tai sähköposti spr.hyvinkaa.ystavat@gmail.com.",
       "phone": "045 104 4774",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "merged_equivalent_ids": [
         "av-0158"
       ],
-      "review_note": "Saman palvelun rinnakkaismerkintä av-0158 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta."
+      "review_note": "Saman palvelun rinnakkaismerkintä av-0158 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta. SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa."
     },
     {
       "id": "av-0041",
@@ -628,12 +628,13 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Ystävävälityksen yhteysnumero; kysy ystävätoiminnan saatavuus.",
       "phone": "050 368 4610",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa."
     },
     {
       "id": "av-0042",
@@ -644,12 +645,13 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Puhelinpäivystys torstaisin klo 10–12 ja 17–19, paitsi pyhätorstaina.",
       "phone": "044 744 8087",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa."
     },
     {
       "id": "av-0043",
@@ -660,16 +662,16 @@
       "details": "SPR:n vapaaehtoisen ystävän välitys yksinäisyyden lievittämiseen. Ystävävälityksen yhteysnumerot; kysy vapaaehtoisen ystävän saatavuus.",
       "phone": "040 752 2539 / 0400 776 936",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-helsingin-ja-uudenmaan-piiri/hup-mukaan-toimintaan/hup-ystavatoiminta/hup-ystavavalitys/",
-      "price_status": "check_source",
-      "verification_status": "source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_district_directory_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "merged_equivalent_ids": [
         "av-0160"
       ],
-      "review_note": "Saman palvelun rinnakkaismerkintä av-0160 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta."
+      "review_note": "Saman palvelun rinnakkaismerkintä av-0160 yhdistetty hakutasolla; maksuttomuus edelleen vahvistamatta. SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa."
     },
     {
       "id": "av-0044",
