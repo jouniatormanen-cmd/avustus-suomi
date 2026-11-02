@@ -4069,12 +4069,14 @@
       "email": "tampere@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/tampere/",
       "details": "Aukioloajat ma, ti, to 10–15 ja ke 10–18 ovat lahjoitusten vastaanottoaikoja, eivät asiakkaan asiointiaikoja.",
-      "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
+      "eligibility": "Vähävarainen tai kriisin kohdannut perhe, jossa vähintään yksi alle 18-vuotias huollettava ja perhe Suomen sosiaaliturvan piirissä.",
       "free_service": true,
-      "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "price_status": "free_per_organizer",
-      "last_verified": "2026-11-02"
+      "publication_ready": true,
+      "verification_status": "organizer_primary_sources_checked_2026-11-02",
+      "price_status": "free_donated_goods_subject_to_availability",
+      "last_verified": "2026-11-02",
+      "publication_review_status": "approved_organizer_primary_source",
+      "publication_review_reason": "Hope ry:n valtakunnalliset avunsaantiehdot ja paikallisen toimijan yhteystiedot tarkistettu. Lahjoitusten saatavuus vaihtelee; lahjoitusten vastaanottoajat eivät ole asiakkaan asiointiaikoja."
     },
     {
       "id": "av-0201",
@@ -4087,12 +4089,14 @@
       "email": "seinajoki@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/",
       "details": "Palvelee koko Etelä-Pohjanmaata. Avunpyyntölomake; ei vahvistettuja asiakasaikoja.",
-      "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
+      "eligibility": "Vähävarainen tai kriisin kohdannut perhe, jossa vähintään yksi alle 18-vuotias huollettava ja perhe Suomen sosiaaliturvan piirissä.",
       "free_service": true,
-      "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "price_status": "free_per_organizer",
-      "last_verified": "2026-11-02"
+      "publication_ready": true,
+      "verification_status": "organizer_primary_sources_checked_2026-11-02",
+      "price_status": "free_donated_goods_subject_to_availability",
+      "last_verified": "2026-11-02",
+      "publication_review_status": "approved_organizer_primary_source",
+      "publication_review_reason": "Hope ry:n valtakunnalliset avunsaantiehdot ja paikallisen toimijan yhteystiedot tarkistettu. Lahjoitusten saatavuus vaihtelee; lahjoitusten vastaanottoajat eivät ole asiakkaan asiointiaikoja."
     },
     {
       "id": "av-0202",
@@ -4105,15 +4109,17 @@
       "email": "kajaani@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/kajaani/",
       "details": "Avoinna sopimuksen mukaan; yhteydenotot vain sähköpostitse. Uusia harrastustukia ei myönnetä tällä hetkellä.",
-      "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
+      "eligibility": "Vähävarainen tai kriisin kohdannut perhe, jossa vähintään yksi alle 18-vuotias huollettava ja perhe Suomen sosiaaliturvan piirissä.",
       "free_service": true,
-      "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "price_status": "free_per_organizer",
+      "publication_ready": true,
+      "verification_status": "organizer_primary_sources_checked_2026-11-02",
+      "price_status": "free_donated_goods_subject_to_availability",
       "last_verified": "2026-11-02",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_organizer_primary_source",
+      "publication_review_reason": "Hope ry:n valtakunnalliset avunsaantiehdot ja paikallisen toimijan yhteystiedot tarkistettu. Lahjoitusten saatavuus vaihtelee; lahjoitusten vastaanottoajat eivät ole asiakkaan asiointiaikoja."
     },
     {
       "id": "av-0203",
@@ -4126,15 +4132,17 @@
       "email": "lahti@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/lahti/",
       "details": "Avunpyynnöt vain lomakkeella; lahjoitusten vastaanottoajat eivät ole asiakkaiden asiointiaikoja.",
-      "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
+      "eligibility": "Vähävarainen tai kriisin kohdannut perhe, jossa vähintään yksi alle 18-vuotias huollettava ja perhe Suomen sosiaaliturvan piirissä.",
       "free_service": true,
-      "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "price_status": "free_per_organizer",
+      "publication_ready": true,
+      "verification_status": "organizer_primary_sources_checked_2026-11-02",
+      "price_status": "free_donated_goods_subject_to_availability",
       "last_verified": "2026-11-02",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_organizer_primary_source",
+      "publication_review_reason": "Hope ry:n valtakunnalliset avunsaantiehdot ja paikallisen toimijan yhteystiedot tarkistettu. Lahjoitusten saatavuus vaihtelee; lahjoitusten vastaanottoajat eivät ole asiakkaan asiointiaikoja."
     },
     {
       "id": "av-0204",
@@ -4147,12 +4155,14 @@
       "email": "oulu@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/oulu/",
       "details": "Yhteydenotot ensisijaisesti sähköpostitse; ei puhelinpäivystystä.",
-      "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
+      "eligibility": "Vähävarainen tai kriisin kohdannut perhe, jossa vähintään yksi alle 18-vuotias huollettava ja perhe Suomen sosiaaliturvan piirissä.",
       "free_service": true,
-      "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "price_status": "free_per_organizer",
-      "last_verified": "2026-11-02"
+      "publication_ready": true,
+      "verification_status": "organizer_primary_sources_checked_2026-11-02",
+      "price_status": "free_donated_goods_subject_to_availability",
+      "last_verified": "2026-11-02",
+      "publication_review_status": "approved_organizer_primary_source",
+      "publication_review_reason": "Hope ry:n valtakunnalliset avunsaantiehdot ja paikallisen toimijan yhteystiedot tarkistettu. Lahjoitusten saatavuus vaihtelee; lahjoitusten vastaanottoajat eivät ole asiakkaan asiointiaikoja."
     },
     {
       "id": "av-0205",
@@ -4165,15 +4175,17 @@
       "email": "kuopio@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/kuopio/",
       "details": "Paikallinen yhteystieto vahvistettu; tarkat asiakasajat puuttuvat.",
-      "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
+      "eligibility": "Vähävarainen tai kriisin kohdannut perhe, jossa vähintään yksi alle 18-vuotias huollettava ja perhe Suomen sosiaaliturvan piirissä.",
       "free_service": true,
-      "publication_ready": false,
-      "verification_status": "local_organizer_source_recorded_pending_final_live_recheck",
-      "price_status": "free_per_organizer",
+      "publication_ready": true,
+      "verification_status": "organizer_primary_sources_checked_2026-11-02",
+      "price_status": "free_donated_goods_subject_to_availability",
       "last_verified": "2026-11-02",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "approved_organizer_primary_source",
+      "publication_review_reason": "Hope ry:n valtakunnalliset avunsaantiehdot ja paikallisen toimijan yhteystiedot tarkistettu. Lahjoitusten saatavuus vaihtelee; lahjoitusten vastaanottoajat eivät ole asiakkaan asiointiaikoja."
     },
     {
       "id": "av-0206",
