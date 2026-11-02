@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-02",
+  "phase": "tarkistuskierros-1-jatkosuunnitelma",
+  "main_registry_count": 211,
+  "fee_unconfirmed_count": 106,
+  "fee_unconfirmed_by_category": {
+    "Ruoka-apu": 21,
+    "Kotiapu": 11,
+    "Raha-asiat": 6,
+    "Keskusteluapu": 67,
+    "Asuminen": 1
+  },
+  "duplicate_links": [
+    {
+      "id": "av-0012",
+      "of": "av-0014"
+    },
+    {
+      "id": "av-0019",
+      "of": "av-0024"
+    },
+    {
+      "id": "av-0151",
+      "of": "av-0048"
+    },
+    {
+      "id": "av-0158",
+      "of": "av-0040"
+    },
+    {
+      "id": "av-0159",
+      "of": "av-0046"
+    },
+    {
+      "id": "av-0160",
+      "of": "av-0043"
+    }
+  ],
+  "ready_true": 18,
+  "ready_unspecified": 84,
+  "ready_false": 109,
+  "publication_status": "ei hyväksytty julkaistavaksi",
+  "next_actions": [
+    "Tarkista maksuttomuus järjestäjien alkuperäislähteistä lähderyhmittäin.",
+    "Vertaile erilliset kartoitustiedostot päärekisteriin ja lisää puuttuvat vahvistetut palvelut.",
+    "Tee lopputarkistus ja varmuuskopio ennen julkaisuhyväksyntää."
+  ],
+  "website_changes_not_requested": true
+}
