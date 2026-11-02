@@ -3222,8 +3222,10 @@
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "previous_organizer_source_review_2026-11-02",
+      "publication_review_reason": "Järjestäjän aiemmin tarkistama maksuton vapaaehtoisystäväpalvelu; tapaamiset sovitaan erikseen ja omat kulut voivat jäädä asiakkaalle."
     },
     {
       "id": "av-0162",
@@ -3714,8 +3716,10 @@
       "price_status": "free",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences_if_applicable"
+      "publication_ready": true,
+      "event_data_status": "needs_individual_occurrences_if_applicable",
+      "publication_review_status": "previous_organizer_source_review_2026-11-02",
+      "publication_review_reason": "Järjestäjän aiemmin tarkistama maksuton vapaaehtoisystäväpalvelu; tapaamiset sovitaan erikseen ja omat kulut voivat jäädä asiakkaalle."
     },
     {
       "id": "av-0189",
