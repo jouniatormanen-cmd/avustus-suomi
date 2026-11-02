@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-02",
+  "project": "Avustus Suomi",
+  "status": "PAUSED_BY_USER",
+  "instructions": "Älä jatka ennen käyttäjän uutta pyyntöä. Tarkistuskierros numero 1, ensimmäinen 10 tiedoston erä kesken. Käy läpi kaikki data-kansion 105 alkuperäistä tiedostoa erissä. Varmista olemassaolo, maksuttomuus, yhteystiedot, ajat, ehdot, lähde, päällekkäisyydet. Älä julkaise ennen hyväksyntää.",
+  "saved_report": "data/tarkistuskierros-1-era-01-2026-11-02.json",
+  "last_attempt": "Kuopio Puijola, Lahti Lahden Talot, Hope ry tarkasteltu keskustelussa; erillinen jatkoraportin tallennus epäonnistui teknisesti. Varmista tiedot uudelleen ennen hyväksyntää.",
+  "issues": [
+    "Suolahden aamupuuron aukiolo ristiriitainen 7.30–9.30 vs 8–10",
+    "Asikkalan diakoniaruokailu 3 euroa, ei maksuton",
+    "Kuopion ja Lahden asumisneuvonnan maksuttomuus vielä vahvistettava",
+    "Hope ry päällekkäisyydet yhdistettävä"
+  ],
+  "public_site_changed": false
+}
