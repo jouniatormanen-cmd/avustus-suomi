@@ -20,7 +20,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Aleksanterin kirkko, Pirkankatu, Tampere",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "ViaDia Pirkanmaa"
     },
     {
       "id": "av-0002",
@@ -40,7 +41,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Lindforsinkatu 7, Tampere",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "ViaDia Pirkanmaa"
     },
     {
       "id": "av-0003",
@@ -60,7 +62,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Artturintie 14, Kangasala",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "ViaDia Pirkanmaa"
     },
     {
       "id": "av-0004",
@@ -82,7 +85,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Valtaraitti, Hervannan kirkon takana, Tampere",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0005",
@@ -104,7 +108,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Talvitie 26, Tampere",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0006",
@@ -126,7 +131,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Ollinojankatu 2, Tampere",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0007",
@@ -148,7 +154,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Korpikodinkatu 2, Tampere",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0008",
@@ -170,7 +177,8 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Tesomankuja 11, Tampere",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0009",
@@ -342,7 +350,8 @@
       "publication_review_status": "approved_strict_access_and_free_scope",
       "publication_review_reason": "Kaupungin ensisijainen lähde tarkistettu 2.11.2026; rajattu vain hätämajoituksen asukkaiden maksuttomaan aamiaiseen.",
       "address": "Hietaniemenkatu 5 B, 00100 Helsinki",
-      "phone": "09 310 46628"
+      "phone": "09 310 46628",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0018",
@@ -414,7 +423,8 @@
       "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
       "contact_channel": "Sähköinen asiointi, chat ja toimipaikkakohtainen puhelinneuvonta",
       "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
-      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route",
+      "organizer": "Oikeuspalveluvirasto"
     },
     {
       "id": "av-0021",
@@ -475,7 +485,8 @@
       "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
       "phone": "040 675 4790",
       "email": "eila.silinch@hel.fi",
-      "contact_field_audit": "verified_city_primary_source_2026-11-02"
+      "contact_field_audit": "verified_city_primary_source_2026-11-02",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0024",
