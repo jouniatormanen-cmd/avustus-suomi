@@ -338,17 +338,18 @@
     },
     {
       "id": "av-0023",
-      "category": "Raha-asiat",
+      "category": "Keskusteluapu",
       "municipality": "helsinki",
       "name": "Helsingin ruoka-avun sosiaalityö",
-      "details": "Maksutonta ohjausta ja neuvontaa esimerkiksi etuuksien hakemiseen ja asiointiin ruoka-avun yhteydessä.",
+      "details": "Ruoka-avun etsivä työ: neuvontaa, keskustelutukea ja ohjausta palveluihin ruoka-avun piirissä oleville tai sitä tarvitseville. Tavattavissa ruokajaoissa, puhelimitse ja tekstiviestillä; asiointi mahdollista anonyymisti.",
       "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/aikuissosiaalityo/etsiva-lahityo/ruoka-avun-etsiva-tyo",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "city_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Helsingin kaupungin ruoka-avun etsivä työ tarjoaa maksutonta sosiaaliohjausta ja palveluihin hakeutumisen tukea ruokajaoissa ja puhelimitse. Ei ruoan jakamista itsessään. Asiakas voi asioida anonyymisti."
     },
     {
       "id": "av-0024",
