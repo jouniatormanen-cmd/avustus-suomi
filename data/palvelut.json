@@ -813,9 +813,9 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "review_note": "SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "spr_district_source_reviewed_2026-11-02",
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0042",
@@ -833,9 +833,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "review_note": "SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "spr_district_source_reviewed_2026-11-02",
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0043",
@@ -880,9 +880,9 @@
       "source_kind": "red_cross",
       "shared_service_group": "spr-kirkkonummi-siuntio-ystavatoiminta",
       "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua. Sama alueellinen palvelu näkyy kahdessa kunnassa tarkoituksellisesti, ei kahtena erillisenä palveluna.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "spr_district_source_reviewed_2026-11-02",
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ]
@@ -905,8 +905,8 @@
       "shared_service_group": "spr-kirkkonummi-siuntio-ystavatoiminta",
       "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua. Sama alueellinen palvelu näkyy kahdessa kunnassa tarkoituksellisesti, ei kahtena erillisenä palveluna.",
       "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "publication_review_status": "excluded_same_organizer_service_other_municipality",
+      "publication_review_reason": "Sama Kirkkonummi–Siuntion ystävävälitys kuin av-0044; av-0044:n palvelualue kattaa myös Siuntion, ei toista hakutulosta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ]
@@ -953,9 +953,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "spr_district_source_reviewed_2026-11-02",
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0048",
@@ -997,9 +997,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "spr_district_source_reviewed_2026-11-02",
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0050",
