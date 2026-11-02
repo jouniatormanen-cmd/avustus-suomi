@@ -1,0 +1,42 @@
+{
+  "round": 1,
+  "batch": "jatko-06",
+  "date": "2026-11-02",
+  "reviewed_files": [
+    "data/kartoitus-spr-kaakkois-suomi-ystava-asiointi-kangasala-saatto-2026-11-02.json",
+    "data/kartoitus-kangasala-lohja-spr-aamupala-terveys-kriisiapu-2026-11-02.json"
+  ],
+  "records_reviewed": 16,
+  "findings": [
+    {
+      "service": "Kaakkois-Suomen SPR ystävä- ja asiointiapu",
+      "count": 11,
+      "status": "säilytä ehdokkaina",
+      "issue": "Maksuttomuus ei ole nimenomaisesti vahvistettu. Paikallinen saatavuus ja puhelinajat eivät ole palvelun aukioloaikoja."
+    },
+    {
+      "service": "Kangasalan SPR saattoapu",
+      "status": "maksuttomuus kirjattu vahvistetuksi",
+      "issue": "Tarkista mahdolliset asiakkaan matkakulut ja aiempi kaksoismerkintä."
+    },
+    {
+      "service": "Kangasalan SPR aamupala ja terveyspiste",
+      "count": 2,
+      "status": "maksuttomuus kirjattu vahvistetuksi",
+      "issue": "Tarkka osoite puuttuu; terveyspiste ei ole terveydenhuollon vastaanotto."
+    },
+    {
+      "service": "Lohjan SPR kotimaan kriisiapu",
+      "status": "odottaa",
+      "issue": "Maksuttomuus ja avun ehdot tarkistettava."
+    },
+    {
+      "service": "Lohjan SPR vaate- ja tavaravarasto",
+      "status": "odottaa",
+      "issue": "Lahjoitusten vastaanottoaika erotettava avunsaajien asiointiajasta; jakotapa ja maksuttomuus vahvistettava."
+    }
+  ],
+  "verification": "aineiston sisäinen; ei uusia riippumattomia järjestäjien lähdevahvistuksia",
+  "public_site_changed": false,
+  "original_records_preserved": true
+}
