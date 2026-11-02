@@ -76,13 +76,9 @@
       "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
       "schedule_verification_pending": true,
       "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review",
-        "distribution_location_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä."
     },
     {
       "id": "av-0005",
@@ -100,12 +96,9 @@
       "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
       "schedule_verification_pending": true,
       "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Talvitie 26, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
@@ -125,12 +118,9 @@
       "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
       "schedule_verification_pending": true,
       "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Ollinojankatu 2, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
@@ -150,12 +140,9 @@
       "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
       "schedule_verification_pending": true,
       "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Korpikodinkatu 2, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
@@ -175,12 +162,9 @@
       "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
       "schedule_verification_pending": true,
       "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän sivulta tarkistettu palvelu ja maksuttomuus; ilmoitetut jakoajat voivat muuttua ja ne on tarkistettava ennen käyntiä.",
       "address": "Tesomankuja 11, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
@@ -197,14 +181,11 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
-      "access_requirement": "Ruokapankin Puodissa asiointi edellyttää diakoniatyöntekijän myöntämää asiointilupaa.",
+      "access_requirement": "Diakoniatyöntekijän myöntämä asiointilupa vaaditaan.",
       "review_note": "Eri palvelu kuin avoimet ruokapysäkit; ei saa kuvata ilman lupaa käytettäväksi.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Maksuton vain diakoniatyöntekijän asiointiluvalla; lupaehdon näkyminen käyttäjälle välttämätöntä.",
       "address": "Kuoppamäentie 10, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
