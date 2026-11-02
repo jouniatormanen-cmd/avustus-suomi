@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-02",
+  "scope": "Ahvenanmaa",
+  "ordering": "Maakunnat aakkosjärjestyksessä, kunnat aakkosjärjestyksessä, kunnan kategoriat Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha, Asuminen",
+  "municipalities": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "current_position": {
+    "municipality": "Brändö",
+    "category": "Ruoka-apu",
+    "status": "lähteet tarkistettu osittain, ei valmis"
+  },
+  "findings": [
+    {
+      "municipality": "Brändö",
+      "category": "Ruoka-apu",
+      "organizer": "Brändö-Kumlinge församling",
+      "name": "Diakonian kautta haettava ruokakassi",
+      "description": "Seurakunta neuvoo ottamaan yhteyttä kirkkoherraan tai saarna-avustajaan ruokakassin saamiseksi. Jakelun aikataulu ja maksuttomuuden tarkat ehdot eivät käy ilmi sivulta.",
+      "source_url": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+      "contact_url": "https://www.brandokumlingeforsamling.fi/kontakt",
+      "phone": "018 56114",
+      "email": "brando-kumlinge@evl.fi",
+      "address": "Brändövägen 967, AX-22920 Brändö",
+      "verification_status": "organizer_site_confirmed_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-02"
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Raha",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Diakoninen avustushakemusten käsittely",
+      "source_url": "https://www.eckero-hammarland.fi/information-kansli/lediga-tjanster",
+      "contact_url": "https://www.eckero-hammarland.fi/kontakt",
+      "verification_status": "service_mentioned_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-02",
+      "notes": "Lähteessä vahvistetaan avustusten käsittely, mutta hakemisen ehdot ja maksuttomuus tarkistettava. Ei ohiteta Brändön muita kategorioita tämän löydön vuoksi."
+    }
+  ],
+  "next_actions": [
+    "Brändö / Ruoka-apu: varmista ruokakassin maksuttomuus ja ehdot; etsi muut paikalliset toimijat.",
+    "Jatka Brändön Kotiapu-, Vaatteet-, Tavarat-, Raha- ja Asuminen-kategoriat ennen Eckeröön siirtymistä.",
+    "Eckerö / Raha -havainto odottaa vuoroaan; ei hyväksytä päärekisteriin ennen tarkistusta."
+  ],
+  "registry_changes": 0,
+  "public_site_changes": 0
+}
