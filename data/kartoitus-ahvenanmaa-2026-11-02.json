@@ -22,8 +22,8 @@
   ],
   "current_position": {
     "municipality": "Brändö",
-    "category": "Ruoka-apu",
-    "status": "lähteet tarkistettu osittain, ei valmis"
+    "category": "Kotiapu",
+    "status": "maksulliset palvelut rajattu pois; maksuttomien kotiapujen kartoitus kesken"
   },
   "findings": [
     {
@@ -52,12 +52,47 @@
       "publication_ready": false,
       "checked_at": "2026-11-02",
       "notes": "Lähteessä vahvistetaan avustusten käsittely, mutta hakemisen ehdot ja maksuttomuus tarkistettava. Ei ohiteta Brändön muita kategorioita tämän löydön vuoksi."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Kotiapu",
+      "organizer": "Brändö kommun",
+      "name": "Kunnan kotihoito ja kotipalvelut",
+      "source_url": "https://www.brando.ax/vard-och-omsorg/aldreomsorg/",
+      "price_source_url": "https://www.brando.ax/kommunen/avgifter/",
+      "verification_status": "excluded_paid_service",
+      "publication_ready": false,
+      "checked_at": "2026-11-02",
+      "notes": "Kunnan kotihoito ja siivous ovat maksullisia. Ei lisätä maksuttomien palvelujen rekisteriin."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Ruoka-apu",
+      "organizer": "Brändö kommun",
+      "name": "Solkullan ateriapalvelu ja kotiin toimitetut ateriat",
+      "source_url": "https://www.brando.ax/vard-och-omsorg/aldreomsorg/",
+      "price_source_url": "https://www.brando.ax/kommunen/avgifter/",
+      "verification_status": "excluded_paid_service",
+      "publication_ready": false,
+      "checked_at": "2026-11-02",
+      "notes": "Ateriapalvelu on maksullinen; ei maksuton ruoka-apu."
+    },
+    {
+      "municipality": "Brändö",
+      "category": "Raha",
+      "organizer": "Ålands diakonifond, hakemus paikallisen seurakunnan diakonian kautta",
+      "name": "Ahvenanmaan diakoniarahaston taloudellinen apu",
+      "source_url": "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond",
+      "verification_status": "organizer_source_confirmed_eligibility_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-02",
+      "notes": "Rahasto kattaa Ahvenanmaan; hakemus tehdään seurakunnan diakoniatyön kautta. Ehdot ja mahdollinen päällekkäisyys Brändön seurakunnan taloudellisen avun kanssa tarkistettava ennen hyväksyntää."
     }
   ],
   "next_actions": [
-    "Brändö / Ruoka-apu: varmista ruokakassin maksuttomuus ja ehdot; etsi muut paikalliset toimijat.",
-    "Jatka Brändön Kotiapu-, Vaatteet-, Tavarat-, Raha- ja Asuminen-kategoriat ennen Eckeröön siirtymistä.",
-    "Eckerö / Raha -havainto odottaa vuoroaan; ei hyväksytä päärekisteriin ennen tarkistusta."
+    "Brändö / Kotiapu: etsi maksuttomat vapaaehtois- ja järjestöpalvelut, älä hyväksy maksullista kotihoitoa.",
+    "Brändö / Vaatteet, Tavarat, Raha ja Asuminen järjestyksessä; taloudellisen avun löydös odottaa tarkistusta.",
+    "Eckerö vasta Brändön käsittelyn jälkeen."
   ],
   "registry_changes": 0,
   "public_site_changes": 0
