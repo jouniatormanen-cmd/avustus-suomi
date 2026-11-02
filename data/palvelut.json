@@ -748,19 +748,20 @@
       "municipality": "vantaa",
       "name": "Länsi-Vantaan SPR ystävävälitys",
       "address": "Paalutori 3, 01600 Vantaa",
-      "details": "Ystävävälitys tarjoaa juttuseuraa tai ulkoiluseuraa. Päivystys Myyrmäen asukastilassa ma klo 16–18 ja to klo 10–12. Sähköposti spr.lansivantaa.ystava@gmail.com. Tämä tarkennus voi olla päällekkäinen aiemman Länsi-Vantaan ystävävälitysmerkinnän kanssa.",
+      "details": "Ystävää tarvitseva voi ottaa yhteyttä 050 470 8443 tai spr.lansivantaa.ystava@gmail.com. Ystävä tarjoaa esimerkiksi juttuseuraa tai ulkoiluseuraa.",
       "phone": "050 470 8443",
       "source_url": "https://osastot.punainenristi.fi/osastot/lansi-vantaan-osasto/toiminta/ystavatoiminta",
-      "price_status": "check_source",
-      "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_primary_source_and_activity_rules_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
       "merged_equivalent_ids": [
         "av-0151"
       ],
-      "publication_ready": false
+      "publication_ready": false,
+      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot."
     },
     {
       "id": "av-0049",
@@ -1850,15 +1851,16 @@
       "name": "SPR Helsingin saattajavälitys",
       "address": null,
       "phone": null,
-      "details": "Vapaaehtoista saattajaa voi pyytää esimerkiksi lääkärissä tai kaupassa käyntiin. Pyyntö kannattaa tehdä viimeistään edellisellä viikolla. Sähköposti helsinki.saattajavalitys@punainenristi.fi. Maksuttomuus ja mahdolliset matkakulut varmistettava.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
-      "price_status": "check_source",
-      "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "details": "Koko Helsingin saattajavälitys esimerkiksi lääkäri- ja kauppakäynteihin. Puhelin 045 117 0982, päivystys to klo 10–13; helsinki.saattajavalitys@punainenristi.fi. Pyyntö mieluiten viimeistään edellisellä viikolla.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/pohjois-ja-keski-helsingin-osasto/toiminta/ystavatoiminta",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_primary_source_and_activity_rules_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot."
     },
     {
       "id": "av-0117",
@@ -1867,15 +1869,16 @@
       "name": "SPR Helsingin ystävävälitys",
       "address": null,
       "phone": "050 409 2702",
-      "details": "Ystävää kaipaaville. Puhelinpäivystys ti klo 13–17.30 ja ke klo 11–14. Sähköposti helsinki.ystavavalitys@punainenristi.fi. Maksuttomuus varmistettava.",
+      "details": "Helsingin ystävävälitys, puhelin 050 409 2702, päivystys ti 13–17.30 ja ke 11–14; helsinki.ystavavalitys@punainenristi.fi.",
       "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
-      "price_status": "check_source",
-      "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "spr_primary_source_and_activity_rules_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot."
     },
     {
       "id": "av-0118",
