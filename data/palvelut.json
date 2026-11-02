@@ -434,7 +434,9 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "publication_ready": false,
-      "review_note": "MIELI ei peri keskustelusta maksua, mutta soittajan operaattori veloittaa puhelusta. Ei täysin kuluton palvelukanava."
+      "review_note": "MIELI ei peri keskustelusta maksua, mutta soittajan operaattori veloittaa puhelusta. Ei täysin kuluton palvelukanava.",
+      "publication_review_status": "excluded_not_fully_free_phone_charges",
+      "publication_review_reason": "Keskusteluapu on maksutonta, mutta tavallisesta puhelusta peritään liittymäsopimuksen mukainen maksu. Ei julkaista ehdottomasti maksuttomien palveluiden listassa ilman erillistä maksullisuusmerkintää."
     },
     {
       "id": "av-0023",
@@ -2108,7 +2110,9 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
       "exclude_from_free_service_search": true,
-      "review_note": "Puhelusta peritään liittymäsopimuksen mukainen puhelumaksu; ei esitetä täysin maksuttomana palveluna."
+      "review_note": "Puhelusta peritään liittymäsopimuksen mukainen puhelumaksu; ei esitetä täysin maksuttomana palveluna.",
+      "publication_review_status": "excluded_not_fully_free_phone_charges",
+      "publication_review_reason": "Keskusteluapu on maksutonta, mutta tavallisesta puhelusta peritään liittymäsopimuksen mukainen maksu. Ei julkaista ehdottomasti maksuttomien palveluiden listassa ilman erillistä maksullisuusmerkintää."
     },
     {
       "id": "av-0106",
@@ -2680,7 +2684,9 @@
       "price_status": "pending_review",
       "record_type": "resident_visit",
       "publication_ready": false,
-      "audience_restricted_to": "Graanin palvelutalon asukkaat"
+      "audience_restricted_to": "Graanin palvelutalon asukkaat",
+      "publication_review_status": "excluded_restricted_resident_visit",
+      "publication_review_reason": "Vain Graanin palvelutalon asukkaille järjestetty vierailu, ei yleisesti haettava palvelu. Ei julkaista avoimessa palveluhaussa."
     },
     {
       "id": "av-0133",
