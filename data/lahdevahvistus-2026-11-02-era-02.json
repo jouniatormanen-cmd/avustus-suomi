@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-02",
+  "phase": "alkuperäislähteiden varmistus",
+  "checks": [
+    {
+      "service": "Kuopion asumisneuvonta / Setlementti Puijola",
+      "source_url": "https://www.kuopio.fi/asuminen-ja-ymparisto/asuminen/asumisneuvonta/",
+      "confirmed": "Palvelee kaikkia kuopiolaisia asumismuodosta riippumatta; yhteystiedot ja osoite täsmäävät.",
+      "unconfirmed": "Asiakasmaksuttomuutta ei ilmoiteta yksiselitteisesti.",
+      "status": "maksuttomuus odottaa"
+    },
+    {
+      "service": "Lahden Talojen asumisneuvonta",
+      "source_url": "https://lahdentalot.fi/palvelut-asukkaalle/asumisneuvonta-ja-vuokravalvonta/",
+      "confirmed": "Lahden Talojen asukkaille; Kauppakeskus Trio palvelutori ti ja to 9–15 ilman ajanvarausta; kolme aluekohtaista puhelinta.",
+      "unconfirmed": "Asiakasmaksuttomuutta ei ilmoiteta yksiselitteisesti.",
+      "status": "maksuttomuus odottaa"
+    },
+    {
+      "record_id": "av-0105",
+      "service": "Kirkon Palveleva puhelin",
+      "source_url": "https://evl.fi/sanasto/palveleva-puhelin-ja-palveleva-netti/",
+      "confirmed": "Puhelu on operaattorin liittymäsopimuksen mukaisesti maksullinen; päivystys joka päivä klo 18–24.",
+      "status": "ei täysin maksuton puhelinkanava"
+    },
+    {
+      "service": "Kirkon Palveleva netti",
+      "source_url": "https://evl.fi/sanasto/palveleva-puhelin-ja-palveleva-netti/",
+      "confirmed": "Verkkoviestipalvelu on maksuton; järjestäjä ilmoittaa vastauksen viiden päivän kuluessa.",
+      "status": "maksuttomuus vahvistettu; tarkista päällekkäisyydet ennen lisäystä"
+    },
+    {
+      "service": "Kuopion nuorten asumisneuvonta",
+      "source_url": "https://www.kuopio.fi/palvelut/asumisneuvonta/",
+      "confirmed": "18–29-vuotiaiden neuvonta on sivulla nimenomaisesti maksuton; torstaisin klo 12–15 TyöNavigaattorissa Asemakatu 7.",
+      "status": "maksuttomuus vahvistettu; tarkista päärekisterin päällekkäisyydet"
+    }
+  ],
+  "public_site_changed": false,
+  "original_records_preserved": true
+}
