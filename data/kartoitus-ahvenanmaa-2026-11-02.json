@@ -208,9 +208,9 @@
     }
   ],
   "next_actions": [
-    "Brändö: tarkista omaishoitajan vapaan aikaisen maksuttoman hoidon hakeminen, yhteystiedot ja mahdolliset rajaukset.",
-    "Brändö: jatka Vaatteet, Tavarat, Raha ja Asuminen järjestyksessä; älä merkitse kategorioita valmiiksi ilman kattavaa tarkistusta.",
-    "Eckerö ja Finström seuraavina kuntina, ei satunnaista siirtymistä muualle."
+    "Varmista viiden alueellisen palvelun nykyiset hakukanavat ja nouto-/vastaanottoajat, sekä ettei alueellisista palveluista synny kuntakohtaisia kaksoiskappaleita.",
+    "Jatka kunta/kategoria-matriisia Ahvenanmaan kunnissa järjestyksessä; älä pysähdy Brändöön.",
+    "Hyväksy päärekisteriin vasta kun palvelun pakolliset kentät ja duplikaattitarkistus täyttyvät."
   ],
   "registry_changes": 0,
   "public_site_changes": 0,
@@ -365,5 +365,125 @@
       "note": "Maksulliset koti- ja tukipalvelut eivät kuulu hakemistoon."
     }
   ],
-  "batch_note": "Lähdekierros ulotettu Eckeröön, Hammarlandiin, Jomalaan, Lemlandiin ja Lumparlandiin. Järjestäjäkohtaiset löydökset kirjattu; kunta- ja kategoriakohtaista kattavaa lopputarkistusta ei ole tehty. Alueelliset palvelut eivät saa muuttua kaksoiskappaleiksi."
+  "batch_note": "Lähdekierros ulotettu Eckeröön, Hammarlandiin, Jomalaan, Lemlandiin ja Lumparlandiin. Järjestäjäkohtaiset löydökset kirjattu; kunta- ja kategoriakohtaista kattavaa lopputarkistusta ei ole tehty. Alueelliset palvelut eivät saa muuttua kaksoiskappaleiksi.",
+  "regional_services": [
+    {
+      "id": "matbanken-aland",
+      "name": "Matbanken på Åland – maksuton ruokakassi",
+      "organizer": "Matbanken på Åland rf / seurakuntien diakoniatyö",
+      "category": "Ruoka-apu",
+      "municipalities": [
+        "Brändö",
+        "Eckerö",
+        "Finström",
+        "Föglö",
+        "Geta",
+        "Hammarland",
+        "Jomala",
+        "Kumlinge",
+        "Kökar",
+        "Lemland",
+        "Lumparland",
+        "Maarianhamina",
+        "Saltvik",
+        "Sottunga",
+        "Sund",
+        "Vårdö"
+      ],
+      "description": "Maksuton ruokakassi tilapäisesti tai pitkäaikaisesti vaikeassa taloudellisessa tilanteessa oleville. Ota yhteyttä paikallisen seurakunnan diakoniatyöntekijään; taloustilanteen arvioinnin jälkeen voi saada lipukkeen seuraavaan jakeluun.",
+      "source_url": "https://www.mariehamnsforsamling.fi/stod-och-hjalp/matbanken",
+      "email": "matbanken.aland@gmail.com",
+      "distribution_address": "Måsvägen 1, Maarianhamina (lahjoitusten vastaanotto; noutoajan ja paikan yksityiskohdat vahvistettava)",
+      "verification_status": "official_source_confirms_free_and_application_method",
+      "publication_ready": false,
+      "notes": "Yksi alueellinen palvelu; ei 16 erillistä palvelua. Noutoajat ja kunnittainen saavutettavuus tarkistettava.",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "norra-aland-matbanken-emmaus",
+      "name": "Pohjois-Ahvenanmaan seurakunnan ruoka- ja tavara-avun lipukkeet",
+      "organizer": "Norra Ålands församling",
+      "categories": [
+        "Ruoka-apu",
+        "Tavarat"
+      ],
+      "municipalities": [
+        "Finström",
+        "Geta",
+        "Sund",
+        "Vårdö"
+      ],
+      "description": "Seurakunnan diakonian kautta voi saada Matbankenin ja Emmausin lipukkeita sekä kriisitilanteissa käytännön apua ja kotikäyntejä.",
+      "source_url": "https://www.norraalandsforsamling.ax/stod-och-hjalp",
+      "contact": "Maria Sjölund, 0457-361 3463, maria.sjolund@evl.fi",
+      "verification_status": "official_source_confirms_access",
+      "publication_ready": false,
+      "notes": "Matbanken-lipukkeet ovat pääpalvelun hakukanava, ei uusi ruokapankki; Emmaus tavara-avun myöntämisehdot selvitettävä.",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "emmaus-aland-goods",
+      "name": "Emmaus Åland – tarveharkintainen tavara-apu",
+      "organizer": "Emmaus Åland yhteistyössä KST:n kanssa",
+      "category": "Tavarat",
+      "municipalities": [
+        "Ahvenanmaa"
+      ],
+      "description": "Tavara-apu voidaan myöntää yhteistyötahojen tarveharkinnan perusteella, ei suoraan Emmaus-myymälästä hakemalla.",
+      "source_url": "https://raddabarnen.ax/app/uploads/2025/03/brochure-financial-support-2024-webb.pdf",
+      "contact": "info@emmaus.ax, +358 40 758 7062",
+      "verification_status": "brochure_confirms_route_current_conditions_pending",
+      "publication_ready": false,
+      "notes": "Ei myymälän maksullista myyntiä; varmista tämänhetkinen hakukanava.",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "folkhalsan-aland-financial-counselling",
+      "name": "Folkhälsan Åland – maksuton talousneuvonta",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Raha",
+      "municipalities": [
+        "Ahvenanmaa"
+      ],
+      "description": "Maksuton luottamuksellinen talousneuvonta: budjetointi, velkojen järjestely, maksusuunnitelmat.",
+      "source_url": "https://raddabarnen.ax/app/uploads/2025/03/brochure-financial-support-2024-webb.pdf",
+      "address": "Styrmansgatan 10, Maarianhamina",
+      "contact": "aland.ekonomirad@folkhalsan.ax, 018 527 040",
+      "verification_status": "brochure_confirms_free_current_provider_site_pending",
+      "publication_ready": false,
+      "notes": "Varmista palvelun nykyinen toiminta järjestäjän sivulta.",
+      "checked_at": "2026-11-03"
+    },
+    {
+      "id": "aland-diakonifond",
+      "name": "Ålands diakonifond – taloudellinen apu",
+      "organizer": "Ålands diakonifond / paikalliset seurakunnat",
+      "category": "Raha",
+      "municipalities": [
+        "Brändö",
+        "Eckerö",
+        "Finström",
+        "Föglö",
+        "Geta",
+        "Hammarland",
+        "Jomala",
+        "Kumlinge",
+        "Kökar",
+        "Lemland",
+        "Lumparland",
+        "Maarianhamina",
+        "Saltvik",
+        "Sottunga",
+        "Sund",
+        "Vårdö"
+      ],
+      "description": "Paikallisen seurakunnan diakoniatyöntekijä arvioi avun tarpeen ja hakee tarvittaessa rahastosta; yksityinen ei voi hakea suoraan. Käsittelyaika noin kaksi viikkoa.",
+      "source_url": "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond",
+      "verification_status": "official_source_confirms_coverage_and_application",
+      "publication_ready": false,
+      "notes": "Yksi koko Ahvenanmaan rahasto, ei 16 erillistä avustusta.",
+      "checked_at": "2026-11-03"
+    }
+  ],
+  "regional_coverage_note": "Viisi alueellista palvelu- tai hakukanavakokonaisuutta löydetty; 16 kunnan kattavuus viittaa palvelualueeseen, EI 16 valmiiksi tarkistettuun kuntaan. Kuntakohtaiset kuusi kategoriaa edelleen kesken."
 }
