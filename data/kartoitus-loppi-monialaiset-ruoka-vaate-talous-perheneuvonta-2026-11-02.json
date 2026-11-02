@@ -1,0 +1,65 @@
+{
+  "records": [
+    {
+      "id": "loppi-20261102-ruokakassit",
+      "municipality": "Loppi",
+      "name": "Lopen seurakunnan ruokakassijako",
+      "category": "Ruoka-apu",
+      "organizer": "Lopen seurakunta",
+      "address": "Lopen kappeli, Pilpalantie 2, Loppi",
+      "schedule": "Syyskausi 2026: 25.8., 20.10. ja 1.12. klo 15–17",
+      "conditions": "Toistuva kausittainen ruokakassijako; vuoden 2027 jatko tarkistettava",
+      "fee_status": "avustus_maksuttomuus_tarkistettava",
+      "source_url": "https://www.lopenseurakunta.fi/apua-ja-tukea",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_source_2026-11-02"
+    },
+    {
+      "id": "loppi-20261102-vaatetavara",
+      "municipality": "Loppi",
+      "name": "Diakonian vaate- ja tavara-apu",
+      "category": "Vaatteet ja tavarat",
+      "organizer": "Lopen seurakunta",
+      "address": "Lopen kappeli, Pilpalantie 2, Loppi",
+      "schedule": "Ajanvarauksella; lisäksi ruokakassijakojen aikana ilman ajanvarausta",
+      "phone": "050 426 4100",
+      "conditions": "Varaa aika toimistosta ma–to klo 9–12; apua vaatteisiin ja kodintarvikkeisiin",
+      "fee_status": "avustus_maksuttomuus_tarkistettava",
+      "source_url": "https://www.lopenseurakunta.fi/apua-ja-tukea",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_source_2026-11-02"
+    },
+    {
+      "id": "loppi-20261102-taloudellinen",
+      "municipality": "Loppi",
+      "name": "Diakonian harkinnanvarainen taloudellinen apu",
+      "category": "Raha-asiat",
+      "organizer": "Lopen seurakunta",
+      "schedule": "Yhteydenotto toimistoon ma–to klo 9–12 tai sähköisellä lomakkeella",
+      "phone": "050 426 4100",
+      "conditions": "Ruokaostokset, lääke- ja apteekkikulut, välttämättömät hankinnat ja harrastukset; harkinnanvaraista, ei automaattista avustusta",
+      "fee_status": "avustus_harkinnanvarainen",
+      "source_url": "https://www.lopenseurakunta.fi/apua-ja-tukea",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_source_2026-11-02"
+    },
+    {
+      "id": "loppi-20261102-perheneuvonta",
+      "municipality": "Loppi",
+      "name": "Maksuton perheneuvonta",
+      "category": "Keskusteluapu",
+      "organizer": "Lopen seurakunta yhteistyössä Hyvinkään ja Riihimäen seurakuntien kanssa",
+      "schedule": "Ajanvarauksella, jatkuva palvelu",
+      "conditions": "Perheen ja parisuhteen pulmiin; asiakkaille maksuton",
+      "fee_status": "confirmed_free",
+      "source_url": "https://www.lopenseurakunta.fi/apua-ja-tukea",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "organizer_source_2026-11-02"
+    }
+  ],
+  "notes": "Neljä eri avustusmuotoa Lopen seurakunnan ajantasaisesta omasta lähteestä. Toistuva kausittainen ruokakassijako, ei yksittäinen tapahtuma. Maksuttomuus erikseen eksplisiittinen perheneuvonnalle; muissa avun muodot varmistetaan tarkistuskierroksella. Ei julkisen sivuston muutoksia."
+}
