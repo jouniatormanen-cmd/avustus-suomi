@@ -598,7 +598,9 @@
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "excluded_historical_event",
+      "publication_review_reason": "19.5.2026 järjestetty kertatapahtuma; ei tulevaa vahvistettua kertaa."
     },
     {
       "id": "av-0031",
@@ -2439,7 +2441,9 @@
       "exclude_from_free_service_search": true,
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "publication_review_status": "excluded_membership_fee",
+      "publication_review_reason": "Järjestäjän ilmoittama 40 euron vuosijäsenmaksu aikuiselta; maksuttomuus ilman jäsenyyttä ei vahvistettu."
     },
     {
       "id": "av-0121",
