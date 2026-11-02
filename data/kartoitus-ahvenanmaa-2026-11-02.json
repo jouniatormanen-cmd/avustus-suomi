@@ -23,7 +23,7 @@
   "current_position": {
     "municipality": "Brändö",
     "category": "Kotiapu",
-    "status": "lähdekartoitus laajennettu Brändö/Eckerö/Finström -matriisiin; vain Brändössä ensisijaislähteitä tarkistettu, ei kunnista yhtään loppuunkäsitelty"
+    "status": "Kattava kunnittainen läpikäynti kesken; lähteitä seulottu myös myöhemmistä kunnista, ei valmiita kuntia."
   },
   "findings": [
     {
@@ -109,6 +109,102 @@
       "publication_ready": false,
       "checked_at": "2026-11-02",
       "notes": "Kunnan julkaisema lakisääteinen perhe-etuus; päätettävä kuuluuko hakemiston maksuttoman avun rajaukseen vai jätetäänkö viranomaisetuudet pois."
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Raha",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Diakoniatyön avustusten käsittely",
+      "source_url": "https://www.eckero-hammarland.fi/nyheter",
+      "phone": "045 734 58415",
+      "notes": "Diakonia-asioissa yhteys Marie Nordenstormiin; avustusten käsittely vahvistettu seurakunnan lähteessä, maksuttomuus ja myöntämisperusteet tarkistettava.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Hammarland",
+      "category": "Raha",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Diakoniatyön avustusten käsittely",
+      "source_url": "https://www.eckero-hammarland.fi/kontakt",
+      "phone": "045 734 58415",
+      "notes": "Sama seurakunta palvelee Eckerötä ja Hammarlandia; ei pidä monistaa samaksi yksittäiseksi palveluksi ilman aluekenttää.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Jomala",
+      "category": "Raha",
+      "organizer": "Jomala diakoniförening",
+      "name": "Tilapäisten talousvaikeuksien laskuapu",
+      "source_url": "https://www.jomala.evl.ax/stod-och-hjalp/jomala-diakoniforening",
+      "phone": "018 328 313",
+      "notes": "Yhdistys voi auttaa laskujen maksussa tilapäisissä talousvaikeuksissa; hakemus seurakunnan diakoniatyöntekijän kautta.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Jomala",
+      "category": "Raha",
+      "organizer": "Jomala församling",
+      "name": "Diakonian taloudellinen tuki",
+      "source_url": "https://www.jomala.evl.ax/stod-och-hjalp/diakoni",
+      "phone": "018 328 313",
+      "notes": "Diakonian vastaanotto Olofsgårdenissa tiistaisin 9–11 tai sopimuksesta; erillinen diakoniarahasto toimii seurakuntien kautta.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Lemland",
+      "category": "Raha",
+      "organizer": "Lemland-Lumparlands församling",
+      "name": "Diakonian taloudellinen apu",
+      "source_url": "https://www.lemland-lumparland.evl.ax/documents/d/www.lemland-lumparland.evl.ax/budget-2026-hemside-version-pdf",
+      "phone": "018 364 886",
+      "notes": "Seurakunnan toiminnassa on taloudellista tukea; ajantasaiset yksilölliset ehdot tarkistettava.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Lumparland",
+      "category": "Raha",
+      "organizer": "Lemland-Lumparlands församling",
+      "name": "Diakonian taloudellinen apu",
+      "source_url": "https://www.lemland-lumparland.evl.ax/kontakt",
+      "phone": "018 364 886",
+      "notes": "Sama järjestäjä kuin Lemlandissa; varmista palvelualue ja kirjaa ilman kaksoiskappaleita.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Eckerö",
+      "category": "Ruoka-apu",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Matbanken-yhteistyön kautta diakoninen ruoka-apu",
+      "source_url": "https://www.eckero-hammarland.fi/documents/d/www.eckero-hammarland.fi/kr-pr-5-2025-09092025-pdf",
+      "phone": "045 734 58415",
+      "notes": "Seurakunnan pöytäkirjassa 2025 mainitaan perheiden toistuva tuentarve Matbankenin kautta; tämänhetkinen saantitapa tarkistettava.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
+    },
+    {
+      "municipality": "Hammarland",
+      "category": "Ruoka-apu",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Matbanken-yhteistyön kautta diakoninen ruoka-apu",
+      "source_url": "https://www.eckero-hammarland.fi/documents/d/www.eckero-hammarland.fi/kr-pr-5-2025-09092025-pdf",
+      "phone": "045 734 58415",
+      "notes": "Sama alueellinen seurakunta; ruokajakelun nykyiset ehdot ja sijainti tarkistettava.",
+      "verification_status": "organizer_source_identified_conditions_pending",
+      "publication_ready": false,
+      "checked_at": "2026-11-03"
     }
   ],
   "next_actions": [
@@ -268,5 +364,6 @@
       "category": "Kotiapu/Ruoka-apu",
       "note": "Maksulliset koti- ja tukipalvelut eivät kuulu hakemistoon."
     }
-  ]
+  ],
+  "batch_note": "Lähdekierros ulotettu Eckeröön, Hammarlandiin, Jomalaan, Lemlandiin ja Lumparlandiin. Järjestäjäkohtaiset löydökset kirjattu; kunta- ja kategoriakohtaista kattavaa lopputarkistusta ei ole tehty. Alueelliset palvelut eivät saa muuttua kaksoiskappaleiksi."
 }
