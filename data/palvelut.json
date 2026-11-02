@@ -1686,11 +1686,11 @@
       "municipality": "hartola",
       "name": "Tainionvirran seurakunnan taloudellinen diakonia-apu",
       "address": null,
-      "details": "Maksuton taloudellisen tilanteen selvittely ja diakoninen neuvonta Hartolan ja Sysmän asukkaille. Harkinnanvaraisesti voidaan myöntää osto- tai maksukortteja, lääkemaksusitoumuksia tai kertaluonteista laskuapua; avustusta ei luvata etukäteen. Ota yhteys seurakunnan diakoniaan.",
-      "source_url": "https://hyvinvointiopas.paijatha.fi/palveluhakemisto/taloudellinen-avustaminen-2/",
+      "details": "Maksuton talousasioiden selvittely ja harkinnanvarainen diakoninen avustus Hartolan ja Sysmän asukkaille. Hartola: diakonissa Kirsi Männistö, 050 562 3225, kirsi.mannisto@evl.fi, Kirkkotie 2. Sysmä: diakonissa Satu Saari, 050 478 4958, satu.k.saari@evl.fi, Sysmäntie 57. Ota yhteyttä oman kuntasi työntekijään ja varaa keskusteluaika; tulo- ja menotiedot kannattaa ottaa mukaan. Avustusta ei taata.",
+      "source_url": "https://www.tainionvirranseurakunta.fi/tule-mukaan/diakoniatyo/avustamistoiminta",
       "price_status": "free_conditional_aid",
       "verification_status": "source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
@@ -1704,9 +1704,11 @@
         "hartola",
         "sysmä"
       ],
-      "contact_channel": "Yhteydenotto Tainionvirran seurakunnan diakoniaan. Suora yhteysnumero tarkistettava järjestäjän sivulta.",
-      "contact_audit_outcome": "direct_contact_still_to_verify",
-      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02"
+      "contact_channel": "Hartola: Kirsi Männistö 050 562 3225; Sysmä: Satu Saari 050 478 4958",
+      "contact_audit_outcome": "direct_contacts_verified",
+      "contact_field_audit": "official_parish_primary_sources_2026-11-02",
+      "phone": "050 562 3225",
+      "email": "kirsi.mannisto@evl.fi"
     },
     {
       "id": "av-0084",
@@ -4438,7 +4440,7 @@
       "name": "Jyväskylän seurakunnan keskustan Pikkuhelppi",
       "source_url": "https://www.jyvaskylanseurakunta.fi/tule-mukaan/lapsille-ja-lapsiperheille/alueet/keskusta/muu-toiminta",
       "phone": null,
-      "details": "Maksuton lastenhoito ja vanhemmuuden tuki Jyväskylän keskustan ja Lohikosken alueella, noin 2 tuntia kerrallaan, enintään 3 kertaa puolen vuoden aikana. Kotona, ulkona tai seurakunnan tiloissa. Ilmoittautuminen seurakunnan verkkosivulla.",
+      "details": "Jyväskylän seurakunnan keskustan alueen maksuton Pikkuhelppi tarjoaa lastenhoitoapua, juttuseuraa, omaa aikaa ja tukea vanhemmuuteen. Palvelua järjestetään ulkona, kirkon tiloissa tai perheen kotona, noin 2 tuntia kerrallaan enintään kolme kertaa puolen vuoden aikana. Ilmoittaudu seurakunnan Keskustan alueen Pikkuhelppi-sivulla olevasta ilmoittautumislinkistä. Palvelulla ei ole kiinteää käyntiosoitetta.",
       "free_service": true,
       "verification_status": "organizer_primary_source_checked_2026-11-02",
       "publication_ready": true,
@@ -4447,9 +4449,9 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "contact_channel": "Ilmoittautuminen Jyväskylän seurakunnan verkkosivun kautta; suora yhteystieto tarkistettava.",
-      "contact_audit_outcome": "direct_contact_still_to_verify",
-      "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02"
+      "contact_channel": "Ilmoittautumislomake seurakunnan Keskustan alueen Pikkuhelppi-palvelusivulla",
+      "contact_audit_outcome": "official_registration_channel_verified_no_phone_required",
+      "contact_field_audit": "official_service_specific_registration_form_2026-11-02"
     },
     {
       "id": "av-0213",
