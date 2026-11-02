@@ -2907,17 +2907,19 @@
       "phone": "040 065 9048",
       "email": "paivi.piili@live.com",
       "source_url": "https://osastot.punainenristi.fi/osastot/savonlinnan-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "name": "SPR Savonlinna – henkilökohtainen ystävätoiminta",
       "address": null,
       "organizer_address": "Vääräsaarenkatu 4 A, 57130 Savonlinna",
       "service_phone": "041 319 9461",
       "contact_hours": "Arkisin klo 12–16",
       "details": "Ystävänvälitys arkisin klo 12–16 numerossa 041 319 9461. Vapaaehtoinen ystävä voi toimia kuuntelijana tai tukena kotona, palvelutalossa tai laitoksessa sekä auttaa ulkoilussa ja lukemisessa. Tapaamisajat ja -paikat sovitaan erikseen. Toimisto-osoite ei ole henkilökohtaisten tapaamisten yleinen tapahtumapaikka.",
-      "event_data_status": "service_without_dated_events"
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0146",
@@ -2949,12 +2951,14 @@
       "email": "kotka@osasto.punainenristi.fi",
       "details": "Kotkan Punaisen Ristin osasto tarjoaa vapaaehtoista ystävätoimintaa yksinäisille. Tiedustelut osastolta. Taitojen Talo on osaston yhteyspiste, ei vahvistettu yksilöllisten ystävätapaamisten paikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/kotkan-osasto",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0148",
@@ -2968,12 +2972,14 @@
       "email": "spr.lappeenranta@outlook.com",
       "details": "Punaisen Ristin Lappeenrannan osasto välittää vapaaehtoisia ystäviä yksinäisille. Yksilölliset tapaamiset sovitaan ystävävälityksen kautta. Osaston toimisto-osoite ei ole automaattisesti tapaamispaikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/lappeenrannan-osasto",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0149",
