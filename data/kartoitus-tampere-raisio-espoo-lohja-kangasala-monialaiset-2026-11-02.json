@@ -1,0 +1,159 @@
+{
+  "records": [
+    {
+      "municipality": "Tampere",
+      "locality": "Multisilta",
+      "name": "Kotila Multsu – maksuton perheiden kohtaamispaikka ja välipala",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Ruoka-apu"
+      ],
+      "organizer": "Ahjola Setlementti",
+      "address": "Multisillankatu 1, 33850 Tampere",
+      "schedule": "Maanantaisin klo 16–19, 10.8.–17.12.2026",
+      "conditions": "Lapsiperheille, lapset huoltajan mukana; maksuton välipala ja vanhemmuuden neuvonta. Ennakkoilmoittautumista toivotaan.",
+      "phone": "044 553 8488",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.ahjola.fi/lasten-ja-nuorten-toiminta/kotila-perheiden-kohtaamispaikka/",
+      "id": "20261102-monialainen-varha-ahjola-luvn-1",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Tampere",
+      "locality": "Peltolammi",
+      "name": "Kotila Peltsu – maksuton perheiden kohtaamispaikka ja välipala",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Ruoka-apu"
+      ],
+      "organizer": "Ahjola Setlementti",
+      "address": "Ruokomäenkatu 11 B, 33840 Tampere",
+      "schedule": "Keskiviikkoisin klo 16–19; 0–3-vuotiaiden perheille torstaisin klo 16–19, 10.8.–17.12.2026",
+      "conditions": "Lapsiperheille, lapset huoltajan mukana; maksuton välipala, vanhemmuuden neuvonta ja vertaistuki. Ennakkoilmoittautumista toivotaan.",
+      "phone": "044 553 8422",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.ahjola.fi/lasten-ja-nuorten-toiminta/kotila-perheiden-kohtaamispaikka/",
+      "id": "20261102-monialainen-varha-ahjola-luvn-2",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Tampere",
+      "locality": "Peltolammi",
+      "name": "Kotila Peltsun Mummun ja vaarin tupa – maksuton lämmin ateria",
+      "category": "Ruoka-apu",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Ahjola Setlementti ja SOS-Lapsikylä",
+      "address": "Ruokomäenkatu 11 B, 33840 Tampere",
+      "schedule": "Parillisten viikkojen keskiviikkoisin Kotila Peltsun aukioloaikana klo 16–19, syyskausi 2026",
+      "conditions": "Lapsiperheille, yhdessä valmistettava maksuton lämmin ateria ja sukupolvien välinen kohtaaminen; ei erillinen kertaluonteinen tapahtuma.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.ahjola.fi/lasten-ja-nuorten-toiminta/kotila-perheiden-kohtaamispaikka/",
+      "id": "20261102-monialainen-varha-ahjola-luvn-3",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Raisio",
+      "name": "Yhteinen pöytä – maksuton viikoittainen ateria",
+      "category": "Ruoka-apu",
+      "organizer": "Raision seurakunta",
+      "address": "Kokinvuoren seurakuntakoti, Murroskuja 3, 21200 Raisio",
+      "schedule": "Tiistaisin klo 14.30–16.30, kesätauko viikot 26–28",
+      "conditions": "Raisiolaisille, erityisesti pienituloisille ja yksinäisille; ei ilmoittautumista eikä Raisio-korttia.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://hyvinvointiopastaja.varha.fi/fi/raision-seurakunta-ruoka-apu",
+      "id": "20261102-monialainen-varha-ahjola-luvn-4",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Raisio",
+      "name": "Raision seurakunnan viikoittainen ruokakassijako",
+      "category": "Ruoka-apu",
+      "organizer": "Raision seurakunta",
+      "address": "Kokinvuoren seurakuntakoti, Murroskuja 3, 21200 Raisio",
+      "schedule": "Tiistaisin klo 15–16.30; sukunimen alkukirjaimen mukainen tarkempi aika vaihtelee",
+      "conditions": "Pienituloisille raisiolaisille. Raisio-kortti hankittava Kohtaamispaikka Olkkarista, oma kassi mukaan. Seurakunnan jäsenyyttä ei edellytetä.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://hyvinvointiopastaja.varha.fi/fi/raision-seurakunta-ruoka-apu",
+      "id": "20261102-monialainen-varha-ahjola-luvn-5",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Raisio",
+      "name": "Kohtaamispaikka Olkkari – maksuton psykososiaalinen tuki ja asiointineuvonta",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Raha-asiat"
+      ],
+      "organizer": "Varsinais-Suomen hyvinvointialue",
+      "address": "Raisiontori 6, 21200 Raisio",
+      "schedule": "Ma–ti 9–15, ke 9–14, to 10–14, pe 9–14",
+      "phone": "040 575 9560",
+      "conditions": "Raision, Ruskon ja Naantalin asukkaille; maksutonta keskusteluapua, palveluohjausta, digitukea ja asiointiapua ilman ajanvarausta.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://hyvinvointiopastaja.varha.fi/fi/raision-seurakunta-ruoka-apu",
+      "id": "20261102-monialainen-varha-ahjola-luvn-6",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Espoo",
+      "name": "Ison Omenan maksuton talousneuvola",
+      "category": "Raha-asiat",
+      "organizer": "Länsi-Uudenmaan hyvinvointialue",
+      "address": "Ison Omenan Palvelutori, Aalto-tila, Suomenlahdentie 1, Espoo",
+      "schedule": "Läsnä parittomien viikkojen perjantaisin 10–14; puhelin parillisten viikkojen perjantaisin 10–14",
+      "phone": "040 639 3944",
+      "conditions": "Ilman ajanvarausta ja tarvittaessa nimettömästi; velat, ulosotto ja taloudenhallinta. 6.11.2026 läsnäpalvelussa poikkeusmerkintä, tarkista ennen asiointia.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.luvn.fi/fi/palvelut/sosiaalipalvelujen-neuvonta/taloudellinen-tuki/talousneuvola",
+      "id": "20261102-monialainen-varha-ahjola-luvn-7",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Lohja",
+      "name": "Katupappilan maksuton talousneuvola",
+      "category": "Raha-asiat",
+      "organizer": "Länsi-Uudenmaan hyvinvointialue",
+      "address": "Katupappila, Laurinkatu 40, Lohja",
+      "schedule": "Kuukauden toisena tiistaina klo 9–11; puhelinpalvelu erillisinä tiistaina klo 10–14",
+      "phone": "040 639 3944",
+      "conditions": "Ilman ajanvarausta ja tarvittaessa nimettömästi; talous-, velka-, etuus- ja ulosottoasioiden neuvonta.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.luvn.fi/fi/palvelut/sosiaalipalvelujen-neuvonta/taloudellinen-tuki/talousneuvola",
+      "id": "20261102-monialainen-varha-ahjola-luvn-8",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    },
+    {
+      "municipality": "Kangasala",
+      "name": "Yhteinen keittiö – maksuton ruokailu vähävaraisille",
+      "category": "Ruoka-apu",
+      "organizer": "Kangasalan seurakunta ja Kangasalan helluntaiseurakunta",
+      "schedule": "Vuoroviikoin syys- ja kevätkaudella; tarkka aika ja osoite järjestäjältä",
+      "conditions": "Vähävaraisille, säännöllisesti toistuva maksuton ruokailu.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.pirha.fi/fi/web/hyvinvointiaelintavoilla/yhteisolliset-ruokailut-ja-ruoka-apu",
+      "id": "20261102-monialainen-varha-ahjola-luvn-9",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02"
+    }
+  ],
+  "notes": "Yhdeksän lähteissä maksuttomiksi vahvistettua säännöllistä palvelua. Raision ruokakassijako ja Lohjan talousneuvola voivat esiintyä aiemmissa erissä; tämä erä täydentää käytännön ehtoja ja osoitteita. Ei kertaluonteisia tapahtumia. Duplikaatit myöhemmällä tarkistuskierroksella. Ei sivustomuutoksia."
+}
