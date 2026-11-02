@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "id": "20261102-tampere-mummonkammari-kotiapu",
+      "municipality": "Tampere",
+      "name": "Mummon Kammarin maksuton vapaaehtoisapu",
+      "category": "Kotiapu",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Tampereen seurakuntayhtymä / Mummon Kammari",
+      "eligibility": "Yli 65-vuotiaille Tampereella",
+      "help": "Asiointi, saattaminen, ulkoilu ja kodin pienet askareet. Myös vapaaehtoisystävä kotona asuvalle.",
+      "fee_status": "explicitly_free",
+      "contact": "Sirpa Siira, 050 525 8435",
+      "source_url": "https://tampereenseurakunnat.fi/mummon-kammari/avuntarvitsijat/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261102-etelasavo-ikaihmiset-palveluohjaus",
+      "municipalities": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "name": "Ikääntyneiden maksuton asiakas- ja palveluohjaus",
+      "category": "Kotiapu",
+      "secondary_categories": [
+        "Asuminen"
+      ],
+      "organizer": "Etelä-Savon hyvinvointialue (Eloisa)",
+      "eligibility": "Yli 65-vuotiaille ja läheisille",
+      "help": "Neuvonta kotona asumisen ja arjen avun järjestämiseksi, palvelutarpeen arviointi ja tarvittaessa kotikäynti. Mahdolliset varsinaiset kotihoitopalvelut voivat olla maksullisia.",
+      "fee_status": "explicitly_free_advice_only",
+      "access": "Puhelimitse tai OmaEloisan chatissa",
+      "source_url": "https://hyvinvointitarjotin.etelasavonha.fi/palveluhakemisto/ikaantyneiden-asiakasohjaus/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261102-valtakunnallinen-hyvakysymys",
+      "municipalities": [
+        "Koko Suomi"
+      ],
+      "name": "Hyvä kysymys – maksuton keskustelu- ja neuvontapalvelu",
+      "category": "Keskusteluapu",
+      "organizer": "Väestöliitto ja kumppanijärjestöt",
+      "eligibility": "Nuorille, aikuisille, perheille, pareille ja ikäihmisille palvelukohtaisesti",
+      "help": "Anonyymit asiantuntija- ja vapaaehtoischatit, vertaistuki ja neuvonta arjen, ihmissuhteiden ja kriisien kysymyksissä.",
+      "fee_status": "explicitly_free",
+      "access": "Verkossa, chatien aukioloajat vaihtelevat",
+      "source_url": "https://www.hyvakysymys.fi/",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Kolme järjestäjän lähteestä maksuttomaksi vahvistettua jatkuvaa palvelua. Etelä-Savossa vain neuvonta maksuton, ei mahdollinen kotihoito. Päällekkäisyydet tarkistetaan myöhemmin. Ei sivustomuutoksia."
+}
