@@ -2290,10 +2290,12 @@
       "verification_status": "local_spr_primary_source_and_general_guidance_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
-      "review_note": "Paikallisosaston nykyinen ystävätoiminnan sivu vahvistaa yhteystiedot ja ke klo 15–18 päivystyksen. Vapaaehtoisen ystävätoiminnan palvelu on palkkioton; asiakkaan omia kuluja voi syntyä."
+      "review_note": "Paikallisosaston nykyinen ystävätoiminnan sivu vahvistaa yhteystiedot ja ke klo 15–18 päivystyksen. Vapaaehtoisen ystävätoiminnan palvelu on palkkioton; asiakkaan omia kuluja voi syntyä.",
+      "publication_review_status": "spr_sources_checked_2026-11-02",
+      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0116",
@@ -2308,10 +2310,12 @@
       "verification_status": "spr_primary_source_and_activity_rules_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
-      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot."
+      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot.",
+      "publication_review_status": "spr_sources_checked_2026-11-02",
+      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0117",
@@ -2326,10 +2330,12 @@
       "verification_status": "spr_primary_source_and_activity_rules_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
-      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot."
+      "review_note": "SPR:n ystävätoiminnan pelisäännöt: ystäväasiakkaalta ei oteta palkkiota. Omia matka- tai muita kuluja ei ole vahvistettu maksuttomiksi. Paikallinen osasto vahvistaa toiminnan ja yhteystiedot.",
+      "publication_review_status": "spr_sources_checked_2026-11-02",
+      "publication_review_reason": "SPR:n palvelu ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa; mahdolliset omat kulut erikseen."
     },
     {
       "id": "av-0118",
