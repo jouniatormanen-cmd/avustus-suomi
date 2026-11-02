@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-02",
+  "type": "kartoitusehdokkaat_ei_julkaisuvalmiita",
+  "scope": "Kaikki kuusi luokkaa, valtakunnallinen kuntakohtainen kartoitus",
+  "checked_against": "data/palvelut.json (196 merkintää)",
+  "records": [
+    {
+      "category": "Raha-asiat",
+      "name": "Takuusäätiö – Velkalinja",
+      "organizer": "Takuusäätiö",
+      "phone": "0800 9 8009",
+      "schedule": "ma–to 10–14",
+      "source_url": "https://www.takuusaatio.fi/palvelut-ja-materiaalit/velkalinja-ja-kysy-rahasta-chat/",
+      "publication_ready": false,
+      "verification_status": "organizer_source_recheck_pending"
+    },
+    {
+      "category": "Raha-asiat",
+      "name": "Takuusäätiö – Kysy rahasta -chat",
+      "organizer": "Takuusäätiö",
+      "source_url": "https://www.takuusaatio.fi/palvelut-ja-materiaalit/velkalinja-ja-kysy-rahasta-chat/",
+      "publication_ready": false,
+      "verification_status": "organizer_source_recheck_pending"
+    },
+    {
+      "category": "Keskusteluapu",
+      "name": "EHYT – Päihdeneuvonta",
+      "organizer": "EHYT ry",
+      "phone": "0800 900 45",
+      "source_url": "https://ehyt.fi/paihde-peli-info/paihdeneuvonta/",
+      "publication_ready": false,
+      "verification_status": "organizer_source_recheck_pending"
+    },
+    {
+      "category": "Keskusteluapu",
+      "name": "Väestöliitto – seksuaalineuvonta",
+      "organizer": "Väestöliitto",
+      "source_url": "https://www.hyvakysymys.fi/",
+      "publication_ready": false,
+      "verification_status": "organizer_source_recheck_pending"
+    }
+  ],
+  "note": "Pääaineiston nimivertailussa ei löytynyt näitä neljää palvelua. Tarkista alkuperäislähteiden ajantasaisuus, maksuttomuus ja tarkat ehdot ennen yhdistämistä. Sivustoa ei muutettu."
+}
