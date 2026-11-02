@@ -535,7 +535,8 @@
       "publication_review_status": "service_level_verified_2026-11-02",
       "publication_review_reason": "Osoite, puhelin, sähköposti, ajanvaraus, alue ja maksuttomuus tarkistettu Oikeuspalveluviraston omilta sivuilta.",
       "phone": "029 56 60175",
-      "email": "ita-uusimaa.velkaneuvonta@oikeus.fi"
+      "email": "ita-uusimaa.velkaneuvonta@oikeus.fi",
+      "organizer": "Oikeuspalveluvirasto"
     },
     {
       "id": "av-0026",
@@ -556,7 +557,8 @@
       "publication_review_reason": "Maksuton diakonian talousneuvonta; harkinnanvaraisen avustuksen saamista ei luvata. Sama ajanvaraus voi palvella eri avuntarpeita.",
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
-      "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti."
+      "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti.",
+      "organizer": "Porvoon suomalainen seurakunta"
     },
     {
       "id": "av-0027",
@@ -577,7 +579,8 @@
       "publication_review_reason": "Maksuton diakoninen keskusteluapu erillisenä hakutarpeena; sama vastaanotto ja ajanvaraus kuin avustusneuvonnassa.",
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
-      "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti."
+      "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti.",
+      "organizer": "Porvoon suomalainen seurakunta"
     },
     {
       "id": "av-0028",
@@ -595,7 +598,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
+      "organizer": "Porvoon kaupunki"
     },
     {
       "id": "av-0029",
@@ -616,7 +620,8 @@
       "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
       "phone": "0400 371 586",
       "email": "timo.pakkanen@vtkl.fi",
-      "contact_field_audit": "verified_organizer_staff_directory_2026-11-02"
+      "contact_field_audit": "verified_organizer_staff_directory_2026-11-02",
+      "organizer": "Vanhustyön keskusliitto"
     },
     {
       "id": "av-0030",
@@ -658,7 +663,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previously_source_checked_approved_2026-11-02",
-      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä.",
+      "organizer": "Isojoen seurakunta"
     },
     {
       "id": "av-0032",
@@ -676,7 +682,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "source_reviewed_2026-11-02",
-      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
+      "organizer": "Isojoen seurakunta"
     },
     {
       "id": "av-0033",
@@ -694,7 +701,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
+      "organizer": "Isojoen seurakunta"
     },
     {
       "id": "av-0034",
@@ -748,7 +756,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "source_reviewed_2026-11-02",
-      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
+      "organizer": "Vantaan kaupunki"
     },
     {
       "id": "av-0037",
@@ -1067,7 +1076,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "official_source_previously_checked_2026-11-02",
-      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0051",
@@ -1085,7 +1095,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "official_source_previously_checked_2026-11-02",
-      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0052",
@@ -1103,7 +1114,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "official_source_previously_checked_2026-11-02",
-      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0053",
@@ -1121,7 +1133,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "official_source_previously_checked_2026-11-02",
-      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0054",
@@ -1183,7 +1196,8 @@
       "publication_review_status": "official_source_previously_checked_2026-11-02",
       "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
       "phone": "09 310 22530",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0057",
@@ -1403,7 +1417,8 @@
       "publication_review_status": "seasonal_organizer_source_reviewed_2026-11-02",
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-16"
+      "reverification_required_after": "2026-12-16",
+      "organizer": "Oulaisten seurakunta"
     },
     {
       "id": "av-0068",
@@ -1421,7 +1436,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
-      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua."
+      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
+      "organizer": "Oulaisten seurakunta"
     },
     {
       "id": "av-0069",
@@ -1501,7 +1517,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Lopen seurakunta"
     },
     {
       "id": "av-0073",
@@ -1521,7 +1538,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Lopen seurakunta"
     },
     {
       "id": "av-0074",
@@ -1541,7 +1559,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "phone": "050 426 4100",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Lopen seurakunta"
     },
     {
       "id": "av-0075",
@@ -1563,7 +1582,8 @@
       "publication_review_status": "parish_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän lähde vahvistaa maksuttomuuden ja palveluehdot. Aiempi ristiriitainen maininta korjattu.",
       "phone": "050 426 4100",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Lopen seurakunta"
     },
     {
       "id": "av-0076",
@@ -1581,7 +1601,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
-      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
+      "organizer": "Sodankylän seurakunta"
     },
     {
       "id": "av-0077",
@@ -1599,7 +1620,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
+      "organizer": "Sodankylän seurakunta"
     },
     {
       "id": "av-0078",
@@ -1653,7 +1675,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
-      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
+      "organizer": "Loimaan seurakunta"
     },
     {
       "id": "av-0081",
@@ -1671,7 +1694,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
-      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua."
+      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
+      "organizer": "Loimaan seurakunta"
     },
     {
       "id": "av-0082",
