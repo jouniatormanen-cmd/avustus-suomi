@@ -1,0 +1,45 @@
+{
+  "round": 1,
+  "batch": "jatko-05",
+  "date": "2026-11-02",
+  "reviewed_files": [
+    "data/kartoitus-ystavapalvelut-kriisikeskukset-2026-11-02.json",
+    "data/kartoitus-riihimaki-loppi-lieto-paimio-sauvo-ystavapalvelut-2026-11-02.json",
+    "data/kartoitus-loppi-monialaiset-ruoka-vaate-talous-perheneuvonta-2026-11-02.json"
+  ],
+  "record_count": 18,
+  "findings": [
+    {
+      "service": "SPR Porvoo ja Nokia ystäväpalvelut",
+      "action": "Säilytä maksuttomina ehdokkaina; Nokian saattajan mahdolliset matkakulut ja maksuttomuus erikseen."
+    },
+    {
+      "service": "SPR Helsingin, Riihimäen, Lopen, Liedon, Paimion ja Sauvon ystävätoiminta",
+      "action": "Maksuttomuus ja paikallinen saatavuus tarkistettava, ei poisteta."
+    },
+    {
+      "service": "SPR verkkoystävä",
+      "action": "Korjaa valtakunnalliseksi, ei vain Riihimäen palveluksi."
+    },
+    {
+      "service": "MIELI Etelä-Karjala",
+      "action": "Tarkista miesten keskusteluavun ja yleisen kriisikeskustelun päällekkäisyys."
+    },
+    {
+      "service": "Lopen seurakunnan ruokakassijako",
+      "action": "Varmista maksuttomuus ja kausittaisen jakelun jatko 2027."
+    },
+    {
+      "service": "Lopen seurakunnan perheneuvonta",
+      "action": "Maksuttomuus kirjattu vahvistetuksi, säilytä."
+    },
+    {
+      "service": "Lopen seurakunnan taloudellinen apu",
+      "action": "Harkinnanvaraisuus kerrottava, ei luvata automaattista avustusta."
+    }
+  ],
+  "review_type": "aineiston sisäinen, ei uusia riippumattomia lähdevahvistuksia",
+  "original_records_preserved": true,
+  "public_site_changed": false,
+  "publication_approval_not_given": true
+}
