@@ -726,12 +726,14 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "public_source_reviewed_specific_autumn_dates",
+      "publication_review_reason": "Maksuton neuvonta, yksilöidyt syyskauden 2026 päivät. Ajat ovat kausikohtaisia; tarkistettava ennen seuraavaa kautta.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "seasonal_service": true,
+      "reverification_required_after": "2026-12-15"
     },
     {
       "id": "av-0038",
@@ -747,12 +749,14 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "public_source_reviewed_specific_autumn_dates",
+      "publication_review_reason": "Maksuton neuvonta, yksilöidyt syyskauden 2026 päivät. Ajat ovat kausikohtaisia; tarkistettava ennen seuraavaa kautta.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "seasonal_service": true,
+      "reverification_required_after": "2026-12-15"
     },
     {
       "id": "av-0039",
