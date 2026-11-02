@@ -1,0 +1,91 @@
+{
+  "records": [
+    {
+      "id": "hameenlinna-reskan-kulma-aamupala-2026",
+      "municipality": "Hämeenlinna",
+      "locality": "Keskusta",
+      "name": "Reskan Kulman maksuton aamupala",
+      "category": "Ruoka-apu",
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "address": "Raatihuoneenkatu 19, 13100 Hämeenlinna",
+      "schedule": "Tiistaisin 9–11, syyskausi 1.9.2026 alkaen",
+      "conditions": "Kahvia, teetä, voileipiä ja hedelmää; diakoniatyöntekijä tavattavissa. Rukoushetki klo 10.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/",
+      "verification_status": "organizer_2026_verified",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "hameenlinna-cafe-idanpaa-2026",
+      "municipality": "Hämeenlinna",
+      "locality": "Idänpää",
+      "name": "Café Idänpää – maksuton kohtaamispaikka",
+      "category": "Keskusteluapu",
+      "secondary_categories": [
+        "Ruoka-apu"
+      ],
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "address": "Idänpään kerhohuone, Anttilankatu 4, Hämeenlinna",
+      "schedule": "Joka toinen keskiviikko 13.30–15; jäljellä 11.11., 25.11. ja 9.12.2026",
+      "conditions": "Työttömille ja vastaavassa elämäntilanteessa oleville; kahvia, teetä, voileipiä ja hedelmää, diakoniatyöntekijä tavattavissa.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/",
+      "verification_status": "organizer_2026_verified",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "hameenlinna-jukola-haukkaa-hengaa-2026",
+      "municipality": "Hämeenlinna",
+      "locality": "Jukola",
+      "name": "Haukkaa & Hengaa – yhteisateria",
+      "category": "Ruoka-apu",
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "address": "Jukolan Lintukoto, katuosoite tarkistettava",
+      "schedule": "Parittomien viikkojen keskiviikkoisin 17–19, 26.8.–16.12.2026; ateria klo 17",
+      "conditions": "Kaikenikäisille avoin; aterian maksu vapaaehtoinen.",
+      "fee_status": "free_voluntary_donation",
+      "source_url": "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/",
+      "verification_status": "organizer_2026_verified",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "hameenlinna-poltinaho-avoin-poltsari-2026",
+      "municipality": "Hämeenlinna",
+      "locality": "Poltinaho",
+      "name": "Avoin Poltsari – maksuton perheiden ruokailu",
+      "category": "Ruoka-apu",
+      "secondary_categories": [
+        "Keskusteluapu"
+      ],
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "address": "Poltinahon seurakuntatalo, katuosoite tarkistettava",
+      "schedule": "11.11. ja 9.12.2026 klo 17–19; ruokailu alkaa klo 17",
+      "conditions": "Kaikenikäisille avoin, erityisesti lapsiperheitä; yhteistä tekemistä ja maksuton ruokailu.",
+      "fee_status": "explicitly_free",
+      "source_url": "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/",
+      "verification_status": "organizer_2026_verified",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "corrections": [
+    {
+      "municipality": "Hämeenlinna",
+      "locality": "Renko",
+      "name": "Rengon diakoniaruokailu",
+      "note": "Aikuisten lounas maksaa 4 euroa, joten ei yleisesti maksuton. Lapsille ilmainen; mahdollista erillistä lapsille maksutonta palvelua arvioitava.",
+      "source_url": "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "locality": "Iittala",
+      "name": "Kalvolan yhteinen pöytä",
+      "note": "Aikuisten lounas 4 euroa, lapset ilmaiseksi; ei yleisesti maksuton.",
+      "source_url": "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+    }
+  ],
+  "notes": "Neljä järjestäjän sivulta 2.11.2026 tarkistettua toistuvaa maksutonta palvelua. Kaksi maksullista aikuisten lounasta rajattu pois. Katuosoitteet Jukolaan ja Poltinahoon varmistettava. Kaikki julkaisuvalmis false duplikaattitarkistukseen saakka. Ei sivustomuutoksia."
+}
