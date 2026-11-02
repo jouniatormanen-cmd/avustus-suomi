@@ -208,7 +208,9 @@
         "seasonal_schedule_review"
       ],
       "publication_review_status": "organizer_source_checked_with_availability_caveat",
-      "publication_review_reason": "Järjestäjän ilmoittama jatkuva tai toistuva ruoka-apu; yksittäisen jakokerran ajankohta ja saatavuus varmistettava ennen asiointia."
+      "publication_review_reason": "Järjestäjän ilmoittama jatkuva tai toistuva ruoka-apu; yksittäisen jakokerran ajankohta ja saatavuus varmistettava ennen asiointia.",
+      "phone": "0400 613 710",
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
     },
     {
       "id": "av-0012",
@@ -281,14 +283,15 @@
       "organizer_phone": "044 751 7879",
       "organizer_contact_name": "Kim Tapper",
       "organizer_source_url": "https://ruoka-apu.fi/en/elintarvikkeiden-lahjoittajille/",
-      "address": null,
+      "address": "Juhana Herttuankatu 20, 28100 Pori",
       "publication_ready": true,
       "data_quality_note": "Järjestäjän yhteystiedot vahvistettu Ruoka-apu.fi:n listasta, mutta jakelupaikka ja tulevat jakeluajat eivät ole vahvistettuja. Järjestäjän osoitetta ei saa esittää jakelupaikkana.",
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "Satakunnan hyvinvointialueen palveluhakemisto ilmoittaa maksuttomuuden suoraan sekä ma ruokajaolle että ti–pe leipäavulle. Ma palvelun kohderyhmä Pori 18–99-vuotiaat, leipäavun Satakunta 18–99-vuotiaat. Tarkista poikkeusajat.",
       "publication_review_status": "source_reviewed_2026-11-02",
-      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
     },
     {
       "id": "av-0016",
@@ -486,7 +489,10 @@
       "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
       "duplicate_review_group": "porvoo-spr-friend",
       "duplicate_review_status": "same_service_confirmed",
-      "duplicate_review_note": "Sama SPR:n Porvoon ystävä- ja saattajatoiminta; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty."
+      "duplicate_review_note": "Sama SPR:n Porvoon ystävä- ja saattajatoiminta; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty.",
+      "phone": "040 757 1236",
+      "email": "sprporvoo.ystavat@gmail.com",
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
     },
     {
       "id": "av-0025",
@@ -899,7 +905,9 @@
       "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "email": "kirkkonummi-siuntio@osasto.punainenristi.fi",
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
     },
     {
       "id": "av-0045",
@@ -1105,7 +1113,10 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "previously_source_checked_approved_2026-11-02",
-      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä.",
+      "phone": "050 391 2335",
+      "email": "asumisneuvonta@otesaatio.fi",
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
     },
     {
       "id": "av-0055",
@@ -1123,7 +1134,10 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "official_source_previously_checked_2026-11-02",
-      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen."
+      "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
+      "phone": "050 377 8047",
+      "email": "anna.poikkijoki@otesaatio.fi",
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
     },
     {
       "id": "av-0056",
