@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-02",
+  "type": "quality_audit",
+  "scope": [
+    "Kotiapu",
+    "Asuminen",
+    "Vaatteet ja tavarat"
+  ],
+  "counts": {
+    "kotiapu": 19,
+    "asuminen": 12,
+    "vaatteet_ja_tavarat": 5
+  },
+  "issues": [
+    {
+      "ids": [
+        "av-0019",
+        "av-0020"
+      ],
+      "note": "SPR Porvoon ystävä- ja saattamistoiminta: mahdollinen päällekkäisyys; varmista palvelurajaus"
+    },
+    {
+      "match": "Porvoon maksuton vaatteidenvaihtopäivä – aiempi tapahtuma",
+      "note": "Kertaluonteinen mennyt tapahtuma ei kuulu jatkuvien palvelujen julkaisuun"
+    },
+    {
+      "match": "SPR Keski-Espoon läksyhelppi",
+      "note": "Läksyapu ei automaattisesti ole Kotiapu; tarkista luokitus"
+    },
+    {
+      "match": "SPR Nokian osasto – kertaluonteinen ystäväsaatto",
+      "note": "Kertaluonteinen apukerta voi kuulua jatkuvaan saattajapalveluun, jos välitys on pysyvä; tarkista"
+    }
+  ],
+  "next": "Etsi uusia palveluita kunnittain ja varmista lähteet, maksuttomuus ja toistuvuus; älä kasvata määrää duplikaateilla",
+  "publication_ready": false
+}
