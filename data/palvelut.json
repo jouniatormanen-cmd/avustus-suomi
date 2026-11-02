@@ -324,8 +324,8 @@
       "category": "Ruoka-apu",
       "municipality": "helsinki",
       "name": "Hietaniemenkadun palvelukeskus – maksuton aamiainen hätämajoittujille",
-      "details": "Maksuton aamiainen vain palvelukeskuksen hätämajoituksessa yöpyville. Lisäksi peseytymismahdollisuus. Lounas ja päivällinen maksavat 1,20 € kumpikin eivätkä sisälly maksuttomaan apuun. Ei kaikille avoin ruokajako.",
-      "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/asunnottomien-palvelut/asunnottomien-ruoka-ja-hygieniapalvelut",
+      "details": "Maksuton aamiainen joka päivä klo 7.30–9.30 vain palvelukeskuksen hätämajoituksessa yöpyville. Sisäänkäynti Lapuankadun puolelta. Palvelukeskus on avoinna ympäri vuoden; muita maksuttomia palveluja ovat esimerkiksi peseytyminen ja pyykinpesu. Lounas ja päivällinen maksavat 1,20 € kumpikin eivätkä sisälly maksuttomaan apuun. Ei kaikille avoin ruokajako.",
+      "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/asunnottomien-palvelut/hietaniemenkadun-palvelukeskus-eli-hietsu",
       "verification_status": "city_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "price_status": "free_breakfast_and_hygiene_paid_lunch_dinner",
@@ -340,7 +340,9 @@
         "distribution_location_review"
       ],
       "publication_review_status": "approved_strict_access_and_free_scope",
-      "publication_review_reason": "Kaupungin ensisijainen lähde tarkistettu 2.11.2026; rajattu vain hätämajoituksen asukkaiden maksuttomaan aamiaiseen."
+      "publication_review_reason": "Kaupungin ensisijainen lähde tarkistettu 2.11.2026; rajattu vain hätämajoituksen asukkaiden maksuttomaan aamiaiseen.",
+      "address": "Hietaniemenkatu 5 B, 00100 Helsinki",
+      "phone": "09 310 46628"
     },
     {
       "id": "av-0018",
@@ -398,8 +400,8 @@
       "category": "Raha-asiat",
       "municipality": "koko suomi",
       "name": "Talous- ja velkaneuvonta",
-      "details": "Maksutonta apua talouden ja velkojen selvittämiseen.",
-      "source_url": "https://www.oikeuspalveluvirasto.fi/talous-ja-velkaneuvonta/",
+      "details": "Oikeuspalveluviraston maksuton talous- ja velkaneuvonta auttaa velkojen ja arjen talouden selvittelyssä. Asioi sähköisesti tunnistautumalla, kysy yleisluontoista neuvoa nimettömässä chatissa tai soita valitsemasi oikeusaputoimiston talous- ja velkaneuvontaan. Chat: suomeksi ma–pe 10–12 ja to 14–16, ruotsiksi pe 10–12, englanniksi ke 10–12. Puhelinnumerot ovat toimipaikkakohtaisia, joten valtakunnalliseen merkintään ei merkitä yksittäisen kaupungin numeroa.",
+      "source_url": "https://www.oikeuspalveluvirasto.fi/talous-ja-velkaneuvonta/palvelumme/asiointikanavat/",
       "verification_status": "official_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "price_status": "free",
@@ -409,7 +411,9 @@
       "review_note": "Valtion talous- ja velkaneuvonta maksutonta. Ei myönnä rahallista tukea.",
       "publication_ready": true,
       "publication_review_status": "source_reviewed_2026-11-02",
-      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia.",
+      "contact_channel": "Sähköinen asiointi, chat ja toimipaikkakohtainen puhelinneuvonta",
+      "contact_field_audit": "national_service_no_single_address_or_phone_2026-11-02"
     },
     {
       "id": "av-0021",
