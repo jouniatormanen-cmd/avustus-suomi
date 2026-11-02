@@ -1,0 +1,87 @@
+{
+  "records": [
+    {
+      "municipality": "Muonio",
+      "name": "Kunnan maksuton asumisneuvonta",
+      "category": "Asuminen",
+      "secondary_categories": [
+        "Raha-asiat"
+      ],
+      "organizer": "Muonion kunta",
+      "contact": "asumisneuvonta@muonio.fi",
+      "conditions": "Kaikille muoniolaisille, asumismuodosta riippumatta. Vuokravelat, asunnonhaku, asumistuki, muutto ja yhteydenpito viranomaisiin.",
+      "source_url": "https://www.muonio.fi/uutiset/uutiset/kuntatiedote-marraskuu-2026.html",
+      "fee_status": "explicitly_free",
+      "id": "20261102-monialainen-jatko-1",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_source"
+    },
+    {
+      "municipality": "Kouvola",
+      "name": "Kouvolan kaupungin asumisneuvonta",
+      "category": "Asuminen",
+      "secondary_categories": [
+        "Raha-asiat"
+      ],
+      "organizer": "Kouvolan kaupunki",
+      "contact": "040 144 0423; asumisneuvonta@kouvola.fi",
+      "conditions": "Kaikille Kouvolassa asuville tai muuttaville; myös vuokranantajille. Tapaaminen sopimalla, yhteydenotto puhelimella, viestillä, WhatsAppilla tai sähköpostilla. Myös anonyymisti.",
+      "source_url": "https://www.kouvola.fi/ajankohtaiset/kouvolan-kaupungin-asumisneuvonta-auttaa-asumisen-pulmissa/",
+      "fee_status": "explicitly_free",
+      "id": "20261102-monialainen-jatko-2",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_source"
+    },
+    {
+      "municipality": "Suonenjoki",
+      "name": "Asumis- ja talousneuvonta",
+      "category": "Asuminen",
+      "secondary_categories": [
+        "Raha-asiat"
+      ],
+      "organizer": "Suonenjoen kaupunki",
+      "contact": "041 732 2521; 041 732 2197",
+      "schedule": "Puhelimitse ja sähköpostilla ma–pe 9–15",
+      "conditions": "Kaikille Suonenjoella asuville; vuokravelat, laskut, maksusuunnitelmat, asunnonhaku, asumisen ongelmat.",
+      "source_url": "https://suonenjoki.fi/asuminen-ja-ymparisto/asuminen-ja-tontit/asumisneuvonta/",
+      "fee_status": "explicitly_free",
+      "id": "20261102-monialainen-jatko-3",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_source"
+    },
+    {
+      "municipality": "Raisio",
+      "name": "Soppaa kaverille – maksuton keittolounas",
+      "category": "Ruoka-apu",
+      "organizer": "Raision seurakunta",
+      "address": "Tasalan Kamari, tarkka osoite tarkistettava",
+      "schedule": "Kerran kuukaudessa; seuraava päivämäärä tarkistettava",
+      "conditions": "Työttömille ja vähävaraisille raisiolaisille",
+      "source_url": "https://www.raisionseurakunta.fi/apua-ja-tukea/aineellinen-apu",
+      "fee_status": "explicitly_free",
+      "id": "20261102-monialainen-jatko-4",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_source"
+    },
+    {
+      "municipality": "Raisio",
+      "name": "Diakonian harkinnanvarainen taloudellinen apu",
+      "category": "Raha-asiat",
+      "organizer": "Raision seurakunta",
+      "contact": "044 7160 325; diakonia.raisio@evl.fi",
+      "schedule": "Puhelinpäivystys ma 14–16, to 9–10",
+      "conditions": "Pienituloisille raisiolaisille; mahdollinen kaupan lahjakortti, laskuapu tai ESR+ maksukortti (40 €), erillinen harkinta ja tapaaminen. ESR+ korttiin Raisiokortti.",
+      "source_url": "https://www.raisionseurakunta.fi/apua-ja-tukea/aineellinen-apu",
+      "fee_status": "aid_not_guaranteed",
+      "id": "20261102-monialainen-jatko-5",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_status": "primary_organizer_source"
+    }
+  ],
+  "notes": "Viisi konkreettista palvelua kolmessa pääkategoriassa. Raision keittolounaan seuraava ajankohta ja Tasalan Kamarin osoite tarkistettava. Muonion ja Raision aiemmat erät voivat sisältää samoja palveluja; duplikaattitarkistus myöhemmin. Ei sivuston muutoksia."
+}
