@@ -516,9 +516,9 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_separate_aid_category",
+      "publication_review_reason": "Maksuton diakonian talousneuvonta; harkinnanvaraisen avustuksen saamista ei luvata. Sama ajanvaraus voi palvella eri avuntarpeita.",
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
       "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti."
@@ -537,9 +537,9 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "organizer_source_checked_separate_conversation_category",
+      "publication_review_reason": "Maksuton diakoninen keskusteluapu erillisenä hakutarpeena; sama vastaanotto ja ajanvaraus kuin avustusneuvonnassa.",
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
       "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti."
@@ -1886,7 +1886,10 @@
       "review_note": "Porvoon seurakunnan virallinen sivu vahvistaa luottamuksellisen diakonian keskustelutuen ja vastaanoton, mutta ei ilmaise keskustelutapaamisen maksuttomuutta sanallisesti. Ei muuteta maksuttomuusluokkaa ilman nimenomaista vahvistusta. Ajanvaraussivulla ristiriitaisia tiistain aikoja (10–14 / 11–14); tarkista puhelimitse.",
       "duplicate_review_group": "porvoo-diaconia",
       "duplicate_review_status": "overlapping_service_types_review",
-      "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti."
+      "duplicate_review_note": "Sama seurakunnan diakonian toimipiste ja ajanvaraus; keskusteluapu ja avustusneuvonta voivat olla erillisiä hakupalveluja. Älä yhdistä automaattisesti.",
+      "publication_review_status": "excluded_overlap_with_av_0027",
+      "duplicate_of": "av-0027",
+      "publication_review_reason": "Sama Porvoon seurakunnan diakoninen keskusteluapu ja ajanvaraus kuin av-0027; ei erillinen haettava palvelu. Ristiriitaiset ajanvaraustunnit jätetty vahvistettaviksi."
     },
     {
       "id": "av-0095",
