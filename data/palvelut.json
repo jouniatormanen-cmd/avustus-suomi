@@ -2808,14 +2808,14 @@
       "category": "Keskusteluapu",
       "municipality": "salo",
       "name": "SPR Salon ystävätoiminnan kuukausitapaaminen",
-      "address": "Aputupa, Paasionkatu 6, 24100 Salo",
-      "phone": null,
-      "email": "salo@osasto.punainenristi.fi",
-      "details": "Joka kuukauden ensimmäisenä torstaina järjestettävä ystävätoiminnan kokoontuminen. Kellonaikaa ei ilmoitettu; tarkistettava ennen osallistumista.",
+      "address": "Paasionkatu 6, 24100 Salo",
+      "phone": "040 952 3555",
+      "email": "vilma.patoila@vapaaehtoiset.punainenristi.fi",
+      "details": "SPR Salon ystävätoiminnan kuukausitapaaminen Aputuvalla, Paasionkatu 6, kuukauden ensimmäisenä torstaina. Kellonaika kannattaa varmistaa ystävävälittäjältä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/salon-osasto/toiminta/ystavatoiminta",
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
@@ -2823,7 +2823,9 @@
       "audience_verification_pending": true,
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "Järjestäjän lähde vahvistaa paikan, toistuvuuden ja yhteystiedot. Osallistumisen maksuttomuutta ei ilmaista yksiselitteisesti."
     },
     {
       "id": "av-0138",
@@ -2953,14 +2955,16 @@
       "address": null,
       "phone": "050 464 2080",
       "email": "riihimaki.ystavavalitys@punainenristi.fi",
-      "details": "Avoin lauta- ja korttipelien kohtaamispaikka keskiviikkoisin klo 13–15. Tarkka tapahtumaosoite ei ilmene lähteestä; osaston osoite Keskuskatu 1 ei ole vahvistettu Pelirastin paikaksi.",
+      "details": "Avoin lauta- ja korttipelien kohtaamispaikka keskiviikkoisin klo 13–15. Järjestäjän mukaan paikalle voi tulla vapaasti. Tarkka Pelirastin osoite on varmistettava ystävävälityksestä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/riihimaen-osasto/toiminta/ystavatoiminta",
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "Avoimuus, viikoittainen aika ja yhteydenottokanava vahvistettu. Maksuttomuutta ei mainita nimenomaisesti."
     },
     {
       "id": "av-0145",
@@ -3076,19 +3080,21 @@
       "name": "SPR Kotipirtti – Haagan ikäihmisten ryhmä",
       "category": "Keskusteluapu",
       "organizer": "SPR Töölön osasto",
-      "address": "Haaga-sali, Huopalahden kirkko, Vespertie 12, Helsinki",
+      "address": "Vespertie 12, Helsinki",
       "email": "tuija.tikanoja@osasto.punainenristi.fi",
-      "details": "Ikäihmisille suunnattua yhdessäoloa ja virkistäytymistä maanantaisin klo 11–14. Ohjelmassa esimerkiksi tuoli- ja aivojumppaa, pelejä, musiikkia, runoja ja esitelmiä. Yhteyshenkilö Tuija Tikanoja. Tulevat yksittäiset tapahtumapäivät on laskettu viikkoaikataulusta eikä vahvistettu erikseen.",
+      "details": "Ikäihmisten Kotipirtti-ryhmä tarjoaa yhdessäoloa ja virkistäytymistä maanantaisin klo 11–14 Huopalahden kirkon Haaga-salissa, Vespertie 12, Helsinki. Yhteyshenkilö Tuija Tikanoja.",
       "recurrence": "Maanantaisin klo 11–14",
       "source_url": "https://osastot.punainenristi.fi/osastot/toolon-osasto/toiminta/ystavatoiminta",
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "Järjestäjän lähde vahvistaa ajan, paikan, kohderyhmän ja yhteyshenkilön. Maksuttomuutta ei mainita nimenomaisesti."
     },
     {
       "id": "av-0151",
