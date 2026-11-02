@@ -3637,14 +3637,16 @@
       "email": "ulkoilutus@sprkuopio.com",
       "organizer": "Suomen Punainen Risti",
       "address": null,
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_source_checked_2026-11-01_details_pending",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "Järjestäjän lähteessä kuvattu SPR:n vapaaehtoistoiminta; saatavuus ja tapaamiset sovitaan järjestäjältä. Ei luvata vahvistamattomia aikoja."
     },
     {
       "id": "av-0181",
@@ -3813,14 +3815,16 @@
       "address": null,
       "details": "Osaston monimuotoisen ystävätoiminnan yhteyspiste. Tarkemmat avunsaannin ehdot ja henkilökohtaiset tapaamiset vahvistettava järjestäjältä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "Järjestäjän lähteessä kuvattu SPR:n vapaaehtoistoiminta; saatavuus ja tapaamiset sovitaan järjestäjältä. Ei luvata vahvistamattomia aikoja."
     },
     {
       "id": "av-0190",
@@ -3933,14 +3937,16 @@
       "address": null,
       "details": "Pietarsaaren ystävävälitys jatkuu vuonna 2026, vaikka Pietarsaaren suomenkielinen osasto liittyi Kokkolan osastoon 1.1.2026. Henkilökohtaiset tapaamiset sovitaan erikseen. Puhelin on yhdistyneen osaston yleisnumero.",
       "source_url": "https://osastot.punainenristi.fi/osastot/kokkolan-ja-pietarsaaren-osasto/ajankohtaista/kuulumisia-osastolta",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "Järjestäjän lähteessä kuvattu SPR:n vapaaehtoistoiminta; saatavuus ja tapaamiset sovitaan järjestäjältä. Ei luvata vahvistamattomia aikoja."
     },
     {
       "id": "av-0196",
