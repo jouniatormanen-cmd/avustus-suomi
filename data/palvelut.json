@@ -248,7 +248,8 @@
       "address": "Tornipolku 10, Porvoo",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02",
       "publication_review_status": "previous_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
+      "organizer": "Suomen Punainen Risti, Porvoon osasto"
     },
     {
       "id": "av-0014",
@@ -515,7 +516,8 @@
       "duplicate_review_note": "Sama SPR:n Porvoon ystävä- ja saattajatoiminta; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty.",
       "phone": "040 757 1236",
       "email": "sprporvoo.ystavat@gmail.com",
-      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02",
+      "organizer": "Suomen Punainen Risti, Porvoon osasto"
     },
     {
       "id": "av-0025",
@@ -780,7 +782,8 @@
         "seasonal_schedule_review"
       ],
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-15"
+      "reverification_required_after": "2026-12-15",
+      "organizer": "Länsi-Uudenmaan hyvinvointialue"
     },
     {
       "id": "av-0038",
@@ -803,7 +806,8 @@
         "seasonal_schedule_review"
       ],
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-15"
+      "reverification_required_after": "2026-12-15",
+      "organizer": "Länsi-Uudenmaan hyvinvointialue"
     },
     {
       "id": "av-0039",
@@ -992,7 +996,8 @@
       "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu; mahdolliset omat kulut eivät sisälly palveluun.",
       "duplicate_review_group": "av-0046",
       "duplicate_review_status": "same_service_confirmed_2026-11-02",
-      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan.",
+      "organizer": "Suomen Punainen Risti, Lohjan osasto"
     },
     {
       "id": "av-0047",
@@ -1038,7 +1043,8 @@
       "duplicate_review_status": "same_service_confirmed_2026-11-02",
       "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan.",
       "publication_review_status": "organizer_source_and_volunteer_principle_checked",
-      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu; mahdolliset omat kulut eivät sisälly palveluun."
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu; mahdolliset omat kulut eivät sisälly palveluun.",
+      "organizer": "Suomen Punainen Risti, Länsi-Vantaan osasto"
     },
     {
       "id": "av-0049",
@@ -1176,7 +1182,8 @@
       "publication_review_reason": "Kaupungin lähteessä aiemmin tarkistettu maksuton neuvontapalvelu. Mahdollinen operaattorin puhelumaksu ei sisälly maksuttomuuteen.",
       "phone": "050 377 8047",
       "email": "anna.poikkijoki@otesaatio.fi",
-      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02",
+      "organizer": "Turun kaupunki"
     },
     {
       "id": "av-0056",
@@ -1479,7 +1486,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "phone": "040 558 0435",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
+      "organizer": "Oulujoen seurakunta"
     },
     {
       "id": "av-0071",
@@ -1639,7 +1647,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
-      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
+      "organizer": "Kurikan seurakunta"
     },
     {
       "id": "av-0079",
@@ -1657,7 +1666,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_official_source_review_2026-11-02",
-      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa."
+      "publication_review_reason": "Maksuttomuus ja asiointitapa on tarkistettu aiemmassa järjestäjän tai kaupungin lähdetarkistuksessa.",
+      "organizer": "Raision seurakunta"
     },
     {
       "id": "av-0080",
@@ -1713,7 +1723,8 @@
       "source_kind": "parish_or_church",
       "publication_ready": true,
       "publication_review_status": "previous_source_review_approved_2026-11-02",
-      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua."
+      "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
+      "organizer": "Raision seurakunta"
     },
     {
       "id": "av-0083",
@@ -1743,7 +1754,8 @@
       "contact_audit_outcome": "direct_contacts_verified",
       "contact_field_audit": "official_parish_primary_sources_2026-11-02",
       "phone": "050 562 3225",
-      "email": "kirsi.mannisto@evl.fi"
+      "email": "kirsi.mannisto@evl.fi",
+      "organizer": "Tainionvirran seurakunta"
     },
     {
       "id": "av-0084",
@@ -1908,7 +1920,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Kaarinan seurakunta"
     },
     {
       "id": "av-0091",
@@ -1928,7 +1941,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Martinseurakunta"
     },
     {
       "id": "av-0092",
@@ -1948,7 +1962,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Katariinanseurakunta"
     },
     {
       "id": "av-0093",
@@ -1968,7 +1983,8 @@
       "publication_review_status": "previous_source_review_approved_2026-11-02",
       "publication_review_reason": "Lähteistetty maksuton palvelu tai harkinnanvarainen avustus; asiointiehdot kuvattu. Mahdollinen kausipäättyminen tarkistettava ennen myöhempää julkaisua.",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Mikaelinseurakunta"
     },
     {
       "id": "av-0094",
@@ -2015,7 +2031,8 @@
       "source_kind": "other",
       "review_note": "Turun ja Kaarinan seurakunnat vahvistavat diakonian maksuttomaksi kaikille myös kirkkoon kuulumattomille.",
       "publication_review_status": "parish_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä."
+      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä.",
+      "organizer": "Turun ja Kaarinan seurakunnat"
     },
     {
       "id": "av-0096",
@@ -2038,7 +2055,8 @@
         "contact_channel_review"
       ],
       "publication_review_status": "approved_free_counselling_only",
-      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä."
+      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä.",
+      "organizer": "Turun ja Kaarinan seurakunnat"
     },
     {
       "id": "av-0097",
@@ -2059,7 +2077,8 @@
       "source_kind": "other",
       "review_note": "Tampereen seurakuntayhtymä vahvistaa diakonian maksuttomaksi kaikille, myös kirkkoon kuulumattomille. Taloudellinen avustus on harkinnanvaraista.",
       "publication_review_status": "parish_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä."
+      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä.",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0098",
@@ -2082,7 +2101,8 @@
         "contact_channel_review"
       ],
       "publication_review_status": "approved_free_counselling_only",
-      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä."
+      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä.",
+      "organizer": "Tampereen seurakunnat"
     },
     {
       "id": "av-0099",
@@ -2104,7 +2124,8 @@
       "access_requirement": "Kaikille, ei edellytä kirkon jäsenyyttä. Puhelinpalvelusta voi aiheutua operaattorin normaali puhelumaksu.",
       "review_note": "Helsingin seurakuntien 19.8.2026 julkaisu vahvistaa keskusteluavun maksuttomaksi ja luottamukselliseksi ilman jäsenyysvaatimusta. Palvelevan puhelimen operaattorimaksu erotettava palvelumaksusta.",
       "publication_review_status": "parish_primary_source_checked_2026-11-02",
-      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä."
+      "publication_review_reason": "Seurakuntien lähteet vahvistavat maksuttoman keskusteluavun. Paikalliset yhteydenottotavat tarkistetaan palvelua käytettäessä.",
+      "organizer": "Helsingin seurakunnat"
     },
     {
       "id": "av-0100",
@@ -2127,7 +2148,8 @@
         "contact_channel_review"
       ],
       "publication_review_status": "approved_free_counselling_only",
-      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä."
+      "publication_review_reason": "Maksuton diakoninen neuvonta erotettu harkinnanvaraisesta avustuksesta. Paikallinen ajanvaraus tarkistettava järjestäjältä.",
+      "organizer": "Helsingin seurakunnat"
     },
     {
       "id": "av-0101",
@@ -2148,7 +2170,8 @@
       "source_kind": "parish_or_church",
       "contact_channel": "Oman asuinalueen seurakunnan diakoniatyöntekijä; yhteystiedot seurakuntahausta",
       "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
-      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route",
+      "organizer": "Suomen evankelis-luterilainen kirkko"
     },
     {
       "id": "av-0102",
@@ -2173,7 +2196,8 @@
         "lunch": "1,20 €",
         "dinner": "1,20 €"
       },
-      "review_note": "Maksuton hätämajoitus, mutta maksulliset lounas ja päivällinen eivät sisälly maksuttomaan palveluun."
+      "review_note": "Maksuton hätämajoitus, mutta maksulliset lounas ja päivällinen eivät sisälly maksuttomaan palveluun.",
+      "organizer": "Helsingin kaupunki"
     },
     {
       "id": "av-0103",
@@ -2193,7 +2217,8 @@
       "source_kind": "parish_or_church",
       "contact_channel": "Palveleva chat verkkosivulla, ma–pe klo 16–20",
       "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
-      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route",
+      "organizer": "Suomen evankelis-luterilainen kirkko"
     },
     {
       "id": "av-0104",
@@ -2213,7 +2238,8 @@
       "source_kind": "parish_or_church",
       "contact_channel": "Palveleva nettikirje verkkosivulla, viestin voi lähettää milloin tahansa",
       "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
-      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route",
+      "organizer": "Suomen evankelis-luterilainen kirkko"
     },
     {
       "id": "av-0105",
@@ -2255,7 +2281,8 @@
       "source_kind": "parish_or_church",
       "contact_channel": "Oman asuinalueen seurakunnan diakoniatyöntekijä hakee avustusta hakijan kanssa",
       "contact_field_audit": "reviewed_missing_structured_contacts_2026-11-02",
-      "contact_audit_outcome": "valid_service_specific_online_or_local_route"
+      "contact_audit_outcome": "valid_service_specific_online_or_local_route",
+      "organizer": "Suomen evankelis-luterilainen kirkko"
     },
     {
       "id": "av-0107",
