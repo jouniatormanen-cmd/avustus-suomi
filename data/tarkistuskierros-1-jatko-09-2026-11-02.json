@@ -1,0 +1,50 @@
+{
+  "round": 1,
+  "batch": "jatko-09",
+  "date": "2026-11-02",
+  "reviewed_files": [
+    "data/kartoitus-asuminen-tavara-kotiapu-2026-11-02.json",
+    "data/kartoitusehdokkaat-2026-11-02-talous-keskustelu.json"
+  ],
+  "records_reviewed": 8,
+  "findings": [
+    {
+      "service": "Tampereen asumisneuvonta",
+      "finding": "Esiintyy aiemmissa kartoituksissa; yksi palvelu ja yksi puhelinpäivystys.",
+      "action": "Yhdistä täydentävät tiedot, älä lisää toista palvelua."
+    },
+    {
+      "service": "Oulun asumisneuvonta",
+      "finding": "Maksuttomuus kirjattu vahvistetuksi; osoite ja puhelimet tallessa.",
+      "action": "Vertaile muihin Oulun merkintöihin ja varmista ajantasaiset asiointiajat."
+    },
+    {
+      "service": "Hope ry valtakunnallinen",
+      "finding": "Yhteiset hakuehdot eivät ole uusi erillinen paikallinen palvelu.",
+      "action": "Säilytä yhteiset ehdot ja yhdistä paikallisiin toimijoihin."
+    },
+    {
+      "service": "SPR vapaaehtoisen saattamisapu",
+      "finding": "Paikallinen saatavuus ja mahdolliset matkakulut epäselvät.",
+      "action": "Älä yleistä maksuttomaksi koko Suomessa; tarkista paikalliset merkinnät."
+    },
+    {
+      "service": "Takuusäätiön Velkalinja ja Kysy rahasta -chat",
+      "finding": "Kaksi eri yhteydenottokanavaa; järjestäjän ajantasainen maksuttomuus ja aukiolo tarkistettava.",
+      "action": "Säilytä erillisinä ehdokkaina."
+    },
+    {
+      "service": "EHYT Päihdeneuvonta",
+      "finding": "Puhelin tallennettu; maksuttomuuden ja ajantasaisuuden lähdetarkistus kesken.",
+      "action": "Säilytä ehdokkaana."
+    },
+    {
+      "service": "Väestöliiton seksuaalineuvonta",
+      "finding": "Yleinen Hyvä kysymys -etusivu ei yksilöi neuvontapalvelua.",
+      "action": "Etsi palvelukohtainen linkki, kohderyhmä ja maksuttomuus."
+    }
+  ],
+  "review_type": "aineiston sisäinen; ei uusia riippumattomia lähdevahvistuksia",
+  "original_records_preserved": true,
+  "public_site_changed": false
+}
