@@ -20,8 +20,9 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Aleksanterin kirkko, Pirkankatu, Tampere",
-      "contact_field_audit": "extracted_from_existing_service_description_2026-11-02",
-      "organizer": "ViaDia Pirkanmaa"
+      "contact_field_audit": "verified_organizer_site_2026-11-02",
+      "organizer": "ViaDia Pirkanmaa",
+      "email": "pirkanmaa@viadia.fi"
     },
     {
       "id": "av-0002",
@@ -42,7 +43,9 @@
       "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Lindforsinkatu 7, Tampere",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02",
-      "organizer": "ViaDia Pirkanmaa"
+      "organizer": "ViaDia Pirkanmaa",
+      "email": "pirkanmaa@viadia.fi",
+      "contact_field_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0003",
@@ -63,7 +66,9 @@
       "publication_review_reason": "Järjestäjän sivulla kuvattu maksuton ruokajako; tarkista mahdolliset poikkeusajat ennen lähtöä.",
       "address": "Artturintie 14, Kangasala",
       "address_extraction_status": "extracted_from_existing_description_2026-11-02",
-      "organizer": "ViaDia Pirkanmaa"
+      "organizer": "ViaDia Pirkanmaa",
+      "email": "pirkanmaa@viadia.fi",
+      "contact_field_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0004",
@@ -1256,7 +1261,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Haukiputaan seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0058",
@@ -1277,7 +1283,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Oulunsalon seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0059",
@@ -1298,7 +1305,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Oulun tuomiokirkkoseurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0060",
@@ -1319,7 +1327,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Tuiran seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0061",
@@ -1340,7 +1349,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Tuiran seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0062",
@@ -1361,7 +1371,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Oulujoen seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0063",
@@ -1382,7 +1393,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Tuiran seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0064",
@@ -1403,7 +1415,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Tuiran seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0065",
@@ -1424,7 +1437,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Oulujoen seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0066",
@@ -1445,7 +1459,8 @@
       "publication_review_reason": "Maksuton, syyskauden 2026 määräaikainen ruokailu tai ruokajako. Julkaisussa näytettävä päättymispäivä, eikä palvelua saa esittää voimassa olevana sen jälkeen ilman uutta lähdetarkistusta.",
       "seasonal_service": true,
       "reverification_required_after": "2026-12-16",
-      "organizer": "Oulun seurakuntayhtymä"
+      "organizer": "Tuiran seurakunta",
+      "organizer_audit": "verified_organizer_site_2026-11-02"
     },
     {
       "id": "av-0067",
