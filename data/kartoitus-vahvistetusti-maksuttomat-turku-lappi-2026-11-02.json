@@ -1,0 +1,42 @@
+{
+  "records": [
+    {
+      "id": "20261102-turku-ote-asumisneuvonta",
+      "municipality": "Turku",
+      "name": "Maksuton asumisneuvonta",
+      "category": "Asuminen",
+      "secondary_categories": [
+        "Raha-asiat"
+      ],
+      "organizer": "Turun kaupunki / Ote-säätiö",
+      "phone": "050 391 2335",
+      "email": "asumisneuvonta@otesaatio.fi",
+      "schedule": "Maanantaisin iltapäivystys klo 8–18; lauantaisin klo 10–14 kahdeksan viikon välein",
+      "conditions": "Kaikille turkulaisille; vuokrarästit, asunnonhaku, asumisen jatkuvuus ja talousasioiden suunnittelu",
+      "fee_status": "explicitly_free",
+      "source_url": "https://www.suomi.fi/palvelut/asumisneuvonta-turun-kaupunki/35d4bf27-a499-4130-b8a4-1aaf2da2f2ab",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Saattaa olla aiemmin tallennetun Turun asumisneuvonnan tarkennus; yhdistettävä tarkistuskierroksella."
+    },
+    {
+      "id": "20261102-lappi-maahanmuuttajien-sosiaalineuvonta",
+      "municipality": "Lapin hyvinvointialue (21 kuntaa)",
+      "name": "Maahanmuuttaneiden maksuton sosiaalineuvonta ja -ohjaus",
+      "category": "Raha-asiat",
+      "secondary_categories": [
+        "Asuminen",
+        "Keskusteluapu"
+      ],
+      "organizer": "Lapin hyvinvointialue",
+      "service_pattern": "Jatkuva sosiaalipalvelu, yhteydenotto oman alueen sosiaalityöntekijään",
+      "conditions": "Maahanmuuttaneille, joilla on oleskelulupa; apua toimeentuloon, arjen järjestelyihin ja palveluihin ohjautumiseen. Neuvonta, sosiaalityö ja sosiaaliohjaus maksuttomia; muut sosiaali- ja terveyspalvelut voivat olla maksullisia.",
+      "fee_status": "explicitly_free_for_advice_only",
+      "source_url": "https://www.suomi.fi/palvelut/maahanmuuttajapalvelut-lapin-hyvinvointialue/6e46e5e6-32ad-4e5a-8d05-f631eb2a9537",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "notes": "Alueellinen palvelu, ei 21 erillistä palvelumerkintää."
+    }
+  ],
+  "notes": "Vain lähteessä nimenomaisesti maksuttomiksi vahvistetut jatkuvat palvelut. Turun palvelu voi olla aiemman merkinnän tarkennus; myöhempi duplikaattitarkistus. Ei sivustomuutoksia."
+}
