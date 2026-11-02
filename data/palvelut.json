@@ -614,12 +614,9 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "previously_source_checked_approved_2026-11-02",
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
     },
     {
       "id": "av-0032",
@@ -671,12 +668,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "previously_source_checked_approved_2026-11-02",
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
     },
     {
       "id": "av-0035",
@@ -692,12 +686,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "previously_source_checked_approved_2026-11-02",
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
     },
     {
       "id": "av-0036",
@@ -1108,9 +1099,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previously_source_checked_approved_2026-11-02",
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
     },
     {
       "id": "av-0055",
