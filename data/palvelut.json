@@ -185,8 +185,8 @@
       "category": "Ruoka-apu",
       "municipality": "tampere",
       "name": "Ruokapankin Puoti, Nekala",
-      "details": "Milloin: Ke–to klo 12–15.15 | Missä: Kuoppamäentie 10, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
-      "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
+      "details": "Avoinna ke–to klo 12–15.15, Kuoppamäentie 10, Tampere. Asiointi edellyttää diakoniatyöntekijän myöntämää asiointilupaa. Tarkista poikkeusajat ennen lähtöä.",
+      "source_url": "https://tampereenseurakunnat.fi/tietoa-meista/ruokapankki/ruokapankin-yhteystiedot/",
       "verification_status": "organizer_primary_source_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "price_status": "free_with_diaconal_authorization",
@@ -199,7 +199,10 @@
       "publication_review_status": "organizer_source_checked_2026-11-02",
       "publication_review_reason": "Maksuton vain diakoniatyöntekijän asiointiluvalla; lupaehdon näkyminen käyttäjälle välttämätöntä.",
       "address": "Kuoppamäentie 10, Tampere",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "organizer": "Tampereen evankelis-luterilainen seurakuntayhtymä",
+      "phone": "040 804 8522",
+      "email": "ulla.kivisto@evl.fi"
     },
     {
       "id": "av-0010",
@@ -722,7 +725,9 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "previously_source_checked_approved_2026-11-02",
-      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä.",
+      "organizer": "Lahden Diakoniasäätiö (Dila) ja Lahden seurakuntayhtymä",
+      "email": "ruokapuoti@dila.fi"
     },
     {
       "id": "av-0035",
@@ -740,7 +745,8 @@
       "source_kind": "other",
       "publication_ready": true,
       "publication_review_status": "previously_source_checked_approved_2026-11-02",
-      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä."
+      "publication_review_reason": "Maksuttomuus, palvelun luonne ja asiointitapa kuvattu aiemmin tarkistetussa järjestäjän tai kaupungin lähteessä.",
+      "organizer": "Lahden Diakoniasäätiö (Dila)"
     },
     {
       "id": "av-0036",
@@ -1805,7 +1811,7 @@
       "municipality": "turku",
       "name": "Food & Hope – Nummen seurakuntakoti",
       "address": "Papinkatu 2, Turku",
-      "details": "Food & Hope – yhteisöllinen ruokailu nuorille aikuisille ja opiskelijoille Nummen seurakuntakodilla, Papinkatu 2, torstaisin 24.9.–17.12.2026 klo 18–20. Ruokakassijakopäivät 19.11. ja 17.12. Ennakkoilmoittautuminen pakollista; ilmoittautumislinkki julkaistaan Food & Hopen Facebook-sivulla noin viikko ennen tapahtumaa.",
+      "details": "Food & Hope – yhteisöllinen ruokailu nuorille aikuisille ja opiskelijoille Nummen seurakuntakodilla, Papinkatu 2, torstaisin 24.9.–17.12.2026 klo 17–19. Ruokakassijakopäivät 19.11. ja 17.12. Ennakkoilmoittautuminen pakollista; ilmoittautumislinkki julkaistaan Food & Hopen Facebook-sivulla noin viikko ennen tapahtumaa.",
       "source_url": "https://turunseurakunnat.fi/apua-ja-tukea/taloudellista-apua/ruokailut/",
       "price_status": "free",
       "verification_status": "coorganizer_free_meal_and_parish_schedule_checked_2026-11-02",
@@ -1823,7 +1829,8 @@
         "contact_channel_review"
       ],
       "phone": "040 341 7135",
-      "email": "oona.hakanpaa@evl.fi"
+      "email": "oona.hakanpaa@evl.fi",
+      "organizer": "Katariinanseurakunta"
     },
     {
       "id": "av-0086",
@@ -1846,7 +1853,10 @@
         "seasonal_schedule_review"
       ],
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-17"
+      "reverification_required_after": "2026-12-17",
+      "organizer": "Maarian seurakunta",
+      "phone": "040 341 7486",
+      "email": "sonja.kankaanranta@evl.fi"
     },
     {
       "id": "av-0087",
@@ -1871,7 +1881,8 @@
         "contact_channel_review"
       ],
       "phone": "040 341 7163",
-      "email": "marja-liisa.vilpponen@evl.fi"
+      "email": "marja-liisa.vilpponen@evl.fi",
+      "organizer": "Henrikinseurakunta"
     },
     {
       "id": "av-0088",
@@ -1896,7 +1907,8 @@
         "contact_channel_review"
       ],
       "phone": "040 341 7493",
-      "email": "kaisa.lahdenkauppi@evl.fi"
+      "email": "kaisa.lahdenkauppi@evl.fi",
+      "organizer": "Henrikinseurakunta"
     },
     {
       "id": "av-0089",
@@ -1920,7 +1932,10 @@
         "contact_channel_review"
       ],
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-21"
+      "reverification_required_after": "2026-12-21",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "phone": "040 341 7247",
+      "email": "rose-marie.virolainen@evl.fi"
     },
     {
       "id": "av-0090",
