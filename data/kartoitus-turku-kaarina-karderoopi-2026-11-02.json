@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "records": [
+    {
+      "name": "Vaateapu Karderoopi",
+      "organizer": "Turun ja Kaarinan seurakuntayhtymä",
+      "municipalities": [
+        "Turku",
+        "Kaarina"
+      ],
+      "category": "Vaatteet ja tavarat",
+      "description": "Maksutonta puhdasta ja ehjää kierrätysvaatetta, kenkiä, kodintekstiilejä ja astioita vaikeassa elämäntilanteessa oleville alueen asukkaille.",
+      "access": "Sovi ensisijaisesti tapaaminen oman paikallisseurakunnan diakoniatyöntekijän kanssa. Hätätilanteessa voi ottaa suoraan yhteyttä Karderoopiin. Seurakunnan jäsenyyttä ei vaadita.",
+      "address": "Useita sijainteja; tarkka asiointipiste ja aukiolo tarkistettava",
+      "free_confirmed": true,
+      "recurring": true,
+      "source": "https://hyvinvointiopastaja.varha.fi/fi/turun-ja-kaarinan-seurakuntayhtymae-vaateapu-karderoopi",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "verification_note": "Järjestäjän palvelukuvaus vahvistaa maksuttomuuden ja kohderyhmän; tarkka asiointiosoite ja ajat vielä täydennettävä."
+    }
+  ],
+  "notes": "Uusi kartoituserä; ei verkkosivuston muutoksia. Raision Naulakko jätettiin pois aiemmin tallennettuna."
+}
