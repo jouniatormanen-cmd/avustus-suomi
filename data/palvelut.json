@@ -3652,19 +3652,21 @@
       "category": "Keskusteluapu",
       "municipality": "kuopio",
       "name": "SPR Kuopion Tarinatorstai – ABC Pitkälahti",
-      "details": "Kaikille avoin maksuton keskustelu- ja kohtaamistapahtuma ABC Pitkälahdessa. Yksittäiset päivämäärät ja kellonajat tarkistettava.",
+      "details": "Kaikille avoin ja maksuton keskustelu- ja kohtaamistapahtuma ABC Pitkälahdessa. Ajankohdat voi tiedustella SPR Kuopion osastolta ennen osallistumista.",
       "source_url": "https://osastot.punainenristi.fi/index.php/osastot/kuopion-osasto/toiminta/hyvinvointi",
       "email": "eloisat@sprkuopio.com",
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "price_status": "free",
-      "verification_status": "official_source_checked_2026-11-01_details_pending",
-      "last_verified": "2026-11-01",
-      "publication_ready": false,
-      "event_data_status": "needs_individual_occurrences_if_applicable",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "publication_ready": true,
+      "event_data_status": "contact_for_occurrence_times",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "organizer_source_checked_2026-11-02",
+      "publication_review_reason": "Järjestäjän ensisijainen lähde vahvistaa tapahtuman maksuttomuuden ja avoimuuden; yksittäisiä ajankohtia ei ilmoiteta varmistamattomina."
     },
     {
       "id": "av-0179",
