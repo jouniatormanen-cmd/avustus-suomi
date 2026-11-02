@@ -221,7 +221,7 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "red_cross",
-      "publication_ready": false,
+      "publication_ready": true,
       "exclude_from_free_service_search": true,
       "possible_duplicate_of": "av-0014",
       "duplicate_status": "same_distribution_as_av-0014",
@@ -229,11 +229,10 @@
       "duplicate_review_group": "porvoo-spr-gammelbacka-food",
       "duplicate_review_status": "same_service_confirmed",
       "duplicate_review_note": "Sama SPR:n Gammelbackan ruokajako; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty tietojen yhdistämistä varten.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ],
       "address": "Tornipolku 10, Porvoo",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "publication_review_status": "previous_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
     },
     {
       "id": "av-0014",
@@ -260,7 +259,9 @@
         "contact_channel_review"
       ],
       "address": "Tornipolku 10, Porvoo",
-      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02",
+      "publication_review_status": "excluded_confirmed_duplicate_2026-11-02",
+      "publication_review_reason": "Sama palvelu kuin av-0012; pidetään rekisterissä tarkistusjälkenä mutta ei julkaista toistamiseen."
     },
     {
       "id": "av-0015",
@@ -376,7 +377,9 @@
       "duplicate_review_note": "Sama SPR:n Porvoon ystävä- ja saattajatoiminta; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "excluded_confirmed_duplicate_2026-11-02",
+      "publication_review_reason": "Sama palvelu kuin av-0024; pidetään rekisterissä tarkistusjälkenä mutta ei julkaista toistamiseen."
     },
     {
       "id": "av-0020",
@@ -470,9 +473,9 @@
       "merged_equivalent_ids": [
         "av-0019"
       ],
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Alueellinen tai palvelutasoinen päällekkäisyys tarkistettava.",
+      "publication_ready": true,
+      "publication_review_status": "previous_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista.",
       "duplicate_review_group": "porvoo-spr-friend",
       "duplicate_review_status": "same_service_confirmed",
       "duplicate_review_note": "Sama SPR:n Porvoon ystävä- ja saattajatoiminta; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty."
@@ -553,9 +556,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previous_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
     },
     {
       "id": "av-0029",
@@ -571,12 +574,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "previous_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
     },
     {
       "id": "av-0030",
@@ -650,9 +650,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava."
+      "publication_ready": true,
+      "publication_review_status": "previous_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
     },
     {
       "id": "av-0034",
@@ -1530,9 +1530,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta."
+      "publication_ready": true,
+      "publication_review_status": "previous_primary_source_checked_2026-11-02",
+      "publication_review_reason": "Aiemmin tarkistettu palvelu, jonka maksuttomuus tai harkinnanvaraisuus ja asiointiehdot on kuvattu. Päällekkäistä merkintää ei julkaista."
     },
     {
       "id": "av-0078",
