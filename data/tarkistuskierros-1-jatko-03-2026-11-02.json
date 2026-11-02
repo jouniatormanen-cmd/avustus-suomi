@@ -1,0 +1,50 @@
+{
+  "round": 1,
+  "batch": "jatko-03",
+  "date": "2026-11-02",
+  "scope": "Aiemmin kerättyjen maksuttomien palvelujen säilyttäminen ja tietojen laaduntarkistus",
+  "reviewed_files": [
+    "data/kartoitus-hope-paikalliset-2026-11-02.json",
+    "data/kartoitus-kotiapu-pikkuhelppi-2026-11-02.json",
+    "data/kartoitus-asumisneuvonta-2026-11-02-erä3.json"
+  ],
+  "findings": [
+    {
+      "service": "Hope Tampere ja Lahti",
+      "finding": "Lahjoitusten vastaanottoajat eivät ole avunsaajien asiointiaikoja.",
+      "action": "Älä näytä niitä asiakasaikoina; avunhakuohje ensisijaiseksi."
+    },
+    {
+      "service": "Hope Hyvinkää",
+      "finding": "Tallennettu huomautus kesätauolla olevasta hakulomakkeesta; ajantasaisuus epäselvä.",
+      "action": "Varmista hakulomakkeen tämänhetkinen toimivuus."
+    },
+    {
+      "service": "Hope Kajaani",
+      "finding": "Tallennettu tieto että harrastustukea ei myönnetä; vaate- ja tavara-apu eri asia.",
+      "action": "Älä markkinoi harrastustukea saatavana."
+    },
+    {
+      "service": "PikkuHelppi kahdeksan paikkakuntaa",
+      "finding": "Kaikki merkinnät kuvaavat maksutonta apua mutta kesto ja toteutustapa vaihtelevat: Kajaani 2h, Kotka ulkona, Harju enintään 4 kertaa.",
+      "action": "Säilytä erilliset paikalliset palvelut, älä yleistä koko maahan."
+    },
+    {
+      "service": "Tampereen asumisneuvonta",
+      "finding": "Kahdessa tiedostossa sama palvelu, jälkimmäinen maksuttomuusvahvistus.",
+      "action": "Yksi palvelumerkintä, yhdistä vahvistustieto."
+    },
+    {
+      "service": "Tuusulan asumisneuvonta",
+      "finding": "Maksuttomuus vahvistettu 2025 pöytäkirjasta, ajantasainen yhteystieto puuttuu.",
+      "action": "Täydennä yhteystiedot ennen julkaisuvalmiutta."
+    },
+    {
+      "service": "Kouvolan asumisneuvonta",
+      "finding": "Tiedossa palvelun ajanjakso 2026–2027.",
+      "action": "Merkitse saatavuuden tarkistus myöhemmäksi ennen ajanjakson päättymistä."
+    }
+  ],
+  "notes": "Ei poisteta aiemmin kerättyjä palveluja. Tämä on aineiston sisäinen tarkistus, ei uusi lähdetarkistus. Palvelujen julkaisuvalmiutta ei muutettu.",
+  "public_site_changed": false
+}
