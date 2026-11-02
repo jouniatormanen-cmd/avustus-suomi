@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-02",
+  "records": [
+    {
+      "category": "Kotiapu",
+      "municipality": "kerava",
+      "name": "Keravan seurakunnan PikkuHelppi",
+      "source_url": "https://www.keravanseurakunta.fi/fi/pikkuhelppi",
+      "phone": "040 484 7876",
+      "details": "Maksuton lastenhoito ja arjen tuki, myös kotona",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "liminka",
+      "name": "Limingan seurakunnan Pikku-Helppi",
+      "source_url": "https://www.liminganseurakunta.fi/pikku-helppi",
+      "phone": "044 752 1223",
+      "details": "Maksuton 1–3 tunnin lastenhoitoapu; ei edellytä kirkon jäsenyyttä",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "tampere",
+      "name": "Harjun seurakunnan PikkuHelppi",
+      "source_url": "https://tampereenseurakunnat.fi/harjun-seurakunta/tukea-ja-apua/pikkuhelppi/",
+      "phone": "040 804 8537",
+      "details": "Maksuton kotona toteutettava lastenhoitoapu, enintään neljä kertaa",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "kajaani",
+      "name": "Kajaanin seurakunnan Pikkuhelppi",
+      "source_url": "https://www.kajaaninseurakunta.fi/lapsille/pikkuhelppi-ja-lapsiparkki",
+      "phone": "044 7444 216",
+      "details": "Maksuton enintään kahden tunnin lastenhoitoapu",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "lempäälä",
+      "name": "Lempäälän seurakunnan PikkuHelppi",
+      "source_url": "https://www.lempaalanseurakunta.fi/apua-ja-tukea/tukea-perheelle-ja-parisuhteeseen",
+      "phone": "040 565 4408",
+      "details": "Maksuton arjen apu lapsiperheille; ei siivousta tai ruoanlaittoa",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "salo",
+      "name": "Salon seurakunnan PikkuHelppi",
+      "source_url": "https://www.salonseurakunta.fi/lapsillejalapsiperheille",
+      "phone": null,
+      "details": "Maksuton 1–4 kertaa kaudessa, enintään kolme tuntia",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "jyväskylä",
+      "name": "Jyväskylän seurakunnan keskustan Pikkuhelppi",
+      "source_url": "https://www.jyvaskylanseurakunta.fi/tule-mukaan/lapsille-ja-lapsiperheille/alueet/keskusta/muu-toiminta",
+      "phone": null,
+      "details": "Maksuton lastenhoitoapu enintään kolme kertaa puolessa vuodessa",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    },
+    {
+      "category": "Kotiapu",
+      "municipality": "kotka",
+      "name": "Kotka-Kymin seurakunnan Pikkuhelppi",
+      "source_url": "https://kotka-kyminseurakunta.fi/toimintaa/lapset-ja-lapsiperheet/pikkuhelppi/",
+      "phone": "040 196 7528",
+      "details": "Maksuton ulkona järjestettävä lastenhoitoapu",
+      "free_service": true,
+      "verification_status": "organizer_page_checked_2026-11-02",
+      "publication_ready": false
+    }
+  ],
+  "note": "Järjestäjien sivuilta tarkistetut palvelut. Pääaineistoon yhdistäminen edellyttää vielä ehtojen ja paikallisen saatavuuden laaduntarkistusta. Sivustoa ei muutettu."
+}
