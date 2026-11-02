@@ -1,0 +1,88 @@
+{
+  "records": [
+    {
+      "municipality": "Riihimäki",
+      "name": "SPR Riihimäen ystävävälitys",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Riihimäen osasto",
+      "phone": "050 464 2080",
+      "email": "riihimaki.ystavavalitys@punainenristi.fi",
+      "schedule": "Ystävävälityksen puhelinpäivystys keskiviikkoisin 15–18",
+      "conditions": "Yksinäiselle vapaaehtoinen ystävä; ystäväpyyntö myös verkossa. Maksuttomuus tarkistettava.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/riihimaen-osasto/toiminta/ystavatoiminta",
+      "id": "20261102-ystavapalvelu-1",
+      "fee_status": "unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Riihimäki",
+      "name": "SPR:n verkkoystävä",
+      "category": "Keskusteluapu",
+      "organizer": "Suomen Punainen Risti",
+      "delivery_mode": "Verkossa, valtakunnallinen",
+      "conditions": "Kaikenikäisille; anonyymi kahdenkeskinen yhteydenpito verkossa. Maksuttomuus tarkistettava.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/riihimaen-osasto/toiminta/ystavatoiminta",
+      "id": "20261102-ystavapalvelu-2",
+      "fee_status": "unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Loppi",
+      "name": "SPR Lopen ystävävälitys",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Lopen osasto",
+      "email": "loppi@osasto.punainenristi.fi",
+      "conditions": "Vapaaehtoisen ystävän välitys yksinäisyyttä kokevalle; toiminnan yhteyshenkilö aloittanut elokuussa 2026. Maksuttomuus tarkistettava.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/lopen-osasto/ajankohtaista/soile-karkinen-aloittaa-osaston-ystavatoiminnassa",
+      "id": "20261102-ystavapalvelu-3",
+      "fee_status": "unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Lieto",
+      "name": "SPR Liedon ystävävälitys",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Liedon osasto",
+      "conditions": "Ystäväparitoimintaa yksinäisille; kotikäynnit tai tapaamiset muualla. Uudelleenkäynnistys 2026, saatavuus ja maksuttomuus tarkistettava.",
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-varsinais-suomen-piiri/varsinais-suomen-uutiset/yksinaisyytta-lievittavaa-ystavatoimintaa-kaynnistetaan-uudestaan-liedossa/",
+      "id": "20261102-ystavapalvelu-4",
+      "fee_status": "unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Paimio",
+      "name": "SPR Paimion ystävätoiminta",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Paimion osasto",
+      "conditions": "Vapaaehtoinen ystävä tapaamisiin, puheluihin, verkkoon tai ulkoiluseuraksi; maksuttomuus tarkistettava.",
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-varsinais-suomen-piiri/varsinais-suomen-uutiset/yksinaisyytta-lievittavaan-ystavatoimintaan-kaivataan-vapaaehtoisia-paimiossa-ja-sauvossa/",
+      "id": "20261102-ystavapalvelu-5",
+      "fee_status": "unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    },
+    {
+      "municipality": "Sauvo",
+      "name": "SPR Sauvo-Karunan ystävätoiminta",
+      "category": "Keskusteluapu",
+      "organizer": "SPR Sauvo-Karunan osasto",
+      "conditions": "Vapaaehtoinen ystävä yksinäiselle; maksuttomuus tarkistettava.",
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-varsinais-suomen-piiri/varsinais-suomen-uutiset/yksinaisyytta-lievittavaan-ystavatoimintaan-kaivataan-vapaaehtoisia-paimiossa-ja-sauvossa/",
+      "id": "20261102-ystavapalvelu-6",
+      "fee_status": "unconfirmed",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "service_pattern": "ongoing"
+    }
+  ],
+  "notes": "Kuusi jatkuvaa ystäväpalvelua, ei yksittäisiä tapahtumia. Maksuttomuus tarkistettava ennen julkaisua. Verkkoystävä valtakunnallinen eikä vain Riihimäki. Ei sivuston muutoksia."
+}
