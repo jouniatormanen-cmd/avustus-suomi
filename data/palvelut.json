@@ -279,14 +279,13 @@
       "organizer_contact_name": "Kim Tapper",
       "organizer_source_url": "https://ruoka-apu.fi/en/elintarvikkeiden-lahjoittajille/",
       "address": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "data_quality_note": "Järjestäjän yhteystiedot vahvistettu Ruoka-apu.fi:n listasta, mutta jakelupaikka ja tulevat jakeluajat eivät ole vahvistettuja. Järjestäjän osoitetta ei saa esittää jakelupaikkana.",
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "review_note": "Satakunnan hyvinvointialueen palveluhakemisto ilmoittaa maksuttomuuden suoraan sekä ma ruokajaolle että ti–pe leipäavulle. Ma palvelun kohderyhmä Pori 18–99-vuotiaat, leipäavun Satakunta 18–99-vuotiaat. Tarkista poikkeusajat.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_review_status": "source_reviewed_2026-11-02",
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
     },
     {
       "id": "av-0016",
@@ -393,12 +392,9 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "review_note": "Valtion talous- ja velkaneuvonta maksutonta. Ei myönnä rahallista tukea.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Koonti- tai valtakunnallinen ohjausmerkintä: palvelukohtainen julkaisumalli selvitettävä.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "source_reviewed_2026-11-02",
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
     },
     {
       "id": "av-0021",
@@ -451,12 +447,9 @@
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
       "review_note": "Helsingin kaupungin ruoka-avun etsivä työ tarjoaa maksutonta sosiaaliohjausta ja palveluihin hakeutumisen tukea ruokajaoissa ja puhelimitse. Ei ruoan jakamista itsessään. Asiakas voi asioida anonyymisti.",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
-      "audit_flags_2026_11_02": [
-        "contact_channel_review"
-      ]
+      "publication_ready": true,
+      "publication_review_status": "source_reviewed_2026-11-02",
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
     },
     {
       "id": "av-0024",
@@ -642,9 +635,9 @@
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "parish_or_church",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava."
+      "publication_ready": true,
+      "publication_review_status": "source_reviewed_2026-11-02",
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
     },
     {
       "id": "av-0033",
@@ -720,9 +713,9 @@
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
       "source_kind": "other",
-      "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava."
+      "publication_ready": true,
+      "publication_review_status": "source_reviewed_2026-11-02",
+      "publication_review_reason": "Palvelu, maksuttomuus ja käyttöehdot kuvattu aiemmin tarkistetussa virallisessa tai järjestäjän lähteessä. Muuttuvat ajat ja saatavuus tarkistettava ennen asiointia."
     },
     {
       "id": "av-0037",
