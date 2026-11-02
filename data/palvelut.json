@@ -2964,16 +2964,16 @@
       "address": "Keskuskatu 1, Riihimäki",
       "phone": "050 464 2080",
       "email": "riihimaki.ystavavalitys@punainenristi.fi",
-      "details": "SPR Riihimäen Pelirasti – lauta- ja korttipelien kohtaamispaikka keskiviikkoisin klo 13–15 osaston toimitilassa, Keskuskatu 1. Tapahtumien toteutuminen ja mahdolliset poikkeukset kannattaa varmistaa osastolta.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/riihimaen-osasto/toiminta/ystavatoiminta",
+      "details": "SPR Riihimäen Pelirasti on kaikille avoin peli- ja kohtaamispaikka osaston toimitilassa, Keskuskatu 1. Toukokuun 2026 ohjelmassa kokoontumisia keskiviikkoisin klo 13–15; ajantasainen kokoontumisaika kannattaa varmistaa osastolta, koska marraskuun aikataulua ei ole tällä lähteellä vahvistettu.",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/riihimaen-osasto/ajankohtaista/riihimaen-osaston-toukokuun-tapahtumat",
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
-      "publication_review_status": "organizer_place_and_schedule_verified_price_pending",
-      "publication_review_reason": "SPR:n toukokuun 2026 tapahtumaohjelma vahvistaa Keskuskatu 1:n Pelirastin paikaksi sekä keskiviikon klo 13–15; maksuttomuutta ei nimenomaisesti vahvisteta."
+      "publication_review_status": "organizer_venue_confirmed_current_schedule_and_price_pending",
+      "publication_review_reason": "SPR:n toukokuun 2026 tapahtumaohjelma vahvistaa osoitteen ja toukokuun keskiviikot, ei marraskuun 2026 viikkorytmiä. Maksuttomuus ei käy ilmi. Ei julkaisuvalmis."
     },
     {
       "id": "av-0145",
