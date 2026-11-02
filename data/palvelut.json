@@ -854,7 +854,8 @@
       "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu; mahdolliset omat kulut eivät sisälly palveluun.",
       "duplicate_review_group": "av-0040",
       "duplicate_review_status": "same_service_confirmed_2026-11-02",
-      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan.",
+      "organizer": "Suomen Punainen Risti, Hyvinkään osasto"
     },
     {
       "id": "av-0041",
@@ -874,7 +875,8 @@
       "review_note": "SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa.",
       "publication_ready": true,
       "publication_review_status": "spr_district_source_reviewed_2026-11-02",
-      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen.",
+      "organizer": "Suomen Punainen Risti, Inkoon osasto"
     },
     {
       "id": "av-0042",
@@ -894,7 +896,8 @@
       "review_note": "SPR:n piirin ystävävälitysluettelo vahvistaa yhteyspisteen; SPR:n yleisten ystävätoiminnan periaatteiden mukaan vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Asiakkaan omat kulut voivat jäädä maksettaviksi. Paikallisen yhteystiedon ajantasaisuus ja vapaaehtoisen saatavuus tarkistettava tarvittaessa.",
       "publication_ready": true,
       "publication_review_status": "spr_district_source_reviewed_2026-11-02",
-      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen.",
+      "organizer": "Suomen Punainen Risti, Karjaa-Pohjan osasto"
     },
     {
       "id": "av-0043",
@@ -920,7 +923,8 @@
       "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu; mahdolliset omat kulut eivät sisälly palveluun.",
       "duplicate_review_group": "av-0043",
       "duplicate_review_status": "same_service_confirmed_2026-11-02",
-      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan."
+      "duplicate_review_note": "Sama paikallisen SPR-osaston ystävävälitys; yhdistä tiedot ennen yhden hakutulosmerkinnän julkaisemista. Säilytä molemmat lähdemerkinnät tarkistuksen ajan.",
+      "organizer": "Suomen Punainen Risti, Karkkilan osasto"
     },
     {
       "id": "av-0044",
@@ -946,7 +950,8 @@
         "contact_channel_review"
       ],
       "email": "kirkkonummi-siuntio@osasto.punainenristi.fi",
-      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02"
+      "contact_field_audit": "extracted_from_existing_verified_service_description_2026-11-02",
+      "organizer": "Suomen Punainen Risti, Kirkkonummi-Siuntion osasto"
     },
     {
       "id": "av-0045",
@@ -1017,7 +1022,8 @@
       "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua.",
       "publication_ready": true,
       "publication_review_status": "spr_district_source_reviewed_2026-11-02",
-      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen.",
+      "organizer": "Suomen Punainen Risti, Korson osasto"
     },
     {
       "id": "av-0048",
@@ -1064,7 +1070,8 @@
       "review_note": "SPR:n piirin ystävävälitysluettelon ja ystävätoiminnan yleisten ohjeiden perusteella vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota. Mahdolliset asiakkaan omat kulut jäävät erillisiksi. Paikallinen saatavuus ja päivystysajat voivat muuttua.",
       "publication_ready": true,
       "publication_review_status": "spr_district_source_reviewed_2026-11-02",
-      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen."
+      "publication_review_reason": "SPR:n piiriluettelon yhteystieto ja vapaaehtoisen ystävätoiminnan maksuttomuus aiemmin tarkistettu; mahdolliset omat kulut erikseen.",
+      "organizer": "Suomen Punainen Risti, Tikkurilan osasto"
     },
     {
       "id": "av-0050",
@@ -4435,7 +4442,8 @@
       "verification_status": "organizer_primary_source_live_checked_2026-11-02",
       "publication_ready": true,
       "price_status": "free",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-02",
+      "organizer": "Keravan seurakunta"
     },
     {
       "id": "av-0207",
@@ -4449,7 +4457,8 @@
       "verification_status": "organizer_primary_source_live_checked_2026-11-02",
       "publication_ready": true,
       "price_status": "free",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-02",
+      "organizer": "Limingan seurakunta"
     },
     {
       "id": "av-0208",
@@ -4463,7 +4472,8 @@
       "verification_status": "organizer_primary_source_checked_2026-11-02",
       "publication_ready": true,
       "price_status": "free",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-02",
+      "organizer": "Harjun seurakunta"
     },
     {
       "id": "av-0209",
@@ -4479,7 +4489,8 @@
       "price_status": "free",
       "last_verified": "2026-11-02",
       "seasonal_service": true,
-      "reverification_required_after": "2026-12-01"
+      "reverification_required_after": "2026-12-01",
+      "organizer": "Kajaanin seurakunta"
     },
     {
       "id": "av-0210",
@@ -4493,7 +4504,8 @@
       "verification_status": "organizer_primary_source_checked_2026-11-02",
       "publication_ready": true,
       "price_status": "free",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-02",
+      "organizer": "Lempäälän seurakunta"
     },
     {
       "id": "av-0211",
@@ -4512,7 +4524,8 @@
         "contact_channel_review"
       ],
       "email": "johanna.rytkonen@evl.fi",
-      "contact_field_audit": "verified_organizer_primary_source_2026-11-02"
+      "contact_field_audit": "verified_organizer_primary_source_2026-11-02",
+      "organizer": "Salon seurakunta"
     },
     {
       "id": "av-0212",
@@ -4532,7 +4545,8 @@
       ],
       "contact_channel": "Ilmoittautumislomake seurakunnan Keskustan alueen Pikkuhelppi-palvelusivulla",
       "contact_audit_outcome": "official_registration_channel_verified_no_phone_required",
-      "contact_field_audit": "official_service_specific_registration_form_2026-11-02"
+      "contact_field_audit": "official_service_specific_registration_form_2026-11-02",
+      "organizer": "Jyväskylän seurakunta"
     },
     {
       "id": "av-0213",
@@ -4546,7 +4560,8 @@
       "verification_status": "organizer_primary_source_checked_2026-11-02",
       "publication_ready": true,
       "price_status": "free",
-      "last_verified": "2026-11-02"
+      "last_verified": "2026-11-02",
+      "organizer": "Kotka-Kymin seurakunta"
     }
   ],
   "audit_metadata": {
