@@ -2729,12 +2729,14 @@
       "email": "ystavatoimintakerava@gmail.com",
       "details": "Ystävää itselleen tai läheiselle voi pyytää ystävätoiminnan koordinaattorilta. Puhelinpäivystys ma 16–18 ja pe 13–15. Koordinaattori kartoittaa tilanteen ja yhdistää sopivan vapaaehtoisen, jos sellainen löytyy. Toimitila Hopeahovi, Metsolantie 4, avoinna vain sovitusti.",
       "source_url": "https://osastot.punainenristi.fi/index.php/osastot/keravan-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "publication_ready": true,
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia."
     },
     {
       "id": "av-0136",
@@ -2746,12 +2748,14 @@
       "email": "vilma.patoila@vapaaehtoiset.punainenristi.fi",
       "details": "Ystävätoiminnan vapaaehtoiset vierailevat kodeissa ja laitoksissa. Ystäväpyynnöt Vilma Patoilalle. Osaston toimipiste Aputupa, Paasionkatu 6, ei automaattisesti ystävätapaamisen paikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/salon-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "publication_ready": true,
+      "event_data_status": "not_applicable_service_directory",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia."
     },
     {
       "id": "av-0137",
@@ -2855,15 +2859,17 @@
       "email": "ylane@osasto.punainenristi.fi",
       "details": "Yläneen osasto tarjoaa ystävätoiminnan yhteydessä asiointiapua kauppaan ja apteekkiin sekä tukea lääkärikäynneille. Yläne kuuluu Pöytyän kuntaan. Tapaamiset sovitaan erikseen.",
       "source_url": "https://osastot.punainenristi.fi/osastot/ylaneen-osasto/toiminta/ystavatoiminta",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_source_reviewed_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "not_applicable_service_directory",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystävä- tai saattajapalvelu, saatavuus sovitaan järjestäjältä; omat kulut mahdollisia."
     },
     {
       "id": "av-0143",
