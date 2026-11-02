@@ -3396,12 +3396,14 @@
       "phone": "040 120 4576",
       "details": "Kertaluonteinen auttaminen ja saattaminen. Puhelinpäivystys keskiviikkoisin klo 9–11; muulloin tekstiviesti.",
       "source_url": "https://osastot.punainenristi.fi/osastot/meri-lapin-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
-      "event_data_status": "needs_event_detail_if_applicable"
+      "event_data_status": "needs_event_detail_if_applicable",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoistoiminta; avun saatavuus sovitaan järjestäjältä, mahdolliset asiakkaan omat kulut erikseen."
     },
     {
       "id": "av-0170",
@@ -3485,15 +3487,17 @@
       "phone": null,
       "details": "Vapaaehtoisen saattajan apu kauppa- tai lääkärikäynneille. Yhteyshenkilö Meeri Holmberg, meeri.holmberg@gmail.com. Toiminta-alue kattaa Kirkkonummen ja Siuntion; ei tiedossa kiinteää vastaanottopaikkaa.",
       "source_url": "https://osastot.punainenristi.fi/osastot/kirkkonummi-siuntion-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
       "event_data_status": "needs_event_detail_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoistoiminta; avun saatavuus sovitaan järjestäjältä, mahdolliset asiakkaan omat kulut erikseen."
     },
     {
       "id": "av-0175",
@@ -3545,12 +3549,14 @@
       "phone": "040 673 2077",
       "details": "Koulutettu vapaaehtoisystävä yksinäiselle, yhteydenpito puhelimitse tai tapaamisin; mahdollisuus kulttuuriystävään. Yhteys osastoon pargas@avdelning.rodakorset.fi.",
       "source_url": "https://osastot.punainenristi.fi/osastot/paraisten-osasto/toiminta",
-      "price_status": "pending_review",
+      "price_status": "free_volunteer_service_personal_expenses_possible",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
-      "event_data_status": "needs_event_detail_if_applicable"
+      "event_data_status": "needs_event_detail_if_applicable",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoistoiminta; avun saatavuus sovitaan järjestäjältä, mahdolliset asiakkaan omat kulut erikseen."
     },
     {
       "id": "av-0178",
