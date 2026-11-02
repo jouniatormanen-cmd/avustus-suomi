@@ -2208,13 +2208,15 @@
       "verification_status": "spr_local_activity_and_general_guidance_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "review_note": "Paikallisen SPR-osaston toiminta ja SPR:n yleiset ystävätoiminnan maksuttomuusperiaatteet tarkistettu. Vapaaehtoisesta ystävätoiminnasta ei peritä palkkiota; asiakkaan omat matka-, kahvila- tai pääsylippukulut voivat jäädä maksettaviksi. Yksittäisen paikallisen palvelun tarkat kulukäytännöt varmistettava järjestäjältä.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "spr_sources_checked_2026-11-02",
+      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa."
     },
     {
       "id": "av-0112",
@@ -2248,10 +2250,12 @@
       "verification_status": "local_spr_contacts_and_general_friendship_principles_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
-      "review_note": "Paikallisosaston yhteystietosivu vahvistaa ystävätoiminnan yhteyshenkilön; SPR:n yleinen vapaaehtoisen ystävätoiminnan periaate on palkkiottomuus. Mahdolliset asiakkaan omat kulut ja vapaaehtoisen saatavuus tarkistettava osastolta. Paikallisen palvelun kaikkia käytäntöjä ei ole vahvistettu."
+      "review_note": "Paikallisosaston yhteystietosivu vahvistaa ystävätoiminnan yhteyshenkilön; SPR:n yleinen vapaaehtoisen ystävätoiminnan periaate on palkkiottomuus. Mahdolliset asiakkaan omat kulut ja vapaaehtoisen saatavuus tarkistettava osastolta. Paikallisen palvelun kaikkia käytäntöjä ei ole vahvistettu.",
+      "publication_review_status": "spr_sources_checked_2026-11-02",
+      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa."
     },
     {
       "id": "av-0114",
@@ -2266,10 +2270,12 @@
       "verification_status": "local_spr_contacts_and_general_friendship_principles_checked_2026-11-02",
       "last_verified": "2026-11-02",
       "recurrence": null,
-      "publication_ready": false,
+      "publication_ready": true,
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
-      "review_note": "Paikallisosaston yhteystietosivu vahvistaa ystävätoiminnan yhteyshenkilön; SPR:n yleinen vapaaehtoisen ystävätoiminnan periaate on palkkiottomuus. Mahdolliset asiakkaan omat kulut ja vapaaehtoisen saatavuus tarkistettava osastolta. Paikallisen palvelun kaikkia käytäntöjä ei ole vahvistettu."
+      "review_note": "Paikallisosaston yhteystietosivu vahvistaa ystävätoiminnan yhteyshenkilön; SPR:n yleinen vapaaehtoisen ystävätoiminnan periaate on palkkiottomuus. Mahdolliset asiakkaan omat kulut ja vapaaehtoisen saatavuus tarkistettava osastolta. Paikallisen palvelun kaikkia käytäntöjä ei ole vahvistettu.",
+      "publication_review_status": "spr_sources_checked_2026-11-02",
+      "publication_review_reason": "SPR:n paikallinen ystävätoiminta ja vapaaehtoisuuden maksuttomuus tarkistettu aiemmassa lähdearviossa."
     },
     {
       "id": "av-0115",
