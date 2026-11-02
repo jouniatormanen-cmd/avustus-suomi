@@ -1,0 +1,60 @@
+{
+  "round": 1,
+  "batch": "jatko-04",
+  "date": "2026-11-02",
+  "reviewed_files": [
+    "data/kartoitus-spr-kemi-siuntio-oulu-jatkuvat-ruokajaot-2026-11-02.json",
+    "data/kartoitus-perheneuvonta-diakoninen-kauppa-maksullisuusrajaukset-2026-11-02.json",
+    "data/kartoitus-vahvistetusti-maksuttomat-turku-lappi-2026-11-02.json"
+  ],
+  "findings": [
+    {
+      "service": "SPR Meri-Lappi Kemi",
+      "status": "säilytä",
+      "issue": "Tekstiviestikutsut, ei viikoittaista automaattista ruokakassia; tarkka jakeluosoite puuttuu."
+    },
+    {
+      "service": "SPR Kirkkonummi-Siuntio",
+      "status": "säilytä",
+      "issue": "Jakopaikka ja päivämäärät tarkistettava ruoka-apu.fi-palvelusta; mahdolliset duplikaatit."
+    },
+    {
+      "service": "SPR Oulu Toppila ja Kastelli",
+      "status": "säilytä erillisinä paikkoina",
+      "issue": "Tarkka jakopaikka ja kellonaika puuttuvat; vertaa aiempiin Oulun merkintöihin."
+    },
+    {
+      "service": "Keusote lapsiperheiden neuvonta",
+      "status": "odottaa",
+      "issue": "Maksuttomuus vahvistettava ennen hyväksyntää."
+    },
+    {
+      "service": "Pitäjänmäen diakoninen kauppa",
+      "status": "odottaa",
+      "issue": "Maksuttomuus, kriteerit ja asiointiajat tarkistettava."
+    },
+    {
+      "service": "Pirkanmaan ja Keusoten lapsiperheiden kotipalvelu",
+      "status": "ei yleisesti maksuton",
+      "issue": "Älä merkitse yleisesti maksuttomaksi."
+    },
+    {
+      "service": "Lapin lapsiperheiden kotipalvelu",
+      "status": "ehdollinen",
+      "issue": "Maksuttomuus vain rajatuissa tilanteissa; ei yleisesti maksuton."
+    },
+    {
+      "service": "Turun asumisneuvonta",
+      "status": "säilytä",
+      "issue": "Tarkista duplikaatti aiemman Turun palvelun kanssa."
+    },
+    {
+      "service": "Lapin maahanmuuttaneiden sosiaalineuvonta",
+      "status": "säilytä neuvontana",
+      "issue": "Vain neuvonta maksuton, muut palvelut voivat olla maksullisia; yksi alueellinen merkintä."
+    }
+  ],
+  "review_type": "aineiston sisäinen; ei uusia ulkoisia lähdevahvistuksia",
+  "public_site_changed": false,
+  "original_records_preserved": true
+}
