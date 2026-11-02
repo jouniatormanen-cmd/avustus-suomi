@@ -3057,12 +3057,14 @@
       "email": "ystavat.imatra@gmail.com",
       "details": "Ystäväparitoimintaa ja ystäväryhmä. Yhteyshenkilö Helena Miikki, puhelinaika ma–ke klo 9–15; muina arkipäivinä tekstiviesti.",
       "source_url": "https://osastot.punainenristi.fi/osastot/imatran-osasto/yhteystiedot",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0153",
@@ -3075,12 +3077,14 @@
       "email": null,
       "details": "Ystäväparitoimintaa sekä ryhmäkokoontumisia. Puhelinaika ma–pe klo 18–20, vastaajaan voi jättää viestin.",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0154",
@@ -3093,12 +3097,14 @@
       "email": "ystava.spr.rautjarvi@gmail.com",
       "details": "Ystäväparitoiminta, puhelinaika klo 10–18; takaisinsoittomahdollisuus.",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia."
     },
     {
       "id": "av-0155",
