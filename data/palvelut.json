@@ -3604,7 +3604,9 @@
       "event_data_status": "needs_event_detail_if_applicable",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "publication_review_status": "hold_2026_campaign_and_referral_unverified",
+      "publication_review_reason": "Hyvä Joulumieli on kausittainen lahjakorttiapu. Vuoden 2026 kampanjan paikallinen jakomenettely ja hakukanava eivät ole vahvistettuja; ei julkaista vanhan kuvauksen perusteella."
     },
     {
       "id": "av-0176",
@@ -3905,7 +3907,9 @@
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "hold_schedule_location_and_free_access_unverified",
+      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla."
     },
     {
       "id": "av-0191",
@@ -3925,7 +3929,9 @@
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "hold_schedule_location_and_free_access_unverified",
+      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla."
     },
     {
       "id": "av-0192",
@@ -3945,7 +3951,9 @@
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "hold_schedule_location_and_free_access_unverified",
+      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja Zoom-liittymisohje puuttuvat. Ei julkaista arvauksilla."
     },
     {
       "id": "av-0193",
