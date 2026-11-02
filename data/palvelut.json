@@ -51,12 +51,15 @@
       "name": "Tampereen seurakuntien ruokapysäkki, Hervanta",
       "details": "Milloin: Ti klo 14 (varmista ajantasaisuus) | Missä: Valtaraitti, Hervannan kirkon takana, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
+      "schedule_verification_pending": true,
+      "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä."
     },
     {
       "id": "av-0005",
@@ -65,12 +68,15 @@
       "name": "Tampereen seurakuntien ruokapysäkki, Härmälä",
       "details": "Milloin: To klo 14 (varmista ajantasaisuus) | Missä: Talvitie 26, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
+      "schedule_verification_pending": true,
+      "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä."
     },
     {
       "id": "av-0006",
@@ -79,12 +85,15 @@
       "name": "Tampereen seurakuntien ruokapysäkki, Lielahti",
       "details": "Milloin: To klo 14 (varmista ajantasaisuus) | Missä: Ollinojankatu 2, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
+      "schedule_verification_pending": true,
+      "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä."
     },
     {
       "id": "av-0007",
@@ -93,12 +102,15 @@
       "name": "Tampereen seurakuntien ruokapysäkki, Linnainmaa",
       "details": "Milloin: Ma klo 14 (varmista ajantasaisuus) | Missä: Korpikodinkatu 2, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
+      "schedule_verification_pending": true,
+      "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä."
     },
     {
       "id": "av-0008",
@@ -107,12 +119,15 @@
       "name": "Tampereen seurakuntien ruokapysäkki, Tesoma",
       "details": "Milloin: Ma klo 14 (varmista ajantasaisuus) | Missä: Tesomankuja 11, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "access_requirement": "Maksuton ruokakassi pienituloisille tamperelaisille; ei ajanvarausta, erillistä lupaa eikä kirkon jäsenyyttä. Kasseja rajallisesti.",
+      "schedule_verification_pending": true,
+      "review_note": "Viisi ruokapysäkkiä vahvistettu järjestäjän sivulta. Tarkka ajantasainen jakeluaika tarkistettava ruoka-apu.fi:stä."
     },
     {
       "id": "av-0009",
@@ -121,12 +136,14 @@
       "name": "Ruokapankin Puoti, Nekala",
       "details": "Milloin: Ke–to klo 12–15.15 | Missä: Kuoppamäentie 10, Tampere | Varmista poikkeusajat järjestäjältä ennen lähtöä.",
       "source_url": "https://tampereenseurakunnat.fi/tukea-ja-apua/ruoka-apu/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "organizer_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free_with_diaconal_authorization",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "access_requirement": "Ruokapankin Puodissa asiointi edellyttää diakoniatyöntekijän myöntämää asiointilupaa.",
+      "review_note": "Eri palvelu kuin avoimet ruokapysäkit; ei saa kuvata ilman lupaa käytettäväksi."
     },
     {
       "id": "av-0010",
