@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-02",
+  "records": [
+    {
+      "municipality": "kouvola",
+      "name": "Kouvolan kaupungin asumisneuvonta",
+      "category": "Asuminen",
+      "organizer": "Kouvolan kaupunki",
+      "phone": "040 144 0423",
+      "email": "asumisneuvonta@kouvola.fi",
+      "source_url": "https://www.kouvola.fi/asuminen-ja-ymparisto/asuminen/asumisneuvonta/",
+      "free_service": true,
+      "details": "Kaikille Kouvolassa asuville tai muuttaville asumismuodosta riippumatta; myös vuokranantajat. Asunnonhaku, vuokravelka, häätöuhka, etuudet ja asumisen ongelmat.",
+      "status": "käynnissä 2026–2027; jatko tarkistettava"
+    },
+    {
+      "municipality": "tuusula",
+      "name": "Tuusulan kunnan asumisneuvonta",
+      "category": "Asuminen",
+      "organizer": "Tuusulan kunta",
+      "source_url": "https://tuusula.cloudnc.fi/download/noname/%7B040af46e-b9e9-4521-ad34-95af7f13c657%7D/132399",
+      "free_service": true,
+      "details": "Kaikille kuntalaisille, maksuton. Asunnon etsintä, vuokravelat ja asumisen ongelmat.",
+      "status": "2025 kunnan pöytäkirjassa vahvistettu; ajantasaiset yhteystiedot tarkistettava"
+    },
+    {
+      "municipality": "tampere",
+      "name": "Tampereen kaupungin asumisneuvonta – maksuttomuusvahvistus",
+      "category": "Asuminen",
+      "source_url": "https://www.tampere.fi/kaupunki-ja-paatoksenteko/asioi-kaupungin-kanssa/kaupungintalon-asiakaspalvelu",
+      "free_service": true,
+      "phone": "03 565 74700",
+      "status": "Täydentää aikaisempaa ehdokasta; ei erillinen uusi palvelu"
+    }
+  ],
+  "publication_ready": false,
+  "notes": "Kouvolan ja Tuusulan tiedot järjestäjän omista lähteistä. Tampere täydentää aikaisempaa erillistä ehdokasta; yhdistäminen ja ajantasaisuuden tarkistus myöhemmin. Ei sivustomuutoksia."
+}
