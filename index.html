@@ -27,10 +27,10 @@ function render(){
  const host=document.getElementById('category-results');host.replaceChildren();serviceBox.replaceChildren();
  const makeCard=r=>{
   const article=document.createElement('article');article.className='service';
-  const type=document.createElement('span');type.className='type';type.textContent=municipalityLabel(r.municipality)+' · Maksuton';
+  const type=document.createElement('span');type.className='type';type.textContent=municipalityLabel(r.municipality)+' · '+(r.price_status==='free'?'Maksuton':'Maksuttomuuteen voi liittyä ehtoja');
   const h=document.createElement('h3');h.textContent=r.name||'Avustuspalvelu';
   const description=document.createElement('p');description.textContent=r.details||'Tarkista tiedot järjestäjältä.';
-  article.append(type,h,description);
+  article.append(type,h,description);if(r.price_status!=='free'){const note=document.createElement('p');note.textContent='Tarkista palvelun maksuttomuuden ehdot järjestäjältä.';article.append(note)}
   if(r.address){const p=document.createElement('p');p.textContent='Osoite: '+r.address;article.append(p)}
   if(r.phone){const p=document.createElement('p');p.textContent='Puhelin: '+r.phone;article.append(p)}
   if(r.contact_channel){const p=document.createElement('p');p.textContent='Yhteydenotto: '+r.contact_channel;article.append(p)}
@@ -57,7 +57,7 @@ document.getElementById('need').addEventListener('input',clearResults);region.ad
 document.getElementById('search').addEventListener('submit',e=>{e.preventDefault();if(!loaded){result.hidden=false;result.textContent='Palvelutietoja ladataan vielä. Yritä hetken kuluttua.';return}const hasQuery=Boolean(document.getElementById('need').value.trim()||region.value||place.value);if(!hasQuery){clearResults();result.hidden=false;result.textContent='Kirjoita hakusana tai valitse maakunta tai paikkakunta.';result.scrollIntoView({behavior:'smooth',block:'start'});return}render();result.scrollIntoView({behavior:'smooth',block:'start'})});
 (async()=>{
  try{
-  const response=await fetch('data/palvelut.json',{cache:'no-store'});
+  const response=await fetch('data/paarekisteri.json',{cache:'no-store'});
   if(!response.ok)throw Error('HTTP '+response.status);
   const data=await response.json();
   if(!Array.isArray(data.records))throw Error('Virheellinen palveluaineisto');
