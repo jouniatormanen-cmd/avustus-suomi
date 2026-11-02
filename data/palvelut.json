@@ -243,12 +243,15 @@
       "name": "Hietaniemenkadun palvelukeskus",
       "details": "Asunnottomille maksuton aamiainen ja peseytymismahdollisuus. Lounas ja päivällinen ovat maksullisia.",
       "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/sosiaalinen-ja-taloudellinen-tuki/asunnottomien-palvelut/asunnottomien-ruoka-ja-hygieniapalvelut",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "city_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free_breakfast_and_hygiene_paid_lunch_dinner",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Maksuton aamiainen vain hätämajoituksessa yöpyville kaupungin palvelukeskuksen yksityiskohtaisen sivun mukaan. Suihku, sauna ja vaatteiden pesu käytössä; lounas ja päivällinen maksavat 1,20 euroa kumpikin.",
+      "access_requirement": "Maksuton aamiainen hätämajoituksessa yöpyville.",
+      "publication_ready": false
     },
     {
       "id": "av-0018",
@@ -306,12 +309,13 @@
       "name": "Seurakuntien diakonia – taloudellinen apu",
       "details": "Akuutissa hätätilanteessa voidaan harkinnanvaraisesti auttaa esimerkiksi ruokaostoksissa tai kiireellisessä laskussa. Käytännöt vaihtelevat paikkakunnittain.",
       "source_url": "https://evl.fi/apua-ja-tukea/rahahuolet/",
-      "verification_status": "requires_recheck",
-      "last_verified": null,
-      "price_status": "check_source",
+      "verification_status": "church_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
+      "price_status": "free_counselling_conditional_financial_aid",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "parish_or_church"
+      "source_kind": "parish_or_church",
+      "review_note": "Diakoniatyön neuvonta ja harkinnanvarainen apu; avustuksen myöntäminen ei ole automaattista ja käytännöt vaihtelevat seurakunnittain."
     },
     {
       "id": "av-0022",
@@ -1063,13 +1067,14 @@
       "name": "Edistian asumisneuvonta espoolaisille",
       "address": null,
       "details": "Neuvontaa asumismuodoista, asunnonhausta, asumiskustannuksista ja asukkaan oikeuksista. Soittopyyntö 044 727 3415 ma–pe 8–18, asumisneuvonta@espoo.fi. Maksuttomuus tarkistettava.",
-      "source_url": "https://www.espoo.fi/yhteystiedot/asumisneuvonta-espoolaisille",
-      "price_status": "check_source",
-      "verification_status": "official_source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "source_url": "https://www.espoo.fi/fi/hello-espoo-tervetuloa-espooseen/asuminen-ja-yhteisollisyys",
+      "price_status": "free",
+      "verification_status": "city_primary_source_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "service_without_dated_events",
-      "source_kind": "other"
+      "source_kind": "other",
+      "review_note": "Espoon kaupunki vahvistaa Edistian asumisneuvonnan maksuttomaksi kaikille espoolaisille."
     },
     {
       "id": "av-0070",
