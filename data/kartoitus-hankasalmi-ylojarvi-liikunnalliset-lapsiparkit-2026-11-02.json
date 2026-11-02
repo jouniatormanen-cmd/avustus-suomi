@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "20261102-ylojarvi-liikunnallinen-lapsiparkki",
+      "municipality": "Ylöjärvi",
+      "name": "Maksuton liikunnallinen lapsiparkki",
+      "category": "Kotiapu",
+      "subcategory": "Lastenhoitoapu",
+      "organizer": "Ylöjärven kaupungin liikuntapalvelut",
+      "address": "Ylöjärven urheilutalo, Koulutie 6, 33470 Ylöjärvi",
+      "schedule": "21.11. ja 12.12.2026 klo 10–13; syksyllä noin kerran kuukaudessa",
+      "conditions": "Yli 1-vuotiaat lapset voivat jäädä ohjaajien hoitoon vanhemman liikunnan ajaksi. Enintään 8 lasta, ei ennakkoilmoittautumista, saapumisjärjestys. Vanhemman oltava urheilutalolla tai lähistöllä. Lapsen tulee kyetä toimimaan ryhmässä.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://www.ylojarvi.fi/tapahtuma/liikunnallinen-lapsiparkki-urheilutalolla-4/",
+      "verification_status": "municipality_primary_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    },
+    {
+      "id": "20261102-hankasalmi-liikunnallinen-lapsiparkki",
+      "municipality": "Hankasalmi",
+      "name": "Maksuton liikunnallinen lapsiparkki",
+      "category": "Kotiapu",
+      "subcategory": "Lastenhoitoapu",
+      "organizer": "Hankasalmen kunta",
+      "address": "Hankasalmen monitoimitalo, Kirkkotie 11, Hankasalmi",
+      "schedule": "14.11.2026 klo 10–13; syksyn muut kerrat 26.9. ja 10.10.",
+      "conditions": "Yli 1-vuotiaat voivat jäädä kahden ohjaajan hoitoon vanhemman liikunnan ajaksi. Vanhemman pysyttävä lähistöllä. Suunnattu alle kouluikäisille ja 1.–3. luokan lapsille. Syksyn jälkeen jatkuvuus tarkistettava.",
+      "fee_status": "confirmed_free",
+      "source_url": "https://hankasalmi.fi/liikunnallinen-lapsiparkki-syksylla-2026/",
+      "verification_status": "municipality_primary_2026",
+      "publication_ready": false,
+      "duplicate_review_pending": true
+    }
+  ],
+  "notes": "Kaksi kuntien vahvistamaa maksutonta toistuvaa syksyn 2026 lastenhoitopalvelua. Vain liikunnan ajaksi, ei kotiin vietävä lastenhoito. Syyskauden jälkeinen jatkuvuus tarkistettava. Ei sivustomuutoksia."
+}
