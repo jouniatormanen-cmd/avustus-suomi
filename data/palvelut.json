@@ -3217,10 +3217,12 @@
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "SPR Kaakkois-Suomen piirin sivu vahvistaa asiointiavun, auttavan puhelimen, numeron ja palveluajat; avun maksuttomuus ei ilmene yksiselitteisesti."
     },
     {
       "id": "av-0157",
@@ -3504,14 +3506,17 @@
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "phone": "050 350 4275",
-      "details": "Äkillisen onnettomuuden tai muun kohtuuttoman häiriötilanteen, esimerkiksi tulipalon tai tulvan, kohdanneiden auttaminen. Avustusmuoto ja myöntämisehdot arvioidaan tapauskohtaisesti; ei yleinen raha-avustus.",
+      "details": "Kotimaan kriisiapu äkillisen onnettomuuden tai muun kohtuuttoman häiriötilanteen kohdanneille, esimerkiksi tulipalon tai tulvan jälkeen. Yhteydenotot 050 350 4275; ei yleinen raha-avustus. Osastolla ei ole käyntitoimipistettä.",
       "source_url": "https://osastot.punainenristi.fi/osastot/meri-lapin-osasto/yhteystiedot",
       "price_status": "pending_review",
       "verification_status": "official_organizer_page_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "recurrence": null,
-      "event_data_status": "needs_event_detail_if_applicable"
+      "event_data_status": "needs_event_detail_if_applicable",
+      "email": "meri-lappi@osasto.punainenristi.fi",
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "SPR:n oma sivu vahvistaa avun, ehdot ja suoran yhteysnumeron. Maksuttomuus ei ilmene yksiselitteisesti; avustuksen muoto tapauskohtainen."
     },
     {
       "id": "av-0171",
@@ -3622,17 +3627,20 @@
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "phone": "040 673 2077",
-      "details": "Ruoka-apuryhmä järjestää ruoanvalmistusta, ruokajakoja ja ruokakassien täyttöä. Yksittäisten jakelujen paikat ja ajat vielä vahvistamatta. Osaston yhteyspiste Humana, Strandvägen 16 AL 1, ei vahvistettu jakelupaikka.",
+      "details": "SPR Paraisten ruoka-apuryhmä järjestää ruokajakoja ja ruokakassien täyttöä. Kysy ajankohtaiset jakelut osastolta, puh. 040 673 2077 tai sähköpostitse. Osaston yhteysosoite Strandvägen 16 ei ole vahvistettu jakelupaikaksi.",
       "source_url": "https://osastot.punainenristi.fi/osastot/paraisten-osasto/toiminta",
       "price_status": "pending_review",
       "verification_status": "official_organizer_page_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "recurrence": null,
       "event_data_status": "needs_event_detail_if_applicable",
       "audit_flags_2026_11_02": [
         "distribution_location_review"
-      ]
+      ],
+      "email": "pargas@avdelning.rodakorset.fi",
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "SPR:n sivu vahvistaa ruoka-apuryhmän ja yhteystiedot; maksuttomuus ja yksittäisen jakelun osallistumisohjeet eivät ilmene."
     },
     {
       "id": "av-0177",
@@ -3760,19 +3768,22 @@
       "category": "Keskusteluapu",
       "municipality": "kajaani",
       "name": "SPR Kajaanin Red Cross Kahvila",
-      "details": "Kansainvälinen kohtaamispaikka Red Cross Kahvila. Tarkat kokoontumiskerrat ja osoite tarkistettava osastolta.",
+      "details": "SPR Kajaanin osaston kansainvälinen kohtaamispaikka Red Cross Kahvila. Tiedustele osallistumisesta osastolta sähköpostitse tai puhelimitse 040 749 8264. Osaston toimisto avoinna sopimuksen mukaan; toimiston osoitetta ei pidä tulkita kahvilan kokoontumispaikaksi.",
       "source_url": "https://osastot.punainenristi.fi/osastot/kajaanin-osasto",
       "email": "sprkajaaninosasto@gmail.com",
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01_details_pending",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "phone": "040 749 8264",
+      "publication_review_status": "organizer_source_checked_price_pending",
+      "publication_review_reason": "Osaston oma sivu vahvistaa kahvilan olemassaolon ja yhteydenottokanavat. Osallistumisen maksuttomuutta ei vahvisteta nimenomaisesti."
     },
     {
       "id": "av-0184",
