@@ -2961,10 +2961,10 @@
       "category": "Keskusteluapu",
       "municipality": "riihimäki",
       "name": "SPR Riihimäen Pelirasti – avoin peli- ja kohtaamispaikka",
-      "address": null,
+      "address": "Keskuskatu 1, Riihimäki",
       "phone": "050 464 2080",
       "email": "riihimaki.ystavavalitys@punainenristi.fi",
-      "details": "Avoin lauta- ja korttipelien kohtaamispaikka keskiviikkoisin klo 13–15. Järjestäjän mukaan paikalle voi tulla vapaasti. Tarkka Pelirastin osoite on varmistettava ystävävälityksestä.",
+      "details": "SPR Riihimäen Pelirasti – lauta- ja korttipelien kohtaamispaikka keskiviikkoisin klo 13–15 osaston toimitilassa, Keskuskatu 1. Tapahtumien toteutuminen ja mahdolliset poikkeukset kannattaa varmistaa osastolta.",
       "source_url": "https://osastot.punainenristi.fi/osastot/riihimaen-osasto/toiminta/ystavatoiminta",
       "price_status": "pending_review",
       "verification_status": "official_source_reviewed_2026-11-01",
@@ -2972,8 +2972,8 @@
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Avoimuus, viikoittainen aika ja yhteydenottokanava vahvistettu. Maksuttomuutta ei mainita nimenomaisesti."
+      "publication_review_status": "organizer_place_and_schedule_verified_price_pending",
+      "publication_review_reason": "SPR:n toukokuun 2026 tapahtumaohjelma vahvistaa Keskuskatu 1:n Pelirastin paikaksi sekä keskiviikon klo 13–15; maksuttomuutta ei nimenomaisesti vahvisteta."
     },
     {
       "id": "av-0145",
@@ -4000,13 +4000,13 @@
       "id": "av-0193",
       "municipality": "espoo",
       "category": "Ystävätoiminta",
-      "name": "SPR Keski-Espoon Suomikamu-toiminta",
+      "name": "SPR Keski-Espoon SuomiKamu – ystävä maahan muuttaneelle",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "suomikamusprespoo@gmail.com",
       "address": null,
-      "details": "SPR Keski-Espoon Suomikamu-toiminta tukee maahan muuttaneiden suomen kielen harjoittelua ja tutustumista arkeen vapaaehtoisen kanssa. Yhteydenotot suomikamusprespoo@gmail.com. Tarkat osallistumisehdot ja maksuttomuus varmistettava järjestäjältä.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
+      "details": "SuomiKamu yhdistää Espooseen asettuneen, oleskeluluvan saaneen maahan muuttaneen vapaaehtoiseen ystävään. Yhdessä voi harjoitella suomea, tutustua palveluihin ja tehdä tavallisia arjen asioita. Tapaamiset sovitaan yhdessä; vapaaehtoinen sitoutuu vähintään yhteen tapaamiseen kuukaudessa noin kuuden kuukauden ajan. Tiedustelut suomikamusprespoo@gmail.com. Vapaaehtoisen koulutusvaatimukset eivät ole apua hakevan vaatimuksia.",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/keski-espoon-osasto/toiminta/suomikamu-toiminta-espoossa",
       "price_status": "pending_review",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
       "last_verified": "2026-11-02",
@@ -4015,8 +4015,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "organizer_activity_verified_access_pending",
-      "publication_review_reason": "Järjestäjän toimintakuvaus ja yhteydenottokanava vahvistettu; osallistumisehdot ja maksuttomuus eivät käy ilmi."
+      "publication_review_status": "organizer_service_and_eligibility_verified_price_pending",
+      "publication_review_reason": "SPR:n palvelukohtainen sivu vahvistaa apua saavan kohderyhmän, ystävätoiminnan sisällön ja toistuvuuden; maksuttomuutta ei nimenomaisesti vahvisteta."
     },
     {
       "id": "av-0194",
