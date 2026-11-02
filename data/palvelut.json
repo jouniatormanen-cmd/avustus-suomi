@@ -770,17 +770,17 @@
       "municipality": "helsinki",
       "name": "Myllypuron elintarvikejakelu",
       "address": "Jauhokuja 3, Helsinki",
-      "details": "Elintarvikejakelu tiistaisin ja perjantaisin klo 8–10 Helsingin seurakuntien ilmoituksen mukaan. Tarkista muutokset ennen käyntiä.",
-      "source_url": "https://www.helsinginseurakunnat.fi/uutiset/ruokailujajaruokajakojahelsinginseurakunnissakevatkaudella2026",
+      "details": "TOIMINTA PÄÄTTYNYT 24.4.2026. Ei julkaista avoimena ruoka-apupalveluna.",
+      "source_url": "https://www.helsinginseurakunnat.fi/uutiset/myllypuronelintarvikejakeluntoimintalopetetaan",
       "price_status": "free",
-      "verification_status": "public_source_reviewed_2026-11-01",
-      "last_verified": "2026-11-01",
+      "verification_status": "closure_confirmed_primary_source_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "publication_ready": false,
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava.",
+      "publication_review_status": "excluded_service_closed_2026_04_24",
+      "publication_review_reason": "Myllypuron elintarvikejakelu päättyi 24.4.2026; Helsingin seurakunnat ilmoitti lopetuspäätöksestä 12.3.2026. Vanha kevätkauden jakeluaikataulu ei ole enää voimassa.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ]
@@ -3762,24 +3762,24 @@
     },
     {
       "id": "av-0182",
-      "category": "Keskusteluapu",
+      "category": "Opiskeluapu",
       "municipality": "kuopio",
       "name": "SPR Kuopion LäksyHelppi",
-      "details": "Opiskelun ja läksyjen tukea etenkin Suomeen muuttaneille, myös muille koululaisille ja opiskelijoille. Kokoontumisaika ja paikka tarkistettava.",
+      "details": "SPR Kuopion LäksyHelppi tukee läksyjen teossa ja opiskelussa erityisesti Suomeen muuttaneita. Myös muut koululaiset, opiskelijat ja itseopiskelijat ovat tervetulleita. Osallistumisesta ja kokoontumisista voi kysyä osoitteesta moniku@sprkuopio.com.",
       "source_url": "https://osastot.punainenristi.fi/index.php/osastot/kuopion-osasto/toiminta/hyvinvointi",
       "email": "moniku@sprkuopio.com",
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01_details_pending",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "publication_review_status": "organizer_service_confirmed_free_access_pending",
+      "publication_review_reason": "SPR Kuopion osaston ajantasainen toimintasivu ja yhteystiedot vahvistavat toiminnan ja kohderyhmän. Maksuttomuudesta ei löydy nimenomaista paikallista mainintaa."
     },
     {
       "id": "av-0183",
@@ -4019,24 +4019,24 @@
     {
       "id": "av-0194",
       "municipality": "espoo",
-      "category": "Keskusteluapu",
+      "category": "Opiskeluapu",
       "name": "SPR Keski-Espoon läksyhelppi",
       "organizer": "SPR Keski-Espoon osasto",
       "phone": null,
       "email": "laksyhelppi@sprkeskiespoo.fi",
       "address": null,
-      "details": "Läksyhelppi ja kouluyhteistyö: opiskelun tukemista. Ei kotona annettavaa kotiapua. Tarkka toimipaikka, osallistumisehdot, maksuttomuus ja aikataulu tarkistettava järjestäjältä.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/keski-espoon-osasto/yhteystiedot",
+      "details": "SPR Keski-Espoon Läksyhelppi Kirstin koulun oppilaille tiistaisin klo 13.15–15. Toiminta on koulukohtaista eikä yleinen avoin läksyapupiste. Lisätiedot laksyhelppi@sprkeskiespoo.fi.",
+      "source_url": "https://osastot.punainenristi.fi/index.php/osastot/keski-espoon-osasto/toiminta/laksyhelppi-toiminta",
       "price_status": "pending_review",
       "verification_status": "source_checked_2026-11-01_missing_event_details",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "publication_review_status": "restricted_to_kirstin_school_pupils_free_access_pending",
+      "publication_review_reason": "Osaston oma toimintakuvaus vahvistaa Kirstin koulun oppilaille tarkoitetun läksyavun, viikonpäivän ja kellonajan. Maksuttomuuden paikallinen vahvistus puuttuu, eikä palvelua saa esittää kaikille avoimena."
     },
     {
       "id": "av-0195",
