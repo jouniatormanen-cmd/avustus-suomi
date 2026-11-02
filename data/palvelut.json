@@ -3117,12 +3117,14 @@
       "email": null,
       "details": "Ystäväparitoimintaa ja ystävätoimintaa palvelukeskuksissa. Tapaamiset sovitaan erikseen.",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia; ryhmien ajankohdat sovitaan järjestäjältä."
     },
     {
       "id": "av-0156",
@@ -3153,12 +3155,14 @@
       "email": null,
       "details": "Ryhmäkokoontumisia ja ystävätoimintaa palvelukeskuksissa. Piirin sosiaalisen hyvinvoinnin suunnittelijan numero 040 860 1413. Ajankohdat ja kokoontumispaikat tarkistettava.",
       "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-kaakkois-suomen-piiri/ystavatoiminta-kaakkois-suomen-piirissa/",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia; ryhmien ajankohdat sovitaan järjestäjältä."
     },
     {
       "id": "av-0158",
@@ -3267,12 +3271,14 @@
       "email": "kouvola@punainenristi.fi",
       "details": "Kouvolan osasto järjestää vapaaehtoista ystävätoimintaa. Yhteys osaston puheenjohtajaan Juha Siiraan numerossa 0400 752 199 tai osaston sähköpostiin. Ystävänvälityksen erillisiä aukioloaikoja tai henkilökohtaisten tapaamisten paikkoja ei ilmoitettu. Toimiston osoite ei ole automaattisesti tapaamispaikka.",
       "source_url": "https://osastot.punainenristi.fi/osastot/kouvolan-osasto",
-      "price_status": "pending_review",
+      "price_status": "free_service_possible_personal_expenses",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
       "recurrence": null,
-      "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "publication_ready": true,
+      "event_data_status": "service_without_dated_events",
+      "publication_review_status": "prior_organizer_source_reviewed",
+      "publication_review_reason": "SPR:n vapaaehtoinen ystäväpalvelu, asiakkaan omat kulut mahdollisia; ryhmien ajankohdat sovitaan järjestäjältä."
     },
     {
       "id": "av-0163",
