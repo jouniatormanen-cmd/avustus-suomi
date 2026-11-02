@@ -42,7 +42,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Lindforsinkatu 7, Tampere",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0003",
@@ -63,7 +65,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Artturintie 14, Kangasala",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0004",
@@ -110,7 +114,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Talvitie 26, Tampere",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0006",
@@ -133,7 +139,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Ollinojankatu 2, Tampere",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0007",
@@ -156,7 +164,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Korpikodinkatu 2, Tampere",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0008",
@@ -179,7 +189,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Tesomankuja 11, Tampere",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0009",
@@ -201,7 +213,9 @@
       "publication_review_reason": "Lähde- ja palvelukohtainen julkaisutarkistus vielä tehtävä; rakennetarkistus ei yksin vahvista julkaisuvalmiutta.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Kuoppamäentie 10, Tampere",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0010",
@@ -245,7 +259,9 @@
       "duplicate_review_note": "Sama SPR:n Gammelbackan ruokajako; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty tietojen yhdistämistä varten.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Tornipolku 10, Porvoo",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0014",
@@ -270,7 +286,9 @@
       "duplicate_review_note": "Sama SPR:n Gammelbackan ruokajako; hakutuloksiin yksi palvelu. Molemmat merkinnät säilytetty tietojen yhdistämistä varten.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "address": "Tornipolku 10, Porvoo",
+      "address_extraction_status": "extracted_from_existing_description_2026-11-02"
     },
     {
       "id": "av-0015",
