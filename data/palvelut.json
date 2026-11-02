@@ -196,17 +196,19 @@
       "locality": "Porvoon keskusta",
       "name": "Porvoon Kotikirkko – Leipäkirkon säännöllinen ruoka-apu",
       "organizer": "Porvoon Helluntaiseurakunta (Kotikirkko)",
-      "details": "Seurakunnan mukaan ylijäämäruokaa jaetaan kahden viikon välein. Syksyn 2026 jakopäivät on julkaistu; tulevia jakopäiviä vuoden 2026 jälkeen ei ole vahvistettu. Samassa yhteydessä mahdollisuus keskustella työntekijöiden kanssa. Ruoka-aputyöstä vastaavat Soraja ja Valde Lindgren, 0400 613 710.",
+      "details": "Leipäkirkon ylijäämäruoan jako yleensä kahden viikon välein. Tarkista seuraava jakopäivä suoraan seurakunnalta; yksittäisiä tulevia päivämääriä ei ole vahvistettu. Ruoka-aputyöstä vastaavat Soraja ja Valde Lindgren, 0400 613 710. Mahdollisuus keskusteluun työntekijöiden kanssa.",
       "source_url": "https://www.porvoonkotikirkko.fi/leipakirkko/",
       "secondary_source_url": "https://www.porvoonkotikirkko.fi/l/soppa/",
       "service_type": "recurring_service",
-      "price_status": "free_to_recipient_source_indicates_food_aid",
+      "price_status": "free_food_aid_subject_to_availability",
       "verification_status": "organizer_primary_source_checked_2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "continuity_note": "Toistuva toimintamuoto on vahvistettu. Vuoden 2027 toiminnan ja rytmin jatkuminen tarkistettava; ei yksittäisiä tapahtumapäiviä.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
-      ]
+      ],
+      "publication_review_status": "organizer_source_checked_with_availability_caveat",
+      "publication_review_reason": "Järjestäjän ilmoittama jatkuva tai toistuva ruoka-apu; yksittäisen jakokerran ajankohta ja saatavuus varmistettava ennen asiointia."
     },
     {
       "id": "av-0012",
@@ -3399,17 +3401,19 @@
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "phone": "040 744 0948",
-      "details": "Tiistaisin klo 9.30–13.30 puhelinpäivystys; noutoaika ilmoitetaan tekstiviestillä tiistaina. Kaksi omaa kassia. Lahjoitettua hävikkiruokaa, osin pakastettua. Ruokaa ei riitä kaikille joka viikko; vuorottelu lapsiperheille noin 6 viikkoa, lapsettomille noin 12 viikkoa.",
+      "details": "Tiistaisin klo 9.30–13.30 puhelinpäivystys; noutoaika ilmoitetaan tekstiviestillä tiistaina. Kaksi omaa kassia. Lahjoitettua hävikkiruokaa, osin pakastettua. Ruokaa ei riitä kaikille joka viikko; vuorottelu lapsiperheille noin 6 viikkoa, lapsettomille noin 12 viikkoa. Ruokakassit ovat maksutonta ruoka-apua, mutta saaminen riippuu lahjoitusten määrästä ja järjestäjän vuorottelusta; noutopaikka ja -aika vahvistuvat yhteydenotossa.",
       "source_url": "https://osastot.punainenristi.fi/osastot/meri-lapin-osasto/toiminta/ruoka-apu",
-      "price_status": "pending_review",
+      "price_status": "free_food_aid_subject_to_availability",
       "verification_status": "official_organizer_page_checked_2026-11-01",
       "last_verified": "2026-11-01",
-      "publication_ready": false,
+      "publication_ready": true,
       "recurrence": null,
       "event_data_status": "needs_event_detail_if_applicable",
       "audit_flags_2026_11_02": [
         "distribution_location_review"
-      ]
+      ],
+      "publication_review_status": "organizer_source_checked_with_availability_caveat",
+      "publication_review_reason": "Järjestäjän ilmoittama jatkuva tai toistuva ruoka-apu; yksittäisen jakokerran ajankohta ja saatavuus varmistettava ennen asiointia."
     },
     {
       "id": "av-0167",
