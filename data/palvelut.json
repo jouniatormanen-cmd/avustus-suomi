@@ -173,7 +173,11 @@
       "price_status": "check_source",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "publication_ready": false,
+      "exclude_from_free_service_search": true,
+      "possible_duplicate_of": "av-0014",
+      "duplicate_status": "same_distribution_as_av-0014"
     },
     {
       "id": "av-0014",
@@ -187,7 +191,11 @@
       "price_status": "check_source",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "merged_equivalent_ids": [
+        "av-0012"
+      ],
+      "publication_ready": false
     },
     {
       "id": "av-0015",
@@ -735,7 +743,11 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "merged_equivalent_ids": [
+        "av-0151"
+      ],
+      "publication_ready": false
     },
     {
       "id": "av-0049",
@@ -2167,7 +2179,8 @@
       "source_url": "https://osastot.punainenristi.fi/osastot/mikkelin-osasto/toiminta/ystavatoiminta",
       "price_status": "pending_review",
       "record_type": "resident_visit",
-      "publication_ready": false
+      "publication_ready": false,
+      "audience_restricted_to": "Graanin palvelutalon asukkaat"
     },
     {
       "id": "av-0133",
@@ -2258,7 +2271,9 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "not_applicable_service_directory"
+      "event_data_status": "not_applicable_service_directory",
+      "schedule_verification_pending": true,
+      "audience_verification_pending": true
     },
     {
       "id": "av-0138",
@@ -2507,7 +2522,10 @@
       "last_verified": "2026-11-01",
       "recurrence": null,
       "publication_ready": false,
-      "event_data_status": "service_without_dated_events"
+      "event_data_status": "service_without_dated_events",
+      "exclude_from_free_service_search": true,
+      "possible_duplicate_of": "av-0048",
+      "duplicate_status": "same_friend_service_as_av-0048"
     },
     {
       "id": "av-0152",
