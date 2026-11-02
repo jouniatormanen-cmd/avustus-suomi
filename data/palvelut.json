@@ -2406,23 +2406,24 @@
       "id": "av-0119",
       "price_status": "pending_review",
       "verification_status": "needs_service_level_details",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "category": "Ruoka-apu",
       "municipality": "joensuu",
-      "name": "SPR Joensuun osasto – ruoka-aputoiminta (kartoituskohde)",
+      "name": "SPR Joensuun ruoka-aputapahtumat",
       "address": "Torikatu 29 A, 80100 Joensuu",
-      "details": "SPR Joensuun osasto ilmoittaa järjestävänsä ruoka-aputoimintaa. Jakelupaikka, aikataulu, ehdot ja mahdolliset maksut vielä tarkistamatta. Yhteydenotot joensuu@punainenristi.fi. Osaston osoite ei välttämättä ole jakelupaikka.",
-      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/yhteystiedot",
+      "details": "SPR Joensuun ruoka-aputiimi järjestää yhteisöllisiä ruoka-aputapahtumia noin kerran kuukaudessa kesäkautta lukuun ottamatta, yhteistyössä paikallisten toimijoiden kanssa. Tarjolla voi olla lämmintä ruokaa, keittolounasta tai kahvitarjoilua. Kysy seuraavan tilaisuuden aika ja paikka: joensuu@punainenristi.fi. Osaston osoite Torikatu 29 A ei ole vahvistettu tapahtumapaikka.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/joensuun-osasto/toiminta/ruoka-apu-toiminta",
       "data_quality_note": "Yleisluonteinen kartoituskohde: yksittäinen palvelu, paikka, ajat ja ehdot on vielä yksilöitävä ennen julkaisua.",
       "event_data_status": "service_without_dated_events",
       "source_kind": "red_cross",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "publication_review_status": "organizer_activity_confirmed_price_pending",
+      "publication_review_reason": "SPR Joensuun oma toimintakuvaus vahvistaa noin kuukausittain toistuvan ruoka-aputoiminnan ja yhteydenottotavan. Maksuttomuutta ei vahvisteta erikseen, eikä pysyvää jakelupaikkaa ilmoiteta.",
+      "email": "joensuu@punainenristi.fi"
     },
     {
       "id": "av-0120",
@@ -3829,21 +3830,22 @@
       "category": "Keskusteluapu",
       "municipality": "rantasalmi",
       "name": "SPR Rantasalmen kohtaamiskahvila S-Marketin Turinatuvalla",
-      "details": "Kohtaamiskahvila kuukauden ensimmäisenä maanantaina klo 13. Kesätauko 4.5. jälkeen; syyskauden jatkuminen tarkistettava, joten tulevia päiviä ei vielä luoda.",
+      "details": "SPR Rantasalmen kohtaamiskahvila S-Marketin Turinatuvalla kuukauden ensimmäisenä maanantaina klo 13. Järjestäjän sivulla mainitaan kesätauko 4.5. jälkeen; tarkista syyskauden toteutuminen osastolta, puh. 050 558 8104 tai rantasalmi@osasto.punainenristi.fi.",
       "source_url": "https://osastot.punainenristi.fi/index.php/osastot/rantasalmen-osasto/toiminta/ystavatoiminta",
       "email": "rantasalmi@osasto.punainenristi.fi",
       "organizer": "Suomen Punainen Risti",
       "address": null,
       "price_status": "pending_review",
       "verification_status": "official_source_checked_2026-11-01_details_pending",
-      "last_verified": "2026-11-01",
+      "last_verified": "2026-11-02",
       "publication_ready": false,
       "event_data_status": "needs_individual_occurrences_if_applicable",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
+      "publication_review_status": "organizer_recurring_activity_confirmed_season_and_price_pending",
+      "publication_review_reason": "SPR:n oma sivu vahvistaa säännöllisen kohtaamiskahvilan, paikan ja ajan, mutta syyskauden jatkuvuus ja maksuttomuus eivät ilmene yksiselitteisesti.",
+      "phone": "050 558 8104"
     },
     {
       "id": "av-0186",
@@ -4138,15 +4140,15 @@
       "phone": "044 781 2251",
       "email": "hyvinkaa@hopeyhdistys.fi",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/hyvinkaa/",
-      "details": "Palvelee myös Riihimäkeä, Mäntsälää, Järvenpäätä, Pohjois-Nurmijärveä, Läyliäistä, Loppea, Askolaa ja Pornaista. Asiakkaat ajanvarauksella. Avunpyyntölomake sivun mukaan kesätauolla, ajantasaisuus tarkistettava.",
+      "details": "Hope Hyvinkää tarjoaa vähävaraisille tai kriisin kohdanneille lapsiperheille maksutonta vaate- ja tavara-apua ajanvarauksella Hyvinkäänkatu 2:ssa. Avunpyyntö tehdään Hopen lomakkeella; paikallissivulla on kuitenkin edelleen ilmoitus lomakkeen kesätauosta. Varmista vastaanoton tilanne sähköpostitse hyvinkaa@hopeyhdistys.fi tai puhelimitse 044 781 2251 arkisin klo 10–18. Harrastustuen hakulomake on erikseen suljettu.",
       "eligibility": "Vähävarainen tai kriisin kohdannut lapsiperhe; hakemus paikallistoimijalle.",
       "free_service": true,
       "publication_ready": false,
       "verification_status": "organizer_page_rechecked_2026-11-02_intake_unclear",
       "price_status": "free_per_organizer",
       "last_verified": "2026-11-02",
-      "publication_review_status": "verification_in_progress",
-      "publication_review_reason": "Paikallissivulla avunpyyntölomakkeen kerrotaan olevan kesätauolla, vaikka nyt on marraskuu 2026. Ennen julkaisua varmistettava, että avunpyyntöjä otetaan vastaan."
+      "publication_review_status": "organizer_intake_conflict_confirmed_hold",
+      "publication_review_reason": "Hopen valtakunnallinen avunpyyntölomake näkyy, mutta Hyvinkään paikallissivu ilmoittaa edelleen kesätauon. Paikallisen vastaanoton avoimuus jää ristiriitaiseksi; ei julkaista ilman varmistusta."
     },
     {
       "id": "av-0200",
