@@ -350,12 +350,13 @@
       "source_kind": "red_cross",
       "review_note": " SPR:n valtakunnallinen ruoka-apusivu vahvistaa ruoka-avun maksuttomaksi. Paikalliset jakeluajat ja saatavuus tarkistettava erikseen.",
       "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Koonti- tai valtakunnallinen ohjausmerkintä: palvelukohtainen julkaisumalli selvitettävä.",
+      "publication_review_status": "excluded_generic_national_referral_not_individual_service",
+      "publication_review_reason": "Valtakunnallinen yleisohje tai koontisivu, ei yksilöityä paikallista haettavaa palvelua. Säilytetään lähdeaineistona, ei julkaista erillisenä hakutuloksena.",
       "audit_flags_2026_11_02": [
         "contact_channel_review",
         "distribution_location_review"
-      ]
+      ],
+      "record_type": "national_referral_reference_only"
     },
     {
       "id": "av-0019",
@@ -418,11 +419,12 @@
       "source_kind": "parish_or_church",
       "review_note": "Diakoniatyön neuvonta ja harkinnanvarainen apu; avustuksen myöntäminen ei ole automaattista ja käytännöt vaihtelevat seurakunnittain.",
       "publication_ready": false,
-      "publication_review_status": "structural_screened_2026-11-02_pending_service_level_review",
-      "publication_review_reason": "Koonti- tai valtakunnallinen ohjausmerkintä: palvelukohtainen julkaisumalli selvitettävä.",
+      "publication_review_status": "excluded_generic_national_referral_not_individual_service",
+      "publication_review_reason": "Valtakunnallinen yleisohje tai koontisivu, ei yksilöityä paikallista haettavaa palvelua. Säilytetään lähdeaineistona, ei julkaista erillisenä hakutuloksena.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "record_type": "national_referral_reference_only"
     },
     {
       "id": "av-0022",
@@ -2166,7 +2168,7 @@
       "details": "Diakoniatyöntekijältä voi kysyä kotikäyntiä sairauden tai vaikean elämäntilanteen aikana. Seurakunnissa voi olla vapaaehtoisia seuraksi, ulkoiluavuksi tai asioinnin tueksi. Saatavuus vaihtelee kunnittain, eikä kotiapua voi luvata kaikilla paikkakunnilla. Ota yhteys oman alueen seurakunnan diakoniatyöhön.",
       "source_url": "https://evl.fi/apua-ja-tukea/suru-ja-kriisi/tukea-sairaalle/",
       "price_status": "check_local_source",
-      "record_type": "national_referral",
+      "record_type": "national_referral_reference_only",
       "publication_ready": false,
       "verification_status": "official_source_checked_2026-11-01",
       "last_verified": "2026-11-01",
@@ -2175,7 +2177,9 @@
       "source_kind": "parish_or_church",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ]
+      ],
+      "publication_review_status": "excluded_generic_national_referral_not_individual_service",
+      "publication_review_reason": "Valtakunnallinen yleisohje tai koontisivu, ei yksilöityä paikallista haettavaa palvelua. Säilytetään lähdeaineistona, ei julkaista erillisenä hakutuloksena."
     },
     {
       "id": "av-0108",
