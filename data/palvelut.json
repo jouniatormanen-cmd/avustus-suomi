@@ -305,13 +305,12 @@
       "source_kind": "other",
       "review_note": "Porin kaupungin oma sivu sekä Satakunnan hyvinvointialueen palveluhakemisto ilmoittavat maksuttomuuden. Kyse on usean jakopisteen koontimerkinnästä, ei yhdestä Porin kaupungin järjestämästä jaosta; eri pisteiden järjestäjät ja ajat on eroteltava jatkossa.",
       "publication_ready": false,
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Koonti- tai valtakunnallinen ohjausmerkintä: palvelukohtainen julkaisumalli selvitettävä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Koonti- tai valtakunnallinen ohjausmerkintä: palvelukohtainen julkaisumalli selvitettävä.",
       "audit_flags_2026_11_02": [
         "contact_channel_review",
         "distribution_location_review"
-      ],
-      "verification_round_completed": "2026-11-02"
+      ]
     },
     {
       "id": "av-0017",
@@ -780,12 +779,11 @@
       "event_data_status": "not_applicable_service_directory",
       "source_kind": "other",
       "publication_ready": false,
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Lähteen palvelukohtainen todennus tarkistettava.",
       "audit_flags_2026_11_02": [
         "contact_channel_review"
-      ],
-      "verification_round_completed": "2026-11-02"
+      ]
     },
     {
       "id": "av-0040",
@@ -1706,13 +1704,12 @@
       "review_note": "Kansan Raamattuseura kuvaa Food & Hope -ruokailun ilmaiseksi; Katariinanseurakunnan syksyn 2026 sivu vahvistaa ruokakassijakopäivät 24.9., 15.10., 19.11., 17.12. ja ennakkoilmoittautumisen. Seurakunnan sivuilla esiintyy ristiriita klo 17–19 vs 18–20, joten tarkka kellonaika varmistettava järjestäjältä. Ruokakassien maksuttomuus pääteltävissä lahjoitusluonteesta, mutta erillinen maksuttomuusvahvistus puuttuu.",
       "access_requirement": "Nuoret aikuiset ja opiskelijat; ruokakassit taloudellisia haasteita kokeville; ennakkoilmoittautuminen pakollinen.",
       "publication_ready": false,
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ],
-      "verification_round_completed": "2026-11-02"
+      ]
     },
     {
       "id": "av-0086",
@@ -1753,13 +1750,12 @@
       "source_kind": "other",
       "review_note": "Vuoden 2026 syyskauden järjestäjän sivu vahvistaa aamupuuron; seurakunnan 2025 ohjelmalehti vahvistaa maksuttomuuden. Koivula pe 8.30–10 (4.9.–18.12.2026), Lauste ti 9.30–11 (1.9.–15.12.2026).",
       "publication_ready": false,
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ],
-      "verification_round_completed": "2026-11-02"
+      ]
     },
     {
       "id": "av-0088",
@@ -1777,13 +1773,12 @@
       "source_kind": "other",
       "review_note": "Vuoden 2026 syyskauden järjestäjän sivu vahvistaa aamupuuron; seurakunnan 2025 ohjelmalehti vahvistaa maksuttomuuden. Koivula pe 8.30–10 (4.9.–18.12.2026), Lauste ti 9.30–11 (1.9.–15.12.2026).",
       "publication_ready": false,
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ajankohtaan sidottu aikataulu: uusi ajantasaisuustarkistus ennen julkaisua.",
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review",
         "contact_channel_review"
-      ],
-      "verification_round_completed": "2026-11-02"
+      ]
     },
     {
       "id": "av-0089",
@@ -2420,9 +2415,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0120",
@@ -2832,9 +2826,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Järjestäjän lähde vahvistaa paikan, toistuvuuden ja yhteystiedot. Osallistumisen maksuttomuutta ei ilmaista yksiselitteisesti. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Järjestäjän lähde vahvistaa paikan, toistuvuuden ja yhteystiedot. Osallistumisen maksuttomuutta ei ilmaista yksiselitteisesti."
     },
     {
       "id": "av-0138",
@@ -2972,9 +2965,8 @@
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Avoimuus, viikoittainen aika ja yhteydenottokanava vahvistettu. Maksuttomuutta ei mainita nimenomaisesti. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Avoimuus, viikoittainen aika ja yhteydenottokanava vahvistettu. Maksuttomuutta ei mainita nimenomaisesti."
     },
     {
       "id": "av-0145",
@@ -3103,9 +3095,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Järjestäjän lähde vahvistaa ajan, paikan, kohderyhmän ja yhteyshenkilön. Maksuttomuutta ei mainita nimenomaisesti. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Järjestäjän lähde vahvistaa ajan, paikan, kohderyhmän ja yhteyshenkilön. Maksuttomuutta ei mainita nimenomaisesti."
     },
     {
       "id": "av-0151",
@@ -3232,9 +3223,8 @@
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "service_without_dated_events",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "SPR Kaakkois-Suomen piirin sivu vahvistaa asiointiavun, auttavan puhelimen, numeron ja palveluajat; avun maksuttomuus ei ilmene yksiselitteisesti. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "SPR Kaakkois-Suomen piirin sivu vahvistaa asiointiavun, auttavan puhelimen, numeron ja palveluajat; avun maksuttomuus ei ilmene yksiselitteisesti."
     },
     {
       "id": "av-0157",
@@ -3397,9 +3387,8 @@
       "phone": "041 505 0942",
       "contact_name": "Raija Halén",
       "details": "SPR Porvoon osaston omaishoitajien tukitoiminnan yhteyshenkilö Raija Halén. Tarkka toimintamuoto, ajankohdat ja osallistumisehdot on vielä selvitettävä.",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0164",
@@ -3416,9 +3405,8 @@
       "category": "Kotiapu",
       "phone": "046 962 8675",
       "details": "SPR Porvoon Ukko-kerho tekee kertaluonteisia, enintään kahden tunnin tehtäviä esimerkiksi ikäihmisille tai yksinäisille henkilöille, joilla ei ole läheisten apua Porvoossa. Keikkapyynnöt: 046 962 8675. Mahdolliset maksut varmistettava järjestäjältä.",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Järjestäjän toimintakuvaus ja keikkapyyntöjen ajantasainen numero vahvistettu. Maksuttomuutta ei erikseen vahvisteta. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Järjestäjän toimintakuvaus ja keikkapyyntöjen ajantasainen numero vahvistettu. Maksuttomuutta ei erikseen vahvisteta."
     },
     {
       "id": "av-0165",
@@ -3437,9 +3425,8 @@
       "contact_name": "Päivi Waldvogel",
       "details": "SPR Porvoon osaston kotimaan avun yhteyshenkilöt Päivi Waldvogel (044 259 4825) ja Ari Ruotsalainen (040 071 8273). Yksittäiset avustusmuodot, myöntämisehdot ja hakutapa tarkistettava; ei vahvistettu rahallista avustusta.",
       "email": "porvoo@osasto.punainenristi.fi",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "SPR Porvoon osaston kotimaan avun yhteyshenkilöt vahvistettu. Yksilöity avustusmuoto, maksuttomuus ja avun hakemisen ehdot eivät ilmene yhteystietosivulta. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "SPR Porvoon osaston kotimaan avun yhteyshenkilöt vahvistettu. Yksilöity avustusmuoto, maksuttomuus ja avun hakemisen ehdot eivät ilmene yhteystietosivulta."
     },
     {
       "id": "av-0166",
@@ -3537,9 +3524,8 @@
       "recurrence": null,
       "event_data_status": "needs_event_detail_if_applicable",
       "email": "meri-lappi@osasto.punainenristi.fi",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "SPR:n oma sivu vahvistaa avun, ehdot ja suoran yhteysnumeron. Maksuttomuus ei ilmene yksiselitteisesti; avustuksen muoto tapauskohtainen. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "SPR:n oma sivu vahvistaa avun, ehdot ja suoran yhteysnumeron. Maksuttomuus ei ilmene yksiselitteisesti; avustuksen muoto tapauskohtainen."
     },
     {
       "id": "av-0171",
@@ -3639,9 +3625,8 @@
       "audit_flags_2026_11_02": [
         "seasonal_schedule_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Hyvä Joulumieli on kausittainen lahjakorttiapu. Vuoden 2026 kampanjan paikallinen jakomenettely ja hakukanava eivät ole vahvistettuja; ei julkaista vanhan kuvauksen perusteella. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Hyvä Joulumieli on kausittainen lahjakorttiapu. Vuoden 2026 kampanjan paikallinen jakomenettely ja hakukanava eivät ole vahvistettuja; ei julkaista vanhan kuvauksen perusteella."
     },
     {
       "id": "av-0176",
@@ -3663,9 +3648,8 @@
         "distribution_location_review"
       ],
       "email": "pargas@avdelning.rodakorset.fi",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "SPR:n sivu vahvistaa ruoka-apuryhmän ja yhteystiedot; maksuttomuus ja yksittäisen jakelun osallistumisohjeet eivät ilmene. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "SPR:n sivu vahvistaa ruoka-apuryhmän ja yhteystiedot; maksuttomuus ja yksittäisen jakelun osallistumisohjeet eivät ilmene."
     },
     {
       "id": "av-0177",
@@ -3767,9 +3751,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0182",
@@ -3789,9 +3772,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0183",
@@ -3812,9 +3794,8 @@
         "contact_channel_review"
       ],
       "phone": "040 749 8264",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Osaston oma sivu vahvistaa kahvilan olemassaolon ja yhteydenottokanavat. Osallistumisen maksuttomuutta ei vahvisteta nimenomaisesti. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Osaston oma sivu vahvistaa kahvilan olemassaolon ja yhteydenottokanavat. Osallistumisen maksuttomuutta ei vahvisteta nimenomaisesti."
     },
     {
       "id": "av-0184",
@@ -3855,9 +3836,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0186",
@@ -3961,9 +3941,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla."
     },
     {
       "id": "av-0191",
@@ -3984,9 +3963,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja kokoontumispaikka puuttuvat. Ei julkaista arvauksilla."
     },
     {
       "id": "av-0192",
@@ -4007,9 +3985,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja Zoom-liittymisohje puuttuvat. Ei julkaista arvauksilla. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Järjestäjän yhteystietosivu vahvistaa ryhmän yhteydenottokanavan, mutta kokoontumisaika, osallistumisen maksuttomuus ja Zoom-liittymisohje puuttuvat. Ei julkaista arvauksilla."
     },
     {
       "id": "av-0193",
@@ -4030,9 +4007,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0194",
@@ -4053,9 +4029,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0195",
@@ -4120,9 +4095,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0198",
@@ -4145,9 +4119,8 @@
       "audit_flags_2026_11_02": [
         "contact_channel_review"
       ],
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Ei riittävää palvelukohtaista vahvistusta järjestäjän lähteestä."
     },
     {
       "id": "av-0199",
@@ -4166,9 +4139,8 @@
       "verification_status": "organizer_page_rechecked_2026-11-02_intake_unclear",
       "price_status": "free_per_organizer",
       "last_verified": "2026-11-02",
-      "publication_review_status": "verification_round_closed_not_publishable",
-      "publication_review_reason": "Paikallissivulla avunpyyntölomakkeen kerrotaan olevan kesätauolla, vaikka nyt on marraskuu 2026. Ennen julkaisua varmistettava, että avunpyyntöjä otetaan vastaan. Tarkistuskierros päätetty: ei julkaista ennen uuden luotettavan vahvistuksen saamista.",
-      "verification_round_completed": "2026-11-02"
+      "publication_review_status": "verification_in_progress",
+      "publication_review_reason": "Paikallissivulla avunpyyntölomakkeen kerrotaan olevan kesätauolla, vaikka nyt on marraskuu 2026. Ennen julkaisua varmistettava, että avunpyyntöjä otetaan vastaan."
     },
     {
       "id": "av-0200",
@@ -4437,10 +4409,6 @@
     "review_note": "Removed obvious dated-only and finite 2026 events. Remaining entries require continued source and continuity review; no claim of full audit.",
     "last_merge_date": "2026-11-02",
     "last_merge_note": "15 paikallista Hope/PikkuHelppi-palvelua siirretty ehdokasaineistoista päärekisteriin, julkaisuvalmius false kunnes ajantasaisuus tarkistettu",
-    "record_count": 211,
-    "verification_round_closed": "2026-11-02",
-    "verification_round_closed_unpublished": 46,
-    "verification_round_closed_newly_classified": 28,
-    "verification_round_note": "Julkaisuvalmiit säilytetty. Julkaisemattomat on käsitelty: joko poissuljettu tai odottaa uutta näyttöä, eikä niitä kierretä uudelleen ilman uutta tietoa."
+    "record_count": 211
   }
 }
