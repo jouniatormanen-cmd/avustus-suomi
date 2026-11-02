@@ -1842,15 +1842,16 @@
       "name": "SPR Riihimäen osasto – ystävävälitys",
       "address": null,
       "phone": "050 464 2080",
-      "details": "Ystävävälityksen puhelinpäivystys keskiviikkoisin klo 15–18. Sähköposti riihimaki.ystavavalitys@punainenristi.fi. Maksuttomuus ja vapaaehtoisen saatavuus varmistettava.",
-      "source_url": "https://rednet.punainenristi.fi/node/4794",
-      "price_status": "check_source",
-      "verification_status": "official_source_checked_2026-11-01",
-      "last_verified": "2026-11-01",
+      "details": "SPR:n vapaaehtoisen ystävän välitys. Ystävävälityksen puhelin 050 464 2080, sähköposti riihimaki.ystavavalitys@punainenristi.fi. Vapaaehtoisen ystävän saatavuus on varmistettava välityksestä.",
+      "source_url": "https://osastot.punainenristi.fi/osastot/riihimaen-osasto/toiminta/ystavatoiminta",
+      "price_status": "free_service_possible_personal_expenses",
+      "verification_status": "local_spr_primary_source_and_general_guidance_checked_2026-11-02",
+      "last_verified": "2026-11-02",
       "recurrence": null,
       "publication_ready": false,
       "event_data_status": "not_applicable_service_directory",
-      "source_kind": "red_cross"
+      "source_kind": "red_cross",
+      "review_note": "Paikallisosaston ajantasainen ystävätoiminnan sivu vahvistaa yhteystiedot. SPR:n yleisten ystävätoiminnan ohjeiden mukaan vapaaehtoisesta ystävätoiminnasta ei makseta palkkiota; omia liikkumis-, kahvila- tai tapahtumakuluja voi syntyä. Aiempi keskiviikon puhelinpäivystysaika poistettu, koska sitä ei vahvistettu nykyiseltä sivulta."
     },
     {
       "id": "av-0116",
