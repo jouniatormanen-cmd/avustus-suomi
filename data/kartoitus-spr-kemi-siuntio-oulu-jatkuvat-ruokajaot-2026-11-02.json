@@ -1,0 +1,71 @@
+{
+  "records": [
+    {
+      "municipality": "Kemi",
+      "name": "SPR Meri-Lapin viikoittainen ruoka-apu",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Meri-Lapin osasto",
+      "schedule": "Tiistaisin, kutsu tekstiviestillä; puhelinpäivystys ti 9.30–13.30; ylijäämäleipä ja hedelmät noin 13.30",
+      "phone": "040 744 0948",
+      "conditions": "Ota yhteyttä ruoka-avun numeroon. Kutsut vuorotellen, ei ruokakassia automaattisesti joka viikko. Omat kaksi kassia mukaan. Tarkka jakeluosoite tarkistettava.",
+      "fee_status": "SPR_free_food_aid",
+      "source_url": "https://osastot.punainenristi.fi/osastot/meri-lapin-osasto/toiminta/ruoka-apu",
+      "id": "20261102-spr-kemi-siuntio-oulu-1",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02",
+      "service_pattern": "recurring"
+    },
+    {
+      "municipality": "Siuntio",
+      "name": "SPR Kirkkonummi-Siuntion ruokakassijako",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Kirkkonummi-Siuntion osasto",
+      "schedule": "Joka toinen viikko; tarkka päivä ruoka-apu.fi:stä",
+      "location": "Siuntion keskusta",
+      "phone": "044 555 4741",
+      "contact": "siuntionruokajako@gmail.com",
+      "conditions": "Vähävaraisille. Tarkka jakelupaikka ja aikataulu tarkistettava.",
+      "fee_status": "SPR_free_food_aid",
+      "source_url": "https://osastot.punainenristi.fi/osastot/kirkkonummi-siuntion-osasto/toiminta/ruoka-apu",
+      "id": "20261102-spr-kemi-siuntio-oulu-2",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02",
+      "service_pattern": "recurring"
+    },
+    {
+      "municipality": "Oulu",
+      "locality": "Toppila",
+      "name": "SPR Oulun säännöllinen ruokajako Toppilassa",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Oulun osasto",
+      "schedule": "Parittomien viikkojen maanantaisin",
+      "conditions": "Lahjoitettua hävikkiruokaa. Jakelun tarkka paikka ja kellonaika tarkistettava.",
+      "fee_status": "SPR_free_food_aid",
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-oulun-piiri/ruoka-apu/",
+      "id": "20261102-spr-kemi-siuntio-oulu-3",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02",
+      "service_pattern": "recurring"
+    },
+    {
+      "municipality": "Oulu",
+      "locality": "Kastelli",
+      "name": "SPR Oulun säännöllinen ruokajako Kastellissa",
+      "category": "Ruoka-apu",
+      "organizer": "SPR Oulun osasto",
+      "schedule": "Parillisten viikkojen torstaisin",
+      "conditions": "Lahjoitettua hävikkiruokaa. Jakelun tarkka paikka ja kellonaika tarkistettava.",
+      "fee_status": "SPR_free_food_aid",
+      "source_url": "https://piirit.punainenristi.fi/punaisen-ristin-oulun-piiri/ruoka-apu/",
+      "id": "20261102-spr-kemi-siuntio-oulu-4",
+      "publication_ready": false,
+      "duplicate_review_pending": true,
+      "source_checked": "2026-11-02",
+      "service_pattern": "recurring"
+    }
+  ],
+  "notes": "Neljä järjestäjän sivulta tarkistettua säännöllistä ruokajakoa. Oulun ja Siuntion mahdolliset aiemmat merkinnät yhdistettävä myöhemmällä duplikaattitarkistuksella. Kemin tekstiviestikutsut ja epäsäännöllinen yksilökohtainen saatavuus kirjattu. Ei sivustomuutoksia."
+}
