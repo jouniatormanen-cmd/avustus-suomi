@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-03",
+  "region": "Ahvenanmaa",
+  "type": "alueellisten palvelujen ensisijaisten lähteiden vahvistuskierros",
+  "scope_municipalities": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "confirmed": [
+    {
+      "id": "matbanken-aland",
+      "name": "Matbanken på Åland – maksuton ruokakassi",
+      "organizer": "Matbanken på Åland rf / seurakuntien diakonia",
+      "category": "Ruoka-apu",
+      "price": "maksuton",
+      "eligibility": "Tilapäinen tai pitkittynyt taloudellinen kriisi; diakoniatyöntekijän taloustilanteen arvio ja ruokakassilipuke",
+      "application": "Ota yhteyttä diakoniatyöntekijään; Maarianhaminan seurakunnassa vastaanotto tiistaisin",
+      "distribution_time": "Seuraava jakelukerta lipukkeella; tarkka aika ei vahvistettu",
+      "distribution_location": "Ei vahvistettu. Måsvägen 1 on lahjoitusten vastaanottopaikka.",
+      "phone": "018 536 107 / 018 536 127 (Maarianhaminan diakonia)",
+      "email": "matbanken.aland@gmail.com",
+      "source_url": "https://www.mariehamnsforsamling.fi/stod-och-hjalp/matbanken",
+      "checked_at": "2026-11-03",
+      "publication_ready": false,
+      "remaining": "Vahvista noutopaikka ja -ajat sekä eri kuntien hakureitit ennen julkaisua."
+    },
+    {
+      "id": "aland-diakonifond",
+      "name": "Ålands diakonifond – taloudellinen apu",
+      "organizer": "Ahvenanmaan seurakuntien diakoniatyö / Ålands diakonifond",
+      "category": "Raha",
+      "price": "Avustuksen hakeminen diakonian kautta; mahdollisia maksuja ei mainita",
+      "eligibility": "Diakoniatyöntekijän tarveharkinta, ensin arvio paikallisen seurakunnan omista avustusmahdollisuuksista",
+      "application": "Yksityinen ei hae rahastosta suoraan; diakoniatyöntekijä tekee hakemuksen",
+      "processing_time": "noin kaksi viikkoa",
+      "source_url": "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond",
+      "checked_at": "2026-11-03",
+      "publication_ready": false,
+      "remaining": "Varmista yhteystiedot kunnittain ja hakemisen mahdolliset ehdot."
+    },
+    {
+      "id": "brando-kumlinge-diakonia",
+      "name": "Brändö-Kumlingen seurakunnan diakoninen ruokakassi ja taloudellinen apu",
+      "organizer": "Brändö-Kumlinge församling",
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "application": "Ota suoraan yhteyttä kirkkoherraan tai saarna-avustajaan",
+      "schedule": "Yhteydenotolla, ei säännöllistä jakoaikaa ilmoitettu",
+      "eligibility": "Seurakunnan diakoninen tarveharkinta; jäsenyyttä tai uskoa ei edellytetä keskusteluavussa",
+      "source_url": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+      "checked_at": "2026-11-03",
+      "publication_ready": false,
+      "remaining": "Ruokakassin ja taloudellisen avun maksuttomuus sekä käytännön ehdot varmistettava."
+    }
+  ],
+  "excluded_or_not_a_service": [
+    {
+      "name": "Matbanken Måsvägen 1 lahjoitusten vastaanotto",
+      "reason": "Ei vahvistettu ruokakassien noutopaikaksi."
+    },
+    {
+      "name": "Matbanken 10 euron kannatusjäsenyys",
+      "reason": "Vapaaehtoinen lahjoittamisen tapa, ei ruokakassin hakijan jäsenmaksu."
+    }
+  ],
+  "municipalities_fully_reviewed": [],
+  "current_position": {
+    "municipality": "Brändö",
+    "category": "Kotiapu",
+    "status": "Kuntakohtainen kuuden kategorian kattava tarkistus yhä kesken; alueellisten palvelujen ensisijaiset lähteet vahvistettu usean kunnan alueelle."
+  },
+  "next_work": "Jatka Brändön Kotiapu–Asuminen ja Eckeröstä eteenpäin kuntakohtaisesti; älä monista alueellisia palveluja 16 kertaa.",
+  "public_site_changes": 0,
+  "main_registry_changes": 0
+}
