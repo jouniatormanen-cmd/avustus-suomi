@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-04",
+  "scope": "Ahvenanmaa",
+  "work_type": "aiemmin ensisijaisista lähteistä kerättyjen havaintojen kuntakattavuuden ja kaksoiskappaleiden ristivertailu",
+  "new_live_source_checks": 0,
+  "reason": "Verkkolähteiden suora avaaminen ei onnistunut tässä ajossa; ei väitetä uutta lähdevahvistusta.",
+  "source_dataset": "data/kartoitus-ahvenanmaa-2026-11-02.json",
+  "municipalities": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "regional_services": [
+    {
+      "id": "matbanken-aland",
+      "coverage": [
+        "Brändö",
+        "Eckerö",
+        "Finström",
+        "Föglö",
+        "Geta",
+        "Hammarland",
+        "Jomala",
+        "Kumlinge",
+        "Kökar",
+        "Lemland",
+        "Lumparland",
+        "Maarianhamina",
+        "Saltvik",
+        "Sottunga",
+        "Sund",
+        "Vårdö"
+      ],
+      "service_status": "official_source_confirms_free_and_application_method",
+      "ready": false
+    },
+    {
+      "id": "norra-aland-matbanken-emmaus",
+      "coverage": [
+        "Finström",
+        "Geta",
+        "Sund",
+        "Vårdö"
+      ],
+      "service_status": "official_source_confirms_access",
+      "ready": false
+    },
+    {
+      "id": "emmaus-aland-goods",
+      "coverage": [
+        "Ahvenanmaa"
+      ],
+      "service_status": "brochure_confirms_route_current_conditions_pending",
+      "ready": false
+    },
+    {
+      "id": "folkhalsan-aland-financial-counselling",
+      "coverage": [
+        "Ahvenanmaa"
+      ],
+      "service_status": "brochure_confirms_free_current_provider_site_pending",
+      "ready": false
+    },
+    {
+      "id": "aland-diakonifond",
+      "coverage": [
+        "Brändö",
+        "Eckerö",
+        "Finström",
+        "Föglö",
+        "Geta",
+        "Hammarland",
+        "Jomala",
+        "Kumlinge",
+        "Kökar",
+        "Lemland",
+        "Lumparland",
+        "Maarianhamina",
+        "Saltvik",
+        "Sottunga",
+        "Sund",
+        "Vårdö"
+      ],
+      "service_status": "official_source_confirms_coverage_and_application",
+      "ready": false
+    }
+  ],
+  "conclusions": [
+    {
+      "ids": [
+        "matbanken-aland",
+        "norra-aland-matbanken-emmaus"
+      ],
+      "finding": "Pohjois-Ahvenanmaan Matbanken-lipuke on saman ruokakassipalvelun hakureitti; ei luoda erillistä ruokajakopalvelua Finströmiin, Getaan, Sundiin ja Vårdöön."
+    },
+    {
+      "ids": [
+        "aland-diakonifond"
+      ],
+      "finding": "Yksi maakunnallinen rahasto, jota haetaan paikallisen diakonian kautta; ei 16 erillistä rahastoa."
+    },
+    {
+      "ids": [
+        "emmaus-aland-goods",
+        "norra-aland-matbanken-emmaus"
+      ],
+      "finding": "Emmaus-lipukkeet ovat mahdollinen pääpalvelun paikallinen hakukanava; maksuttomuus ja käytännön luovutusehdot vielä tarkistettava."
+    },
+    {
+      "ids": [
+        "folkhalsan-aland-financial-counselling"
+      ],
+      "finding": "Esitetty maksuttomana esitteessä; ajantasainen järjestäjävahvistus puuttuu."
+    }
+  ],
+  "excluded_existing": [
+    {
+      "municipality": "Brändö",
+      "name": "Kunnan kotihoito ja kotipalvelut"
+    },
+    {
+      "municipality": "Brändö",
+      "name": "Solkullan ateriapalvelu ja kotiin toimitetut ateriat"
+    }
+  ],
+  "confirmed_new_publication_ready": 0,
+  "fully_checked_municipalities": 0,
+  "position": {
+    "municipality": "Brändö",
+    "category": "Kotiapu",
+    "status": "kattava lähdetarkistus edelleen kesken; jatka järjestyksessä, käytä aiempaa lähdeaineistoa"
+  },
+  "next_priority": [
+    "Brändö: Kotiapu, Vaatteet, Tavarat, Raha, Asuminen",
+    "Eckerö: kaikki kuusi kategoriaa",
+    "Finström ja muut kunnat aakkosjärjestyksessä; alueelliset palvelut kirjataan vain kerran"
+  ],
+  "public_site_changed": false
+}
