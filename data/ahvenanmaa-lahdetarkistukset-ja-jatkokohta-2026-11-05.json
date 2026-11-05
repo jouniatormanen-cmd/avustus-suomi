@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-05",
+  "scope": "Ahvenanmaa, lähdetarkistukset Brändöstä sekä alueellisista palveluista",
+  "new_primary_source_checks": 7,
+  "municipalities_examined": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "note": "Muiden kuntien osalta vain alueellisten palvelujen kattavuus; ei kattavia kuntatarkistuksia.",
+  "findings": [
+    {
+      "id": "brando-kumlinge-diaconal-food",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "category": "Ruoka-apu",
+      "name": "Diakoninen ruokakassi",
+      "organizer": "Brändö-Kumlinge församling",
+      "contact": "018 56114, brando-kumlinge@evl.fi",
+      "office": "Brändövägen 967, AX-22920 Brändö",
+      "office_hours": "ma ja ke 09:00–11:30 ja 13:00–14:30",
+      "service_schedule": "Yhteydenotto sovitaan; ei kiinteää ruokakassijakelua ilmoitettu",
+      "source": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+      "contact_source": "https://www.brandokumlingeforsamling.fi/kontakt",
+      "status": "pending_free_conditions",
+      "checked_at": "2026-11-05",
+      "note": "Järjestäjä vahvistaa ruokakassin ja avustuksen hakemisen; ei vahvista noutopaikkaa eikä maksuttomuuden tarkkoja ehtoja. Kanslia ei ole jakelupiste."
+    },
+    {
+      "id": "brando-caregiver-respite",
+      "municipalities": [
+        "Brändö"
+      ],
+      "category": "Kotiapu",
+      "name": "Omaishoitajan lakisääteisen vapaan aikainen korvaava hoito",
+      "organizer": "Brändö kommun",
+      "place": "Kunnan järjestämä, tarkka toteutus sovitaan palvelupäätöksessä",
+      "schedule": "Omaishoitajan lakisääteisten vapaiden aikana",
+      "price": "Maksuton vuoden 2026 taksan mukaan rajatussa lakisääteisessä tilanteessa",
+      "source": "https://www.brando.ax/kommunen/avgifter/",
+      "details_source": "https://www.brando.ax/vard-och-omsorg/aldreomsorg/",
+      "status": "verified_free_conditional_pending_access_details",
+      "checked_at": "2026-11-05",
+      "publication_ready": false
+    },
+    {
+      "id": "aland-diakonifond",
+      "municipalities": "Ahvenanmaan kaikki 16 kuntaa",
+      "category": "Raha",
+      "name": "Ålands diakonifond",
+      "organizer": "Ålands diakonifond / paikalliset seurakunnat",
+      "application": "Paikallisen diakoniatyöntekijän kautta, ei suoraa yksityishenkilön hakemusta",
+      "schedule": "Jatkuva harkinnanvarainen hakukanava; käsittely noin kaksi viikkoa",
+      "source": "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond",
+      "status": "verified_application_eligibility_pending",
+      "checked_at": "2026-11-05",
+      "publication_ready": false,
+      "duplicate_rule": "Yksi alueellinen palvelu, ei 16 kuntaerillistä rahastoa."
+    },
+    {
+      "id": "eckero-hammarland-matbanken-route",
+      "municipalities": [
+        "Eckerö",
+        "Hammarland"
+      ],
+      "category": "Ruoka-apu",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Matbanken-avun paikallinen diakoniayhteys",
+      "source": "https://www.eckero-hammarland.fi/documents/d/www.eckero-hammarland.fi/kr-pr-5-2025-09092025-pdf",
+      "status": "pending_current_access_and_free_conditions",
+      "checked_at": "2026-11-05",
+      "duplicate_rule": "Ei uusi ruokapankki vaan mahdollinen hakureitti alueelliseen Matbanken-palveluun."
+    },
+    {
+      "id": "emmaus-aland-donation-vs-beneficiary",
+      "category": "Vaatteet / Tavarat",
+      "organizer": "Emmaus Åland",
+      "name": "Emmaus Norrbölen lahjoitusten vastaanotto",
+      "place": "Skogshyddsvägen 7, Maarianhamina",
+      "schedule": "arkisin 10–18, torstaisin 19 asti, lauantaisin 10–15",
+      "contact": "+358 18 17643",
+      "source": "https://emmaus.ax/donera-varor/",
+      "status": "excluded_not_a_free_distribution_service",
+      "checked_at": "2026-11-05",
+      "note": "Lahjoitusten vastaanotto ei ole avunhakijoille maksuton vaate- tai tavarajako. Emmaus-myymälöiden tuotteet ovat myytäviä; erillinen avustuslipuke edelleen vahvistamatta."
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Brändön yleinen kotihoito ja Solkullan ateriapalvelut",
+      "reason": "maksullisia",
+      "source": "https://www.brando.ax/kommunen/avgifter/"
+    },
+    {
+      "name": "Emmaus Åland - lahjoitusten vastaanotto",
+      "reason": "ei maksuttoman avun jakelupiste",
+      "source": "https://emmaus.ax/donera-varor/"
+    }
+  ],
+  "new_publication_ready_services": 0,
+  "fully_verified_municipalities": 0,
+  "remaining": [
+    "Brändön Vaatteet, Tavarat, Asuminen ja Raha -kategorioiden kattava palveluhaku",
+    "Eckerön kaikki kuusi kategoriaa sekä Finströmistä eteenpäin kuntakohtainen lähdekierros",
+    "Matbanken ruokakassin jakelu- ja maksuttomuusehdot",
+    "Emmaus avustuslipukkeiden ajantasaiset ehdot"
+  ],
+  "position": {
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "meaning": "Seuraava kattavasti tutkimaton kategoria; alueellisia lähteitä tarkistettu myös myöhempien kuntien osalta."
+  },
+  "public_site_changed": false,
+  "registry_changed": false
+}
