@@ -1,0 +1,146 @@
+{
+  "date": "2026-11-06",
+  "scope": "Ahvenanmaa",
+  "type": "ensisijaisten lähteiden koontitarkistus; ei kattava kuntakierros",
+  "municipalities_examined": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Maarianhamina"
+  ],
+  "new_publication_ready": 0,
+  "fully_completed_municipalities": 0,
+  "findings": [
+    {
+      "service_key": "brando-kumlinge-diakonia",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "organizer": "Brändö-Kumlinge församling",
+      "name": "Diakoninen ruokakassi ja taloudellinen avustus",
+      "application": "Ota yhteys kirkkoherraan tai saarna-avustajaan, ei ilmoitettua jakeluaikaa",
+      "contact": "018 56114; brando-kumlinge@evl.fi",
+      "address": "Brändövägen 967, AX-22920 Brändö (kanslia, ei vahvistettu jakelupiste)",
+      "office_hours": "ma ja ke 09:00–11:30, 13:00–14:30",
+      "source": [
+        "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+        "https://www.brandokumlingeforsamling.fi/kontakt"
+      ],
+      "status": "vahvistamaton",
+      "open": "Ruokakassin maksuttomuusehdot ja käytännön luovutus; taloudellisen avun harkintaperusteet"
+    },
+    {
+      "service_key": "brando-omaishoitajan-vapaa",
+      "municipalities": [
+        "Brändö"
+      ],
+      "category": "Kotiapu",
+      "organizer": "Brändö kommun",
+      "name": "Omaishoitajan lakisääteisen vapaan aikainen korvaava hoito",
+      "cost": "maksuton lain mukaisissa tilanteissa vuoden 2026 maksuluettelossa",
+      "application": "yksilöllinen palvelutarpeen arviointi; ei yleinen maksuton kotiapu",
+      "contact": "018 56500",
+      "source": [
+        "https://www.brando.ax/kommunen/avgifter/",
+        "https://www.brando.ax/vard-och-omsorg/aldreomsorg/"
+      ],
+      "status": "vahvistamaton",
+      "open": "Yhteyshenkilö, palvelupaikka ja palvelun järjestämistapa"
+    },
+    {
+      "service_key": "eckero-hammarland-diakonia",
+      "municipalities": [
+        "Eckerö",
+        "Hammarland"
+      ],
+      "category": "Raha",
+      "organizer": "Eckerö-Hammarlands församling",
+      "name": "Diakonian kautta haettava taloudellinen apu",
+      "contact": "Marie Nordenstorm, 045 734 58415; kanslia 018 38387",
+      "source": [
+        "https://www.eckero-hammarland.fi/kontakt"
+      ],
+      "status": "vahvistamaton",
+      "open": "Ajantasainen avustusmuoto ja maksuttomuus eivät vahvistuneet yhteystietosivulta"
+    },
+    {
+      "service_key": "aland-diakonifond",
+      "municipalities": [
+        "Brändö",
+        "Eckerö",
+        "Finström",
+        "Hammarland",
+        "Jomala",
+        "Kumlinge",
+        "Maarianhamina"
+      ],
+      "coverage": "koko Ahvenanmaa",
+      "category": "Raha",
+      "organizer": "Ålands diakonifond / paikalliset seurakunnat",
+      "name": "Ahvenanmaan diakoniarahasto",
+      "application": "Diakoniatyöntekijä arvioi tilanteen ja tekee hakemuksen, yksityishenkilö ei voi hakea suoraan; käsittely noin 2 viikkoa",
+      "contact": "Jomalan diakonia 018 328313; paikallinen seurakunta",
+      "source": [
+        "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond"
+      ],
+      "status": "vahvistettu palvelu, julkaisuvalmius vielä arvioitava",
+      "open": "Hakemisen alueelliset yhteystiedot; avustus harkinnanvarainen; yksi alueellinen tietue"
+    },
+    {
+      "service_key": "emmaus-aland-clothes-goods",
+      "municipalities": [
+        "Finström",
+        "Jomala",
+        "Maarianhamina"
+      ],
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "organizer": "Emmaus Åland",
+      "name": "Kierrätysmyymälät ja lahjoitusten vastaanotto",
+      "locations": [
+        "Strandgatan 20 Mariehamn",
+        "Skogshyddsvägen 7 Mariehamn",
+        "Godbyvägen 1424 Finström",
+        "Hammarlandsvägen 817 Jomala"
+      ],
+      "contact": "018 16069; emmaus@emmaus.ax",
+      "source": [
+        "https://emmaus.ax/",
+        "https://emmaus.ax/donera-varor/",
+        "https://emmaus.ax/nyhet/open-by-night-i-city/"
+      ],
+      "status": "poissuljettu tavallisena maksullisena myymäläpalveluna",
+      "open": "Mahdollinen erillinen maksuton avustustavaran luovutus vaatii suoran vahvistuksen; lahjoitusten vastaanotto ei ole avunsaajan jakelu"
+    },
+    {
+      "service_key": "emmaus-jobbreturen",
+      "municipalities": [
+        "Maarianhamina"
+      ],
+      "organizer": "Emmaus Åland",
+      "name": "Jobbreturen",
+      "source": [
+        "https://emmaus.ax/projektet-jobbreturen/"
+      ],
+      "status": "poissuljettu päättyneenä",
+      "end_date": "2026-04-30"
+    }
+  ],
+  "position": {
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "reason": "Kuntakohtainen kattava selvitys yhä kesken; tässä ajossa käsitelty myös Eckerö, Finström, Hammarland, Jomala, Kumlinge ja Maarianhamina järjestäjien yhteisten palvelujen kautta. Jatka Brändön Vaatteet, Tavarat, Raha, Asuminen ja sen jälkeen Eckerön kuusi kategoriaa; älä merkitse kuntia valmiiksi."
+  },
+  "registry_modified": false,
+  "public_site_modified": false
+}
