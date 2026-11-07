@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-07",
+  "scope": "Ahvenanmaa",
+  "type": "ensisijaisten lahteiden tarkistus ja palvelutason tarkennus; ei kattava kuntakierros",
+  "municipalities_examined": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Maarianhamina"
+  ],
+  "services": [
+    {
+      "key": "brando-kumlinge-diakonia",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "name": "Diakoninen ruokakassi ja taloudellinen apu",
+      "organizer": "Brändö-Kumlinge församling",
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "contact": "018 56114; brando-kumlinge@evl.fi; vt. kirkkoherra Benny Andersson 045 734 34267",
+      "address": "Brändövägen 967, 22920 Brändö (kanslia, EI vahvistettu ruokajakelupaikka)",
+      "office_hours": "ma ja ke 09:00–11:30 ja 13:00–14:30",
+      "service_schedule": "yhteydenotolla; ei säännöllistä jakeluaikaa vahvistettu",
+      "status": "vahvistamaton",
+      "open": "Ruokakassin tarkat maksuttomuusehdot ja luovutuspaikka",
+      "sources": [
+        "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+        "https://www.brandokumlingeforsamling.fi/kontakt"
+      ]
+    },
+    {
+      "key": "eckero-hammarland-diakonia",
+      "municipalities": [
+        "Eckerö",
+        "Hammarland"
+      ],
+      "name": "Diakonian avustusten käsittely",
+      "organizer": "Eckerö-Hammarlands församling",
+      "category": "Raha",
+      "contact": "Marie Nordenstorm 045 734 58415; kanslia 018 38387",
+      "service_schedule": "yhteydenotolla",
+      "status": "vahvistamaton",
+      "open": "Avustusten ajantasaiset myöntämis- ja maksuttomuusehdot",
+      "sources": [
+        "https://www.eckero-hammarland.fi/kontakt",
+        "https://www.eckero-hammarland.fi/nyheter/-/news/214197767/"
+      ]
+    },
+    {
+      "key": "jomala-diakoniforening-bill-support",
+      "municipalities": [
+        "Jomala"
+      ],
+      "name": "Laskujen maksamiseen myönnettävä harkinnanvarainen taloudellinen apu",
+      "organizer": "Jomala Diakoniförening r.f. yhteistyössä Jomalan seurakunnan kanssa",
+      "category": "Raha",
+      "contact": "Jomalan diakonia 018 328 313; ann-lis.bistrom@evl.fi",
+      "application": "Hakemuslomake seurakunnan diakoniatyöntekijän kautta",
+      "service_schedule": "Jomalan diakonian vastaanotto Olofsgårdenissa tiistaisin 09:00–11:00 tai sopimuksella",
+      "status": "vahvistettu palvelun olemassaolo; maksuttomuus ja myöntämiskäytäntö tarkistettava ennen julkaisua",
+      "open": "Hakemuksen maksuttomuus, ajantasaiset kriteerit ja vastaanoton tarkka osoite",
+      "sources": [
+        "https://www.jomala.evl.ax/stod-och-hjalp/jomala-diakoniforening",
+        "https://www.jomala.evl.ax/stod-och-hjalp/diakoni"
+      ]
+    },
+    {
+      "key": "aland-diakonifond",
+      "municipalities": "koko Ahvenanmaa",
+      "name": "Ålands diakonifond",
+      "organizer": "Ålands diakonifond / Jomala församling",
+      "category": "Raha",
+      "contact": "Paikallinen seurakunnan diakoniatyöntekijä; Jomala 018 328 313",
+      "application": "Yksityishenkilö ei hae suoraan, vaan diakoniatyöntekijä hakee; käsittely noin 2 viikkoa",
+      "status": "palvelu ja hakutapa vahvistettu; julkaisuarvio avoin",
+      "deduplication": "Yksi maakunnallinen palvelu, ei kuntakohtaisia kopioita; erillinen Jomalan diakoniayhdistyksen avustus ei ole sama rahasto",
+      "sources": [
+        "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond"
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Jomalan diakoniayhdistyksen jäsenmaksu",
+      "reason": "15 euron jäsenmaksu ei ole avunsaajalle tarjottava palvelu, eikä kuulu maksuttomien palvelujen rekisteriin"
+    },
+    {
+      "name": "Eckerö-Hammarlandin perhekahvilan yksittäinen 11.11. tapahtuma",
+      "reason": "Yksittäinen tapahtumasivu ei riitä jatkuvan maksuttoman palvelun vahvistukseen"
+    }
+  ],
+  "new_publication_ready": 0,
+  "fully_completed_municipalities": 0,
+  "position": {
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "reason": "Kuuden kategorian kattava kuntakierros kesken. Uusia tarkistuksia tehty myös Eckerö, Hammarland, Jomala ja Kumlinge; jatka rinnakkain järjestelmällistä kuntakierrosta ja muiden kuntien palvelujen alkuperäislähteitä."
+  },
+  "registry_modified": false,
+  "public_site_modified": false
+}
