@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-08",
+  "region": "Ahvenanmaa",
+  "type": "ensisijaisten lähteiden palvelutarkistus usean kunnan alueella",
+  "municipalities_considered": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "categories": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "verified_service_candidates": [
+    {
+      "key": "folkhalsan-ekonomiradgivning-aland",
+      "name": "Maksuton henkilökohtainen talousneuvonta",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Raha",
+      "coverage": "Ahvenanmaa, vastaanotto Maarianhaminassa",
+      "address": "Styrmansgatan 10, sisäänkäynti sisäpihalta, Maarianhamina",
+      "schedule": "ajanvarauksella; säännöllisiä vastaanottoaikoja ei vahvistettu",
+      "free": "järjestäjä vahvistaa maksuttomaksi",
+      "conditions": "yksityishenkilöille; ei sijoitus- tai lakineuvontaa",
+      "contact": "Gunilla Holmberg, 018 527 040",
+      "source": "https://www.folkhalsan.fi/service/terapier-habilitering-och-rehabilitering/ekonomiradgivning-i-mariehamn",
+      "checked": "2026-11-08",
+      "status": "hyväksytty kartoitusaineistoon, ei julkiseen rekisteriin",
+      "dedup": "yksi alueellinen palvelu"
+    },
+    {
+      "key": "folkhalsan-surfstod-aland",
+      "name": "Maksuton digilaitteiden käytön henkilökohtainen opastus ja mahdollinen kotikäynti",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Kotiapu",
+      "category_note": "digitaalinen arjen asiointiapu, ei kotisiivous; lopullinen kategoriasoveltuvuus arvioitava",
+      "coverage": "koko Ahvenanmaa",
+      "address": "kirjastot, sovittu tapaamispaikka tai koti",
+      "schedule": "sovitut tapaamiset; Maarianhaminan kirjastossa 9.11. ja 23.11.2026 klo 12.30–13.30",
+      "free": "järjestäjä vahvistaa maksuttomaksi",
+      "conditions": "kaikenikäisille; yksilöllistä tukea puhelinten, tablettien ja tietokoneiden käyttöön",
+      "contact": "Annette Hagman 018 527 063; annette.hagman@folkhalsan.ax",
+      "sources": [
+        "https://www.folkhalsan.fi/aland/aldre/surfstod",
+        "https://www.folkhalsan.fi/kurser/surfstod-mandagar-vid-stadsbiblioteket-hosten-2026"
+      ],
+      "checked": "2026-11-08",
+      "status": "vahvistettu palvelu; kategoriasoveltuvuus avoin",
+      "dedup": "yksi alueellinen palvelu, ei kirjastokäyntikohtaisia kopioita"
+    },
+    {
+      "key": "folkhalsan-familjeradgivning-aland",
+      "name": "Maksuton perheneuvonta",
+      "organizer": "Folkhälsan på Åland / KST",
+      "category": "Kotiapu",
+      "category_note": "perheen arjen tuki; kategoriasoveltuvuus avoin",
+      "coverage": "Ahvenanmaan lapsiperheet",
+      "address": "Maarianhamina, tarkka käyntiosoite tarkistettava",
+      "schedule": "ajanvarauksella",
+      "free": "käynnit maksuttomia asiakkaalle, KST rahoittaa",
+      "conditions": "vanhemmuuteen ja perhesuhteisiin liittyvä tuki",
+      "contact": "018 527 048; aland.famrad@folkhalsan.ax",
+      "source": "https://www.folkhalsan.fi/service/terapier-habilitering-och-rehabilitering/familjeradgivning-i-mariehamn",
+      "checked": "2026-11-08",
+      "status": "vahvistettu palvelu; kategoriasoveltuvuus ja osoite avoin",
+      "dedup": "yksi alueellinen palvelu"
+    }
+  ],
+  "rechecked": [
+    {
+      "key": "brando-kumlinge-diakonia",
+      "status": "vahvistamaton maksuttomuus ja ruokakassin jakelupaikka",
+      "source": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp"
+    },
+    {
+      "key": "brando-kumlinge-kanslia",
+      "status": "yhteystiedot vahvistettu, kanslia ei ruokakassin noutopaikaksi",
+      "source": "https://www.brandokumlingeforsamling.fi/kontakt"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Folkhälsanin varsinainen kotihoito",
+      "reason": "järjestäjä käsittelee kustannukset erikseen; vain ensimmäinen suunnittelukäynti maksuton",
+      "source": "https://www.folkhalsan.fi/service/service-for-aldre/hemvard"
+    },
+    {
+      "name": "Emmaus Ålandin second hand -myymälät",
+      "reason": "myyntipisteitä; maksutonta vaate- tai tavarajakelua ei vahvistettu",
+      "source": "https://emmaus.ax/kontakt/"
+    },
+    {
+      "name": "Emmaus Jobbreturen",
+      "reason": "päättynyt 30.4.2026",
+      "source": "https://emmaus.ax/projektet-jobbreturen/"
+    },
+    {
+      "name": "Folkhälsanin Lemlandin Surfcafé syys-lokakuussa",
+      "reason": "ajankohdat päättyneet; ei erillinen jatkuva palvelu",
+      "source": "https://www.folkhalsan.fi/kurser/surfcafe-vid-lemlands-bibliotek-"
+    }
+  ],
+  "municipalities_fully_completed": [],
+  "next_position": {
+    "region": "Ahvenanmaa",
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "note": "Kuntakohtainen kuuden kategorian lähdekierros edelleen kesken. Alueelliset löydöt koskevat useita kuntia, mutta eivät tarkoita kuntien valmiutta."
+  },
+  "new_public_site_entries": 0,
+  "public_site_modified": false,
+  "main_registry_modified": false
+}
