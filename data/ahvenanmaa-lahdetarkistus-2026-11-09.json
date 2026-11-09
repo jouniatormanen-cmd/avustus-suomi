@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-09",
+  "region": "Ahvenanmaa",
+  "scope": "alueellisten palvelujen lähteiden uusintatarkistus ja Brändö–Eckerö–Hammarland -diakoniatietojen tarkistus; ei kattava kuntakierros",
+  "source_checked_at": "2026-11-09",
+  "verified": [
+    {
+      "key": "folkhalsan-ekonomiradgivning-aland",
+      "name": "Maksuton talousneuvonta",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Raha",
+      "address": "Styrmansgatan 10, Maarianhamina",
+      "schedule": "ajanvarauksella",
+      "conditions": "yksityishenkilöille; ei oikeudellista eikä sijoitusneuvontaa",
+      "contact": "Gunilla Holmberg, 018 527 040",
+      "source": "https://www.folkhalsan.fi/service/terapier-habilitering-och-rehabilitering/ekonomiradgivning-i-mariehamn",
+      "status": "vahvistettu kartoitusaineistossa; ei uusi palvelu"
+    },
+    {
+      "key": "folkhalsan-surfstod-aland",
+      "name": "Maksuton digituki",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Kotiapu (soveltuvuus avoin)",
+      "address": "kirjastot, sovittu paikka tai koti",
+      "schedule": "drop-in ja sovitut tapaamiset",
+      "conditions": "kaikenikäisille, maksuton",
+      "contact": "Annette Hagman, 018 527 063",
+      "source": "https://www.folkhalsan.fi/aland/aldre/surfstod",
+      "status": "maksuttomuus vahvistettu; kategoriasijoitus avoin"
+    }
+  ],
+  "pending": [
+    {
+      "key": "brando-kumlinge-diakonia",
+      "name": "Diakoninen ruokakassi ja taloudellinen tuki",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "organizer": "Brändö-Kumlinge församling",
+      "schedule": "yhteydenotolla",
+      "conditions": "avustusehdot ja ruokakassin luovutuspaikka avoinna",
+      "source": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp"
+    },
+    {
+      "key": "eckero-hammarland-diakonia",
+      "name": "Diakoninen apu",
+      "municipalities": [
+        "Eckerö",
+        "Hammarland"
+      ],
+      "organizer": "Eckerö-Hammarlands församling",
+      "contact": "Marie Nordenstorm, 045 734 58415",
+      "schedule": "yhteydenotolla",
+      "conditions": "avustuksen maksuttomuus ja ehdot vahvistamatta",
+      "source": "https://www.eckero-hammarland.fi/kontakt"
+    },
+    {
+      "key": "folkhalsan-familjeradgivning-aland",
+      "name": "Perheneuvonta",
+      "organizer": "Folkhälsan på Åland",
+      "conditions": "palvelu vahvistuu olemassa olevaksi; kuuden kategorian sopivuus avoin",
+      "source": "https://www.folkhalsan.fi/service/terapier-habilitering-och-rehabilitering/familjeradgivning-i-mariehamn"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Emmaus Åland alennusmyynnit",
+      "reason": "alennettu hinta ei ole maksuton avustus",
+      "source": "https://emmaus.ax/nyhet/open-by-night-i-city/"
+    }
+  ],
+  "new_unique_verified_services": 0,
+  "fully_completed_municipalities": [],
+  "next_position": {
+    "region": "Ahvenanmaa",
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "note": "Kuuden kategorian kuntakierrosta ei voitu osoittaa valmiiksi; seuraavalla kierroksella Brändön Vaatteet/Tavarat/Raha/Asuminen, sitten Eckerö jne."
+  },
+  "main_registry_modified": false,
+  "public_site_modified": false
+}
