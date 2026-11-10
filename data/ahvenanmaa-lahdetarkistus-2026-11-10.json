@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-10",
+  "region": "Ahvenanmaa",
+  "type": "laaja monikuntainen ensisijaisten lähteiden palvelu- ja poissulkutarkistus",
+  "municipalities_reviewed_for_shared_services": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "categories": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "verified_existing": [
+    {
+      "key": "folkhalsan-ekonomiradgivning-aland",
+      "name": "Folkhälsanin maksuton talousneuvonta",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Raha",
+      "address": "Styrmansgatan 10, Maarianhamina",
+      "schedule": "ajanvarauksella",
+      "free": true,
+      "conditions": "yksityishenkilöt, ei sijoitus- eikä oikeudellista neuvontaa",
+      "contact": "Gunilla Holmberg 018 527 040",
+      "source": "https://www.folkhalsan.fi/service/terapier-habilitering-och-rehabilitering/ekonomiradgivning-i-mariehamn",
+      "checked": "2026-11-10",
+      "dedup": "yksi maakunnallinen palvelu"
+    },
+    {
+      "key": "folkhalsan-surfstod-aland",
+      "name": "Folkhälsanin maksuton digituki",
+      "organizer": "Folkhälsan på Åland",
+      "category": "Kotiapu-soveltuvuus avoin",
+      "address": "Maxinge Center, Sparvägen 1, Jomala; Maarianhaminan kaupunginkirjasto, Strandgatan 29; kotikäynnit sopimuksella",
+      "schedule": "Jomala 11.11. ja 9.12.2026 klo 10–12; Maarianhamina 23.11.2026 klo 12.30–13.30; muut ajat sopimuksella",
+      "free": true,
+      "conditions": "kaikenikäiset, ilman ilmoittautumista; yksilöllinen laite- ja verkkoasioinnin opastus",
+      "contact": "Annette Hagman 018 527 063, annette.hagman@folkhalsan.ax",
+      "sources": [
+        "https://www.folkhalsan.fi/kurser/surfstod-i-maxinge",
+        "https://www.folkhalsan.fi/kurser/surfstod-mandagar-vid-stadsbiblioteket-hosten-2026",
+        "https://www.folkhalsan.fi/aland/barn-och-familjer"
+      ],
+      "checked": "2026-11-10",
+      "dedup": "yksi maakunnallinen palvelu, tapahtumapäiviä ei erillisiksi palveluiksi"
+    }
+  ],
+  "pending": [
+    {
+      "key": "brando-kumlinge-diakonia",
+      "name": "Brändö–Kumlingen seurakunnan ruokakassi ja taloudellinen apu",
+      "organizer": "Brändö-Kumlinge församling",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "address": "Brändövägen 967, Brändö (kanslia, EI vahvistettu ruokakassin noutopaikka)",
+      "schedule": "kanslia ma ja ke klo 9–11.30 ja 13–14.30; avustus yhteydenotolla",
+      "free": "avustuksen myöntämisperusteet ja ruokakassin luovutusehdot avoimet",
+      "contact": "018 56114; Benny Andersson 045 734 34267; brando-kumlinge@evl.fi",
+      "sources": [
+        "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+        "https://www.brandokumlingeforsamling.fi/kontakt"
+      ],
+      "checked": "2026-11-10"
+    },
+    {
+      "key": "eckero-hammarland-diakonia",
+      "name": "Eckerö–Hammarlandin seurakunnan diakonia ja Matbanken-yhteistyö",
+      "organizer": "Eckerö-Hammarlands församling",
+      "municipalities": [
+        "Eckerö",
+        "Hammarland"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "schedule": "yhteydenotolla; Matbanken-avun säännöllinen saatavuus ja ehdot tarkistamatta",
+      "free": "ehdot avoinna",
+      "contact": "Marie Nordenstorm 045 734 58415; kanslia 018 38387",
+      "sources": [
+        "https://www.eckero-hammarland.fi/kontakt",
+        "https://www.eckero-hammarland.fi/documents/d/www.eckero-hammarland.fi/kr-pr-5-2025-09092025-pdf"
+      ],
+      "checked": "2026-11-10"
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Emmaus Åland - second hand myymälät",
+      "municipalities": [
+        "Finström",
+        "Jomala",
+        "Maarianhamina"
+      ],
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "reason": "myyntitoiminta; ei vahvistettua ilmaista jakelua",
+      "source": "https://emmaus.ax/butiker/",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Emmaus Jobbreturen",
+      "reason": "hanke päättynyt 30.4.2026",
+      "source": "https://emmaus.ax/projektet-jobbreturen/",
+      "checked": "2026-11-10"
+    },
+    {
+      "name": "Folkhälsanin Lemlandin Surfcafé 30.9. ja 28.10.2026",
+      "reason": "menneet yksittäiset ajankohdat, ei erillistä jatkuvaa palvelua",
+      "source": "https://www.folkhalsan.fi/kurser/surfcafe-vid-lemlands-bibliotek-",
+      "checked": "2026-11-10"
+    }
+  ],
+  "new_unique_verified_services": 0,
+  "existing_verified_rechecked": 2,
+  "municipalities_fully_completed": [],
+  "municipality_category_exhaustive_review": false,
+  "public_site_modified": false,
+  "main_registry_modified": false,
+  "next_position": {
+    "region": "Ahvenanmaa",
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "note": "Alueelliset palvelut tarkistettu usean kunnan kannalta, mutta kuuden kategorian kattava kuntakierros ei ole valmis. Jatka Brändön Vaatteet/Tavarat/Raha/Asuminen, sitten Eckerö, Finström, Föglö jne. Älä monista alueellisia palveluja."
+  }
+}
