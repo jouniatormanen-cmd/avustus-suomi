@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-11",
+  "region": "Ahvenanmaa",
+  "scope": "Monikuntainen lähde- ja kaksoiskappaletarkistus; EI kattava kuntakohtainen kuuden kategorian auditointi",
+  "municipalities_in_scope": [
+    "Brändö",
+    "Eckerö",
+    "Finström",
+    "Föglö",
+    "Geta",
+    "Hammarland",
+    "Jomala",
+    "Kumlinge",
+    "Kökar",
+    "Lemland",
+    "Lumparland",
+    "Maarianhamina",
+    "Saltvik",
+    "Sottunga",
+    "Sund",
+    "Vårdö"
+  ],
+  "new_findings": [
+    {
+      "key": "emmaus-aland-local-material-assistance-vouchers",
+      "name": "Emmaus Åland – paikallinen vaate- ja tavara-apu lahjakorteilla",
+      "organizer": "Emmaus Åland rf",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "coverage": "Ahvenanmaa; avun tarpeen arvioi ohjaava taho",
+      "place": "Emmaus Ålandin myymälät: Strandgatan 20 ja Skogshyddsvägen 7 Maarianhamina; Godbyvägen 1424 Finström; Hammarlandsvägen 817 Jomala on rakennustarvikemyymälä eikä vahvistettu lahjakorttien käyttöpaikka",
+      "schedule": "avun saanti harkinnanvaraisesti ohjaavan tahon kautta; ei avointa jakeluaikaa",
+      "cost": "lahjakortilla avunsaajalle maksuton, mutta vuoden 2026 käytäntö vahvistamatta",
+      "eligibility": "ammattilaisen tarvearvio; KST, seurakunnat, ÅHS, Rädda Barnen ja muut tahot välittävät lahjakortteja 2025 toimintasuunnitelman mukaan",
+      "contact": "Emmaus +358 18 16069; info@emmaus.ax",
+      "sources": [
+        "https://emmaus.ax/wp-content/uploads/2024/11/Verksamhetsplan_2025_godkand.pdf",
+        "https://emmaus.ax/wp-content/uploads/2024/06/Verksamhetsplan_2024_godkand.pdf",
+        "https://emmaus.ax/kontakt/"
+      ],
+      "checked": "2026-11-11",
+      "status": "pending_current_2026_confirmation",
+      "dedup": "Yksi maakunnallinen avustusohjelma, ei erillistä palvelua per myymälä tai kunta; erotettava maksullisesta myynnistä"
+    }
+  ],
+  "reverified": [
+    {
+      "key": "folkhalsan-ekonomiradgivning-aland",
+      "status": "confirmed_free_existing",
+      "source": "https://www.folkhalsan.fi/service/terapier-habilitering-och-rehabilitering/ekonomiradgivning-i-mariehamn",
+      "checked": "2026-11-11"
+    },
+    {
+      "key": "folkhalsan-surfstod-aland",
+      "status": "confirmed_free_existing_category_pending",
+      "source": "https://www.folkhalsan.fi/aland/aldre/surfstod",
+      "checked": "2026-11-11",
+      "schedule_examples": "Vårdö kirjasto 19.11. ja 17.12. klo 18-19; Jomala Maxinge 11.11. ja 9.12. klo 10-12; Maarianhamina kirjasto 23.11. klo 12.30-13.30",
+      "contact": "Annette Hagman 018 527 063",
+      "notes": "Kotikäynti sopimuksella; tapahtumapäiviä ei monisteta palveluiksi"
+    }
+  ],
+  "rechecked_pending": [
+    {
+      "key": "brando-kumlinge-diakonia",
+      "source": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+      "result": "Ruokakassi ja taloudellinen apu tarjolla yhteydenotolla, tarkat myöntämisehdot/jakelupaikka avoimet"
+    }
+  ],
+  "excluded": [
+    {
+      "key": "emmaus-aland-retail",
+      "reason": "Tavallinen myynti maksullista; erotettu lahjakorttiavusta",
+      "source": "https://emmaus.ax/"
+    },
+    {
+      "key": "emmaus-jobbreturen",
+      "reason": "Päättynyt 30.4.2026",
+      "source": "https://emmaus.ax/projektet-jobbreturen/"
+    }
+  ],
+  "new_publication_ready": 0,
+  "new_pending_unique": 1,
+  "fully_completed_municipalities": [],
+  "public_site_modified": false,
+  "main_registry_modified": false,
+  "next_position": {
+    "region": "Ahvenanmaa",
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "reason": "Kuntakohtaista aukotonta kuuden kategorian lähdeauditointia ei tehty; ei perusteita siirtää etenemispistettä. Seuraavaksi Brändö Vaatteet/Tavarat/Raha/Asuminen ja sitten Eckerö, Finström, Föglö jne. Varmista Emmaus 2026 lahjakorttikäytäntö."
+  }
+}
