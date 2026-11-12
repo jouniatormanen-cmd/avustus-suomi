@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-12",
+  "region": "Ahvenanmaa",
+  "scope": "Alueellisten ensisijaisten lähteiden tarkistus; kuntakohtainen kuuden kategorian auditointi ei valmis",
+  "new_confirmations": [
+    {
+      "key": "emmaus-aland-local-material-assistance-vouchers",
+      "name": "Emmaus Åland – maksuton vaate- ja tavara-apu lahjakorteilla",
+      "organizer": "Emmaus Åland rf",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "coverage": "Ahvenanmaa, ohjaavan tahon tarvearvion perusteella",
+      "place": "Emmaus Ålandin myymälät Ahvenanmaalla; lahjakortin tarkat käyttöpaikat vahvistettava",
+      "schedule": "Jatkuva tarveharkintainen ohjaus, ei avointa jakeluaikaa",
+      "cost": "Avunsaajalle lahjakortilla maksuton",
+      "eligibility": "Pakolaisperheet ja muut tilapäistä apua tarvitsevat; ohjaavan tahon arvio ja lahjakortti",
+      "contact": "info@emmaus.ax, +358 18 16069",
+      "sources": [
+        "https://emmaus.ax/wp-content/uploads/2025/11/Emmaus-Aland-verksamhetsplan-2026.pdf",
+        "https://emmaus.ax/kontakt/"
+      ],
+      "checked": "2026-11-12",
+      "status": "confirmed_2026_program_pending_distribution_details",
+      "dedup": "Yksi maakunnallinen ohjelma; ei myymäläkohtaisia kopioita"
+    }
+  ],
+  "reverified": [
+    {
+      "key": "brando-kumlinge-diakonia",
+      "status": "pending_precise_conditions",
+      "source": "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+      "detail": "Ruokakassi ja taloudellinen tuki yhteydenotolla, ei vahvistettua jakeluaikaa"
+    },
+    {
+      "key": "folkhalsan-surfstod",
+      "status": "confirmed_free_existing_outside_six_categories",
+      "source": "https://www.folkhalsan.fi/kurser/surfcafe-i-jomala-bibliotek-",
+      "detail": "Jomalan kirjastossa 3.12.2026 klo 14-15, maksuton, kotikäynnit sopimalla"
+    }
+  ],
+  "excluded": [
+    {
+      "key": "emmaus-retail",
+      "reason": "Tavallinen myynti maksullista",
+      "source": "https://emmaus.ax/"
+    },
+    {
+      "key": "emmaus-jobbreturen",
+      "reason": "Päättynyt 30.4.2026",
+      "source": "https://emmaus.ax/projektet-jobbreturen/"
+    }
+  ],
+  "new_publication_ready": 0,
+  "new_2026_program_confirmations": 1,
+  "fully_completed_municipalities": [],
+  "main_registry_modified": false,
+  "public_site_modified": false,
+  "next_position": {
+    "region": "Ahvenanmaa",
+    "municipality": "Brändö",
+    "category": "Vaatteet",
+    "reason": "Kuntakohtainen kattava tarkistus tekemättä; jatka Brändöstä Eckeröön ja eteenpäin, tarkista Emmausin lahjakorttien käytännön ohjaus ja toimipisteet"
+  }
+}
