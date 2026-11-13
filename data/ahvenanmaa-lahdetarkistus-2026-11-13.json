@@ -29,7 +29,7 @@
         "Vårdö"
       ],
       "location": "Mariehamn; the recipient's collection location is communicated with the ticket. Måsvägen 1 is confirmed as a donation drop-off point, not confirmed as the recipient collection point.",
-      "regular_time": "Two distribution days per week are described by the parish volunteer page. Families collect weekly and other households every other week according to the current Boost partner page. Exact days, times and recipient pickup location are not publicly listed; the ticket gives the next collection.",
+      "regular_time": "Two days per week food is distributed. The current Boost partner page says families receive food weekly and other households every other week. Exact distribution weekdays, times and recipient pickup location are not publicly listed; the ticket gives the next collection.",
       "free_and_conditions": "Free food aid for households in temporary or longer-term financial hardship. A diaconal worker reviews the household's financial situation and can issue a ticket for the next food parcel. Confidential handling; not an unrestricted walk-in service.",
       "contact": "Matbanken: matbanken.aland@gmail.com. Mariehamn parish diaconia: Lisbet Nordlund 018 536 107; Kati Juntunen 018 536 127, Östra Esplanadgatan 6, Mariehamn. North Åland parish: Maria Sjölund 0457 361 3463, maria.sjolund@evl.fi.",
       "publication_ready": false,
@@ -441,6 +441,71 @@
         "https://www.mariehamn.ax/"
       ],
       "checked_date": "2026-11-13"
+    },
+    {
+      "id": "matbanken-other-parish-routes",
+      "name": "Matbanken på Åland – current access routes through other parish areas",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge",
+        "Eckerö",
+        "Hammarland",
+        "Föglö",
+        "Jomala",
+        "Kökar",
+        "Lemland",
+        "Lumparland",
+        "Saltvik",
+        "Sottunga"
+      ],
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "status_reason": "Current access is verified through Mariehamn and Norra Åland parishes. Historical 2022 material described broader parish access, but current 2026 referral routes for the listed other parish areas were not confirmed. Do not infer coverage from the old brochure.",
+      "contact": "Contact the local parish diaconal worker; Matbanken email matbanken.aland@gmail.com.",
+      "sources": [
+        "https://www.mariehamnsforsamling.fi/stod-och-hjalp/matbanken",
+        "https://www.norraalandsforsamling.ax/stod-och-hjalp",
+        "https://www.jomala.evl.ax/documents/68894238/0/Ekonomiskt%2Bsto%CC%88d%2B2022-webb.pdf/43a02f95-4875-c960-853f-4087edf16e5b?t=1671438507439"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "klädbanken-current-status",
+      "name": "Klädbanken – possible children's clothing aid",
+      "municipalities": [
+        "Mariehamn",
+        "regional scope unknown"
+      ],
+      "categories": [
+        "Vaatteet"
+      ],
+      "status_reason": "Klädbanken appears in older Åland support material, but no current 2026 first-party page confirming active operation, access, stock, eligibility or contact was found. Do not list as available until reverified.",
+      "contact": "No current contact verified.",
+      "sources": [
+        "https://www.jomala.evl.ax/documents/68894238/0/Ekonomiskt%2Bsto%CC%88d%2B2022-webb.pdf/43a02f95-4875-c960-853f-4087edf16e5b?t=1671438507439",
+        "https://raddabarnen.ax/vad-vi-gor/stod-for-barn-pa-aland/"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "red-cross-hemlandshjalpen-current-status",
+      "name": "Finlands Röda Kors – Hemlandshjälpen on Åland",
+      "municipalities": [
+        "Åland-wide scope not confirmed"
+      ],
+      "categories": [
+        "Tavarat",
+        "Kotiapu",
+        "Raha"
+      ],
+      "status_reason": "Older Åland support material describes emergency help after sudden accidents, but no current 2026 Åland provider, regular access route, eligibility or contact was verified. This may be an ongoing emergency response rather than a scheduled distribution; retain as pending rather than claiming it is unavailable.",
+      "contact": "No current Åland contact verified.",
+      "sources": [
+        "https://www.jomala.evl.ax/documents/68894238/0/Ekonomiskt%2Bsto%CC%88d%2B2022-webb.pdf/43a02f95-4875-c960-853f-4087edf16e5b?t=1671438507439",
+        "https://rednet.rodakorset.fi/"
+      ],
+      "checked_date": "2026-11-13"
     }
   ],
   "excluded_observations": [
@@ -473,11 +538,6 @@
       "name": "Mariehamns församling – sopplunch",
       "reason": "The recurring lunch has a price and is not free food aid.",
       "source": "https://www.mariehamnsforsamling.fi/kom-med/vuxna/sopplunch"
-    },
-    {
-      "name": "Röda Korset – Hemlandshjälpen",
-      "reason": "The current-described assistance is for sudden accidents and exceptional circumstances, offered when needed rather than as a regular service with an open application route.",
-      "source": "https://www.jomala.evl.ax/documents/68894238/0/Ekonomiskt%2Bsto%CC%88d%2B2022-webb.pdf/43a02f95-4875-c960-853f-4087edf16e5b?t=1671438507439"
     },
     {
       "name": "Rädda Barnen – Brennings fond stipendier",
@@ -704,8 +764,8 @@
   },
   "counts": {
     "accepted_service_records": 8,
-    "pending_service_leads_or_details": 13,
-    "excluded_observations": 8,
+    "pending_service_leads_or_details": 16,
+    "excluded_observations": 7,
     "out_of_scope_free_services": 2,
     "municipalities_marked_complete": 0
   },
