@@ -1,0 +1,724 @@
+{
+  "project": "Avustus Suomi",
+  "region": "Ahvenanmaa",
+  "checked_date": "2026-11-13",
+  "status": "in_progress",
+  "continuation_read": {
+    "latest_file": "data/ahvenanmaa-lahdetarkistus-2026-11-12.json",
+    "previous_next_position": "Brändö / Vaatteet",
+    "latest_commit_reviewed": true,
+    "main_registry_reviewed": [
+      "data/paarekisteri.json",
+      "data/palvelut.json"
+    ],
+    "duplicate_result": "No Åland-related service records found in either main registry file; regional services are stored once and not copied into every municipality."
+  },
+  "accepted_services": [
+    {
+      "id": "aland-matbanken",
+      "name": "Matbanken på Åland rf – kostnadsfri mathjälp",
+      "organizer": "Matbanken på Åland rf; access arranged through parish diaconal workers",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage_verified": [
+        "Mariehamn",
+        "Finström",
+        "Geta",
+        "Sund",
+        "Vårdö"
+      ],
+      "location": "Mariehamn; the recipient's collection location is communicated with the ticket. Måsvägen 1 is confirmed as a donation drop-off point, not confirmed as the recipient collection point.",
+      "regular_time": "Two distribution days per week are described by the parish volunteer page. Families collect weekly and other households every other week according to the current Boost partner page. Exact days, times and recipient pickup location are not publicly listed; the ticket gives the next collection.",
+      "free_and_conditions": "Free food aid for households in temporary or longer-term financial hardship. A diaconal worker reviews the household's financial situation and can issue a ticket for the next food parcel. Confidential handling; not an unrestricted walk-in service.",
+      "contact": "Matbanken: matbanken.aland@gmail.com. Mariehamn parish diaconia: Lisbet Nordlund 018 536 107; Kati Juntunen 018 536 127, Östra Esplanadgatan 6, Mariehamn. North Åland parish: Maria Sjölund 0457 361 3463, maria.sjolund@evl.fi.",
+      "publication_ready": false,
+      "open_fields": [
+        "recipient pickup address",
+        "exact distribution weekdays and times",
+        "current access route in parishes other than Mariehamn and Norra Åland"
+      ],
+      "sources": [
+        "https://www.mariehamnsforsamling.fi/stod-och-hjalp/matbanken",
+        "https://www.mariehamnsforsamling.fi/delta-och-paverka/frivillig",
+        "https://www.norraalandsforsamling.ax/stod-och-hjalp",
+        "https://ungresurs.ax/boost/"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-emmaus-varubistand",
+      "name": "Emmaus Åland – lokalt varubistånd med gåvokort",
+      "organizer": "Emmaus Åland r.f.; referrals and needs assessment by professional social workers and partner agencies",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "coverage_verified": [
+        "All 16 Åland municipalities as a regional programme; individual access is referral-based"
+      ],
+      "location": "Voucher redemption at Emmaus stores: Strandgatan 20, Mariehamn; Skogshyddsvägen 7, Norrböle, Mariehamn; Godbyvägen 1424, Godby, Finström; Svinryggen, Hammarlandsvägen 817, Jomala.",
+      "regular_time": "Ongoing programme during 2026; no separate walk-in aid hours. Vouchers are redeemed during store opening hours: Strandgatan Mon–Fri 10–19, Thu 10–20, Sat 10–17, Sun 11–15; Norrböle Mon–Fri 10–18, Thu 10–19, Sat 10–16, Sun 11–15; Godby Mon–Fri 10–18, Sat 11–16; Svinryggen Mon–Fri 12–18, Sat 10–15.",
+      "free_and_conditions": "Free goods assistance for private individuals on Åland living in difficult financial circumstances. A professional social worker assesses the overall situation. The referring agency issues a gift card usable in Emmaus stores; referrals may come from KST, parishes, ÅHS, Rädda Barnen and other organisations. Emmaus also issues vouchers to new refugee families and other groups needing temporary support. No direct self-application to the voucher programme is described.",
+      "contact": "Emmaus central/store contact +358 18 16069. City store +358 18 16069; Norrböle +358 18 17643; Godby +358 457 344 3989; Svinryggen +358 457 348 4670. Website: emmaus.ax.",
+      "publication_ready": true,
+      "sources": [
+        "https://emmaus.ax/wp-content/uploads/2025/11/Emmaus-Aland-verksamhetsplan-2026.pdf",
+        "https://emmaus.ax/kontakt",
+        "https://emmaus.ax/nyhet/mera-oppet-aret-om/"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-kst-utkomststod",
+      "name": "Kommunernas socialtjänst (KST) – grundläggande, kompletterande och förebyggande utkomststöd",
+      "organizer": "Kommunernas socialtjänst k.f.",
+      "categories": [
+        "Raha",
+        "Asuminen"
+      ],
+      "coverage_verified": [
+        "All 16 Åland municipalities"
+      ],
+      "location": "KST, Skarpansvägen 30, Mariehamn; applications and service cover all Åland municipalities.",
+      "regular_time": "Ongoing statutory application service; apply by KST e-service or paper application. No fixed walk-in schedule confirmed in the current 2026 source.",
+      "free_and_conditions": "Financial assistance for individuals and families whose income and assets do not cover necessary expenses. Last-resort support: primary benefits such as housing benefit, unemployment benefits, pensions or sickness benefits must normally be applied for first. Support can cover basic living costs and necessary housing expenses including rent-related costs, household electricity and home insurance. It is a benefit, not a paid service; individual assessment applies.",
+      "contact": "KST switchboard 018 532 800; socialkansliet@kst.ax; Skarpansvägen 30, Mariehamn. Exact current reception/phone hours need a fresh confirmation.",
+      "publication_ready": false,
+      "open_fields": [
+        "confirm current reception and social-worker phone hours",
+        "confirm current 2026 application channel details and supporting documents"
+      ],
+      "sources": [
+        "https://www.kumlinge.ax/images/till_hemsidan_sn/Bilaga_A_-_ks_14.10.2025__142_KST_Budget_2026_23.9.2025.pdf",
+        "https://www.kst.ax/sites/default/files/attachments/page/Ekonomiskt%20sto%CC%88d%202021.pdf",
+        "https://www.norden.org/sv/info-norden/utkomststod-pa-aland"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-diakonifond",
+      "name": "Ålands diakonifond",
+      "organizer": "Jomala församling administers the island-wide fund together with the local parishes",
+      "categories": [
+        "Raha"
+      ],
+      "coverage_verified": [
+        "All 16 Åland municipalities through the seven parish areas"
+      ],
+      "location": "Applications are made through the local parish diaconal worker; there is no single client-facing collection point.",
+      "regular_time": "Ongoing; the local diaconal worker assesses the situation with the applicant. The diaconal team processes applications, normally in about two weeks. No fixed application hours; contact the local parish.",
+      "free_and_conditions": "Grant funding used exclusively to help people in need on Åland. A private individual cannot apply directly to the fund: a parish diaconal worker assesses whether the parish can help from its own resources or submit an application to the fund. No fee or repayment requirement is stated.",
+      "contact": "Jomala parish diaconia: Ann-Lis Biström 018 328 313; diaconia line 018 328 301. Other local parish contacts are listed on the official fund page.",
+      "publication_ready": true,
+      "sources": [
+        "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/alands-diakonifond"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-radda-barnen-barnfond",
+      "name": "Rädda Barnen på Åland – Barnfonden",
+      "organizer": "Rädda Barnen på Åland r.f.",
+      "categories": [
+        "Raha"
+      ],
+      "coverage_verified": [
+        "All 16 Åland municipalities; all are selectable in the current application form"
+      ],
+      "location": "Köpmansgatan 10, 22100 Mariehamn; applications can be submitted electronically or on paper.",
+      "regular_time": "Applications are processed continuously during the year; the organisation aims to reply within one month. The office may be closed and no grants made during holidays and school breaks.",
+      "free_and_conditions": "Free grant support for children aged 0–17 and their families in financial hardship or temporary crisis. Examples include hobby and leisure fees, hobby equipment, birthday celebrations and special experiences. Each application is assessed individually according to the child's needs and the fund's available resources; an application does not guarantee a grant. The fund generally does not replace goods or services that municipalities or the state are legally required to provide.",
+      "contact": "018 14394; 0457 3613 919; info@raddabarnen.ax; Köpmansgatan 10, Mariehamn.",
+      "publication_ready": true,
+      "sources": [
+        "https://raddabarnen.ax/vad-vi-gor/stod-for-barn-pa-aland/",
+        "https://raddabarnen.ax/vad-vi-gor/stod-for-barn-pa-aland/ansok-om-stod-fran-barnfonden/",
+        "https://raddabarnen.ax/app/uploads/2025/11/slutlig-verksamhetsplan-och-budget-2026-insand-till-paf.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-rattshjalp-ekonomi-skuldradgivning",
+      "name": "Ålands rättshjälps- och intressebevakningsbyrå – ekonomi- och skuldrådgivning",
+      "organizer": "Rättstjänstverket / Ålands rättshjälps- och intressebevakningsbyrå",
+      "categories": [
+        "Raha"
+      ],
+      "coverage_verified": [
+        "All 16 Åland municipalities"
+      ],
+      "location": "Torggatan 16 A, 22100 Mariehamn; service area explicitly lists all 16 municipalities.",
+      "regular_time": "Weekdays. Official service location hours 08:00–16:15; client contact/booking by phone weekdays 09:00–11:00 and 13:00–15:00.",
+      "free_and_conditions": "Free and confidential financial and debt counselling. Helps with everyday budgeting, spending plans, debt questions and over-indebtedness. No income threshold stated for this counselling service.",
+      "contact": "029 566 1803; booking 029 566 1800; aland.es@om.fi; Torggatan 16 A, Mariehamn.",
+      "publication_ready": true,
+      "sources": [
+        "https://www.oikeuspalveluvirasto.fi/sv/kontaktinformation/ekonomi-och-skuldradgivning-alands-rattshjalps-och-intressebevakningsbyra/",
+        "https://www.suomi.fi/services/servicepoint/financial-and-debt-advisory-services-aland-legal-aid-and-guardianship-office-national-legal-services-authority/4a4df724-da71-4779-b655-d3e3fab0ca10"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-statutory-caregiver-respite",
+      "name": "Avgiftsfri avlösning under närståendevårdares och anhörigvårdares lagstadgade ledighet",
+      "organizer": "Municipalities and KST, depending on the care recipient's service responsibility",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage_verified": [
+        "All 16 Åland municipalities under the Åland client-fee legislation"
+      ],
+      "location": "Arranged individually by the municipality or KST; the service form and location are recorded in the care and service plan.",
+      "regular_time": "Planned in advance with the responsible social/elder-care official. A caregiver continuously bound to care day and night or every day is entitled to at least five days of leave per month; the replacement care is arranged for the leave period.",
+      "free_and_conditions": "The replacement services provided during statutory caregiver leave are free of charge under the amended Åland Client Fee Act effective 1.1.2024. This is not general free home help: it applies only to services that replace the caregiver's care during approved statutory leave. The service form is individually arranged.",
+      "contact": "Start with the elder-care/social-services office in the home municipality; KST switchboard 018 532 800 for KST services. Local implementation confirmed on Brändö (Niklas Feiring 040 768 7505) and Geta (municipal supervisor 018 49340). Jomala elder-care office 018 329 141.",
+      "publication_ready": false,
+      "open_fields": [
+        "confirm local provider and contact route municipality by municipality",
+        "confirm service form and planning arrangements in each municipality"
+      ],
+      "sources": [
+        "https://www.lagtinget.ax/dokument/lagforslag-322022-2023-54603",
+        "https://www.lagtinget.ax/dokument/social-och-miljoutskottets-betankande-15-2022-2023-54790",
+        "https://www.brando.ax/vard-och-omsorg/aldreomsorg/",
+        "https://www.geta.ax/sites/default/files/attachments/page/Anvisningar%20f%C3%B6r%20st%C3%B6d%20f%C3%B6r%20n%C3%A4rst%C3%A5endev%C3%A5rd%20i%20Geta%20Kommun%202025.pdf",
+        "https://www.jomala.ax/sites/default/files/2024-11/kommunfullmaktige-protokoll-12.11.2024.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "brando-home-adaptation-grant",
+      "name": "Brändö kommun – ekonomiskt understöd för anpassningsåtgärder i hemmet",
+      "organizer": "Brändö kommun, äldreomsorgsförvaltningen",
+      "categories": [
+        "Asuminen",
+        "Raha"
+      ],
+      "coverage_verified": [
+        "Brändö"
+      ],
+      "location": "Permanent home in Brändö; application to the municipal elderly-care office, Nottholmsvägen 71 A, 22940 Åva.",
+      "regular_time": "Applications can be submitted continuously during the year. The application must be approved before the adaptation work begins; a home visit is arranged if the eligibility criteria are met.",
+      "free_and_conditions": "Non-repayable, needs-tested grant for small home adaptations that enable an age pensioner aged 65+ to remain at home. Applicant must be permanently resident in Brändö and meet household income limits; assets excluding the home must not exceed €20,000. Grant covers up to 80% of approved costs, maximum €2,000 per dwelling; full approved costs may exceptionally be covered for social/economic reasons. Other state/KST/Åland grants are primary.",
+      "contact": "Elder-care manager Niklas Feiring, 040 768 7505; Nottholmsvägen 71 A, Åva. Arrange a visit in advance.",
+      "publication_ready": true,
+      "sources": [
+        "https://www.brando.ax/vard-och-omsorg/aldreomsorg/",
+        "https://www.brando.ax/wp-content/uploads/2026/05/Ekonomiskt-stod-for-anpassningsatgarder-23.2.2026-5.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    }
+  ],
+  "pending_items": [
+    {
+      "id": "brando-kumlinge-parish-food-and-cash-aid",
+      "name": "Brändö-Kumlinge församling – matkasse eller ekonomiskt bidrag",
+      "municipalities": [
+        "Brändö",
+        "Kumlinge"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "status_reason": "The current parish page confirms the forms of aid and direct contact route, but does not publish the free/repayment terms, eligibility rules, amount, distribution place or recurring distribution time.",
+      "contact": "t.f. kyrkoherde Benny Andersson 045 734 34267; pastorskansli 018 56114; brando-kumlinge@evl.fi. Office Mon/Wed 09:00–11:30 and 13:00–14:30, Brändövägen 967, Brändö.",
+      "sources": [
+        "https://www.brandokumlingeforsamling.fi/stod-och-hjalp",
+        "https://www.brandokumlingeforsamling.fi/kontakt"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "eckero-hammarland-matbanken-route",
+      "name": "Eckerö-Hammarlands församling – diakoni och Matbanken",
+      "municipalities": [
+        "Eckerö",
+        "Hammarland"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "status_reason": "A 2025 parish council record describes recurring need among families for diaconal support through Matbanken, but the current 2026 ticket process, distribution location and schedule are not published on the current parish support page.",
+      "contact": "Parish pastor with diaconal duties Marie Nordenstorm 045 734 58415; parish office 018 38387.",
+      "sources": [
+        "https://www.eckero-hammarland.fi/stod-och-hjalp",
+        "https://www.eckero-hammarland.fi/documents/d/www.eckero-hammarland.fi/kr-pr-5-2025-09092025-pdf",
+        "https://www.eckero-hammarland.fi/documents/d/www.eckero-hammarland.fi/infobladeckerohammarland20260607-pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "saltvik-matbanken-route",
+      "name": "Saltviks församling – Matbanken-biljetter / ekonomiskt stöd",
+      "municipalities": [
+        "Saltvik"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "status_reason": "The 2024 parish annual report records increased economic support and Matbanken tickets, but a current 2026 public access route and conditions were not found.",
+      "contact": "Saltviks församling 018 43260; saltvik@evl.fi; Kvarnbo-Kyrkvägen 52, Saltvik.",
+      "sources": [
+        "https://www.saltviksforsamling.ax/stod-och-hjalp",
+        "https://www.saltviksforsamling.ax/documents/d/www.saltviksforsamling.ax/bokslut_2024_blivande"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "jomala-diakoniforening-bill-aid",
+      "name": "Jomala diakoniförening – hjälp med betalning av räkningar",
+      "municipalities": [
+        "Jomala"
+      ],
+      "categories": [
+        "Raha"
+      ],
+      "status_reason": "Current parish page describes help with bills in temporary financial difficulty, but grant/loan status, criteria, amounts and current decision procedure need confirmation.",
+      "contact": "Diakonissa Ann-Lis Biström 018 328 313; Olofsgården Tuesdays 09:00–11:00 or by appointment.",
+      "sources": [
+        "https://www.jomala.evl.ax/stod-och-hjalp/diakoni",
+        "https://www.jomala.evl.ax/stod-och-hjalp/diakoni/jomala-diakoniforening"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "lemland-lumparland-parish-financial-aid",
+      "name": "Lemland-Lumparlands församling – ekonomiskt stöd",
+      "municipalities": [
+        "Lemland",
+        "Lumparland"
+      ],
+      "categories": [
+        "Raha"
+      ],
+      "status_reason": "The current parish page invites people needing financial help to book a review of their finances, but does not state the form of aid, free/repayment conditions or eligibility rules.",
+      "contact": "t.f. diakoniarbetare Tove Uvemo Söderbäck 018 364 886; appointment by phone.",
+      "sources": [
+        "https://www.lemland-lumparland.evl.ax/stod-och-hjalp"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "sodra-skargard-diaconal-funds",
+      "name": "Ålands södra skärgårdsförsamling – lokala diakonifonder",
+      "municipalities": [
+        "Föglö",
+        "Kökar",
+        "Sottunga"
+      ],
+      "categories": [
+        "Raha"
+      ],
+      "status_reason": "The parish's public information indicates local diaconal funds for the chapel parishes, but current application procedure, eligibility, non-repayable terms and regular access details need confirmation.",
+      "contact": "Ålands södra skärgårdsförsamling, 018 50010; alands.sodra@evl.fi; Kyrkvägen 106, Föglö.",
+      "sources": [
+        "https://www.alandssodra.fi/stod-och-hjalp",
+        "https://www.alandssodra.fi/"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "folkhalsan-economic-counselling",
+      "name": "Folkhälsan på Åland – ekonomisk rådgivning",
+      "municipalities": [
+        "Mariehamn"
+      ],
+      "categories": [
+        "Raha"
+      ],
+      "status_reason": "Older official/partner brochures describe free individual financial counselling, but a current 2026 service page or confirmation of continued operation was not found in this run.",
+      "contact": "Historical contact in 2022/2024 brochures: 018 527 040; aland.ekonomirad@folkhalsan.ax; Styrmansgatan 10, Mariehamn. Reconfirm before publishing.",
+      "sources": [
+        "https://www.jomala.evl.ax/documents/68894238/0/Ekonomiskt%2Bsto%CC%88d%2B2022-webb.pdf/43a02f95-4875-c960-853f-4087edf16e5b?t=1671438507439",
+        "https://www.folkhalsan.fi/aland"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "idrottsbanken-aland",
+      "name": "Idrottsbanken Åland – borrowing sports equipment",
+      "municipalities": [
+        "Mariehamn",
+        "potentially all Åland; exact catchment not confirmed"
+      ],
+      "categories": [
+        "Tavarat"
+      ],
+      "status_reason": "The current Ung Resurs/Boost page confirms that sports equipment can be borrowed, but does not state whether every loan is free, the eligibility age, stock, loan period or booking rules. Keep pending until these are confirmed. Do not use a Facebook group as the source of record.",
+      "contact": "Ung Resurs / Boost, Uppgårdsvägen 6, Mariehamn; office Mon–Fri 09:00–16:00; general contact through ungresurs.ax/kontakt, phone 0457 34 34 138 or youth workers 0457 34 49 215 / 0457 34 34 323.",
+      "sources": [
+        "https://ungresurs.ax/boost/",
+        "https://ungresurs.ax/kontakt/"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "fritidsbanken-aland-future",
+      "name": "Fritidsbanken Åland – planned free loan of sports and leisure equipment",
+      "municipalities": [
+        "Åland-wide, planned"
+      ],
+      "categories": [
+        "Tavarat"
+      ],
+      "status_reason": "Emmaus 2026 plan says the build-up occurs during 2026 and the service is intended to start properly in 2027. It is not an active service as of 13.11.2026; do not publish as available.",
+      "contact": "No public service contact or opening schedule confirmed yet; planned partners include Emmaus, KST, AMS, Rädda Barnen and Ung Resurs.",
+      "sources": [
+        "https://emmaus.ax/wp-content/uploads/2025/11/Emmaus-Aland-verksamhetsplan-2026.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "kst-home-adaptation-disability",
+      "name": "KST – ekonomiskt stöd för handikappanpassning av bostad",
+      "municipalities": [
+        "All 16 municipalities, potential"
+      ],
+      "categories": [
+        "Asuminen",
+        "Raha"
+      ],
+      "status_reason": "KST's 2021 brochure and 2023 official material describe home adaptation support for people with significant disabilities, but current 2026 criteria, budget and application process were not verified.",
+      "contact": "KST 018 532 800; socialkansliet@kst.ax; Skarpansvägen 30, Mariehamn.",
+      "sources": [
+        "https://www.kst.ax/sites/default/files/attachments/page/Ekonomiskt%20sto%CC%88d%202021.pdf",
+        "https://www.regeringen.ax/sites/default/files/attachments/protocol/nr24-2023-enskild-S3.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "aland-government-pensioner-home-repair-grant",
+      "name": "Ålands landskapsregering – understöd för reparation av pensionärers egen bostad / tillgänglighetsstöd",
+      "municipalities": [
+        "All 16 municipalities, potential"
+      ],
+      "categories": [
+        "Asuminen",
+        "Raha"
+      ],
+      "status_reason": "Brändö's current 2026 guidance identifies the landscape government's grant as the primary support before the municipality's own adaptation grant. A current 2026 application page/criteria could not be retrieved; older conditions date from 2017 and are not enough for approval.",
+      "contact": "Ålands landskapsregering; current application contact and office hours require confirmation.",
+      "sources": [
+        "https://www.brando.ax/vard-och-omsorg/aldreomsorg/",
+        "https://www.regeringen.ax/sites/default/files/attachments/protocol/nr20-2017-enskild-i1.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "lions-aland-private-assistance",
+      "name": "Lions-klubbar på Åland – ekonomiskt och materiellt stöd",
+      "municipalities": [
+        "Regional club catchments described in older material; current municipal coverage needs confirmation"
+      ],
+      "categories": [
+        "Raha",
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "status_reason": "A 2022 support brochure describes help with defined costs such as rent, dental bills, food and school clothing/equipment, but no current 2026 official application route or terms were verified. Seasonal Christmas aid is excluded.",
+      "contact": "Old brochure contacts are not treated as current; re-check with the relevant Lions club directly before publication.",
+      "sources": [
+        "https://raddabarnen.ax/app/uploads/2025/03/broschyren-ekonomiskt-stod-2024-webb.pdf"
+      ],
+      "checked_date": "2026-11-13"
+    },
+    {
+      "id": "mariehamn-caregiver-one-hour-visit",
+      "name": "Mariehamns stad – possible weekly one-hour home-service support for family caregivers",
+      "municipalities": [
+        "Mariehamn"
+      ],
+      "categories": [
+        "Kotiapu"
+      ],
+      "status_reason": "An earlier municipal policy described a free one-hour weekly home-service visit for caregivers, but a current 2026 policy and contact route were not confirmed. The statutory free respite during approved leave is separately accepted as a regional service.",
+      "contact": "Mariehamns stads äldreomsorg; current contact to be revalidated.",
+      "sources": [
+        "https://www.mariehamn.ax/"
+      ],
+      "checked_date": "2026-11-13"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "name": "Emmaus second-hand retail purchases",
+      "reason": "Items are sold for a price. Only the separate voucher-based local goods aid is accepted.",
+      "source": "https://emmaus.ax/wp-content/uploads/2025/11/Emmaus-Aland-verksamhetsplan-2026.pdf"
+    },
+    {
+      "name": "Brändö ordinary home service and support services",
+      "reason": "Ordinary home service and support services carry client fees. Only replacement services during statutory caregiver leave are free.",
+      "source": "https://www.brando.ax/vard-och-omsorg/aldreomsorg/"
+    },
+    {
+      "name": "Hammarland ordinary home service",
+      "reason": "Current municipal fee schedules show charges; not a free general home-help service. Statutory caregiver-leave replacement services remain separately free by law.",
+      "source": "https://www.hammarland.ax/"
+    },
+    {
+      "name": "Kökar ordinary home service",
+      "reason": "Home service is fee-based; a free initial assessment visit is not a free ongoing home-help service.",
+      "source": "https://www.kokar.ax/"
+    },
+    {
+      "name": "Lemland ordinary home service and paid relief service",
+      "reason": "The published 2026 fee information contains client charges; not accepted as a generally free service. Statutory caregiver-leave services are a separate free entitlement.",
+      "source": "https://www.lemland.ax/"
+    },
+    {
+      "name": "Mariehamns församling – sopplunch",
+      "reason": "The recurring lunch has a price and is not free food aid.",
+      "source": "https://www.mariehamnsforsamling.fi/kom-med/vuxna/sopplunch"
+    },
+    {
+      "name": "Röda Korset – Hemlandshjälpen",
+      "reason": "The current-described assistance is for sudden accidents and exceptional circumstances, offered when needed rather than as a regular service with an open application route.",
+      "source": "https://www.jomala.evl.ax/documents/68894238/0/Ekonomiskt%2Bsto%CC%88d%2B2022-webb.pdf/43a02f95-4875-c960-853f-4087edf16e5b?t=1671438507439"
+    },
+    {
+      "name": "Rädda Barnen – Brennings fond stipendier",
+      "reason": "Annual school-leaving scholarships for a specific graduating group are not a regular open assistance service for the six-category directory.",
+      "source": "https://raddabarnen.ax/vad-vi-gor/stod-for-barn-pa-aland/"
+    }
+  ],
+  "out_of_scope_but_free": [
+    {
+      "name": "Folkhälsan surf support / digital support",
+      "reason": "Free, but does not fit Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha or Asuminen."
+    },
+    {
+      "name": "Folkhälsan family counselling",
+      "reason": "Free, but does not fit the six directory categories."
+    }
+  ],
+  "municipality_progress": [
+    {
+      "municipality": "Brändö",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "parish food basket terms and distribution details"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Eckerö",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "current Matbanken ticket route and collection details"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Finström",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "local Kotiapu implementation and any additional local services"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Föglö",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "local diaconal fund terms; local food and home-help services"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Geta",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "2026 update of local caregiver respite guidance; other local categories"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Hammarland",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "current Matbanken access; local caregiver respite arrangement"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Jomala",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "Jomala Diakoniförening grant terms; local Matbanken access; current respite arrangement"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Kökar",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "local diaconal fund and local food/home-help services"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Kumlinge",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "Brändö-Kumlinge parish food/cash aid terms and distribution details"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Lemland",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "parish financial aid terms; local caregiver respite arrangement"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Lumparland",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "parish financial aid terms; local food/home-help services"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Maarianhamina",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "unresolved": [
+        "Matbanken collection point; Folkhälsan economic counselling 2026 status; Mariehamn-specific caregiver home visit"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Saltvik",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "2026 Matbanken ticket route; local diaconal aid and Kotiapu"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Sottunga",
+      "reviewed_categories": [
+        "regional coverage screened"
+      ],
+      "unresolved": [
+        "local diaconal fund and local food/home-help services"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Sund",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "regional services"
+      ],
+      "unresolved": [
+        "local Kotiapu and any additional local categories"
+      ],
+      "complete": false
+    },
+    {
+      "municipality": "Vårdö",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "regional services"
+      ],
+      "unresolved": [
+        "local Kotiapu and any additional local categories"
+      ],
+      "complete": false
+    }
+  ],
+  "duplicate_control": {
+    "checked_files": [
+      "data/paarekisteri.json",
+      "data/palvelut.json"
+    ],
+    "result": "No Åland-related records were present in the main registry files. Regional services are kept as one record with verified service coverage; they are not duplicated once per municipality.",
+    "rule": "Do not create separate municipal duplicates for the same KST, Emmaus, Barnfond, diakonifond, Matbanken or statutory caregiver-leave service."
+  },
+  "counts": {
+    "accepted_service_records": 8,
+    "pending_service_leads_or_details": 13,
+    "excluded_observations": 8,
+    "out_of_scope_free_services": 2,
+    "municipalities_marked_complete": 0
+  },
+  "next_position": "Ahvenanmaa / Kökar / Ruoka-apu",
+  "next_actions": [
+    "Continue in municipality alphabetical order from Kökar, then Kumlinge, Lemland, Lumparland, Mariehamn, Saltvik, Sottunga, Sund and Vårdö.",
+    "For each municipality, check the six categories in order; use existing regional records without duplicating them.",
+    "Verify the Ålands södra skärgårdsförsamling's food aid and diaconal fund conditions for Föglö, Kökar and Sottunga.",
+    "Verify current Matbanken referral and pickup details for Eckerö-Hammarland and Saltvik; do not infer the recipient pickup point from the donation address.",
+    "Confirm whether the Brändö-Kumlinge parish food basket and cash aid are free/non-repayable and how distribution is arranged.",
+    "Do not mark any municipality complete until all six categories have been checked against current primary sources."
+  ],
+  "public_site_changed": false,
+  "main_registry_changed": false,
+  "saved_as_audit_only": true
+}
