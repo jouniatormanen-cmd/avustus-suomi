@@ -1,55 +1,50 @@
-# Avustus Suomi – jatkomuistio 13.11.2026
+# Avustus Suomi – jatkomuistio 13.11.2026 (päivitetty)
 
 ## Nykyinen työvaihe
 
 - Maakunta: **Ahvenanmaa**.
-- Kartoituksen viimeisin aineisto: [data/ahvenanmaa-lahdetarkistus-2026-11-13.json](../data/ahvenanmaa-lahdetarkistus-2026-11-13.json).
-- Aiempi jatkokohta oli Brändö / Vaatteet. Brändön kuusi kategoriaa on nyt seulottu alueellisten palvelujen ja paikallisten lähteiden perusteella; Brändöä ei kuitenkaan merkitä valmiiksi, koska seurakunnan oman ruoka- ja raha-avun ehdot sekä jakelutiedot ovat avoinna.
-- **Seuraava tarkka työkohta: Ahvenanmaa / Kökar / Ruoka-apu.** Etene sen jälkeen Kökarin muut kategoriat, sitten Kumlinge, Lemland, Lumparland, Maarianhamina, Saltvik, Sottunga, Sund ja Vårdö aakkosjärjestyksessä.
-- Eckerö, Finström, Föglö, Geta, Hammarland ja Jomala on jo seulottu alueellisten palvelujen sekä löytyneiden paikallislähteiden osalta, mutta yhtään niistä ei merkitä valmiiksi.
+- Viimeisin auditointiaineisto: [data/ahvenanmaa-lahdetarkistus-2026-11-13.json](../data/ahvenanmaa-lahdetarkistus-2026-11-13.json).
+- Edellinen tarkka kohta oli **Kökar / Ruoka-apu**. Tässä ajossa käytiin läpi Kökar, Kumlinge, Lemland ja Lumparland, jokaisessa kaikki kuusi kategoriaa.
+- **Seuraava tarkka työkohta: Ahvenanmaa / Maarianhamina / Ruoka-apu.**
+- Yhtään kuntaa ei merkitty valmiiksi. Neljän kunnan kuuden kategorian ensikierros on tehty, mutta paikallisia ehtoja ja yhteystietoja on edelleen avoinna.
 
-## Tämän kierroksen tulos
+## Tämän ajon tulos
 
-- 8 hyväksyttyä palvelukokonaisuutta:
-  1. Matbanken på Åland – maksuton ruoka-apu (palvelun olemassaolo hyväksytty; noutopaikka ja tarkat noutoajat avoinna).
-  2. Emmaus Åland – maksuton paikallinen tavara-apu lahjakorteilla (Vaatteet, Tavarat; vuoden 2026 toiminta vahvistettu).
-  3. KST – perus-, täydentävä ja ehkäisevä toimeentulotuki (Raha, Asuminen; nykyinen palvelu vahvistettu vuoden 2026 talousarviosta).
-  4. Ålands diakonifond – alueellinen taloudellinen apu seurakuntien diakoniatyön kautta.
-  5. Rädda Barnen på Åland – Barnfonden, jatkuva hakuaika ja kaikki 16 kuntaa hakulomakkeessa.
-  6. Ålands rättshjälps- och intressebevakningsbyrå – maksuton talous- ja velkaneuvonta, palvelualueena kaikki 16 kuntaa.
-  7. Lakisääteisen omaishoitajan/omaista hoitavan vapaan aikainen korvaava palvelu – maksuton Ahvenanmaan asiakasmaksulain muutoksen perusteella 1.1.2024 alkaen.
-  8. Brändön kunnan kodin muutostöiden avustus – paikallinen, tarveharkintainen tuki eläkeikäisille.
-- 16 vahvistamatonta palveluvihjettä tai tietojen täydennystarvetta.
-- 7 poissuljettua maksullista tai muuten soveltumatonta havaintoa.
-- 2 maksutonta mutta kuuden kategorian ulkopuolista palvelua jätetty hakemiston ulkopuolelle.
+- Hyväksyttyjä palvelukokonaisuuksia: **8** (ei uusia julkaisuvalmiita palveluja tässä ajossa).
+- Vahvistamattomia palveluvihjeitä tai täydennystarpeita: **16**.
+- Poissuljettuja maksullisia tai muuten soveltumattomia havaintoja: **11**.
+- Maksuttomia mutta kuuden kategorian ulkopuolisia palveluja: **3**.
 - Valmiiksi merkittyjä kuntia: **0**.
 
-## Tärkeät kattavuus- ja päällekkäisyyssäännöt
+### Kuntakohtaiset lähdetarkistukset
 
-- KST, Rädda Barnen Barnfond, Emmaus-varubistånd, Ålands diakonifond ja maksuton talous- ja velkaneuvonta ovat alueellisia kokonaisuuksia. Niitä ei saa kopioida erillisiksi palveluiksi joka kuntaan.
-- Matbankenin ajantasainen pääsyreitti on vahvistettu Maarianhaminassa sekä Norra Ålands församlingin kautta Finströmissä, Getassa, Sundissa ja Vårdössä. Eckerö-Hammarlandin ja Saltvikin lähteet antavat viitteitä, mutta 2026 käytäntö pitää vahvistaa. Muiden seurakuntien reittejä ei saa päätellä vanhasta 2022 esitteestä.
-- Matbankenin Måsvägen 1 on vahvistettu lahjoitusten vastaanottopaikaksi, ei avunsaajien noutopaikaksi. Noutopaikka ja tarkka kellonaika on saatava järjestäjältä tai lipukkeesta.
-- Emmausin maksulliset second hand -myymälät eivät ole itsessään maksutonta apua. Hyväksytty palvelu on erillinen lahjakorttiohjelma, joka perustuu ammattilaisen arvioon ja lähettävään tahoon.
-- Tavallinen kotihoito on useissa kunnissa maksullista. Kotiapu-kategoriaan hyväksytään vain erikseen vahvistettu maksuton palvelu, kuten lakisääteisen omaishoitovapaan aikainen korvaava hoito.
-- Idrottsbanken on olemassa oleva lainauspalvelun ehdokas, mutta maksuttomuus, ikärajat ja lainausehdot on vahvistettava. Fritidsbanken on vasta 2027 käynnistyvä suunnitelma eikä ole vielä käytettävissä.
+- **Kökar:** kunnan ajantasainen palvelusivu vahvistaa Sommarängenin avlastningspaikan saatavuuden kapasiteetin mukaan. Lakisääteisen omaishoitovapaan aikainen korvaava hoito on maksutonta; tavallinen kotihoito ja tukipalvelut ovat maksullisia. Maksuton 75 vuotta täyttävän ennaltaehkäisevä kotikäynti rajattiin kuuden kategorian ulkopuolelle. Yhteys: omsorgschef Camilla Enberg 040 487 9400.
+- **Kumlinge:** vuoden 2026 maksutiedoissa tavallinen tilapäinen kotihoito, periodipaikka ja vaatehuolto ovat maksullisia. Lakisääteisen omaishoitovapaan aikainen korvaava palvelu on eri palvelu ja maksuton. Paikallinen toteutus liittyy Annagårdeniin; yhteystiedot ja puhelinajat on kirjattu auditointitiedostoon. Brändö-Kumlingen seurakunnan nykyinen sivu vahvistaa ruokakassin tai taloudellisen avun mahdollisuuden, mutta ehdot ja jakelutiedot puuttuvat.
+- **Lemland:** vuoden 2026 virallinen maksuluettelo vahvistaa tavallisen kotihoidon ja tukipalvelujen maksut. Lakisääteinen omaishoitajan avustus ei kuulu maksulliseen periodihoitomaksuun. Lemland-Lumparlandsin seurakunta vahvistaa taloudellisen avun tarpeessa olevan henkilön taloustilanteen läpikäynnin ajanvarauksella; avustuksen muoto ja ehdot ovat avoinna.
+- **Lumparland:** kunnan vuoden 2025 viralliset asiakirjat vahvistavat, että tavallinen kotihoito on maksullista ja lakisääteisen omaishoitajan vapaan aikaiset palvelut maksuttomia. Kapellhagenin paikallinen toteutus on tunnistettu, mutta nykyinen suora yhteyshenkilö ja tarkka varaustapa vaativat vielä vahvistuksen.
+
+### Alueelliset palvelut ja päällekkäisyydet
+
+- Matbanken säilytetään yhtenä alueellisena palveluna. Ajantasainen suora pääsyreitti on vahvistettu Maarianhaminan sekä Norra Ålands församlingin kautta Finströmissä, Getassa, Sundissa ja Vårdössä. Jakelun tarkkaa noutopaikkaa ja kellonaikaa ei julkaista; Måsvägen 1 on lahjoitusten vastaanotto, ei avunsaajien noutopaikka.
+- Emmausin vuoden 2026 paikallinen tavara-apu lahjakorteilla kattaa Ahvenanmaan ja kuuluu Vaatteet- sekä Tavarat-kategorioihin. Se on erillinen palvelu maksullisista second hand -myymäläostoksista.
+- Ålands diakonifond, KST, Rädda Barnen Barnfonden ja talous-/velkaneuvonta säilyvät kukin yhtenä alueellisena palveluna. Niitä ei kopioida kuntakohtaisiksi.
+- Jomala diakoniförening vahvistaa laskujen maksamiseen annettavan avun olemassaolon, mutta avustuksen laina-/lahjaluonne ja ehdot ovat vielä avoinna.
+- Lemland-Lumparlands församling vahvistaa taloudellisen avun arviointikäynnin, mutta avustuksen ehdot ovat avoinna.
+- Ålands södra skärgårdsförsamlingin nykyinen julkinen sivu ei vahvista ruoka- tai raha-avustusta; vanhoja paikallisrahastoviitteitä ei hyväksytä ilman uutta lähdettä.
 
 ## Seuraavan kierroksen etenemisjärjestys
 
-1. Kökar: Ruoka-apu → Kotiapu → Vaatteet → Tavarat → Raha → Asuminen.
-2. Kumlinge: samassa järjestyksessä; tarkista Brändö-Kumlingen seurakunnan ruoka- ja raha-avun ajantasaiset ehdot.
-3. Lemland.
-4. Lumparland.
-5. Maarianhamina.
-6. Saltvik.
-7. Sottunga.
-8. Sund.
-9. Vårdö.
+1. **Maarianhamina:** Ruoka-apu → Kotiapu → Vaatteet → Tavarat → Raha → Asuminen.
+2. Saltvik.
+3. Sottunga.
+4. Sund.
+5. Vårdö.
 
-Avoimet lähteet ja yhteyshenkilöt ovat 13.11. JSON-aineistossa. Älä merkitse kuntaa valmiiksi pelkän alueellisen palvelun perusteella. Tarkista palvelukohtaisesti nimi, järjestäjä, paikka, säännöllinen aika tai asiointitapa, maksuttomuus ja ehdot, yhteystiedot, lähde sekä tarkistuspäivä.
+Älä merkitse kuntaa valmiiksi pelkän alueellisen palvelun perusteella. Tarkista palvelukohtaisesti nimi, järjestäjä, paikka, säännöllinen aika tai asiointitapa, maksuttomuus ja ehdot, yhteystiedot, lähde sekä tarkistuspäivä. Pidä vahvistamattomat, poissuljetut ja hyväksytyt erillään.
 
 ## Muutokset
 
-- Ainoastaan kartoituksen auditointitiedosto ja tämä jatkomuistio tallennetaan.
-- Päärekisteriä `data/paarekisteri.json` ja `data/palvelut.json` ei muutettu.
-- Julkisen sivuston ulkoasua tai sisältöä ei muutettu.
-- Kaksoiskappaleet tarkistettiin päärekisteristä; Ahvenanmaan palveluja ei löytynyt sieltä ennestään.
+- Päivitettiin vain Ahvenanmaan auditointitiedosto ja tämä jatkomuistio.
+- `data/paarekisteri.json` ja `data/palvelut.json` jätettiin muuttamatta.
+- Julkista sivustoa tai sen ulkoasua ei muutettu.
+- Alueellisia palveluja ei monistettu kuntakohtaisiksi kaksoiskappaleiksi.
