@@ -73,7 +73,7 @@
 
 ## Seuraava tarkka jatkokohta
 
-**Ahvenanmaa / Vårdö / avoimien tietojen lopputarkistus.** Kaikki 16 kuntaa ovat nyt saaneet ensimmäisen kuuden kategorian lähdeseulonnan, mutta yhtään kuntaa ei ole valmis. Seuraavaksi tehdään maakunnan yhteinen lopputarkistus ja täydennetään erityisesti Matbankenin paikalliset hakureitit, vuoden 2026 kotihoitomaksut ja omaishoitajan vapaan käytännöt. Ahvenanmaan jälkeen seuraava maakunta aakkosjärjestyksessä on **Etelä-Karjala**.
+**Ahvenanmaa / Föglö / Ruoka-apu.** Föglöstä on aiemmin tehty vain alueellinen palveluseulonta, ei kaikkien kuuden kategorian kuntatarkistusta. Käy Föglössä järjestyksessä Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha ja Asuminen. Sen jälkeen tee Ahvenanmaan yhteinen lopputarkistus ja siirry vasta sitten seuraavaan maakuntaan aakkosjärjestyksessä, **Etelä-Karjalaan**.
 
 ## Muutokset
 
