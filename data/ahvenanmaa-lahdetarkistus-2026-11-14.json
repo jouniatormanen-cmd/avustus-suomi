@@ -1101,14 +1101,16 @@
     "out_of_scope_free_services": 3,
     "municipalities_marked_complete": 0
   },
-  "next_position": "Ahvenanmaa / Vårdö / avoimien tietojen lopputarkistus; tämän jälkeen seuraava maakunta aakkosjärjestyksessä on Etelä-Karjala.",
+  "next_position": "Ahvenanmaa / Föglö / Ruoka-apu (Föglöstä on toistaiseksi vain alueellinen seulonta; käy kuusi kategoriaa läpi ennen maakunnasta etenemistä).",
   "next_actions": [
-    "Tee Ahvenanmaan 16 kunnan yhteinen loppuvertailu: varmista avoimet Matbanken-reitit, paikalliset kotiavun ja omaishoitajan vapaan järjestelyt sekä raha- ja asumistuen hakukanavat.",
+    "Jatka aakkosjärjestyksessä Föglöstä: Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha, Asuminen. Aiempi Föglö-merkintä oli vain alueellinen seulonta, ei kuuden kategorian kuntatarkistus.",
+    "Tee Föglön jälkeen Ahvenanmaan yhteinen lähde- ja kaksoiskappaletarkistus; tarkista, että kaikki 16 kuntaa on käsitelty paikallisesti kuudessa kategoriassa ennen siirtymistä seuraavaan maakuntaan.",
+    "Täydennä avoimet Matbanken-reitit, paikalliset kotiavun ja omaishoitajan vapaan järjestelyt sekä raha- ja asumistuen hakukanavat.",
     "Varmista Saltvikin, Sottungan ja Vårdön vuoden 2026 kotihoidon maksut sekä omaishoitajan vapaan paikallinen varauskäytäntö; älä käytä 2025 hintoja vuoden 2026 hintoina.",
     "Selvitä Mariehamns Diakoniföreningin avustusten ja korottomien lainojen ehdot sekä se, mikä osuus on takaisinmaksutonta avustusta.",
     "Varmista Matbankenin vastaanottajien noutopaikka ja tarkat jakeluajat; Måsvägen 1 on lahjoitusten vastaanottopaikka.",
     "Älä monista Matbankenia, Emmausin lahjakorttiapua, Ålands diakonifondia, KST:tä, Barnfondia, velkaneuvontaa tai lakisääteistä omaishoitajan vapaan palvelua kuntakohtaisiksi kaksoiskappaleiksi.",
-    "Älä merkitse yhtään kuntaa valmiiksi ennen avoimien kenttien tarkistusta; siirry Etelä-Karjalaan vasta Ahvenanmaan lopputarkistuksen jälkeen."
+    "Älä merkitse yhtään kuntaa valmiiksi ennen avoimien kenttien tarkistusta; Ahvenanmaan jälkeen seuraava maakunta aakkosjärjestyksessä on Etelä-Karjala."
   ],
   "public_site_changed": false,
   "main_registry_changed": false,
@@ -1145,7 +1147,7 @@
     ],
     "new_exclusions": 5,
     "municipalities_marked_complete": 0,
-    "next_position": "Ahvenanmaa / Vårdö / avoimien tietojen lopputarkistus; tämän jälkeen seuraava maakunta aakkosjärjestyksessä on Etelä-Karjala."
+    "next_position": "Ahvenanmaa / Föglö / Ruoka-apu (Föglöstä on toistaiseksi vain alueellinen seulonta; käy kuusi kategoriaa läpi ennen maakunnasta etenemistä)."
   },
   "category_review": [
     {
@@ -1481,5 +1483,5 @@
       "checked_at": "2026-11-14"
     }
   ],
-  "batch_note": "Five consecutive municipalities (Mariehamn, Saltvik, Sottunga, Sund, Vårdö) received a source-based first-pass review of all six categories. The audit distinguishes accepted regional services, pending local access routes, paid exclusions and free services outside the six categories. All five municipalities remain incomplete."
+  "batch_note": "Five consecutive municipalities (Mariehamn, Saltvik, Sottunga, Sund, Vårdö) received a source-based first-pass review of all six categories (30 category checks). Föglö remains earlier in the alphabetical sequence with only a regional coverage screen and must be completed before leaving Åland. All municipalities remain incomplete."
 }
