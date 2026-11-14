@@ -705,8 +705,7 @@
       "contact": "Lisbet Nordlund 018 536 107; Kati Juntunen 018 536 127; Mariehamns församling, Östra Esplanadgatan 6, 22100 Mariehamn. Diaconia drop-in Tuesdays 10:00–12:00; appointment by phone also possible.",
       "sources": [
         "https://www.mariehamnsforsamling.fi/stod-och-hjalp/ovrigt",
-        "https://www.mariehamnsforsamling.fi/stod-och-hjalp/diakoni",
-        "https://www.mariehamnsforsamling.fi/kontakt/diakoniarbetare"
+        "https://www.mariehamnsforsamling.fi/stod-och-hjalp/diakoni"
       ],
       "checked_date": "2026-11-14",
       "service_existence_confirmed": true
@@ -1245,7 +1244,7 @@
       "category": "Kotiapu",
       "status": "first_pass_reviewed_open_details",
       "checked_date": "2026-11-14",
-      "notes": "2025 tariff shows ordinary temporary home service is paid; local 2024 caregiver guidelines state services during statutory leave are free, but current contact and booking route remain open"
+      "notes": "The proposed 2025 social-service tariff lists paid temporary home service; local 2024 caregiver guidelines state that services during statutory leave are free, but current contact and booking route remain open."
     },
     {
       "municipality": "Sottunga",
@@ -1425,7 +1424,7 @@
       "service": "Sottunga kommun – social service tariff and caregiver guidelines",
       "area": "Sottunga",
       "category": "Kotiapu",
-      "free_status": "ordinary temporary home service paid in 2025 tariff; services during statutory caregiver leave stated free in local guidelines",
+      "free_status": "2025 temporary home-service tariff proposal lists a fee; local caregiver guidelines effective 1.4.2024 state services during statutory leave are free",
       "application": "Needs-based assessment and care plan; current 2026 direct contact not verified.",
       "contact": "2025 municipal minutes name care manager Camilla Enberg; direct contact details not confirmed.",
       "source": "https://www.sottunga.ax/sites/default/files/attachments/page/stod_for_narstaendevard_riktlinjer_sottunga.pdf",
