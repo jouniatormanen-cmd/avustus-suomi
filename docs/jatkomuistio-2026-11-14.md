@@ -32,7 +32,7 @@
 ### Sottunga
 
 - Ålands södra skärgårdsförsamlingin nykyinen tukisivu ei vahvista paikallista ruokakassi- tai tavara-apua. Alueellinen Ålands diakonifond on kuitenkin käytettävissä paikallisen seurakunnan diakoniatyön kautta; yksityishenkilö ei hae rahastosta suoraan.
-- Vuoden 2025 sosiaalipalvelutaksassa tavallinen tilapäinen kotihoito on maksullista. Paikalliset omaishoidon ohjeet (voimassa 1.4.2024 alkaen) vahvistavat, että lakisääteisen vapaan aikaiset palvelut ovat maksuttomia. Vuoden 2026 yhteyshenkilö ja varauskäytäntö jäivät avoimiksi.
+- Vuoden 2025 sosiaalipalvelutaksan ehdotuksessa tavallinen tilapäinen kotihoito on maksullista; sitä ei käsitellä vahvistettuna vuoden 2026 hintana. Paikalliset omaishoidon ohjeet (voimassa 1.4.2024 alkaen) vahvistavat, että lakisääteisen vapaan aikaiset palvelut ovat maksuttomia. Vuoden 2026 yhteyshenkilö ja varauskäytäntö jäivät avoimiksi.
 - Emmausin lahjakorttiapu kuuluu maakunnalliseen tietueeseen.
 
 ### Sund
