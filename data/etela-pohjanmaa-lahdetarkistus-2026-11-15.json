@@ -195,9 +195,9 @@
         "Ähtäri"
       ],
       "location": "Perheen koti; Alajärven alueen asiointipiste Alajärven perhekeskus, Alvar Aallon tie 2; Alavuden alueen sosiaalipalvelut, Kuulantie 5.",
-      "regular_time": "Hakulomakkeella; kiireettömät hakemukset käsitellään palvelukohtaisesti kerran viikossa. Käynnit sovitaan määräaikaisella päätöksellä.",
-      "free_and_conditions": "Kotikäynnit auttavat päivittäisissä askareissa, kodinhoidollisissa töissä ja tarvittaessa tilapäisessä lastenhoidossa. Tavallinen tilapäismaksu on 15 € (0–2 h) tai 20 € (3–5 h), mutta maksu jätetään perimättä, jos perheen bruttotulot alittavat perhekoon rajan tai perhe saa säännöllistä toimeentulotukea. Lapsen asiakassuunnitelmaan perustuva palvelu voidaan myöntää maksuttomana perheen taloudellisen tai kokonaistilanteen perusteella. Vain tämä maksuton myöntämisperusteinen reitti kuuluu hakemistoon.",
-      "contact": "Alajärvi/Alavus/Lappajärvi/Vimpeli: vastaava perheohjaaja Riikka Salli 040 142 7717. Perhekeskuksen asiakasohjaus 06 230 7850, ma–pe 9–15.",
+      "regular_time": "Tilapäinen palvelu hakemuksesta ja erikseen sovittuna ajankohtana. Perhekeskuksen asiakasohjaus palvelee ma–pe klo 9–15.",
+      "free_and_conditions": "Lapsiperheiden kotipalvelu on tilapäistä kotikäyntiapua arjen askareisiin ja tarvittaessa lastenhoitoon. Tavallinen tilapäismaksu on 15 € (0–2 h), 20 € (3–5 h) tai 30 € (yli 5 h). Maksua ei peritä, jos perheen bruttotulot alittavat perhekoon rajan: 1 henkilö 699 €/kk, 2 henkilöä 1 290 €/kk, 3 henkilöä 2 025 €/kk, 4 henkilöä 2 503 €/kk, 5 henkilöä 3 030 €/kk ja 6 henkilöä 3 481 €/kk, tai jos perhe saa säännöllistä toimeentulotukea. Lapsen asiakassuunnitelmaan perustuva kotipalvelu voidaan myöntää maksuttomana perheen taloudellisen tai kokonaistilanteen perusteella. Vain tämä maksuton myöntämisperusteinen reitti kuuluu hakemistoon.",
+      "contact": "Alajärvi/Lappajärvi/Vimpeli: vastaava perheohjaaja Riikka Salli 040 142 7717; Alajärven perhekeskuksen asiakasohjaus 06 230 7850 ma–pe 9–15. Alavus/Kuortane/Soini/Ähtäri: Riikka Salli 040 142 7717; Alavuden sosiaalipalvelut, Kuulantie 5.",
       "source_urls": [
         "https://www.hyvaep.fi/palvelu/lapsiperheiden-kotipalvelu/",
         "https://www.hyvaep.fi/tietoa-ja-ohjeita/asiakasmaksut/perhe-ja-sosiaalipalveluiden-asiakasmaksut/"
@@ -217,10 +217,11 @@
       "location": "Digitaalinen Omapalvelu tai oman sote-keskuksen sosiaalityön toimipaikka.",
       "regular_time": "Hakemuksia voi jättää jatkuvasti; ei kiinteää vastaanottoaikaa.",
       "free_and_conditions": "Tukea voi hakea erityisistä tarpeista ja olosuhteista aiheutuviin menoihin, joita perustoimeentulotuki ei kata. Kelan perustoimeentulotuki on haettava ensisijaisesti; päätös tehdään yksilöllisen harkinnan perusteella.",
-      "contact": "Aikuissosiaalityön asiakasohjaus 040 636 7999, ma–pe 9–11 ja 12–14; yleinen vaihde 06 415 4111.",
+      "contact": "Aikuissosiaalityön asiakasohjaus 040 636 7999, ma–pe 9–11 ja 12–14; hakemus Omapalvelussa tai oman sote-keskuksen sosiaalityön toimipaikkaan.",
       "source_urls": [
         "https://www.hyvaep.fi/palvelu/taydentava-ja-ehkaiseva-toimeentulotuki/",
-        "https://www.hyvaep.fi/palvelu/aikuissosiaalityo/"
+        "https://www.hyvaep.fi/palvelu/aikuissosiaalityo/",
+        "https://www.hyvaep.fi/palvelu/aikuissosiaalityon-asiakasohjaus/"
       ],
       "checked_date": "2026-11-15"
     },
@@ -235,7 +236,7 @@
         "Koko Etelä-Pohjanmaa; pop-up-päiviä järjestetään eri kunnissa"
       ],
       "location": "Kalevankadun yhteinen palvelupiste, Kalevankatu 17, Seinäjoki; lisäksi alueelliset pop-up-päivät ajanvarauksella.",
-      "regular_time": "Seinäjoella parittomien viikkojen perjantaisin klo 12–15. Syksyn 2026 jäljellä olevat julkaistut ajat 20.11. ja 4.12.",
+      "regular_time": "Seinäjoella parittomien viikkojen perjantaisin klo 12–15; syksyn 2026 jäljellä olevat ajat 20.11. ja 4.12. Lisäksi pop-up-päiviä eri kunnissa ajanvarauksella.",
       "free_and_conditions": "Maksuton, luottamuksellinen ja haluttaessa nimetön neuvonta arjen raha-asioissa. Mukana aikuissosiaalityö, valtion talous- ja velkaneuvonta, ulosotto ja Kela.",
       "contact": "050 408 5166 aukioloaikana.",
       "source_urls": [
@@ -316,7 +317,7 @@
       "coverage": [
         "Koko Etelä-Pohjanmaa"
       ],
-      "note": "Tämä tietue on jo päärekisterissä. Sitä käytetään Alajärven ja Alavuden alueellisena palveluna; uutta kuntakohtaista kopiota ei luoda.",
+      "note": "Päärekisterin tietue av-0201 kattaa koko Etelä-Pohjanmaan. Hopen oma paikallissivu vahvistaa Seinäjoen toimipisteen, alueellisen kattavuuden ja avunpyyntölomakkeen; yleinen Hope-sivu vahvistaa maksuttoman lahjoitettujen vaatteiden ja tavaroiden jakelun vähävaraisille ja kriisin kokeneille lapsiperheille. Ei luoda kuntakohtaista kopiota.",
       "source_url": "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/"
     },
     {
@@ -602,9 +603,11 @@
     "https://www.hyvaep.fi/palvelu/talousneuvola/",
     "https://www.hyvaep.fi/palvelu/lahisuhdevakivalta/",
     "https://palveluketjut.hyvaep.fi/palveluketju/vakivaltaa-kokeneen-lapsen-palveluketju-2/jatkotuki/jarjestojen-palvelut/",
-    "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/"
+    "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/",
+    "https://www.hyvaep.fi/palvelu/aikuissosiaalityon-asiakasohjaus/",
+    "https://hopeyhdistys.fi/hope/"
   ],
   "public_site_changed": false,
   "main_registry_changed": false,
-  "checked_note": "Etelä-Pohjanmaan ensimmäinen tarkistuskierros alkoi Alajärvestä ja Alavudesta. Molemmissa käytiin läpi kaikki kuusi kategoriaa, mutta keskeneräisiä kuntia ei merkitä valmiiksi. Hope Seinäjoki hyödynnetään olemassa olevana koko maakunnan tietueena av-0201; uutta kopiota ei luoda."
+  "checked_note": "Etelä-Pohjanmaan ensimmäinen tarkistuskierros alkoi Alajärvestä ja Alavudesta. Molemmissa käytiin läpi kaikki kuusi kategoriaa. HyvaEP:n lapsiperheiden kotipalvelun maksuttomuuden tarkat tulorajat lisättiin (1–6 henkilön perheille 699–3 481 €/kk; lisäksi säännöllinen toimeentulotuki tai lapsen asiakassuunnitelmaan perustuva päätös). Hope Seinäjoki hyödynnetään olemassa olevana koko maakunnan tietueena av-0201; uutta kopiota ei luoda. Keskeneräisiä kuntia ei merkitä valmiiksi."
 }
