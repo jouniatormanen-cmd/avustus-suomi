@@ -1,44 +1,67 @@
-# Avustus Suomi – jatkomuistio 15.11.2026
+# Avustus Suomi – jatkomuistio 2026-11-15
 
-## Tarkka lähtökohta
+## Tarkka jatkokohta
 
-Repo tarkistettiin ennen työn jatkamista. Viimeisin Ahvenanmaan tarkistus oli jo edennyt Föglöön; tallennettu jatkokohta oli **Etelä-Karjala / Rautjärvi / Ruoka-apu**. Brändöä ei aloitettu uudelleen, jotta jo tehtyä työtä ei toisteta.
+**Etelä-Pohjanmaa / Seinäjoki / Ruoka-apu.** Jatka kunnissa aakkosjärjestyksessä ja jokaisessa kuusi kategoriaa tässä järjestyksessä: Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha, Asuminen.
 
-## Toteutunut kartoitus
+Seuraavina tämän maakunnan jäljellä olevat kunnat:
+1. Seinäjoki
+2. Soini
+3. Teuva
+4. Vimpeli
+5. Ähtäri
 
-### Etelä-Karjala
+Etelä-Pohjanmaan liiton virallinen kuntaluettelo vahvistaa maakunnassa olevan **18 kuntaa**. Aiemmasta auditointijonosta puuttui Isokyrö; se lisättiin oikealle aakkospaikalle Isojoen ja Karijoen väliin. Älä poista sitä tulevista tarkistuksista.
 
-- Rautjärvi, Ruokolahti, Savitaipale ja Taipalsaari tarkistettiin kaikissa kuudessa kategoriassa.
-- Maakunnan ensimmäinen kierros on nyt käyty läpi kaikissa yhdeksässä kunnassa: Imatra, Lappeenranta, Lemi, Luumäki, Parikkala, Rautjärvi, Ruokolahti, Savitaipale ja Taipalsaari.
-- Uusi hyväksytty palvelu: Taipaleen seurakunnan maksuton diakonian aamupuuro Savitaipaleella, keskiviikkoisin klo 9–10; syksyn 2026 julkaistut päivät jatkuvat 9.12. asti.
-- Taipaleen seurakunnan PikkuHelppi-tietue laajennettiin kattamaan Lemin lisäksi Taipalsaari. Savitaipaleen toiminta jätettiin erilliseksi vahvistamattomaksi, koska sen kerrottiin olevan tauolla.
-- Alueelliset Ekhva-palvelut (täydentävä/ehkäisevä toimeentulotuki, velkaneuvonta, Tilma ja turvakoti) pidettiin yhtenäisinä eikä niitä kopioitu kuntakohtaisiksi.
-- Avoimiksi jäivät mm. Ruokolahden seurakunnan Arkiavun ja diakonian tarkat ehdot, Savitaipaleen PikkuHelppin tila sekä Taipalsaaren aamupuuron seuraava päivämäärä. Rautjärven maksuton maahanmuuttajien asumisneuvonta vahvistui kunnan sivulta: tiistaisin klo 15–16, kunnantalon huone V206.
-- Kuntia ei merkitty valmiiksi.
+## Tämän ajon toteutunut työ
 
-Tiedosto: `data/etela-karjala-lahdetarkistus-2026-11-15.json`
+Repoa luettaessa viimeisin todellinen jatkokohta oli jo **Etelä-Pohjanmaa / Evijärvi / Ruoka-apu**, ei vanhempi Ahvenanmaa / Brändö -merkintä. Työ jatkettiin tästä ja käytiin läpi kaikki kuusi kategoriaa seuraavissa 11 kunnassa:
 
-### Etelä-Pohjanmaa
+- Evijärvi
+- Ilmajoki
+- Isojoki
+- Isokyrö
+- Karijoki
+- Kauhajoki
+- Kauhava
+- Kuortane
+- Kurikka
+- Lappajärvi
+- Lapua
 
-- Kartoitus aloitettiin heti Etelä-Karjalan jälkeen.
-- Alajärvi ja Alavus käytiin läpi kaikissa kuudessa kategoriassa (12 kuntakategoriatarkistusta).
-- Vahvistetut palvelut: HyvaEP:n lapsiperheiden kotipalvelun maksuton myöntämisperuste pienituloisille perheille; HyvaEP:n täydentävä ja ehkäisevä toimeentulotuki; maksuton Talousneuvola; Etelä-Pohjanmaan maksuton 24/7 turvakoti; Alavuden seurakunnan rajallinen ESR+-ruokakorttien jakelu; Alavuden kaupungin vuosittainen 150 euron opiskelijalahja.
-- Hope Seinäjoki kattaa koko Etelä-Pohjanmaan ja on jo päärekisterissä tietueena `av-0201`; sitä käytettiin Alajärven ja Alavuden Vaatteet/Tavarat-kategorioissa ilman kaksoiskappaletta.
-- Alajärven vapaaseurakunnan seuraava ruokajako on julkaistu 18.11.2026 klo 16.40–17.30, mutta pysyvää rytmiä ei ole vahvistettu järjestäjän sivulla. Lehtimäen hävikkiruoan jaossa on maksuttomuuden ja tarkan jakoajan tarkennustarve.
-- Alajärven Helluntaiseurakunnan ESR+-hanke, Alajärven diakoniatalousneuvonta, Alavuden vaatepankki ja asiointiapu sekä Alavuden diakoniatalousneuvonta jätettiin vahvistettaviksi.
-- Alajärven ja Alavuden kuntia ei merkitty valmiiksi.
+Yhdessä aiemmin käsiteltyjen Alajärven ja Alavuden kanssa ensimmäinen kuuden kategorian seulonta on tehty **13/18 kunnassa (78 kuntakategoriatarkistusta)**. Yhtään kuntaa ei merkitty valmiiksi, koska useissa kunnissa on vielä maksuttomuuden, jakelurytmin, hakuehtojen tai yhteystietojen vahvistettavia kohtia.
 
-Tiedosto: `data/etela-pohjanmaa-lahdetarkistus-2026-11-15.json`
+## Uudet hyväksytyt palvelut
 
-## Rajaukset ja tietosuoja
+1. **Ilmajoen seurakunnan Pikkuhelppi – Kotiapu.** Maksutonta lastenhoitoapua enintään 3 tuntia kerrallaan; palvelua järjestetään seurakunnan tiloissa tai perheen kotona. Syksyn 2026 useat julkaistut ajat osoittavat jatkuvan palvelun. Minna Järvinen 050 554 0627.
+2. **Isojoen kunnan Vihermön rahasto – Raha.** Jatkuva hakuaika, päätökset huhti- ja lokakuussa. Perustellusta syystä avustuksia yksityishenkilöille, erityisesti ikäihmisille, vammaisille ja muille heikommassa asemassa oleville. Avustuksia vain rahaston tuoton puitteissa.
+3. **Kauhavan seurakunnan maksuton ruokajako Alahärmässä – Ruoka-apu.** Perjantaisin klo 15–16, Härmäntie 31. Järjestäjä vahvistaa maksuttomuuden ja vähävaraisille suunnatun hävikkiruokajaon. Ylihärmän piste on myös ilmoitettu maksuttomaksi, mutta osoite Päämajantie 29/31 on ristiriitainen; sitä ei julkaista ennen tarkistusta.
+4. **Kauhajoen seurakunnan maksuton diakonia ja taloudellinen hätäapu – Raha.** Palvelu kattaa Kauhajoen ja Karijoen. Ajanvaraus ma–ke klo 9–11; apu on järjestäjän mukaan maksutonta ja tapauskohtaista.
+5. **VARKEn korjausavustus ikääntyneiden ja vammaisten asuntoihin – Asuminen.** Valtakunnallinen jatkuvahakuinen vastikkeeton avustus pienituloisille omistajille, joiden kotitaloudessa asuu yli 65-vuotias tai vammainen henkilö. Enintään 50 %, erityisestä syystä 70 % hyväksytyistä korjauskuluista. Ahvenanmaan soveltuvuus tarkistettava erikseen.
 
-- Päärekisteriä `paarekisteri.json` tai `palvelut.json` ei muutettu.
-- Julkisen sivuston ulkoasua tai sisältöä ei muutettu.
-- Maksulliset kirpputorit, maksullinen ylijäämäruoka, takaisinmaksettavat luotot, kertaluonteiset avustukset ja yksittäiset tapahtumat erotettiin pois.
-- Alueelliset palvelut tallennetaan kerran ja niihin viitataan kunnista; olemassa olevia tietueita käytetään uudelleen.
+## Aiemmat alueelliset palvelut – ei kaksoiskappaleita
 
-## Seuraava tarkka jatkokohta
+- HyvaEP:n lapsiperheiden kotipalvelu kattaa virallisen palvelusivun mukaan kaikki 18 maakunnan kuntaa. Vain tuloperusteisesti maksuton tai muulla hyväksytyllä perusteella maksuton reitti sisällytetään.
+- Hope Seinäjoki (rekisterin av-0201) kattaa koko maakunnan Vaatteet/Tavarat-kategoriat.
+- Etelä-Pohjanmaan turvakoti ja HyvaEP:n taloudelliset tukipalvelut ovat maakunnallisia olemassa olevia tietueita.
+- Isojoen ruokajako av-0031, keskusteluapu av-0032 ja aineellinen diakonia-apu av-0033 löydettiin päärekisteristä. Niitä ei kopioitu. av-0031:n jakeluajoissa on seurakunnan ja kunnan sivujen välinen ristiriita; maksuttomuus on vielä vahvistettava.
 
-**Etelä-Pohjanmaa / Evijärvi / Ruoka-apu**
+## Avoimet ja poissuljetut
 
-Etene Evijärven jälkeen maakunnan kuntajärjestyksessä: Ilmajoki, Isojoki, Karijoki, Kauhajoki, Kauhava, Kuortane, Kurikka, Lappajärvi, Lapua, Seinäjoki, Soini, Teuva, Vimpeli ja Ähtäri. Käsittele kussakin kaikki kuusi kategoriaa, mutta älä merkitse kuntaa valmiiksi ennen kuin avoimet ehdot ja maksuttomuus on vahvistettu.
+Avoimiksi jätettiin muun muassa Evijärven, Isojoen, Kauhavan keskustan, Kuortaneen, Kurikan, Lappajärven ja Lapuan ruokajakelujen maksuttomuus tai tarkka rytmi; useiden seurakuntien taloudellisen avun ehdot; Lapuan asumisneuvonnan maksuttomuus; sekä Ylihärmän jakelupisteen osoite.
+
+Poissuljettuja olivat maksulliset tai vapaaehtois­maksulliset ruokailut, maksulliset kirpputorit, joulun kausikassit, kertaluonteiset vauva-/rakentamis-/palveluseteliedut, takaisinmaksettava sosiaalinen luotto ja työllistämiseen sidottu ilmainen asunto.
+
+## Tilanne ja tallennus
+
+- Ensimmäisen kuuden kategorian seulonnan läpikäyneet kunnat: 13/18.
+- Kuntakategoriatarkistuksia: 78.
+- Uusia hyväksyttyjä palvelutietueita tässä ajossa: 5.
+- Avoimia palveluvihjeitä/täydennyksiä yhteensä: 23.
+- Poissuljettuja havaintoja yhteensä: 19.
+- Kokonaan valmiiksi merkittyjä kuntia: 0.
+- Päärekisteriä (paarekisteri.json, palvelut.json) tai julkista sivustoa ei muutettu.
+
+Päivitetty aineisto: data/etela-pohjanmaa-lahdetarkistus-2026-11-15.json.
+
+Seuraava työ alkaa **Seinäjoen Ruoka-avusta** ja jatkuu Soiniin, Teuvalle, Vimpeliin ja Ähtäriin. Älä siirry seuraavaan maakuntaan ennen kuin kaikki 18 Etelä-Pohjanmaan kuntaa on käyty läpi kuudessa kategoriassa ja alueelliset tietueet on deduplikoitu.
