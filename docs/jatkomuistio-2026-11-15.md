@@ -57,7 +57,7 @@ Poissuljettuja olivat maksulliset tai vapaaehtois­maksulliset ruokailut, maksul
 - Ensimmäisen kuuden kategorian seulonnan läpikäyneet kunnat: 13/18.
 - Kuntakategoriatarkistuksia: 78.
 - Uusia hyväksyttyjä palvelutietueita tässä ajossa: 5.
-- Avoimia palveluvihjeitä/täydennyksiä yhteensä: 23.
+- Avoimia palveluvihjeitä/täydennyksiä yhteensä: 22.
 - Poissuljettuja havaintoja yhteensä: 19.
 - Kokonaan valmiiksi merkittyjä kuntia: 0.
 - Päärekisteriä (paarekisteri.json, palvelut.json) tai julkista sivustoa ei muutettu.
