@@ -17,6 +17,7 @@
     "Evijärvi",
     "Ilmajoki",
     "Isojoki",
+    "Isokyrö",
     "Karijoki",
     "Kauhajoki",
     "Kauhava",
@@ -32,19 +33,20 @@
   ],
   "municipalities_reviewed": [
     "Alajärvi",
-    "Alavus"
-  ],
-  "municipalities_remaining": [
+    "Alavus",
     "Evijärvi",
     "Ilmajoki",
     "Isojoki",
+    "Isokyrö",
     "Karijoki",
     "Kauhajoki",
     "Kauhava",
     "Kuortane",
     "Kurikka",
     "Lappajärvi",
-    "Lapua",
+    "Lapua"
+  ],
+  "municipalities_remaining": [
     "Seinäjoki",
     "Soini",
     "Teuva",
@@ -175,6 +177,744 @@
         "etela-pohjanmaan-turvakoti"
       ],
       "finding": "Etelä-Pohjanmaan turvakoti tarjoaa maksutonta ympärivuorokautista kriisiasumista koko maakunnan asukkaille."
+    },
+    {
+      "municipality": "Evijärvi",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status_or_schedule",
+      "accepted_ids": [],
+      "pending_ids": [
+        "kauhavan-seurakunta-ruokajako"
+      ],
+      "finding": "Kauhavan seurakunnan Evijärven kirkkopiirin ruokajako on julkaistu kahtena perjantaina (23.10. ja 6.11.2026) klo 15–16 osoitteessa Kauppatie 1; järjestäjän diakonia-sivu ilmoittaa Evijärven ja Kortesjärven jaon joka toiselle perjantaille. Jaettavana tuoretta ja pakastettua hävikkiruokaa. Maksuttomuutta ei kuitenkaan ilmaista Evijärven pisteen omassa tiedossa, joten sitä ei hyväksytä ennen vahvistusta.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Evijärvi",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu kattaa Evijärven. Maksuton vain tuloperusteisen maksuvapautuksen tai palvelusuunnitelmaan perustuvan maksuttoman myöntämisperusteen täyttyessä. Evijärven ja Kauhavan yhteyshenkilö Susanna Välimaa 050 364 5733; perhekeskuksen asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Evijärvi",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki on jo rekisteröity koko Etelä-Pohjanmaan kattavaksi maksuttomaksi vaateavuksi; käytetään olemassa olevaa tietuetta.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Evijärvi",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki on jo rekisteröity koko Etelä-Pohjanmaan kattavaksi maksuttomaksi tavara-avuksi; käytetään olemassa olevaa tietuetta.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Evijärvi",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "evijarvi-kauhavan-seurakunta-diakonia"
+      ],
+      "finding": "Evijärven kirkkopiirin diakoniapäivystys on torstaisin klo 10–11 ja järjestäjä kertoo taloudellisesta neuvonnasta ja tuesta. Avustusten maksuttomuutta, myöntämisehtoja ja sitä, onko kyse jatkuvasta avustuspalvelusta vai yksittäisestä kriisiavusta, ei julkaista riittävästi.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Evijärvi",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Turvakoti on olemassa oleva koko maakunnan maksuton palvelu. Lisäksi VARKEn jatkuvahaun korjausavustus koskee pienituloisia omistajia, joiden taloudessa asuu yli 65-vuotias tai vammainen henkilö. Evijärven kunnan vuokra-asunnot ovat maksullisia vuokra-asuntoja, eivät maksutonta asumisapua.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Ruoka-apu",
+      "status": "excluded_paid_or_not_free",
+      "accepted_ids": [],
+      "pending_ids": [],
+      "finding": "Ilmajoen seurakunnan tiistairuokailu on vapaaehtoismaksullinen (2–4 €); sitä ei hyväksytä maksuttomaksi ruoka-avuksi. Muita säännöllisiä maksuttomia jakeluita ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Kotiapu",
+      "status": "accepted_new_service",
+      "accepted_ids": [
+        "ilmajoki-pikkuhelppi",
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "Ilmajoen seurakunnan Pikkuhelppi tarjoaa maksutonta lastenhoitoapua enintään 3 tuntia kerrallaan seurakunnan tiloissa, perheen kotona tai sovitusti ulkona. Syksyn 2026 toistuvat ajat 3.11. ja 16.11. klo 13–16 vahvistavat, ettei kyse ole yksittäisestä kertatapahtumasta. Kotiapua voi sopia Minna Järvisen kanssa, 050 554 0627. Lisäksi HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Ilmajoen.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan; erillistä Ilmajoen maksutonta vaatepalvelua ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan; erillistä Ilmajoen maksutonta tavara-apua ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Raha",
+      "status": "excluded_one_off_aid_and_regional_reuse",
+      "accepted_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola"
+      ],
+      "pending_ids": [],
+      "finding": "Ilmajoen seurakunnan taloudellinen avustaminen on järjestäjän mukaan yleensä kertaluonteista, joten sitä ei oteta tämän jatkuvien palvelujen rekisteriin. HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola ovat jo olemassa olevia maakunnallisia tietueita.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn jatkuvahaun korjausavustus ovat käytettävissä ehtojensa mukaisesti. Erillistä maksutonta asumispaikkaa ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Ruoka-apu",
+      "status": "pending_existing_record_schedule_and_free_status",
+      "accepted_ids": [
+        "av-0031"
+      ],
+      "pending_ids": [
+        "isojoki-evaskori-ruokajako"
+      ],
+      "finding": "Päärekisterissä on jo Isojoen seurakunnan ruokajako (av-0031). Seurakunnan oma sivu ilmoittaa jaon perjantaisin klo 10.30–11, kunnan sivu tiistaisin ja perjantaisin klo 9–11. Maksuttomuutta ei ilmaista selvästi. Tietuetta ei kopioida; nykyinen rytmi ja maksuttomuus on sovitettava järjestäjän kanssa.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Isojoen. Yhteyshenkilö Virpi Pihlajamäki 044 790 2390; Kauhajoen perhekeskus Hakasivuntie 1 / sosiaalipalvelut Teknologiapuisto 1; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki on maakunnallinen maksuton vaateapu; ei uutta kuntakohtaista kopiota.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki on maakunnallinen maksuton tavara-apu; ei uutta kuntakohtaista kopiota.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Raha",
+      "status": "accepted_new_service_with_discretionary_terms",
+      "accepted_ids": [
+        "isojoki-vihermo-fund"
+      ],
+      "pending_ids": [
+        "av-0033"
+      ],
+      "finding": "Jussi Stefanus ja Tyyne Martta Vihermön rahasto ottaa hakemuksia jatkuvasti ja tekee päätöksiä kaksi kertaa vuodessa (huhti- ja lokakuussa). Se voi tukea perustellusta syystä Isojoella asuvia tai sieltä lähtöisin olevia yksityishenkilöitä, erityisesti ikäihmisiä, vammaisia ja muita heikommassa asemassa olevia. Avustuksia voidaan myöntää vain, jos rahastolla on jakokelpoista tuottoa. Päärekisterin av-0033-diakoninen aineellinen apu jää erikseen avoimeksi, koska sen jatkuvuutta ja ehtoja ei ole vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Turvakoti ja VARKEn kodin korjausavustus ovat käytettävissä ehtojensa mukaisesti. Isojoen vuokra-asunnot ovat maksullisia. Kunnan Tuu töihin -puolen vuoden asumisetu on sidottu kunnan rekrytointiin eikä ole yleinen avustus.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Ruoka-apu",
+      "status": "no_local_free_service_verified",
+      "accepted_ids": [],
+      "pending_ids": [],
+      "finding": "Järjestäjien ensisijaisista lähteistä ei vahvistettu jatkuvaa paikallista maksutonta ruokajakoa. Seurakunnan diakoniatyö on olemassa, mutta sivu ei julkaise ruoka-apua tai jakelua.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n maksuvapautuksen perusteella maksuton lapsiperheiden kotipalvelu kattaa Isokyrön. Yhteyshenkilö Sanna Mäki 044 438 4032; asiointipiste Seinäjoen perhekeskus, Ruukintie 2; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa koko maakunnan; paikallista erillistä vaateapua ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa koko maakunnan; paikallista erillistä tavara-apua ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "isokyron-seurakunnan-diakonia"
+      ],
+      "finding": "Isonkyrön seurakunnan diakonia auttaa raha-asioiden ja velkatilanteen selvittelyssä sekä voi antaa tukea akuuttiin talousvaikeuteen. Maksuttomuutta, myöntämisehtoja ja säännöllisiä vastaanottoaikoja ei julkaista. Nykyinen vs. diakoniatyöntekijä Kristiina Brisk-Mosander 040 586 2596, Pappilanmutka 1.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn jatkuvahaun korjausavustus. Isonkyrön 130 € ikäihmisten palveluseteli on kertaluonteinen (vain kerran haettava) ja palveluyrityksiin sidottu, joten se rajataan pois.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Karijoki",
+      "category": "Ruoka-apu",
+      "status": "no_local_free_service_verified",
+      "accepted_ids": [],
+      "pending_ids": [],
+      "finding": "Kauhajoen seurakunnan Karijoen kappeliseurakunnan sivuilta ei löytynyt säännöllistä maksutonta ruokajakoa.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Karijoki",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Karijoen. Yhteyshenkilö Virpi Pihlajamäki 044 790 2390; Kauhajoen perhekeskus Hakasivuntie 1; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Karijoki",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan; ei kuntakohtaista kopiota.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Karijoki",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan; ei kuntakohtaista kopiota.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Karijoki",
+      "category": "Raha",
+      "status": "accepted_new_service",
+      "accepted_ids": [
+        "kauhajoen-seurakunta-diakonia-taloudellinen-hataapu"
+      ],
+      "pending_ids": [],
+      "finding": "Kauhajoen seurakunnan Karijoen kappeliseurakunnan diakonia tarjoaa maksutonta taloudellista hätäapua kriisitilanteissa. Karijoen diakoniapäivystys ajanvarauksella ma–ke klo 9–11, puhelin 040 187 1565; toimipaikka Kirkkotie 14. Tuki on harkinnanvaraista, ei kuukausittainen etuus.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Karijoki",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn kodin korjausavustus; paikallista maksutonta asumispaikkaa ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhajoki",
+      "category": "Ruoka-apu",
+      "status": "no_local_free_service_verified",
+      "accepted_ids": [],
+      "pending_ids": [],
+      "finding": "Kauhajoen seurakunnan nykyisiltä sivuilta löytyi diakoniatukea, mutta ei säännöllistä maksutonta ruokajakoa.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhajoki",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Kauhajoen. Yhteyshenkilö Virpi Pihlajamäki 044 790 2390; perhekeskus Hakasivuntie 1; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhajoki",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhajoki",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhajoki",
+      "category": "Raha",
+      "status": "accepted_new_service",
+      "accepted_ids": [
+        "kauhajoen-seurakunta-diakonia-taloudellinen-hataapu"
+      ],
+      "pending_ids": [],
+      "finding": "Kauhajoen seurakunta vahvistaa maksuttoman diakonia-avun sekä taloudellisen hätäavun kriisitilanteissa. Ajanvaraus ma–ke klo 9–11, puh. 040 324 8002; toimipaikka Kyntäjäntie 1. Yhteyshenkilöt Heli Laitakari 040 179 9739, Anna-Kaisa Heikkilä 044 977 1322 ja Leena Ranta-Opas 040 187 1565. Harkinnanvarainen apu ei ole jatkuva kuukausietuus.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhajoki",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn kodin korjausavustus; paikallista maksutonta asumista ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Ruoka-apu",
+      "status": "accepted_new_service_partial_locations",
+      "accepted_ids": [
+        "kauhavan-seurakunta-ruokajako-alaharma"
+      ],
+      "pending_ids": [
+        "kauhavan-seurakunta-ruokajako-kauhava-city",
+        "kauhavan-seurakunta-ruokajako-evijarvi"
+      ],
+      "finding": "Kauhavan seurakunnan ruokajako on toistuva perjantaisin klo 15–16. Alahärmän pisteessä (Härmäntie 31, 62300 Härmä) järjestäjä sanoo jakelun maksuttomaksi ja kohdistaa sen vähävaraisille; yhteyshenkilö Minna Myllykoski 050 577 1386. Ylihärmän piste on myös ilmoitettu maksuttomaksi, mutta osoite vaihtelee järjestäjän omissa tiedoissa Päämajantie 29/31; osoite jätetään avoimeksi. Kauhavan keskustan Toiskan pisteestä ja Evijärven pisteestä ei ole paikallisessa tapahtumailmoituksessa eksplisiittistä maksuttomuusvahvistusta.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n maksuvapautuksen perusteella maksuton lapsiperheiden kotipalvelu kattaa Kauhavan. Yhteyshenkilö Susanna Välimaa 050 364 5733; Kauhavan perhekeskus Kauppapassi 3; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "kauhavan-seurakunta-diakonia"
+      ],
+      "finding": "Kauhavan seurakunnan diakonia ottaa vastaan talousvaikeuksissa olevia ja järjestää kirkkopiireittäin päivystyksiä, mutta maksuttomuutta ja avustusten ehtoja ei ilmaista riittävän selvästi. Kauhavan kirkkopiirin yhteyshenkilö Liisa Rintakallio 045 632 7707.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus. Kauhavan Toiskan kirpputori on maksullinen eikä ole tavara-apua.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Ruoka-apu",
+      "status": "excluded_paid_or_voluntary_payment",
+      "accepted_ids": [],
+      "pending_ids": [],
+      "finding": "Seurakunnan keskiviikkokeitto on joka toinen keskiviikko, mutta ruokamaksu on vapaaehtoinen/suositus 5 €, joten sitä ei hyväksytä maksuttomaksi ruoka-avuksi.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Kuortaneen. Yhteyshenkilö Riikka Salli 040 142 7717; Alavuden sosiaalipalvelut, Kuulantie 5; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan. Kuortaneen Diakoniatori on nähty vain yksittäisessä 28.10.2026 tapahtumailmoituksessa ja vaatteista voi maksaa vapaaehtoisen maksun; ei hyväksytä jatkuvaksi maksuttomaksi palveluksi.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan; Kuortaneen Diakoniatorin tavarapuoli ei täytä jatkuvan maksuttoman palvelun näyttöä.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "kuortaneen-seurakunta-diakonia"
+      ],
+      "finding": "Kuortaneen seurakunta kertoo diakonian välittävän aineellista apua, mutta avustusten maksuttomuus, myöntämisehdot ja säännöllinen asiointiaika eivät käy julkisesta sivusta ilmi. Diakoni Lassi Nahkuri 040 517 3475.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn jatkuvahaun korjausavustus.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Ruoka-apu",
+      "status": "pending_schedule_and_free_status",
+      "accepted_ids": [],
+      "pending_ids": [
+        "kurikan-seurakunnan-ruokapankki"
+      ],
+      "finding": "Kurikan seurakunnan diakonia ilmoittaa ruokapankin ja ruoka-avun, mutta nykyistä jakeluaikaa, paikkaa, maksuttomuutta ja saantiehtoja ei ole julkaistu riittävästi. Joulukassit rajataan pois kausiluonteisina.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Kurikan. Yhteyshenkilö Virpi Pihlajamäki 044 790 2390; Kurikan perhekeskus Reinikantie 4; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "kurikan-seurakunnan-diakonia"
+      ],
+      "finding": "Kurikan seurakunnan diakonia auttaa talouden selvittelyssä ja kriiseissä; toimistot Kurikantie 21 (ma–ti 9–11, ke 11–13), Jalasjärvi ja Jurva. Maksuttomuutta ja rahallisen avun ehtoja ei vahvisteta sivulla.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus; paikallista maksutonta asumista ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lappajärvi",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status",
+      "accepted_ids": [],
+      "pending_ids": [
+        "lappajarven-alueen-diakonia-ruokajako"
+      ],
+      "finding": "Alajärven seurakunnan Lappajärven alueen diakoniapäivystys on keskiviikkoisin klo 10–12 osoitteessa Kärnäntie 11, 2. krs; samassa yhteydessä jaetaan pakastettua hävikkiruokaa. Maksuttomuutta ei ilmaista suoraan, joten tietue jää vahvistettavaksi.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lappajärvi",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Lappajärven. Yhteyshenkilö Riikka Salli 040 142 7717; Alajärven perhekeskus, Alvar Aallon tie 2; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lappajärvi",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lappajärvi",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lappajärvi",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "lappajarven-alueen-diakonia-taloudellinen-apu"
+      ],
+      "finding": "Lappajärven alueen seurakuntadiakonia ilmoittaa taloudellisen avustamisen, mutta maksuttomuuden, määrien, hakuehtojen ja päätösaikojen tiedot eivät ole julkisia. Merja Rantakangas 040 184 0644.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lappajärvi",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn kodin korjausavustus; erillistä maksutonta asumista ei vahvistettu.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status",
+      "accepted_ids": [],
+      "pending_ids": [
+        "lapuan-helluntaiseurakunnan-ruokajako"
+      ],
+      "finding": "Lapuan helluntaiseurakunnan ruokajako on toistuva tiistaisin klo 16 keittiön/toimiston ovella, Asemakatu 16. Useita syksyn 2026 jakopäiviä on julkaistu, mutta maksuttomuutta ei sanota eksplisiittisesti. EU:n Hyvällä sydämellä -ruokakorttien vuoden 2026 saatavuus ja hakuehdot vaativat vahvistuksen.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [],
+      "finding": "HyvaEP:n tuloperusteisesti maksuton lapsiperheiden kotipalvelu kattaa Lapuan. Yhteyshenkilö Susanna Välimaa 050 364 5733; Lapuan perhekeskus Siiriläntie 3 E; asiakasohjaus 06 230 7850 ma–pe 9–15.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Vaatteet",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan. Lapuan helluntaiseurakunnan kirpputori on maksullinen eikä sitä hyväksytä vaateavuksi.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Tavarat",
+      "status": "accepted_regional_service_reused",
+      "accepted_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [],
+      "finding": "Hope Seinäjoki kattaa maakunnan; maksullinen kirpputorimyynti rajataan pois.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "accepted_ids": [],
+      "pending_ids": [
+        "lapuan-tuomiokirkkoseurakunnan-diakonia"
+      ],
+      "finding": "Lapuan tuomiokirkkoseurakunnan diakoniapäivystys tarjoaa taloudellista neuvontaa ja ohjausta ajanvarauksella (julkaistuja aikoja ma/ke 9–11), mutta maksuttomuutta ja mahdollisen rahallisen avun ehtoja ei julkaista.",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Asuminen",
+      "status": "pending_fee_confirmation_and_regional_reuse",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [
+        "lapuan-asumisneuvonta"
+      ],
+      "finding": "Lapuan kaupungin asumisneuvonta auttaa vuokrarästien hallinnassa ja asumisen ongelmien ehkäisyssä; toimisto ma–pe 9–15, Marko Talkkari 044 438 4827, Poutuntie 7. Maksuttomuutta ei ilmoiteta, joten se jää vahvistettavaksi. Turvakoti ja VARKEn korjausavustus ovat olemassa olevia/maakunnallisia palveluja.",
+      "checked_date": "2026-11-15"
     }
   ],
   "accepted_services": [
@@ -188,21 +928,37 @@
       "coverage": [
         "Alajärvi",
         "Alavus",
-        "Lappajärvi",
-        "Vimpeli",
+        "Evijärvi",
+        "Ilmajoki",
+        "Isojoki",
+        "Isokyrö",
+        "Karijoki",
+        "Kauhajoki",
+        "Kauhava",
         "Kuortane",
+        "Kurikka",
+        "Lappajärvi",
+        "Lapua",
+        "Seinäjoki",
         "Soini",
+        "Teuva",
+        "Vimpeli",
         "Ähtäri"
       ],
-      "location": "Perheen koti; Alajärven alueen asiointipiste Alajärven perhekeskus, Alvar Aallon tie 2; Alavuden alueen sosiaalipalvelut, Kuulantie 5.",
+      "location": "Perheen koti; asiointipisteet ja paikalliset yhteyshenkilöt HyvaEP:n perhekeskuksissa. Evijärvi/Kauhava: Kauppapassi 3; Ilmajoki: Pappilantie 2; Isojoki/Karijoki/Kauhajoki: Kauhajoen perhekeskus Hakasivuntie 1 ja sosiaalipalvelut Teknologiapuisto 1; Isokyrö: Seinäjoen perhekeskus Ruukintie 2; Kuortane: Alavuden sosiaalipalvelut Kuulantie 5; Kurikka: Reinikantie 4; Lappajärvi: Alajärven perhekeskus Alvar Aallon tie 2; Lapua: Siiriläntie 3 E.",
       "regular_time": "Tilapäinen palvelu hakemuksesta ja erikseen sovittuna ajankohtana. Perhekeskuksen asiakasohjaus palvelee ma–pe klo 9–15.",
       "free_and_conditions": "Lapsiperheiden kotipalvelu on tilapäistä kotikäyntiapua arjen askareisiin ja tarvittaessa lastenhoitoon. Tavallinen tilapäismaksu on 15 € (0–2 h), 20 € (3–5 h) tai 30 € (yli 5 h). Maksua ei peritä, jos perheen bruttotulot alittavat perhekoon rajan: 1 henkilö 699 €/kk, 2 henkilöä 1 290 €/kk, 3 henkilöä 2 025 €/kk, 4 henkilöä 2 503 €/kk, 5 henkilöä 3 030 €/kk ja 6 henkilöä 3 481 €/kk, tai jos perhe saa säännöllistä toimeentulotukea. Lapsen asiakassuunnitelmaan perustuva kotipalvelu voidaan myöntää maksuttomana perheen taloudellisen tai kokonaistilanteen perusteella. Vain tämä maksuton myöntämisperusteinen reitti kuuluu hakemistoon.",
-      "contact": "Alajärvi/Lappajärvi/Vimpeli: vastaava perheohjaaja Riikka Salli 040 142 7717; Alajärven perhekeskuksen asiakasohjaus 06 230 7850 ma–pe 9–15. Alavus/Kuortane/Soini/Ähtäri: Riikka Salli 040 142 7717; Alavuden sosiaalipalvelut, Kuulantie 5.",
+      "contact": "Evijärvi/Kauhava: Susanna Välimaa 050 364 5733. Ilmajoki/Isokyrö: Sanna Mäki 044 438 4032. Isojoki/Karijoki/Kauhajoki/Teuva/Kurikka: Virpi Pihlajamäki 044 790 2390. Alajärvi/Lappajärvi/Vimpeli sekä Alavus/Kuortane/Soini/Ähtäri: Riikka Salli 040 142 7717. Lapua: Susanna Välimaa 050 364 5733. Perhekeskuksen asiakasohjaus 06 230 7850 ma–pe 9–15.",
       "source_urls": [
         "https://www.hyvaep.fi/palvelu/lapsiperheiden-kotipalvelu/",
         "https://www.hyvaep.fi/tietoa-ja-ohjeita/asiakasmaksut/perhe-ja-sosiaalipalveluiden-asiakasmaksut/"
       ],
-      "checked_date": "2026-11-15"
+      "checked_date": "2026-11-15",
+      "coverage_checked_date": "2026-11-15",
+      "coverage_source_urls": [
+        "https://www.hyvaep.fi/palvelu/lapsiperheiden-kotipalvelu/",
+        "https://www.hyvaep.fi/tietoa-ja-ohjeita/asiakasmaksut/perhe-ja-sosiaalipalveluiden-asiakasmaksut/"
+      ]
     },
     {
       "id": "hyvaep-supplementary-preventive-income-support",
@@ -304,6 +1060,123 @@
         "https://www.alavus.fi/fi/etusivu/ajankohtaista/uutiset/lukuvuoden-2026-2027-opiskelijalahja-haettavana-30.11.-mennessa..html"
       ],
       "checked_date": "2026-11-15"
+    },
+    {
+      "id": "ilmajoki-pikkuhelppi",
+      "name": "Pikkuhelppi – maksuton lastenhoitoapu ja perheen kotikäynti",
+      "organizer": "Ilmajoen seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Ilmajoki"
+      ],
+      "location": "Seurakunnan tilat (mm. Kirkonkulma, Kirkkotie 37, 60800 Ilmajoki; Seurakuntakoti Tuomi-Aho, Kiintokalliontie 1, Tuomikylä) tai perheen oma koti / sovittu ulkopaikka.",
+      "regular_time": "Aikoja julkaistaan toistuvasti lukukausien aikana; 3.11.2026 ja 16.11.2026 klo 13–16 vahvistetut esimerkkiajat. Kotikäynnit sovitaan erikseen.",
+      "free_and_conditions": "Maksuton lastenhoitoapu, enintään 3 tuntia kerrallaan. Lapselle omat pienet eväät ja vaihtovaatteet. Palvelua voidaan järjestää seurakunnan tiloissa tai perheen kotona; ei kertaluonteinen tapahtuma vaan jatkuva palvelu.",
+      "contact": "Minna Järvinen 050 554 0627, minna.jarvinen@evl.fi; Katariina Saarela 040 620 6291.",
+      "source_urls": [
+        "https://www.ilmajoenseurakunta.fi/tule-mukaan/lapsille-ja-lapsiperheille",
+        "https://www.ilmajoenseurakunta.fi/tapahtumat/2026-11-03/pikkuhelppi",
+        "https://www.ilmajoenseurakunta.fi/tapahtumat/2026-11-16/pikkuhelppi"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "isojoki-vihermo-fund",
+      "name": "Jussi Stefanus ja Tyyne Martta Vihermön rahasto – yksityishenkilöiden avustukset",
+      "organizer": "Isojoen kunta / Vihermö-toimikunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Isojoki"
+      ],
+      "location": "Isojoen kunta; kirjallinen hakemus kunnanhallituksen nimeämälle Vihermö-toimikunnalle.",
+      "regular_time": "Jatkuva hakuaika; päätöksiä kaksi kertaa vuodessa, huhtikuussa ja lokakuussa.",
+      "free_and_conditions": "Avustus, ei laina. Yksityishenkilö voi hakea perustellusta syystä, jos hän on isojokinen tai lähtöisin Isojoelta. Tukea voidaan myöntää esimerkiksi ikäihmisten, kehitysvammaisten tai muuten heikommassa asemassa olevien arjen erityisiin haasteisiin. Avustuksia voidaan jakaa vain, jos rahastolla on jakokelpoista tuottoa; myöntäminen on harkinnanvaraista.",
+      "contact": "Juha Herrala, kunnanjohtaja 040 764 7870; Janne Yli-Yrjänäinen, hallintosihteeri 040 199 0522, janne.yli-yrjanainen@isojoki.fi. Hakemus rahaston omalla lomakkeella.",
+      "source_urls": [
+        "https://isojoki.fi/kunta-ja-asiointi/avustukset/vihermo/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kauhavan-seurakunta-ruokajako-alaharma",
+      "name": "Kauhavan seurakunnan ilmainen ruokajako – Alahärmä",
+      "organizer": "Kauhavan seurakunta / Alahärmän kirkkopiiri",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kauhava (Alahärmä)"
+      ],
+      "location": "Alahärmän seurakuntatalo, Härmäntie 31, 62300 Härmä (Kauhava).",
+      "regular_time": "Perjantaisin klo 15–16; toistuva viikoittainen jakelu vahvistettu useilla vuoden 2026 tapahtumailmoituksilla.",
+      "free_and_conditions": "Järjestäjä nimeää jakelun maksuttomaksi. Tarkoitettu vähävaraisille alahärmäläisille; jaossa pääasiassa kaupan ylijäämä- ja hävikkiruokaa. Oma kassi mukaan.",
+      "contact": "Diakonissa Minna Myllykoski 050 577 1386.",
+      "source_urls": [
+        "https://www.kauhavanseurakunta.fi/tapahtumat/2026-11-13/ruokajako-alaharmassa",
+        "https://www.kauhavanseurakunta.fi/tapahtumat/2026-10-30/ruokajako-alaharmassa",
+        "https://www.kauhavanseurakunta.fi/osallistu/diakonia"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "accepted",
+      "publication_ready": true,
+      "pending_locations": [
+        "Ylihärmän kirkkopiirin piste on myös ilmoitettu maksuttomaksi, mutta osoite on eri järjestäjän sivuilla Päämajantie 29/31; tarkista ennen osoitteen julkaisemista.",
+        "Kauhavan keskustan Toiskan pisteellä ja Evijärven pisteellä maksuttomuutta ei ilmaista eksplisiittisesti."
+      ]
+    },
+    {
+      "id": "kauhajoen-seurakunta-diakonia-taloudellinen-hataapu",
+      "name": "Kauhajoen seurakunnan maksuton diakonia – taloudellinen hätäapu",
+      "organizer": "Kauhajoen seurakunta (Kauhajoen alue ja Karijoen kappeliseurakunta)",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kauhajoki",
+        "Karijoki"
+      ],
+      "location": "Kauhajoki: Kyntäjäntie 1, 61800 Kauhajoki. Karijoki: Kirkkotie 14, 64350 Karijoki.",
+      "regular_time": "Ajanvaraus ma–ke klo 9–11. Karijoen diakoniapäivystys ma–ke klo 9–11, puh. 040 187 1565; Kauhajoen ajanvaraus puh. 040 324 8002.",
+      "free_and_conditions": "Järjestäjän mukaan apu on maksutonta. Diakoniatyöntekijältä voi saada talousneuvontaa ja taloudellista hätäapua kriisitilanteessa. Hakijan tulee ottaa mukaan tulo- ja menotositteita, esimerkiksi tiliote tai toimeentulotukipäätös. Rahallisen avun määrä ja myöntäminen ovat tapauskohtaisia; ei jatkuva kuukausietuus.",
+      "contact": "Kauhajoki: Heli Laitakari 040 179 9739, Anna-Kaisa Heikkilä 044 977 1322. Karijoki: Leena Ranta-Opas 040 187 1565.",
+      "source_urls": [
+        "https://www.kauhajoenseurakunta.fi/apua-ja-tukea",
+        "https://www.kauhajoenseurakunta.fi/apua-ja-tukea/diakoniatyontekija-tavattavissa"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "varke-korjausavustus-ikaantyneet-vammaiset",
+      "name": "VARKEn korjausavustus ikääntyneiden ja vammaisten henkilöiden asuntoihin",
+      "organizer": "Valtion tukeman asuntorakentamisen keskus (Varke)",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi; Ahvenanmaan soveltuvuus tarkistettava erikseen"
+      ],
+      "location": "Hakemus VARKEn verkkoasioinnissa tai postitse; neuvonta valtakunnallisesti.",
+      "regular_time": "Jatkuva hakuaika. Korjausavustuksen puhelinneuvonta keskiviikkoisin klo 9–11, 029 525 0560; sähköpostineuvonta arkipäivisin.",
+      "free_and_conditions": "Avustus on vastikkeeton tuki kodin välttämättömiin korjauksiin ja esteettömyyden parantamiseen. Kotitaloudessa on asuttava vakituisesti yli 65-vuotias tai vammainen henkilö; kaikkien asukkaiden tulot ja varallisuus vaikuttavat. Hakijan on oltava asunnon/rakennuksen omistaja tai pitkäaikainen korjausvastuullinen; vuokralainen ei voi hakea. Avustus enintään 50 % hyväksytyistä kustannuksista, erityisestä syystä enintään 70 %. Hakemus ja päätös ennen korjaustöiden aloittamista; maksatus haetaan työn valmistuttua.",
+      "contact": "Varke korjausavustusten asiakaspalvelu 029 525 0560 (ke 9–11), korjausavustus.varke@gov.fi.",
+      "source_urls": [
+        "https://www.varke.fi/fi/henkiloasiakkaat/avustukset-henkiloasiakkaille/korjausavustus-iakkaiden-ja-vammaisten-asuntoihin",
+        "https://www.varke.fi/fi/palvelut/asiakaspalvelu/korjausavustus-henkiloasiakkaille",
+        "https://avustusohjeet.varke.fi/fi/tietoa-sivustosta/v6/tietoa-sivustosta"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "accepted",
+      "publication_ready": true
     }
   ],
   "existing_registry_services": [
@@ -330,6 +1203,38 @@
         "Alajärvi"
       ],
       "note": "Olemassa oleva tietue ei kuulu kuuteen avustuskategoriaan eikä aiheuta päällekkäisyyttä."
+    },
+    {
+      "id": "av-0031",
+      "name": "Isojoen seurakunnan ruokajako",
+      "category": "Ruoka-apu",
+      "municipality": "Isojoki",
+      "status": "existing_record_reaudited_pending_schedule_and_free_status",
+      "note": "Do not duplicate. Current parish and municipality pages conflict on schedule; free status not explicit."
+    },
+    {
+      "id": "av-0032",
+      "name": "Isojoen seurakunnan diakonian keskusteluapu",
+      "category": "Keskusteluapu",
+      "municipality": "Isojoki",
+      "status": "out_of_scope_category",
+      "note": "Not one of the six requested categories."
+    },
+    {
+      "id": "av-0033",
+      "name": "Isojoen seurakunnan diakoninen aineellinen apu",
+      "category": "Raha-asiat",
+      "municipality": "Isojoki",
+      "status": "existing_record_reaudited_pending_continuity_and_terms",
+      "note": "Do not duplicate. Current ongoing nature and conditions not sufficiently clear."
+    },
+    {
+      "id": "av-0201",
+      "name": "Hope Seinäjoki",
+      "category": "Vaatteet/Tavarat",
+      "municipality": "Etelä-Pohjanmaa",
+      "status": "existing_regional_record_reused",
+      "note": "Use same regional record for all 18 municipalities."
     }
   ],
   "pending_services": [
@@ -476,6 +1381,314 @@
       ],
       "checked_date": "2026-11-15",
       "status": "pending_no_fee_confirmation"
+    },
+    {
+      "id": "evijarvi-kauhavan-seurakunta-ruokajako",
+      "name": "Kauhavan seurakunnan Evijärven kirkkopiirin ruokajako",
+      "organizer": "Kauhavan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Evijärvi"
+      ],
+      "location": "Evijärven tila, Kauppatie 1, 62500 Evijärvi",
+      "regular_time": "Joka toinen perjantai klo 15–16; 23.10. ja 6.11.2026 julkaistut jaot.",
+      "free_and_conditions": "Hävikkiruokaa; maksuttomuutta ei mainita paikallisessa tapahtumailmoituksessa.",
+      "contact": "Elina Matila 040 185 1059.",
+      "source_urls": [
+        "https://www.kauhavanseurakunta.fi/tapahtumat/2026-10-23/ruokajako-ruokajako-",
+        "https://www.kauhavanseurakunta.fi/tapahtumat/2026-11-06/ruokajako-ruokajako-"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status"
+    },
+    {
+      "id": "evijarvi-kauhavan-seurakunta-diakonia",
+      "name": "Evijärven kirkkopiirin diakoniapäivystys ja taloudellinen tuki",
+      "organizer": "Kauhavan seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Evijärvi"
+      ],
+      "location": "Evijärven kirkkopiiri; seurakunnan paikallinen vastaanotto.",
+      "regular_time": "Torstaisin klo 10–11.",
+      "free_and_conditions": "Taloudellista neuvontaa ja tukea mainitaan, mutta maksuttomuus ja mahdollisten avustusten ehdot eivät ole julkisesti vahvistettuja.",
+      "contact": "Elina Matila 040 185 1059.",
+      "source_urls": [
+        "https://www.kauhavanseurakunta.fi/osallistu/diakonia"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_terms"
+    },
+    {
+      "id": "isojoki-evaskori-ruokajako",
+      "name": "Isojoen seurakunnan Eväskorin ruokajako (rekisterin av-0031 uusintatarkistus)",
+      "organizer": "Isojoen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Isojoki"
+      ],
+      "location": "Diakoniatoimisto / Eväskori.",
+      "regular_time": "Seurakunnan oma sivu: pe 10.30–11; kunnan sivu: ti ja pe 9–11. Ristiriita.",
+      "free_and_conditions": "Hävikkiruoka; maksuttomuutta ei ilmaista selvästi. Ei uutta tietuetta, vaan olemassa olevan av-0031:n tarkennus.",
+      "contact": "Isojoen seurakunnan diakonia, yhteystiedot järjestäjän sivulla.",
+      "source_urls": [
+        "https://isojoki.fi/",
+        "https://www.isojoenseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_schedule_and_free_status"
+    },
+    {
+      "id": "isojoki-diakoninen-aineellinen-apu",
+      "name": "Isojoen seurakunnan diakoninen aineellinen apu (rekisterin av-0033 uusintatarkistus)",
+      "organizer": "Isojoen seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Isojoki"
+      ],
+      "location": "Diakoniatyöntekijän kautta.",
+      "regular_time": "Ajanvarauksella; säännöllistä vastaanottoaikaa ei vahvistettu.",
+      "free_and_conditions": "Apu liittyy yllättäviin elämäntilanteisiin, mutta toistuvuutta, maksuttomuuden ehtoja ja myöntöperusteita ei julkaista. Ei kopioida.",
+      "contact": "Isojoen seurakunnan diakoniatyö.",
+      "source_urls": [
+        "https://www.isojoenseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_continuity_and_terms"
+    },
+    {
+      "id": "isokyron-seurakunnan-diakonia",
+      "name": "Isonkyrön seurakunnan diakonia – talous- ja velkatilanteen selvittely",
+      "organizer": "Isonkyrön seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Isokyrö"
+      ],
+      "location": "Pappilanmutka 1, 61500 Isokyrö; puhelimitse, seurakunnan tiloissa tai kotona.",
+      "regular_time": "Ajanvarauksella; kiinteitä vastaanottoaikoja ei julkaistu.",
+      "free_and_conditions": "Taloudellisten asioiden selvittelyä ja mahdollisesti akuuttia taloudellista tukea. Maksuttomuutta ja myöntämisehtoja ei ilmaista.",
+      "contact": "Vs. diakoniatyöntekijä Kristiina Brisk-Mosander 040 586 2596.",
+      "source_urls": [
+        "https://www.isonkyronsrk.fi/apua-ja-tukea/diakonia",
+        "https://www.isonkyronsrk.fi/yhteystiedot"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status_and_terms"
+    },
+    {
+      "id": "kauhavan-seurakunta-ruokajako-kauhava-city",
+      "name": "Kauhavan kirkkopiirin ruokajako Toiskassa",
+      "organizer": "Kauhavan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kauhava"
+      ],
+      "location": "Kirpputori Toiska, Kirkkotie 13, 62200 Kauhava.",
+      "regular_time": "Perjantaisin klo 15–16; useita syksyn 2026 jakopäiviä.",
+      "free_and_conditions": "Ruokajako apua tarvitseville, pääasiassa hävikkiruokaa. Paikallisessa ilmoituksessa ei eksplisiittistä maksuttomuusmainintaa.",
+      "contact": "Liisa Rintakallio 045 632 7707.",
+      "source_urls": [
+        "https://www.kauhavanseurakunta.fi/tapahtumat/2026-11-13/ruokajako-kauhavalla-kipputori-toiskassa",
+        "https://www.kauhavanseurakunta.fi/kirkot-ja-tilat/muut-tilat/kirpputori-toiska"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status"
+    },
+    {
+      "id": "kauhavan-seurakunta-diakonia",
+      "name": "Kauhavan kirkkopiirin diakonia ja taloudellinen apu",
+      "organizer": "Kauhavan seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kauhava"
+      ],
+      "location": "Kauhavan seurakuntakoti, Kirkkotie 3b.",
+      "regular_time": "Kirkkopiirikohtaiset päivystysajat; Kauhavan yhteyshenkilön tavoitettavuus varmistettava.",
+      "free_and_conditions": "Talousvaikeuksissa auttaminen on kuvattu, mutta maksuttomuutta ja rahallisen avun ehtoja ei julkaista riittävästi.",
+      "contact": "Diakonian johtaja Liisa Rintakallio 045 632 7707.",
+      "source_urls": [
+        "https://www.kauhavanseurakunta.fi/osallistu/diakonia",
+        "https://www.kauhavanseurakunta.fi/kirkot-ja-tilat/seurakuntatalot/kauhavan-seurakuntakoti"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status_and_terms"
+    },
+    {
+      "id": "kuortaneen-seurakunta-diakonia",
+      "name": "Kuortaneen seurakunnan diakonia – aineellinen apu",
+      "organizer": "Kuortaneen seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kuortane"
+      ],
+      "location": "Diakoniatoimisto / seurakuntatalo.",
+      "regular_time": "Yhteydenotto puhelimitse tai sopimalla; virasto ma 9–11 ja 13–15, to 9–12.",
+      "free_and_conditions": "Aineellisen avun mahdollisuus on kuvattu, mutta maksuttomuus, myöntämisehdot ja säännöllinen asiointiaika eivät käy ilmi.",
+      "contact": "Diakoni Lassi Nahkuri 040 517 3475.",
+      "source_urls": [
+        "https://www.kuortaneenseurakunta.fi/apua-ja-tukea",
+        "https://www.kuortaneenseurakunta.fi/etusivu"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status_and_terms"
+    },
+    {
+      "id": "lappajarven-alueen-diakonia-ruokajako",
+      "name": "Alajärven seurakunnan Lappajärven alueen hävikkiruoan jako",
+      "organizer": "Alajärven seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Lappajärvi"
+      ],
+      "location": "Diakoniatoimisto, Kärnäntie 11, 2. krs.",
+      "regular_time": "Keskiviikkoisin klo 10–12 diakoniapäivystyksen yhteydessä.",
+      "free_and_conditions": "Jaossa pakastettua hävikkiruokaa; maksuttomuutta ei ilmaista suoraan.",
+      "contact": "Diakonissa Merja Rantakangas 040 184 0644.",
+      "source_urls": [
+        "https://www.alajarvenseurakunta.fi/apua-ja-tukea/diakoniatyo-lappajarven-alueella"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status"
+    },
+    {
+      "id": "lappajarven-alueen-diakonia-taloudellinen-apu",
+      "name": "Alajärven seurakunnan Lappajärven alueen taloudellinen diakonia-apu",
+      "organizer": "Alajärven seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Lappajärvi"
+      ],
+      "location": "Diakoniatoimisto, Kärnäntie 11, 2. krs.",
+      "regular_time": "Diakoniapäivystys ke 10–12; muu asiointi sopimuksen mukaan.",
+      "free_and_conditions": "Taloudellinen avustaminen mainitaan, mutta maksuttomuuden yksityiskohtia, myöntöehtoja ja avustusten toistuvuutta ei julkaista.",
+      "contact": "Merja Rantakangas 040 184 0644.",
+      "source_urls": [
+        "https://www.alajarvenseurakunta.fi/apua-ja-tukea/diakoniatyo-lappajarven-alueella"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_terms"
+    },
+    {
+      "id": "lapuan-helluntaiseurakunnan-ruokajako",
+      "name": "Lapuan helluntaiseurakunnan tiistain ruokajako",
+      "organizer": "Lapuan helluntaiseurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Lapua"
+      ],
+      "location": "Asemakatu 16, 62100 Lapua; toimiston/keittiön ovi.",
+      "regular_time": "Tiistaisin klo 16; syksyn 2026 toistuvat jakopäivät julkaistu.",
+      "free_and_conditions": "Päiväystuotteiden ja leikkele-/einesruoan jako; maksuttomuutta ei sanota eksplisiittisesti järjestäjän nykyisellä sivulla.",
+      "contact": "Seurakunta 040 728 2069, lapuanhelluntaisrk@lapuanhelluntaisrk.fi.",
+      "source_urls": [
+        "https://lapuanhelluntaisrk.fi/toiminta/",
+        "https://lapuanhelluntaisrk.fi/events/3-11-klo-16-00-ruokajakelu-sisaankaynti-toimiston-keittion-ovesta-diakoniatiimi"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status"
+    },
+    {
+      "id": "lapuan-tuomiokirkkoseurakunnan-diakonia",
+      "name": "Lapuan tuomiokirkkoseurakunnan diakoniapäivystys – taloudellinen neuvonta",
+      "organizer": "Lapuan tuomiokirkkoseurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Lapua"
+      ],
+      "location": "Diakoniatoimisto, Koulukatu 2, 62100 Lapua.",
+      "regular_time": "Julkaistuja aikoja ma/ke klo 9–11, ajanvarauksella.",
+      "free_and_conditions": "Taloudellista neuvontaa, ohjausta ja tukea; maksuttomuutta ja mahdollisen rahallisen avun ehtoja ei julkaista.",
+      "contact": "Ajanvaraus 044 273 1210, 044 273 1211 tai 044 273 1216.",
+      "source_urls": [
+        "https://lapuantuomiokirkkoseurakunta.fi/tapahtumahaku/diakoniapaivystys-51"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status_and_terms"
+    },
+    {
+      "id": "lapuan-asumisneuvonta",
+      "name": "Lapuan kaupungin asumisneuvonta",
+      "organizer": "Lapuan kaupunki / Lapuan Kotiasunnot Oy",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Lapua"
+      ],
+      "location": "Lapuan Kotiasunnot Oy, Poutuntie 7, 62100 Lapua.",
+      "regular_time": "Ma–pe klo 9–15, muina aikoina sopimuksen mukaan.",
+      "free_and_conditions": "Matalan kynnyksen asumis- ja talousneuvonta, vuokrarästien hallinta ja asumisongelmien ennaltaehkäisy. Maksuttomuutta ei ilmaista sivulla.",
+      "contact": "Asumisneuvoja Marko Talkkari 044 438 4827, marko.talkkari@kotiasunnot.fi.",
+      "source_urls": [
+        "https://lapua.fi/hyvinvointi/hyvaa-arkea-lapualla/kaikille/asumisneuvonta/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_fee_confirmation"
+    },
+    {
+      "id": "kurikan-seurakunnan-ruokapankki",
+      "name": "Kurikan seurakunnan ruokapankki / ruoka-apu",
+      "organizer": "Kurikan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kurikka"
+      ],
+      "location": "Kurikan, Jalasjärven ja Jurvan diakoniatoimistojen kautta; tarkka jakelupaikka ei julkaistu.",
+      "regular_time": "Ruokapankin jakelulle ei julkaistu säännöllistä aikaa.",
+      "free_and_conditions": "Ruoka-apu mainitaan järjestäjän diakoniapalvelussa, mutta jakelun maksuttomuus, ajankohta ja ehdot vaativat vahvistuksen.",
+      "contact": "Kurikan diakoniatoimisto 040 688 1507; Kurikantie 21, avoinna ma–ti 9–11, ke 11–13.",
+      "source_urls": [
+        "https://kurikanseurakunta.fi/apua-ja-tukea/apua-ja-tukea-diakoniasta/",
+        "https://kurikanseurakunta.fi/toimintaa/ikaihmisille/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_schedule_and_free_status"
+    },
+    {
+      "id": "kurikan-seurakunnan-diakonia",
+      "name": "Kurikan seurakunnan diakonia – talouden selvittely ja kriisiapu",
+      "organizer": "Kurikan seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kurikka"
+      ],
+      "location": "Kurikan diakoniatoimisto, Kurikantie 21; myös Jalasjärvi ja Jurva.",
+      "regular_time": "Kurikka ma–ti 9–11, ke 11–13; Jalasjärvi ti 9–11; Jurva ma 9–11.",
+      "free_and_conditions": "Talouden selvittelyä ja kriisitukea tarjotaan, mutta maksuttomuutta ja rahallisen avun ehtoja ei julkaista riittävästi.",
+      "contact": "Kurikka 040 688 1507; Jalasjärvi 040 688 1505; Jurva 040 688 1506.",
+      "source_urls": [
+        "https://kurikanseurakunta.fi/apua-ja-tukea/apua-ja-tukea-diakoniasta/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status_and_terms"
     }
   ],
   "excluded_observations": [
@@ -522,17 +1735,153 @@
         "Raha"
       ],
       "reason": "Kyseessä on takaisinmaksettava luotto, ei maksuton avustus. Ei hyväksytä maksuttomaksi raha-avuksi."
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Ruoka-apu",
+      "name": "Ilmajoen seurakunnan vapaaehtoismaksullinen tiistairuokailu",
+      "reason": "Aterialla on vapaaehtoinen ruokamaksu; ei puhtaasti maksuton palvelu.",
+      "source_urls": [
+        "https://www.ilmajoenseurakunta.fi/tule-mukaan/lapsille-ja-lapsiperheille"
+      ]
+    },
+    {
+      "municipality": "Ilmajoki",
+      "category": "Raha",
+      "name": "Ilmajoen seurakunnan taloudellinen kertaluonteinen avustus",
+      "reason": "Järjestäjä kertoo taloudellisen avustamisen olevan yleensä kertaluonteista; käyttäjän jatkuvuusrajauksen vuoksi ei hyväksytä.",
+      "source_urls": [
+        "https://www.ilmajoenseurakunta.fi/"
+      ]
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Raha",
+      "name": "Vauvaraha",
+      "reason": "Yksittäinen 1 000 € lahja syntynyttä vauvaa kohden; kertaluonteinen ja rajattu elämäntapahtumaan.",
+      "source_urls": [
+        "https://isojoki.fi/kunta-ja-asiointi/avustukset/vauvaraha/"
+      ]
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Asuminen",
+      "name": "Rakenna elämä Isojoelle -tupaantuliaislahja",
+      "reason": "Kertaluonteinen, uudisrakentamiseen ja muuttamiseen sidottu etu; ei yleinen maksuton asumisapu.",
+      "source_urls": [
+        "https://isojoki.fi/kunta-ja-asiointi/avustukset/"
+      ]
+    },
+    {
+      "municipality": "Isojoki",
+      "category": "Asuminen",
+      "name": "Tuu töihin Isojoelle -puolen vuoden maksuton asunto",
+      "reason": "Maksuton asunto on sidottu kunnan palvelukseen työllistymiseen ja muuttamiseen; rekrytointikannustin, ei yleinen avustuspalvelu.",
+      "source_urls": [
+        "https://isojoki.fi/kunta-ja-asiointi/avustukset/"
+      ]
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Raha",
+      "name": "Ikäihmisten 130 € palveluseteli",
+      "reason": "Setelin voi hakea vain kerran; vuoden 2026 määräaikainen hakuaika ja rajattu käyttö yrityspalveluihin. Kertaluonteinen etu.",
+      "source_urls": [
+        "https://isokyro.fi/hyvinvointi-ja-vapaa-aika/ikaihmiset/palveluseteli/"
+      ]
+    },
+    {
+      "municipality": "Isokyrö",
+      "category": "Raha",
+      "name": "Sosiaalinen luototus",
+      "reason": "Kyseessä on takaisinmaksettava laina, ei maksuton avustus.",
+      "source_urls": [
+        "https://www.hyvaep.fi/"
+      ]
+    },
+    {
+      "municipality": "Kauhava",
+      "category": "Vaatteet/Tavarat",
+      "name": "Kirpputori Toiska",
+      "reason": "Kirpputorin myynti on maksullista; lahjoitusten vastaanotto ei osoita maksutonta jakelua.",
+      "source_urls": [
+        "https://www.kauhavanseurakunta.fi/kirkot-ja-tilat/muut-tilat/kirpputori-toiska"
+      ]
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Ruoka-apu",
+      "name": "Keskiviikkokeitto",
+      "reason": "Ruokailusta peritään vapaaehtoinen/suositeltu 5 € maksu; ei hyväksytä maksuttomaksi ruoka-avuksi.",
+      "source_urls": [
+        "https://www.kuortaneenseurakunta.fi/tule-mukaan/aikuisille/diakoniatyon-ryhmat",
+        "https://www.kuortaneenseurakunta.fi/tapahtumat/2026-10-28/keskiviikkokeitto"
+      ]
+    },
+    {
+      "municipality": "Kuortane",
+      "category": "Vaatteet/Tavarat",
+      "name": "Diakoniatori",
+      "reason": "Vain yksittäinen 28.10.2026 tapahtumailmoitus; vaatteista voi maksaa vapaaehtoisen maksun, eikä jatkuvaa maksutonta aukioloa vahvistettu.",
+      "source_urls": [
+        "https://www.kuortaneenseurakunta.fi/info-ja-asiointi/kirkolliset",
+        "https://www.kuortaneenseurakunta.fi/documents/d/www.kuortaneenseurakunta.fi/tilinpaatos-ja-toimintakertomus-2024-"
+      ]
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Ruoka-apu",
+      "name": "Kurikan seurakunnan joulukassit",
+      "reason": "Joulun kausitapahtuma; rajataan pois käyttäjän ohjeen mukaisesti.",
+      "source_urls": [
+        "https://kurikanseurakunta.fi/apua-ja-tukea/tukea-jouluun/"
+      ]
+    },
+    {
+      "municipality": "Kurikka",
+      "category": "Ruoka-apu",
+      "name": "Olopäivä ja Soppapäivä",
+      "reason": "Olopäivä maksaa 11 € ja Soppapäivässä on vapaaehtoinen ruokamaksu noin 5 €; ei maksutonta ruoka-apua.",
+      "source_urls": [
+        "https://kurikanseurakunta.fi/tapahtumahaku/olopaiva/",
+        "https://kurikanseurakunta.fi/toimintaa/aikuiset/"
+      ]
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Ruoka-apu",
+      "name": "Lapuan tuomiokirkkoseurakunnan Lounashetki",
+      "reason": "Ateriamaksu 5 €; ei maksuton ruokapalvelu.",
+      "source_urls": [
+        "https://lapuantuomiokirkkoseurakunta.fi/tapahtumahaku/muut-diakoniatyon-tilaisuudet-lounashetki/"
+      ]
+    },
+    {
+      "municipality": "Lapua",
+      "category": "Vaatteet/Tavarat",
+      "name": "Lapuan helluntaiseurakunnan lähetyksen kirpputori",
+      "reason": "Myymälä myy tavaroita; maksutonta avunsaajien jakelua ei vahvistettu.",
+      "source_urls": [
+        "https://lapuanhelluntaisrk.fi/seurakunta/"
+      ]
     }
   ],
   "duplicate_control": {
     "main_registry_checked": true,
     "main_registry_records_checked": 171,
     "matching_local_records": [
-      "av-0187 SPR Alajärven osaston Lehtimäen ystävävälitys (Keskusteluapu; ei päällekkäisyyttä kuuden kategorian kanssa)",
-      "av-0201 Hope Seinäjoki (Vaatteet/Tavarat; kattaa koko Etelä-Pohjanmaan; käytetään olemassa olevaa tietuetta)"
+      "av-0031 Isojoen seurakunnan ruokajako (existing; schedule conflict and free status pending)",
+      "av-0032 Isojoen seurakunnan diakonian keskusteluapu (outside the six categories)",
+      "av-0033 Isojoen seurakunnan diakoninen aineellinen apu (existing; continuity/terms pending)",
+      "av-0187 SPR Alajärven osaston Lehtimäen ystävävälitys (Keskusteluapu; not duplicate)",
+      "av-0201 Hope Seinäjoki (regional Vaatteet/Tavarat; reused)"
     ],
     "existing_regional_service_reused": [
-      "av-0201"
+      "av-0201",
+      "hyvaep-lapsiperheiden-kotipalvelu",
+      "hyvaep-supplementary-preventive-income-support",
+      "hyvaep-talousneuvola",
+      "etela-pohjanmaan-turvakoti"
     ],
     "duplicate_service_records_created": 0
   },
@@ -572,17 +1921,185 @@
         "Diakonisen talousneuvonnan maksuttomuus",
         "vanhan helluntaiseurakunnan ruokajaon nykytila"
       ]
+    },
+    {
+      "municipality": "Evijärvi",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Kauhavan seurakunnan Evijärven kirkkopiirin ruokajako on julkaistu kahtena perjantaina (23.10. ja 6.11.2026) klo 15–16 osoitteessa Kauppatie 1; järjestäjän diakonia-sivu ilmoittaa Evijärven ja Kortesjärven jaon joka toiselle perjantaille. Jaettavana tuoretta ja pakastettua hävikkiruokaa. Maksuttomuutta ei kuitenkaan ilmaista Evijärven pisteen omassa tiedossa, joten sitä ei hyväksytä ennen vahvistusta.",
+        "Evijärven kirkkopiirin diakoniapäivystys on torstaisin klo 10–11 ja järjestäjä kertoo taloudellisesta neuvonnasta ja tuesta. Avustusten maksuttomuutta, myöntämisehtoja ja sitä, onko kyse jatkuvasta avustuspalvelusta vai yksittäisestä kriisiavusta, ei julkaista riittävästi."
+      ]
+    },
+    {
+      "municipality": "Ilmajoki",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": []
+    },
+    {
+      "municipality": "Isojoki",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Päärekisterissä on jo Isojoen seurakunnan ruokajako (av-0031). Seurakunnan oma sivu ilmoittaa jaon perjantaisin klo 10.30–11, kunnan sivu tiistaisin ja perjantaisin klo 9–11. Maksuttomuutta ei ilmaista selvästi. Tietuetta ei kopioida; nykyinen rytmi ja maksuttomuus on sovitettava järjestäjän kanssa.",
+        "Jussi Stefanus ja Tyyne Martta Vihermön rahasto ottaa hakemuksia jatkuvasti ja tekee päätöksiä kaksi kertaa vuodessa (huhti- ja lokakuussa). Se voi tukea perustellusta syystä Isojoella asuvia tai sieltä lähtöisin olevia yksityishenkilöitä, erityisesti ikäihmisiä, vammaisia ja muita heikommassa asemassa olevia. Avustuksia voidaan myöntää vain, jos rahastolla on jakokelpoista tuottoa. Päärekisterin av-0033-diakoninen aineellinen apu jää erikseen avoimeksi, koska sen jatkuvuutta ja ehtoja ei ole vahvistettu."
+      ]
+    },
+    {
+      "municipality": "Isokyrö",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Isonkyrön seurakunnan diakonia auttaa raha-asioiden ja velkatilanteen selvittelyssä sekä voi antaa tukea akuuttiin talousvaikeuteen. Maksuttomuutta, myöntämisehtoja ja säännöllisiä vastaanottoaikoja ei julkaista. Nykyinen vs. diakoniatyöntekijä Kristiina Brisk-Mosander 040 586 2596, Pappilanmutka 1."
+      ]
+    },
+    {
+      "municipality": "Karijoki",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": []
+    },
+    {
+      "municipality": "Kauhajoki",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": []
+    },
+    {
+      "municipality": "Kauhava",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Kauhavan seurakunnan ruokajako on toistuva perjantaisin klo 15–16. Alahärmän pisteessä (Härmäntie 31, 62300 Härmä) järjestäjä sanoo jakelun maksuttomaksi ja kohdistaa sen vähävaraisille; yhteyshenkilö Minna Myllykoski 050 577 1386. Ylihärmän piste on myös ilmoitettu maksuttomaksi, mutta osoite vaihtelee järjestäjän omissa tiedoissa Päämajantie 29/31; osoite jätetään avoimeksi. Kauhavan keskustan Toiskan pisteestä ja Evijärven pisteestä ei ole paikallisessa tapahtumailmoituksessa eksplisiittistä maksuttomuusvahvistusta.",
+        "Kauhavan seurakunnan diakonia ottaa vastaan talousvaikeuksissa olevia ja järjestää kirkkopiireittäin päivystyksiä, mutta maksuttomuutta ja avustusten ehtoja ei ilmaista riittävän selvästi. Kauhavan kirkkopiirin yhteyshenkilö Liisa Rintakallio 045 632 7707."
+      ]
+    },
+    {
+      "municipality": "Kuortane",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Kuortaneen seurakunta kertoo diakonian välittävän aineellista apua, mutta avustusten maksuttomuus, myöntämisehdot ja säännöllinen asiointiaika eivät käy julkisesta sivusta ilmi. Diakoni Lassi Nahkuri 040 517 3475."
+      ]
+    },
+    {
+      "municipality": "Kurikka",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Kurikan seurakunnan diakonia ilmoittaa ruokapankin ja ruoka-avun, mutta nykyistä jakeluaikaa, paikkaa, maksuttomuutta ja saantiehtoja ei ole julkaistu riittävästi. Joulukassit rajataan pois kausiluonteisina.",
+        "Kurikan seurakunnan diakonia auttaa talouden selvittelyssä ja kriiseissä; toimistot Kurikantie 21 (ma–ti 9–11, ke 11–13), Jalasjärvi ja Jurva. Maksuttomuutta ja rahallisen avun ehtoja ei vahvisteta sivulla."
+      ]
+    },
+    {
+      "municipality": "Lappajärvi",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Alajärven seurakunnan Lappajärven alueen diakoniapäivystys on keskiviikkoisin klo 10–12 osoitteessa Kärnäntie 11, 2. krs; samassa yhteydessä jaetaan pakastettua hävikkiruokaa. Maksuttomuutta ei ilmaista suoraan, joten tietue jää vahvistettavaksi.",
+        "Lappajärven alueen seurakuntadiakonia ilmoittaa taloudellisen avustamisen, mutta maksuttomuuden, määrien, hakuehtojen ja päätösaikojen tiedot eivät ole julkisia. Merja Rantakangas 040 184 0644."
+      ]
+    },
+    {
+      "municipality": "Lapua",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Lapuan helluntaiseurakunnan ruokajako on toistuva tiistaisin klo 16 keittiön/toimiston ovella, Asemakatu 16. Useita syksyn 2026 jakopäiviä on julkaistu, mutta maksuttomuutta ei sanota eksplisiittisesti. EU:n Hyvällä sydämellä -ruokakorttien vuoden 2026 saatavuus ja hakuehdot vaativat vahvistuksen.",
+        "Lapuan tuomiokirkkoseurakunnan diakoniapäivystys tarjoaa taloudellista neuvontaa ja ohjausta ajanvarauksella (julkaistuja aikoja ma/ke 9–11), mutta maksuttomuutta ja mahdollisen rahallisen avun ehtoja ei julkaista.",
+        "Lapuan kaupungin asumisneuvonta auttaa vuokrarästien hallinnassa ja asumisen ongelmien ehkäisyssä; toimisto ma–pe 9–15, Marko Talkkari 044 438 4827, Poutuntie 7. Maksuttomuutta ei ilmoiteta, joten se jää vahvistettavaksi. Turvakoti ja VARKEn korjausavustus ovat olemassa olevia/maakunnallisia palveluja."
+      ]
     }
   ],
   "counts": {
-    "municipalities_reviewed": 2,
-    "category_checks_completed": 12,
-    "accepted_unique_service_records": 7,
-    "pending_service_leads_or_details": 7,
-    "excluded_observations": 5,
-    "municipalities_marked_complete": 0
+    "municipalities_reviewed": 13,
+    "category_checks_completed": 78,
+    "accepted_unique_service_records": 12,
+    "pending_service_leads_or_details": 23,
+    "excluded_observations": 19,
+    "municipalities_marked_complete": 0,
+    "new_accepted_service_records_this_run": 5,
+    "new_pending_leads_or_details_this_run": 16
   },
-  "next_position": "Etelä-Pohjanmaa / Evijärvi / Ruoka-apu",
+  "next_position": "Etelä-Pohjanmaa / Seinäjoki / Ruoka-apu",
   "sources": [
     "https://www.alajarvenvapaaseurakunta.fi/",
     "https://www.alajarvenvapaaseurakunta.fi/henkilot/",
@@ -605,9 +2122,195 @@
     "https://palveluketjut.hyvaep.fi/palveluketju/vakivaltaa-kokeneen-lapsen-palveluketju-2/jatkotuki/jarjestojen-palvelut/",
     "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/",
     "https://www.hyvaep.fi/palvelu/aikuissosiaalityon-asiakasohjaus/",
-    "https://hopeyhdistys.fi/hope/"
+    "https://hopeyhdistys.fi/hope/",
+    {
+      "title": "Etelä-Pohjanmaan liitto – maakunnan 18 kuntaa; Isokyrö liittyi 2021",
+      "url": "https://epliitto.fi/etela-pohjanmaa/kunnat/",
+      "source_type": "regional_council_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "HyvaEP – Lapsiperheiden kotipalvelu, all municipalities and local contacts",
+      "url": "https://www.hyvaep.fi/palvelu/lapsiperheiden-kotipalvelu/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "HyvaEP – family and social service client fees",
+      "url": "https://www.hyvaep.fi/tietoa-ja-ohjeita/asiakasmaksut/perhe-ja-sosiaalipalveluiden-asiakasmaksut/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Ilmajoen seurakunta – Pikkuhelppi, service description",
+      "url": "https://www.ilmajoenseurakunta.fi/tule-mukaan/lapsille-ja-lapsiperheille",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Ilmajoen seurakunta – Pikkuhelppi 3.11.2026",
+      "url": "https://www.ilmajoenseurakunta.fi/tapahtumat/2026-11-03/pikkuhelppi",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Ilmajoen seurakunta – Pikkuhelppi 16.11.2026",
+      "url": "https://www.ilmajoenseurakunta.fi/tapahtumat/2026-11-16/pikkuhelppi",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Isojoen kunta – Vihermön rahasto",
+      "url": "https://isojoki.fi/kunta-ja-asiointi/avustukset/vihermo/",
+      "source_type": "municipality_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Isojoen kunta – Vauvaraha (exclusion)",
+      "url": "https://isojoki.fi/kunta-ja-asiointi/avustukset/vauvaraha/",
+      "source_type": "municipality_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Isojoen kunta – Tuet ja avustukset (exclusions)",
+      "url": "https://isojoki.fi/kunta-ja-asiointi/avustukset/",
+      "source_type": "municipality_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhajoen seurakunta – Apua ja tukea, maksuton diakonia and home visits",
+      "url": "https://www.kauhajoenseurakunta.fi/apua-ja-tukea",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhajoen seurakunta – Diakoniatyöntekijä tavattavissa, financial emergency aid and appointments",
+      "url": "https://www.kauhajoenseurakunta.fi/apua-ja-tukea/diakoniatyontekija-tavattavissa",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Diakonia and weekly food distribution",
+      "url": "https://www.kauhavanseurakunta.fi/osallistu/diakonia",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Alahärmä free food distribution 13.11.2026",
+      "url": "https://www.kauhavanseurakunta.fi/tapahtumat/2026-11-13/ruokajako-alaharmassa",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Alahärmä free food distribution 30.10.2026",
+      "url": "https://www.kauhavanseurakunta.fi/tapahtumat/2026-10-30/ruokajako-alaharmassa",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Ylihärmä free food distribution",
+      "url": "https://www.kauhavanseurakunta.fi/tapahtumat/2026-09-25/ruokajako-yliharmassa",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Evijärvi food distribution 23.10.2026",
+      "url": "https://www.kauhavanseurakunta.fi/tapahtumat/2026-10-23/ruokajako-ruokajako-",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Evijärvi food distribution 6.11.2026",
+      "url": "https://www.kauhavanseurakunta.fi/tapahtumat/2026-11-06/ruokajako-ruokajako-",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kauhavan seurakunta – Kauhava city food distribution 13.11.2026",
+      "url": "https://www.kauhavanseurakunta.fi/tapahtumat/2026-11-13/ruokajako-kauhavalla-kipputori-toiskassa",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Isonkyrön seurakunta – Diakonia",
+      "url": "https://www.isonkyronsrk.fi/apua-ja-tukea/diakonia",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Isonkyrön seurakunta – current contacts",
+      "url": "https://www.isonkyronsrk.fi/yhteystiedot",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kuortaneen seurakunta – Diakonia",
+      "url": "https://www.kuortaneenseurakunta.fi/apua-ja-tukea",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kuortaneen seurakunta – Diakoniatori and Wednesday soup meal",
+      "url": "https://www.kuortaneenseurakunta.fi/info-ja-asiointi/kirkolliset",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kurikan seurakunta – Apua ja tukea diakoniasta",
+      "url": "https://kurikanseurakunta.fi/apua-ja-tukea/apua-ja-tukea-diakoniasta/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Kurikan seurakunta – support at Christmas (excluded seasonal)",
+      "url": "https://kurikanseurakunta.fi/apua-ja-tukea/tukea-jouluun/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Alajärven seurakunta – Lappajärven alueen diakonia and food distribution",
+      "url": "https://www.alajarvenseurakunta.fi/apua-ja-tukea/diakoniatyo-lappajarven-alueella",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Lapuan Helluntaiseurakunta – food aid and weekly distribution",
+      "url": "https://lapuanhelluntaisrk.fi/toiminta/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Lapuan Helluntaiseurakunta – contact",
+      "url": "https://lapuanhelluntaisrk.fi/yhteystiedot/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Lapuan tuomiokirkkoseurakunta – Diakoniapäivystys",
+      "url": "https://lapuantuomiokirkkoseurakunta.fi/tapahtumahaku/diakoniapaivystys-51/",
+      "source_type": "organizer_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Lapuan kaupunki – Asumisneuvonta",
+      "url": "https://lapua.fi/hyvinvointi/hyvaa-arkea-lapualla/kaikille/asumisneuvonta/",
+      "source_type": "municipality_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Varke – repair grant for homes of older people and people with disabilities",
+      "url": "https://www.varke.fi/fi/henkiloasiakkaat/avustukset-henkiloasiakkaille/korjausavustus-iakkaiden-ja-vammaisten-asuntoihin",
+      "source_type": "national_authority_primary",
+      "checked_date": "2026-11-15"
+    },
+    {
+      "title": "Varke – repair grant customer service and hours",
+      "url": "https://www.varke.fi/fi/palvelut/asiakaspalvelu/korjausavustus-henkiloasiakkaille",
+      "source_type": "national_authority_primary",
+      "checked_date": "2026-11-15"
+    }
   ],
   "public_site_changed": false,
   "main_registry_changed": false,
-  "checked_note": "Etelä-Pohjanmaan ensimmäinen tarkistuskierros alkoi Alajärvestä ja Alavudesta. Molemmissa käytiin läpi kaikki kuusi kategoriaa. HyvaEP:n lapsiperheiden kotipalvelun maksuttomuuden tarkat tulorajat lisättiin (1–6 henkilön perheille 699–3 481 €/kk; lisäksi säännöllinen toimeentulotuki tai lapsen asiakassuunnitelmaan perustuva päätös). Hope Seinäjoki hyödynnetään olemassa olevana koko maakunnan tietueena av-0201; uutta kopiota ei luoda. Keskeneräisiä kuntia ei merkitä valmiiksi."
+  "checked_note": "Repo's actual previous continuation was Etelä-Pohjanmaa / Evijärvi / Ruoka-apu, not the older Ahvenanmaa / Brändö marker in the prompt. Continued in alphabetical order through Lapua. Corrected the province municipality list from 17 to 18: the Etelä-Pohjanmaan liitto confirms Isokyrö joined in 2021 and the province has 18 municipalities. Eleven new municipalities were reviewed across all six categories; no municipality was marked complete because unresolved terms, schedules or free-status checks remain. No main registry or public website was changed."
 }
