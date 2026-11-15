@@ -589,7 +589,7 @@
         "kauhavan-seurakunta-ruokajako-kauhava-city",
         "kauhavan-seurakunta-ruokajako-evijarvi"
       ],
-      "finding": "Kauhavan seurakunnan ruokajako on toistuva perjantaisin klo 15–16. Alahärmän pisteessä (Härmäntie 31, 62300 Härmä) järjestäjä sanoo jakelun maksuttomaksi ja kohdistaa sen vähävaraisille; yhteyshenkilö Minna Myllykoski 050 577 1386. Ylihärmän piste on myös ilmoitettu maksuttomaksi, mutta osoite vaihtelee järjestäjän omissa tiedoissa Päämajantie 29/31; osoite jätetään avoimeksi. Kauhavan keskustan Toiskan pisteestä ja Evijärven pisteestä ei ole paikallisessa tapahtumailmoituksessa eksplisiittistä maksuttomuusvahvistusta.",
+      "finding": "Kauhavan seurakunnan ruokajako on toistuvasti julkaistu perjantaisin klo 15–16. Alahärmän pisteessä (Härmäntie 31, 62300 Härmä) järjestäjä nimeää jaon maksuttomaksi ja vähävaraisille suunnatuksi; 30.10. ja 13.11.2026 tapahtumat vahvistavat toistuvuuden, mutta viikoittaista/joka toisen viikon rytmiä ei sanota yksiselitteisesti. Ylihärmän piste on ilmoitettu maksuttomaksi, mutta osoite Päämajantie 29/31 on ristiriitainen. Kauhavan keskustan Toiskan ja Evijärven pisteiden maksuttomuutta ei ilmaista paikallisissa ilmoituksissa eksplisiittisesti.",
       "checked_date": "2026-11-15"
     },
     {
@@ -1116,7 +1116,7 @@
         "Kauhava (Alahärmä)"
       ],
       "location": "Alahärmän seurakuntatalo, Härmäntie 31, 62300 Härmä (Kauhava).",
-      "regular_time": "Perjantaisin klo 15–16; toistuva viikoittainen jakelu vahvistettu useilla vuoden 2026 tapahtumailmoituksilla.",
+      "regular_time": "Perjantaisin klo 15–16; 30.10. ja 13.11.2026 julkaistut toistuvat jakopäivät vahvistavat saman kellonajan, mutta viikoittaista tai joka toisen viikon rytmiä ei ole julkaistu yksiselitteisesti.",
       "free_and_conditions": "Järjestäjä nimeää jakelun maksuttomaksi. Tarkoitettu vähävaraisille alahärmäläisille; jaossa pääasiassa kaupan ylijäämä- ja hävikkiruokaa. Oma kassi mukaan.",
       "contact": "Diakonissa Minna Myllykoski 050 577 1386.",
       "source_urls": [
@@ -1166,8 +1166,8 @@
         "Koko Suomi; Ahvenanmaan soveltuvuus tarkistettava erikseen"
       ],
       "location": "Hakemus VARKEn verkkoasioinnissa tai postitse; neuvonta valtakunnallisesti.",
-      "regular_time": "Jatkuva hakuaika. Korjausavustuksen puhelinneuvonta keskiviikkoisin klo 9–11, 029 525 0560; sähköpostineuvonta arkipäivisin.",
-      "free_and_conditions": "Avustus on vastikkeeton tuki kodin välttämättömiin korjauksiin ja esteettömyyden parantamiseen. Kotitaloudessa on asuttava vakituisesti yli 65-vuotias tai vammainen henkilö; kaikkien asukkaiden tulot ja varallisuus vaikuttavat. Hakijan on oltava asunnon/rakennuksen omistaja tai pitkäaikainen korjausvastuullinen; vuokralainen ei voi hakea. Avustus enintään 50 % hyväksytyistä kustannuksista, erityisestä syystä enintään 70 %. Hakemus ja päätös ennen korjaustöiden aloittamista; maksatus haetaan työn valmistuttua.",
+      "regular_time": "Hakemuksen voi tehdä verkossa tai paperilomakkeella; VARKEn palvelusivu ei ilmoita kiinteää hakemuksen määräaikaa. Korjausavustuksen puhelinneuvonta keskiviikkoisin klo 9–11, 029 525 0560; sähköpostineuvonta arkipäivisin.",
+      "free_and_conditions": "Vastikkeeton avustus kodin esteettömyyttä tai turvallista ja terveellistä kotona asumista parantaviin korjauksiin. Kotitaloudessa vakituisesti asuvan on oltava yli 65-vuotias tai vammainen; koko ruokakunnan tulot ja varallisuus vaikuttavat. Hakijan on oltava asunnon/rakennuksen omistaja, asunto-osakkeenomistaja tai pitkäaikainen korjausvastuullinen; vuokralla tai asumisoikeusasunnossa asuva ei voi hakea. Avustus enintään 50 % hyväksyttävistä kohtuullisista kustannuksista, erityisestä syystä 70 %. Hakemus ja päätös ennen korjaustöiden aloittamista; maksatusta haetaan työn valmistuttua.",
       "contact": "Varke korjausavustusten asiakaspalvelu 029 525 0560 (ke 9–11), korjausavustus.varke@gov.fi.",
       "source_urls": [
         "https://www.varke.fi/fi/henkiloasiakkaat/avustukset-henkiloasiakkaille/korjausavustus-iakkaiden-ja-vammaisten-asuntoihin",
