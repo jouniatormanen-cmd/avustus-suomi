@@ -1,0 +1,827 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-15",
+  "province": "Etelä-Karjala",
+  "update_type": "first_pass_municipal_audit",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Imatra",
+    "Lappeenranta",
+    "Lemi",
+    "Luumäki",
+    "Parikkala",
+    "Rautjärvi",
+    "Ruokolahti",
+    "Savitaipale",
+    "Taipalsaari"
+  ],
+  "municipalities_reviewed": [
+    "Imatra",
+    "Lappeenranta",
+    "Lemi",
+    "Luumäki",
+    "Parikkala"
+  ],
+  "municipalities_remaining": [
+    "Rautjärvi",
+    "Ruokolahti",
+    "Savitaipale",
+    "Taipalsaari"
+  ],
+  "category_checks": [
+    {
+      "municipality": "Imatra",
+      "category": "Ruoka-apu",
+      "status": "no_qualifying_recurring_service_confirmed",
+      "finding": "No current regular free food distribution or meal service was confirmed from the primary sources reviewed. One-off summer meals are not included.",
+      "open": "Recheck parish and local association sources on the next pass."
+    },
+    {
+      "municipality": "Imatra",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "service_ids": [
+        "imatra-pikkuhelppi"
+      ],
+      "finding": "Imatran seurakunnan Pikkuhelppi offers free practical childcare/home support for families with children, by appointment. It is not general cleaning or elder-care."
+    },
+    {
+      "municipality": "Imatra",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed",
+      "finding": "No current free local clothing distribution was confirmed. Local second-hand sales are not free assistance."
+    },
+    {
+      "municipality": "Imatra",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed",
+      "finding": "No current free local goods distribution was confirmed. Paid second-hand shops are excluded."
+    },
+    {
+      "municipality": "Imatra",
+      "category": "Raha",
+      "status": "accepted_regional_and_local_guidance; one_time_grant_excluded",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling",
+        "imatra-diakonia-financial-guidance"
+      ],
+      "pending_ids": [
+        "imatra-talousneuvola"
+      ],
+      "finding": "Ekhva supplementary/preventive assistance and public debt counselling cover Imatra. Imatra parish offers free ongoing financial guidance; separate discretionary crisis grants are generally one-off and excluded. Imatra Talousneuvola's 2026 schedule was found but the page did not explicitly state the fee."
+    },
+    {
+      "municipality": "Imatra",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Free emergency accommodation is available through Tilma in Lappeenranta and the 24/7 Etelä-Karjala shelter in Imatra; both are regional services, not duplicated locally."
+    },
+    {
+      "municipality": "Lappeenranta",
+      "category": "Ruoka-apu",
+      "status": "accepted",
+      "service_ids": [
+        "lappeenranta-diakonia-community-meals"
+      ],
+      "pending_ids": [
+        "lappeenranta-tikankulma-surplus-food"
+      ],
+      "finding": "Lappeenrannan seurakuntien free community meals operate at several recurring locations. Tikankulma also reports surplus-food distribution on Mondays and Thursdays, but its exact time, eligibility and fee status are unpublished."
+    },
+    {
+      "municipality": "Lappeenranta",
+      "category": "Kotiapu",
+      "status": "no_qualifying_free_service_confirmed",
+      "finding": "Ekhva ordinary home-care and family home-help services carry client fees under the 2026 tariff; no separate free local home-help programme was confirmed."
+    },
+    {
+      "municipality": "Lappeenranta",
+      "category": "Vaatteet",
+      "status": "pending_local_service_and_free_status",
+      "pending_ids": [
+        "hope-lappeenranta"
+      ],
+      "finding": "Hope has a local Lappeenranta office, but its local page only confirms the donation intake. It does not establish the current client-assistance route, local clothing availability or explicit no-charge terms."
+    },
+    {
+      "municipality": "Lappeenranta",
+      "category": "Tavarat",
+      "status": "pending_local_service_and_free_status",
+      "pending_ids": [
+        "hope-lappeenranta"
+      ],
+      "finding": "Hope's general description includes donated goods, but the local Lappeenranta page does not confirm which goods are distributed to clients. No duplicate record created."
+    },
+    {
+      "municipality": "Lappeenranta",
+      "category": "Raha",
+      "status": "accepted_regional_and_local_guidance; one_time_grant_excluded",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling",
+        "lappeenranta-diakonia-financial-guidance"
+      ],
+      "finding": "Ekhva supplementary/preventive assistance and public debt counselling cover the municipality. Lappeenranta parish diaconia offers free financial guidance to all residents; discretionary crisis grants are mainly one-time and are excluded."
+    },
+    {
+      "municipality": "Lappeenranta",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Tilma emergency accommodation is in Lappeenranta and free; the regional shelter is in Imatra and free 24/7."
+    },
+    {
+      "municipality": "Lemi",
+      "category": "Ruoka-apu",
+      "status": "accepted_time_limited_recurring",
+      "service_ids": [
+        "taipaleen-diakonia-aamupuuro-lemi"
+      ],
+      "finding": "Taipaleen seurakunnan monthly free diaconal breakfast is open to all. Remaining published 2026 dates are 19.11. at Punasella tupa, 3.12. at Kerhosali and 10.12. at Punasella tupa, 09:00–10:00. Recheck after 10.12.2026; do not treat the published autumn series as a permanent year-round schedule."
+    },
+    {
+      "municipality": "Lemi",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "service_ids": [
+        "taipaleen-pikkuhelppi-lemi"
+      ],
+      "finding": "PikkuHelppi provides free childcare and practical support for parents of small children. Appointments can be booked about every other week, maximum 2.5 hours per visit."
+    },
+    {
+      "municipality": "Lemi",
+      "category": "Vaatteet",
+      "status": "excluded_paid_local_shop",
+      "finding": "Lemin lähetyskirppis is a second-hand shop, not free clothing aid."
+    },
+    {
+      "municipality": "Lemi",
+      "category": "Tavarat",
+      "status": "excluded_paid_local_shop",
+      "finding": "The local second-hand shop sells goods; no separate free goods distribution was confirmed."
+    },
+    {
+      "municipality": "Lemi",
+      "category": "Raha",
+      "status": "pending_local_terms",
+      "pending_ids": [
+        "taipaleen-diaconia-financial-aid-terms"
+      ],
+      "finding": "The parish has a financial-assistance page, but current eligibility, whether assistance is a grant or loan, regular access route and fee/conditions were not sufficiently visible in the reviewed public source. Regional Ekhva assistance and debt counselling are already recorded."
+    },
+    {
+      "municipality": "Lemi",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Regional free emergency accommodation and shelter services cover Lemi; no separate local free housing programme confirmed."
+    },
+    {
+      "municipality": "Luumäki",
+      "category": "Ruoka-apu",
+      "status": "pending_distribution_details",
+      "pending_ids": [
+        "luumaki-eu-food-boxes"
+      ],
+      "finding": "The parish's official information mentions EU food boxes and soup-day activity, but no current distribution schedule, pickup location, eligibility or explicit free terms were found."
+    },
+    {
+      "municipality": "Luumäki",
+      "category": "Kotiapu",
+      "status": "no_qualifying_free_service_confirmed",
+      "finding": "Ordinary Ekhva home-care and family home-help are fee-based; no separate free local home-help service confirmed."
+    },
+    {
+      "municipality": "Luumäki",
+      "category": "Vaatteet",
+      "status": "excluded_paid_local_shop",
+      "finding": "Kirpputori Postilla is a second-hand shop, not free clothing assistance."
+    },
+    {
+      "municipality": "Luumäki",
+      "category": "Tavarat",
+      "status": "excluded_paid_local_shop",
+      "finding": "Kirpputori Postilla sells goods; no separate free goods distribution confirmed."
+    },
+    {
+      "municipality": "Luumäki",
+      "category": "Raha",
+      "status": "accepted_free_guidance_and_regional_support",
+      "service_ids": [
+        "luumaki-diakonia-free-financial-guidance",
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling"
+      ],
+      "finding": "Luumäen seurakunta explicitly states that diaconal conversation support is free and confidential for people with financial worries. This is guidance, not a confirmed cash grant."
+    },
+    {
+      "municipality": "Luumäki",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Regional free emergency accommodation and shelter services cover Luumäki; no separate local free housing programme confirmed."
+    },
+    {
+      "municipality": "Parikkala",
+      "category": "Ruoka-apu",
+      "status": "accepted",
+      "service_ids": [
+        "parikkala-weekly-surplus-bread"
+      ],
+      "finding": "Parikkalan seurakunta distributes donated surplus bread and pastries every Thursday 10:30–11:30 at Parikkalan seurakuntatalo. The separately listed community-meal series was for spring 2026 and has ended; it is not counted as a current service."
+    },
+    {
+      "municipality": "Parikkala",
+      "category": "Kotiapu",
+      "status": "pending_fee_confirmation",
+      "pending_ids": [
+        "parikkala-lahimmaispalvelu"
+      ],
+      "finding": "Parikkalan seurakunnan volunteer Lähimmäispalvelu/arkiystävä visits are usually at the recipient's home; visits and frequency are agreed individually. The page does not explicitly state that the service is free, so it remains pending."
+    },
+    {
+      "municipality": "Parikkala",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_service_confirmed",
+      "finding": "No current free clothing distribution confirmed in the first pass."
+    },
+    {
+      "municipality": "Parikkala",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_service_confirmed",
+      "finding": "No current free goods distribution confirmed in the first pass."
+    },
+    {
+      "municipality": "Parikkala",
+      "category": "Raha",
+      "status": "regional_support_accepted; local_one_time_grant_excluded",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling"
+      ],
+      "finding": "Parikkalan seurakunnan small financial assistance is explicitly one-time grocery gift-card crisis aid and is excluded under the user's recurring-service rule. Ekhva support and debt counselling cover the municipality."
+    },
+    {
+      "municipality": "Parikkala",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Regional free emergency accommodation and shelter services cover Parikkala; no separate local free housing programme confirmed."
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "ekhva-supplementary-preventive-income-support",
+      "name": "Täydentävä ja ehkäisevä toimeentulotuki",
+      "organizer": "Etelä-Karjalan hyvinvointialue (Ekhva)",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Imatra",
+        "Lappeenranta",
+        "Lemi",
+        "Luumäki",
+        "Parikkala",
+        "Rautjärvi",
+        "Ruokolahti",
+        "Savitaipale",
+        "Taipalsaari"
+      ],
+      "location": "Hakemus sähköisesti tai kirjallisesti oman asuinkunnan toimipisteeseen; aikuisten keskukset Lappeenrannassa ja Imatralla.",
+      "regular_time": "Jatkuva hakemuspalvelu; sosiaalipalvelujen neuvonta ma–pe klo 9–15.",
+      "free_and_conditions": "Toimeentulotuki on rahallinen etuus, ei maksullinen palvelu. Kela myöntää ensin perustoimeentulotuen; Ekhva arvioi täydentävän/ehkäisevän tuen tarpeen yksilöllisesti. Hakemukseen tarvitaan tiliotteet ja tuen kohteena olevat laskut. Hakemukset käsitellään viimeistään seitsemässä arkipäivässä, jos tiedot ovat riittävät.",
+      "contact": "Sosiaalipalvelujen neuvonta 05 352 2370, ma–pe klo 9–15; Oma Ekhva -chat ma–pe klo 9–15.",
+      "source_urls": [
+        "https://www.ekhva.fi/asiakkuus-ja-osallisuus/neuvontapalvelut/taydentava-ja-ehkaiseva-toimeentulotuki/",
+        "https://www.ekhva.fi/palvelut/sosiaalipalvelut/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "oikeuspalvelu-debt-counselling",
+      "name": "Talous- ja velkaneuvonta",
+      "organizer": "Oikeuspalveluvirasto / Lappeenrannan oikeusaputoimisto",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Etelä-Karjalan kaikki yhdeksän kuntaa"
+      ],
+      "location": "Villimiehenkatu 2, Lappeenranta; palvelu alueellinen ja ajanvarauksellinen.",
+      "regular_time": "Asiakaspalvelu arkisin klo 8–16.15; talous- ja velkaneuvoja puhelimitse arkisin klo 9–12; chat ma–pe klo 10–12 ja torstaisin klo 14–16.",
+      "free_and_conditions": "Maksuton julkinen neuvontapalvelu. Apua voi hakea ennaltaehkäisevästi sekä pieniin että suuriin talous- ja velkakysymyksiin.",
+      "contact": "029 566 0304; lappeenranta.velkaneuvonta@oikeus.fi.",
+      "source_urls": [
+        "https://www.oikeuspalveluvirasto.fi/talous-ja-velkaneuvonta/",
+        "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "ekhva-tilma-emergency-accommodation",
+      "name": "Tilapäismajoitus Tilma – hätämajoitus",
+      "organizer": "Etelä-Karjalan hyvinvointialue (Ekhva)",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Imatra",
+        "Lappeenranta",
+        "Lemi",
+        "Luumäki",
+        "Parikkala",
+        "Rautjärvi",
+        "Ruokolahti",
+        "Savitaipale",
+        "Taipalsaari"
+      ],
+      "location": "Pajarilankatu 170 A, 53300 Lappeenranta.",
+      "regular_time": "Tarpeen mukaan kiireellisessä asumistilanteessa; ei kiinteää vastaanottoaikaa.",
+      "free_and_conditions": "Ekhvan vuoden 2026 asiakasmaksuhinnasto toteaa tilapäismajoituksen maksuttomaksi. Tarkoitettu lyhytaikaiseen kiireelliseen apuun asumistilanteessa; tavoitteena siirtyminen pysyvämpään asumiseen.",
+      "contact": "Ikääntyneiden ja työikäisten sosiaalipalvelujen puhelinneuvonta 05 352 2370 ma–pe klo 9–15; virka-ajan ulkopuolella sosiaali- ja kriisipäivystys 040 651 1828.",
+      "source_urls": [
+        "https://www.ekhva.fi/palvelut/mielenterveys-ja-riippuvuuspalvelut/kuntouttavat-asumispalvelut/",
+        "https://www.ekhva.fi/asiakkuus-ja-osallisuus/asiakasmaksut_/asiakasmaksuhinnastot/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "ekhva-turvakoti",
+      "name": "Etelä-Karjalan turvakoti",
+      "organizer": "Etelä-Karjalan hyvinvointialue (Ekhva)",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Imatra",
+        "Lappeenranta",
+        "Lemi",
+        "Luumäki",
+        "Parikkala",
+        "Rautjärvi",
+        "Ruokolahti",
+        "Savitaipale",
+        "Taipalsaari"
+      ],
+      "location": "Pappilanpolku 1 D, 55120 Imatra.",
+      "regular_time": "Avoinna 24/7 vuoden jokaisena päivänä; voi hakeutua suoraan.",
+      "free_and_conditions": "Maksuton lyhytaikainen kriisiasuminen perhe- ja lähisuhdeväkivaltaa tai sen uhkaa kokeneille. Jo väkivallan uhka riittää yhteydenottoon.",
+      "contact": "040 351 6477 (myös WhatsApp). Akuutissa hätätilanteessa 112.",
+      "source_urls": [
+        "https://www.ekhva.fi/palvelut/paivystyksellinen-asia/vakivaltaa-kohdanneille/turvakoti/",
+        "https://www.ekhva.fi/2025/10/turvakoti-5-kysymysta-ja-vastausta/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "imatra-pikkuhelppi",
+      "name": "Pikkuhelppi",
+      "organizer": "Imatran seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Imatra"
+      ],
+      "location": "Perheen koti ja sovittu lähiympäristö; tapaaminen voidaan järjestää myös seurakunnan tiloissa.",
+      "regular_time": "Ajanvarauksella; kiinteää viikoittaista vastaanottoaikaa ei julkaista.",
+      "free_and_conditions": "Maksutonta arjen ja lastenhoidon tukea lapsiperheille; sisältää esimerkiksi lastenhoitoapua ja vanhemman jaksamisen tukea. Ei yleistä siivous- tai ikäihmisten kotihoitoa.",
+      "contact": "Heljä Kemiläinen 044 400 4258; Anne Rita-Kärkkäinen 040 832 1656; seurakunnan perhetyö.",
+      "source_urls": [
+        "https://www.imatranseurakunta.fi/apua-ja-tukea/diakoniatyo"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "imatra-diakonia-financial-guidance",
+      "name": "Diakoniatyön maksuton taloudellinen neuvonta ja ohjaus",
+      "organizer": "Imatran seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Imatra"
+      ],
+      "location": "Olavinkulma, Olavinkatu 13, 55100 Imatra; tapaaminen voidaan sopia myös kotiin.",
+      "regular_time": "Ajanvarauksella. Julkisella sivulla on ristiriitaiset puhelinajat (torstai 14–15 ja henkilötiedoissa keskiviikko 12–13); sähköpostilla, tekstiviestillä tai WhatsAppilla voi ottaa yhteyttä milloin tahansa.",
+      "free_and_conditions": "Keskusteluapu, talousasioiden selvittely ja ohjaus ovat maksuttomia ja luottamuksellisia. Erillinen diakonia-avustus on pääsääntöisesti kertaluonteista kriisiapua, joten sitä ei hyväksytä tähän jatkuvan palvelun rekisteriin.",
+      "contact": "Ajanvaraus 040 482 4473; srkimatra.diakonia@evl.fi.",
+      "source_urls": [
+        "https://www.imatranseurakunta.fi/apua-ja-tukea/diakoniatyo",
+        "https://www.imatranseurakunta.fi/apua-ja-tukea/diakoniatyo/taloudellinen-avustaminen"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "lappeenranta-diakonia-community-meals",
+      "name": "Lappeenrannan seurakuntien maksuttomat diakonian yhteisöruokailut",
+      "organizer": "Lappeenrannan ev.lut. seurakunnat",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Lappeenranta"
+      ],
+      "location": "Useita seurakuntien tiloja Lappeenrannassa, Joutsenossa, Lauritsalassa, Sammonlahdessa ja Korvenkylässä.",
+      "regular_time": "Lauritsala tiistaisin klo 11, ruokaa klo 12.30 asti; Sammonlahti tiistaisin klo 11, ruokaa klo 11.30 asti; Joutseno kuukauden ensimmäisenä tiistaina klo 11.30–13; Korvenkylä kuukauden ensimmäisenä maanantaina klo 12–14; Tikankulman arkilounas keskiviikkoisin klo 11–12; Lappeen seurakuntasalin aamupala joka toinen tiistai klo 9–10.30. Syksyn 2026 julkaistut päivät ulottuvat 8.12.2026 saakka.",
+      "free_and_conditions": "Avoin kaikille, ei ennakkoilmoittautumista. Järjestäjän sivu kuvaa yhteisöruokailut maksuttomiksi. Ylämaan syksyn 2026 sarjan viimeinen julkaistu päivä oli 10.11.2026 eikä sitä lasketa tämänhetkiseksi tulevaksi jakeluksi.",
+      "contact": "Tikankulma: ohjaaja Satu Martikka 040 3126 825 ja diakoni Ari Tuomikoski 040 3126 835; yleinen diakonian yhteyshenkilö Pasi Salomaa 040 3126 322.",
+      "source_urls": [
+        "https://lappeenrannanseurakunnat.fi/kohtaamispaikat-ja-yhteisoruokailut/",
+        "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "lappeenranta-diakonia-financial-guidance",
+      "name": "Diakonian maksuton talousohjaus ja neuvonta",
+      "organizer": "Lappeenrannan ev.lut. seurakunnat",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Lappeenranta"
+      ],
+      "location": "Alueen diakoniatoimistot; Lappeenrannan keskusta Valtakatu 38, 6. krs; muut työntekijät toimivat Joutsenon, Lauritsalan ja Sammonlahden alueilla.",
+      "regular_time": "Ajanvarauksella oman alueen diakoniatyöntekijältä; kiinteää kaikille yhteistä vastaanottoaikaa ei julkaista.",
+      "free_and_conditions": "Kaikki voivat hakea apua, kirkkoon kuulumista ei edellytetä. Keskustelu, talousasioiden selvittely ja neuvonta ovat maksuttomia. Erillinen taloudellinen avustaminen on pääsääntöisesti kertaluonteista kriisiapua ja on siksi erotettu/poissuljettu.",
+      "contact": "Johtava diakoniatyöntekijä Pasi Salomaa 040 312 6322, pasi.salomaa@evl.fi; aluekohtaiset yhteystiedot järjestäjän sivulla.",
+      "source_urls": [
+        "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/",
+        "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/diakonia-yhteystiedot/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "taipaleen-diakonia-aamupuuro-lemi",
+      "name": "Diakonian maksuton aamupuurohetki",
+      "organizer": "Taipaleen seurakunta, Lemin kirkkopiiri",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Lemi"
+      ],
+      "location": "Punasella tupa, Vainikkalantie 3, sekä Lemin kerhosali, Toukkalantie 2 B.",
+      "regular_time": "Syksyn 2026 julkaistussa kuukausisarjassa torstaisin klo 9–10; jäljellä 19.11. (Punasella tupa), 3.12. (kerhosali) ja 10.12. (Punasella tupa).",
+      "free_and_conditions": "Kaikille avoin ja maksuton. Tarjolla puuroa, leipää ja kahvia. Tämä on toistuva mutta määräaikainen syyskauden sarja; uusi aikataulu on tarkistettava 10.12.2026 jälkeen.",
+      "contact": "Diakoni Mervi Karhula 0400 416 739; Lemin seurakuntatoimisto Toukkalantie 2 B, 54710 Lemi.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/documents/d/www.taipaleenseurakunta.fi/2026-4-kesatarjotin-kesa-syys-lemi-1-pdf"
+      ],
+      "checked_date": "2026-11-15",
+      "recheck_after": "2026-12-10"
+    },
+    {
+      "id": "taipaleen-pikkuhelppi-lemi",
+      "name": "PikkuHelppi",
+      "organizer": "Taipaleen seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Lemi"
+      ],
+      "location": "Perheen koti tai sovittu lähiympäristö; lastenhoitoapua voidaan järjestää myös kävelymatkan päässä olevassa kerhotilassa.",
+      "regular_time": "Aikoja voi varata noin joka toinen viikko; enintään 2,5 tuntia kerrallaan. Ajanvarauksella.",
+      "free_and_conditions": "Maksuton lastenhoito- ja arjen tukipalvelu pienten lasten vanhemmille; sisältää vaunulenkkejä, ulkoilua ja vanhemman jaksamisen tukea. Savitaipaleen toiminta on järjestäjän mukaan tauolla; tämä tietue koskee vain Lemiä.",
+      "contact": "Lemillä Minna Lehikoinen 040 520 1970.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/lapsille-ja-lapsiperheille/pikkuhelppi",
+        "https://www.taipaleenseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "luumaki-diakonia-free-financial-guidance",
+      "name": "Diakoniatyön maksuton keskusteluapu taloushuolissa",
+      "organizer": "Luumäen seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Luumäki"
+      ],
+      "location": "Vallaherrankuja 4, 54500 Taavetti; keskustelu voidaan sopia diakoniatyöntekijän kanssa.",
+      "regular_time": "Yhteydenotto ja tapaaminen sopimuksen mukaan; kiinteää vastaanottoaikaa ei julkaista.",
+      "free_and_conditions": "Diakoniatyöntekijän keskusteluapu on nimenomaisesti maksutonta ja luottamuksellista. Palvelu on taloudellisten huolien käsittelyä ja ohjausta; erillistä suoraa rahallista avustusta ei vahvistettu.",
+      "contact": "Diakoni Johanna Törmälä 050 400 5056; johanna.tormala@evl.fi.",
+      "source_urls": [
+        "https://www.luumaenseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "parikkala-weekly-surplus-bread",
+      "name": "Ylijäämäleivän ja -pullan jakelu",
+      "organizer": "Parikkalan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Parikkala"
+      ],
+      "location": "Parikkalan seurakuntatalo.",
+      "regular_time": "Torstaisin klo 10.30–11.30.",
+      "free_and_conditions": "Lahjoituksena saatu ylijäämäleipä ja -pulla jaetaan maksutta. Jakelun yhteydessä toimii diakonin päivystys.",
+      "contact": "Diakoni Jaana Vaittinen 040 864 1236; diakonissa Helena Mattinen 0400 697 081.",
+      "source_urls": [
+        "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
+      ],
+      "checked_date": "2026-11-15"
+    }
+  ],
+  "pending_services": [
+    {
+      "id": "imatra-talousneuvola",
+      "category": "Raha",
+      "name": "Imatran Talousneuvola",
+      "organizer": "Ekhva / yhteistyöpalvelu",
+      "location": "Aikuisten keskus, Tainionkoskentie 1, Imatra",
+      "regular_time": "2026 julkaistut päivät 24.8., 28.9., 26.10. ja 30.11. klo 12–15",
+      "contact": "Aikuisten keskus / sosiaalipalvelujen neuvonta 05 352 2370",
+      "reason": "Ajantasainen 2026 aikataulu löytyi, mutta järjestäjän sivu ei ilmaissut palvelun maksuttomuutta riittävän selvästi. Ei hyväksytä ennen maksuttomuuden vahvistusta.",
+      "source_urls": [
+        "https://www.ekhva.fi/"
+      ]
+    },
+    {
+      "id": "lappeenranta-tikankulma-surplus-food",
+      "category": "Ruoka-apu",
+      "name": "Tikankulman hävikkiruokajakelu",
+      "organizer": "Lappeenrannan seurakuntayhtymä / Päiväkeskus Tikankulma",
+      "location": "Siltakatu 2, 53810 Lappeenranta",
+      "regular_time": "Maanantaisin ja torstaisin; tarkkaa kellonaikaa ei julkaista",
+      "contact": "Päiväkeskus Tikankulma 040 054 2654; ohjaaja Satu Martikka 040 312 6825",
+      "reason": "Säännöllinen jakelu on mainittu järjestäjän sivulla, mutta kellonaika, saantiehdot ja maksuttomuus eivät ole julkisessa tiedossa.",
+      "source_urls": [
+        "https://lappeenrannanseurakunnat.fi/kohtaamispaikat-ja-yhteisoruokailut/",
+        "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/diakonia-yhteystiedot/"
+      ]
+    },
+    {
+      "id": "hope-lappeenranta",
+      "category": "Vaatteet/Tavarat",
+      "name": "Hope Lappeenranta – paikallistoimisto",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry",
+      "location": "Standertskjöldinkatu 1, Lappeenranta",
+      "regular_time": "Lahjoitusten vastaanotto keskiviikkoisin klo 17–18.30; asiakasavun aikataulua ei julkaista",
+      "contact": "040 156 9476; lappeenranta@hopeyhdistys.fi",
+      "reason": "Paikallissivu vahvistaa toimiston ja lahjoitusten vastaanoton, mutta ei tämän paikallistoimiston nykyistä avunsaantireittiä, jaettavia tavaroita tai maksuttomuusehtoa. Ei hyväksytä ennen vahvistusta.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/lappeenranta/",
+        "https://hopeyhdistys.fi/tarvitsen-apua/"
+      ]
+    },
+    {
+      "id": "luumaki-eu-food-boxes",
+      "category": "Ruoka-apu",
+      "name": "Luumäen seurakunnan EU-elintarvikekassit / soppapäivä",
+      "organizer": "Luumäen seurakunta",
+      "location": "Luumäen seurakunnan toiminta-alue; noutopaikka ei vahvistunut",
+      "regular_time": "Ei julkaistua nykyistä jakeluaikaa",
+      "contact": "Diakoni Johanna Törmälä 050 400 5056; johanna.tormala@evl.fi",
+      "reason": "Järjestäjän sivu mainitsee EU-ruokakassitoiminnan, mutta ei vahvista nykyistä jakoa, noutopaikkaa, ehtoja tai säännöllistä aikaa.",
+      "source_urls": [
+        "https://www.luumaenseurakunta.fi/apua-ja-tukea"
+      ]
+    },
+    {
+      "id": "parikkala-lahimmaispalvelu",
+      "category": "Kotiapu",
+      "name": "Lähimmäispalvelu / arkiystävätoiminta",
+      "organizer": "Parikkalan seurakunta",
+      "location": "Yleensä avuntarvitsijan koti Parikkalan seurakunnan alueella",
+      "regular_time": "Tapaamistiheys sovitaan yksilöllisesti; ei kiinteää viikkoaikaa",
+      "contact": "Jaana Vaittinen 040 864 1236; Helena Mattinen 0400 697 081",
+      "reason": "Kotikäynnit, keskustelu ja ulkoilu on kuvattu ja toiminta on vapaaehtoispohjaista, mutta maksuttomuutta ei sanota lähteessä nimenomaisesti. Pidetään pending-tilassa, kunnes no-fee vahvistuu.",
+      "source_urls": [
+        "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
+      ]
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "ekhva-ordinary-homecare-and-family-home-service",
+      "reason": "Ekhvan vuoden 2026 hinnasto veloittaa tilapäisestä kotihoidosta ja lapsiperheiden tilapäisestä kotipalvelusta; jatkuva palvelu on maksukyvyn mukaan maksullinen. Ei yleisesti maksuton palvelu.",
+      "source_urls": [
+        "https://www.ekhva.fi/asiakkuus-ja-osallisuus/asiakasmaksut_/asiakasmaksuhinnastot/"
+      ]
+    },
+    {
+      "id": "ekhva-caregiver-respite-fee",
+      "reason": "Ekhvan vuoden 2026 hinnasto perii omaishoitajan vapaan aikaisista palveluista 13,70 €/päivä; ei maksuton.",
+      "source_urls": [
+        "https://www.ekhva.fi/asiakkuus-ja-osallisuus/asiakasmaksut_/asiakasmaksuhinnastot/"
+      ]
+    },
+    {
+      "id": "ekhva-social-credit",
+      "reason": "Sosiaalinen luotto on takaisinmaksettava laina, ei maksuton avustus.",
+      "source_urls": [
+        "https://www.ekhva.fi/asiakkuus-ja-osallisuus/neuvontapalvelut/talous-ja-velkaneuvonta/"
+      ]
+    },
+    {
+      "id": "imatra-diakonia-one-time-financial-grant",
+      "reason": "Imatran seurakunnan suora taloudellinen avustus on pääsääntöisesti kertaluonteista kriisiapua; käyttäjän rajauksen vuoksi se erotetaan jatkuvasta maksuttomasta talousohjauksesta.",
+      "source_urls": [
+        "https://www.imatranseurakunta.fi/apua-ja-tukea/diakoniatyo/taloudellinen-avustaminen"
+      ]
+    },
+    {
+      "id": "lappeenranta-diakonia-one-time-financial-grant",
+      "reason": "Lappeenrannan seurakuntien suora taloudellinen avustus on pääsääntöisesti kertaluonteista kriisiapua; maksuton talousohjaus säilyy erillisenä hyväksyttynä palveluna.",
+      "source_urls": [
+        "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/"
+      ]
+    },
+    {
+      "id": "parikkala-diakonia-one-time-grocery-giftcard",
+      "reason": "Parikkalan seurakunnan taloudellinen avustus on lähteen mukaan kertaluonteinen ruokakaupan lahjakortti; ei jatkuva palvelu.",
+      "source_urls": [
+        "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
+      ]
+    },
+    {
+      "id": "parikkala-spring-2026-community-meals",
+      "reason": "Yhteisöruokailujen julkaistu sarja koski kevätkautta 2026 ja päättyi 16.4.2026; sitä ei merkitä nykyiseksi palveluksi ilman uutta aikataulua.",
+      "source_urls": [
+        "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
+      ]
+    },
+    {
+      "id": "lemi-mission-secondhand-shop",
+      "reason": "Lemin lähetyskirppis myy käytettyjä vaatteita ja tavaroita; myynti ei ole maksutonta avustuspalvelua.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "luumaki-postilla-secondhand-shop",
+      "reason": "Kirpputori Postilla on myyntitoimintaa, ei maksutonta vaate- tai tavara-apua.",
+      "source_urls": [
+        "https://www.luumaenseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "imatra-summer-meal-events",
+      "reason": "Kesäloman puisto- ja koululaisruokailut ovat kausiluonteisia; niitä ei lisätä ympärivuotiseen palvelurekisteriin.",
+      "source_urls": [
+        "https://www.imatranseurakunta.fi/"
+      ]
+    }
+  ],
+  "duplicate_control": {
+    "checked_files": [
+      "data/paarekisteri.json",
+      "data/palvelut.json"
+    ],
+    "existing_record_count": 171,
+    "matching_Imatra_or_Lappeenranta_records_found": 0,
+    "regional_services_are_single_records": true,
+    "note": "Regional Ekhva services are referenced by the five reviewed municipalities but stored only once in this audit. No public registry records were added."
+  },
+  "municipality_progress": [
+    {
+      "municipality": "Imatra",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "no regular local free food distribution found",
+        "no local free clothing/goods distribution found",
+        "Talousneuvola fee status not explicit"
+      ]
+    },
+    {
+      "municipality": "Lappeenranta",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Tikankulma surplus-food distribution time/eligibility/free status",
+        "Hope local client assistance and free status",
+        "no free local home-help service found"
+      ]
+    },
+    {
+      "municipality": "Lemi",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Aamupuuro schedule must be rechecked after 10.12.2026",
+        "Taipaleen parish financial-assistance terms",
+        "no free local clothing/goods service found"
+      ]
+    },
+    {
+      "municipality": "Luumäki",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "EU food-box distribution schedule and conditions",
+        "no free local home-help or clothing/goods service found"
+      ]
+    },
+    {
+      "municipality": "Parikkala",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Lähimmäispalvelu no-fee confirmation",
+        "no free local clothing/goods service found",
+        "new community-meal schedule not published"
+      ]
+    }
+  ],
+  "counts": {
+    "municipalities_reviewed": 5,
+    "category_checks_completed": 30,
+    "accepted_unique_service_records": 12,
+    "pending_service_leads_or_details": 5,
+    "excluded_observations": 10,
+    "municipalities_marked_complete": 0
+  },
+  "next_position": "Etelä-Karjala / Rautjärvi / Ruoka-apu",
+  "sources": [
+    "https://www.ekhva.fi/asiakkuus-ja-osallisuus/neuvontapalvelut/taydentava-ja-ehkaiseva-toimeentulotuki/",
+    "https://www.ekhva.fi/asiakkuus-ja-osallisuus/neuvontapalvelut/talous-ja-velkaneuvonta/",
+    "https://www.ekhva.fi/palvelut/mielenterveys-ja-riippuvuuspalvelut/kuntouttavat-asumispalvelut/",
+    "https://www.ekhva.fi/asiakkuus-ja-osallisuus/asiakasmaksut_/asiakasmaksuhinnastot/",
+    "https://www.ekhva.fi/palvelut/paivystyksellinen-asia/vakivaltaa-kohdanneille/turvakoti/",
+    "https://www.ekhva.fi/2025/10/turvakoti-5-kysymysta-ja-vastausta/",
+    "https://www.imatranseurakunta.fi/apua-ja-tukea/diakoniatyo",
+    "https://www.imatranseurakunta.fi/apua-ja-tukea/diakoniatyo/taloudellinen-avustaminen",
+    "https://lappeenrannanseurakunnat.fi/kohtaamispaikat-ja-yhteisoruokailut/",
+    "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/",
+    "https://lappeenrannanseurakunnat.fi/apua-ja-tukea/diakonista-apua-ja-tukea/diakonia-yhteystiedot/",
+    "https://hopeyhdistys.fi/paikallistoimisto/lappeenranta/",
+    "https://www.taipaleenseurakunta.fi/documents/d/www.taipaleenseurakunta.fi/2026-4-kesatarjotin-kesa-syys-lemi-1-pdf",
+    "https://www.taipaleenseurakunta.fi/lapsille-ja-lapsiperheille/pikkuhelppi",
+    "https://www.taipaleenseurakunta.fi/apua-ja-tukea",
+    "https://www.luumaenseurakunta.fi/apua-ja-tukea",
+    "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
+  ],
+  "public_site_changed": false,
+  "main_registry_changed": false,
+  "checked_note": "This is a first-pass audit, not a claim that any municipality is complete. Categories with no confirmed qualifying service are explicitly left open rather than filled with empty placeholders."
+}
