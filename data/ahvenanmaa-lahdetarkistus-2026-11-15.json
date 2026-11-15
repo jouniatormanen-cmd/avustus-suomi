@@ -1,0 +1,188 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-15",
+  "update_type": "incremental_audit",
+  "previous_snapshot": "data/ahvenanmaa-lahdetarkistus-2026-11-14.json",
+  "exact_resume_source": "The 2026-11-14 repository snapshot explicitly set the next point to Ahvenanmaa / Föglö / Ruoka-apu. The older prompt reference to Brändö was stale; this run followed the repository state.",
+  "municipality": "Föglö",
+  "municipality_review": {
+    "reviewed_categories": [
+      "Ruoka-apu",
+      "Kotiapu",
+      "Vaatteet",
+      "Tavarat",
+      "Raha",
+      "Asuminen"
+    ],
+    "complete": false,
+    "category_results": [
+      {
+        "category": "Ruoka-apu",
+        "status": "pending_local_access",
+        "finding": "The regional Matbanken service exists in the Åland audit, but no current Föglö-specific referral, collection place, collection time or eligibility route was found in the parish's current public information.",
+        "next_check": "Ask Ålands södra skärgårdsförsamling/Matbanken to confirm whether Föglö residents can receive food bags and how/when."
+      },
+      {
+        "category": "Kotiapu",
+        "status": "no_general_free_service_confirmed; statutory_respite_disputed",
+        "finding": "Ordinary home service and support services are fee-based or income-tested. The published Föglö elder-care tariff (effective 1.1.2022) charges 15 €/day for respite during statutory caregiver leave; the municipality's 21.2.2023 caregiver guidelines also say the recipient is charged according to the current fee tariff. A later regional legal amendment may affect this, but no 2026 local implementation/fee confirmation was found.",
+        "next_check": "Obtain written confirmation of the 2026 fee and legal implementation from Föglö elder-care management before listing statutory respite as free."
+      },
+      {
+        "category": "Vaatteet",
+        "status": "regional_service_only_local_route_unverified",
+        "finding": "The existing regional Emmaus Åland voucher-based clothing aid record remains the only qualifying lead. No separate Föglö clothing bank or local distribution schedule was confirmed.",
+        "next_check": "Confirm the local referral route through parish/social services; do not create a municipality-specific duplicate of Emmaus."
+      },
+      {
+        "category": "Tavarat",
+        "status": "regional_service_only_local_route_unverified",
+        "finding": "The existing regional Emmaus Åland voucher-based goods aid record remains the only qualifying lead. No separate Föglö goods distribution was confirmed.",
+        "next_check": "Confirm whether Föglö referrals can use the Emmaus voucher scheme and which goods are covered."
+      },
+      {
+        "category": "Raha",
+        "status": "local_fund_confirmed_terms_pending",
+        "finding": "Ålands södra skärgårdsförsamling's official support information identifies a Föglö diaconal fund intended to support people in financial difficulty. Application route, eligibility, grant/loan form, amount and regular contact time are not published.",
+        "next_check": "Confirm the application route, non-repayable/repayable status, eligibility and current contact person with the parish."
+      },
+      {
+        "category": "Asuminen",
+        "status": "regional_support_only",
+        "finding": "No separate free Föglö housing programme was confirmed. Existing regional KST means-tested income support remains the relevant record for necessary housing-related expenses; it must not be duplicated locally.",
+        "next_check": "No local service to add until a distinct free housing programme is evidenced."
+      }
+    ],
+    "unresolved": [
+      "Föglö Matbanken referral and collection details",
+      "Föglö diaconal fund application terms and contact",
+      "Föglö statutory caregiver respite fee/legal conflict",
+      "Local Emmaus voucher referral route",
+      "No separate free local clothing, goods or housing programme confirmed"
+    ]
+  },
+  "service_corrections": [
+    {
+      "id": "aland-statutory-caregiver-respite",
+      "prior_issue": "The 2026-11-14 snapshot described coverage as verified in all 16 Åland municipalities. That coverage statement was too broad.",
+      "corrected_status": "Keep the regional legal entitlement record, but do not treat all 16 local implementations as verified. Föglö is now pending because its published local tariff and 2023 guidelines state a charge during statutory leave; Vårdö also remains unconfirmed. Eckerö, Finström, Hammarland and Saltvik have no verified local implementation in the reviewed record.",
+      "coverage_verified_from_existing_local_evidence": [
+        "Brändö",
+        "Geta",
+        "Jomala",
+        "Kökar",
+        "Kumlinge",
+        "Lemland",
+        "Lumparland",
+        "Maarianhamina",
+        "Sottunga",
+        "Sund"
+      ],
+      "coverage_unverified_or_disputed": [
+        "Eckerö",
+        "Finström",
+        "Föglö",
+        "Hammarland",
+        "Saltvik",
+        "Vårdö"
+      ],
+      "foglo_local_evidence": {
+        "provider": "Föglö kommun",
+        "location": "Annagården / municipal elder-care service, by individual care plan",
+        "contact": "The published caregiver guideline gives elder-care manager phone 0457 344 51 15; current 2026 direct contact still needs confirmation.",
+        "schedule": "By individual arrangement during statutory caregiver leave.",
+        "fee_conflict": "The published fee tariff effective 1.1.2022 says 15 €/day for respite during statutory caregiver leave. The municipal caregiver-support principles adopted 21.2.2023 say the client is charged according to the current fee tariff. These sources pre-date/overlap later legal changes and do not establish the actual 2026 fee.",
+        "status": "pending_local_2026_fee_and_legal_confirmation",
+        "sources": [
+          "https://www.foglo.ax/sites/default/files/attachments/page/%C3%84ldreomsorgsservicetaxa.pdf",
+          "https://www.foglo.ax/sites/default/files/attachments/page/Na%CC%88rsta%CC%88endesto%CC%88d%20principdokument.pdf",
+          "https://www.lagtinget.ax/dokument/lagforslag-322022-2023-54603"
+        ]
+      },
+      "publication_ready": false
+    }
+  ],
+  "new_accepted_services": [],
+  "pending_updates": [
+    {
+      "id": "foglo-matbanken-local-route",
+      "category": "Ruoka-apu",
+      "status": "pending",
+      "reason": "Regional service is already recorded; local access, pickup place and time are not published."
+    },
+    {
+      "id": "foglo-diaconal-fund-terms",
+      "category": "Raha",
+      "status": "pending",
+      "reason": "Local fund purpose is confirmed, but application route, eligibility, grant/loan form and amount are not published."
+    },
+    {
+      "id": "foglo-caregiver-respite-fee-conflict",
+      "category": "Kotiapu",
+      "status": "pending",
+      "reason": "Local official tariff/guidelines show 15 €/day while later regional legal material may alter fees; actual 2026 practice must be confirmed."
+    },
+    {
+      "id": "foglo-emmaus-voucher-local-route",
+      "category": "Vaatteet/Tavarat",
+      "status": "pending",
+      "reason": "Do not duplicate the regional Emmaus record; local referral route for Föglö residents is unconfirmed."
+    }
+  ],
+  "exclusions_or_nonqualifying_findings": [
+    {
+      "id": "foglo-ordinary-home-service",
+      "category": "Kotiapu",
+      "status": "excluded_paid_or_income_tested",
+      "reason": "Ordinary home service and support services are fee-based/income-tested; this is not a generally free home-help service."
+    },
+    {
+      "id": "foglo-period-care-annagarden",
+      "category": "Kotiapu/Asuminen",
+      "status": "excluded_paid",
+      "reason": "Published tariff lists 15 €/day for temporary period-room/short-term care; not free housing or home-help."
+    }
+  ],
+  "regional_records_not_duplicated": [
+    "aland-matbanken",
+    "aland-emmaus-varubistand",
+    "aland-kst-utkomststod",
+    "aland-diakonifond"
+  ],
+  "municipality_progress_update": {
+    "municipality": "Föglö",
+    "reviewed_categories": [
+      "Ruoka-apu",
+      "Kotiapu",
+      "Vaatteet",
+      "Tavarat",
+      "Raha",
+      "Asuminen"
+    ],
+    "unresolved": [
+      "Matbanken access route",
+      "local diaconal fund terms",
+      "caregiver-respite fee/legal conflict",
+      "Emmaus local referral route"
+    ],
+    "complete": false,
+    "last_checked": "2026-11-15"
+  },
+  "counts_after_update": {
+    "existing_accepted_service_records": 9,
+    "pending_service_leads_or_details": 20,
+    "excluded_observations": 18,
+    "out_of_scope_free_services": 3,
+    "municipalities_marked_complete": 0
+  },
+  "sources": [
+    "https://www.alandssodra.fi/stod-och-hjalp",
+    "https://www.foglo.ax/sites/default/files/attachments/page/%C3%84ldreomsorgsservicetaxa.pdf",
+    "https://www.foglo.ax/sites/default/files/attachments/page/Na%CC%88rsta%CC%88endesto%CC%88d%20principdokument.pdf",
+    "https://www.lagtinget.ax/dokument/lagforslag-322022-2023-54603"
+  ],
+  "next_position": "Etelä-Karjala / Rautjärvi / Ruoka-apu",
+  "public_site_changed": false,
+  "main_registry_changed": false,
+  "notes": "Föglö has now received a first-pass review in all six categories. It is not complete. The regional caregiver-respite record's previous all-16 coverage claim is corrected; Föglö and five other municipalities remain unverified/disputed."
+}
