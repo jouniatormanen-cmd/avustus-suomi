@@ -2093,11 +2093,11 @@
     "municipalities_reviewed": 13,
     "category_checks_completed": 78,
     "accepted_unique_service_records": 12,
-    "pending_service_leads_or_details": 23,
+    "pending_service_leads_or_details": 22,
     "excluded_observations": 19,
     "municipalities_marked_complete": 0,
     "new_accepted_service_records_this_run": 5,
-    "new_pending_leads_or_details_this_run": 16
+    "new_pending_leads_or_details_this_run": 15
   },
   "next_position": "Etelä-Pohjanmaa / Seinäjoki / Ruoka-apu",
   "sources": [
