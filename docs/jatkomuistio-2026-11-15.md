@@ -13,7 +13,7 @@ Repo tarkistettiin ennen työn jatkamista. Viimeisin Ahvenanmaan tarkistus oli j
 - Uusi hyväksytty palvelu: Taipaleen seurakunnan maksuton diakonian aamupuuro Savitaipaleella, keskiviikkoisin klo 9–10; syksyn 2026 julkaistut päivät jatkuvat 9.12. asti.
 - Taipaleen seurakunnan PikkuHelppi-tietue laajennettiin kattamaan Lemin lisäksi Taipalsaari. Savitaipaleen toiminta jätettiin erilliseksi vahvistamattomaksi, koska sen kerrottiin olevan tauolla.
 - Alueelliset Ekhva-palvelut (täydentävä/ehkäisevä toimeentulotuki, velkaneuvonta, Tilma ja turvakoti) pidettiin yhtenäisinä eikä niitä kopioitu kuntakohtaisiksi.
-- Avoimiksi jäivät mm. Rautjärven maahanmuuttajien asumisneuvonnan ristiriitainen vastaanottoaika, Ruokolahden seurakunnan Arkiapu ja diakonian tarkat ehdot, Savitaipaleen PikkuHelppin tila sekä Taipalsaaren aamupuuron seuraava päivämäärä.
+- Avoimiksi jäivät mm. Ruokolahden seurakunnan Arkiavun ja diakonian tarkat ehdot, Savitaipaleen PikkuHelppin tila sekä Taipalsaaren aamupuuron seuraava päivämäärä. Rautjärven maksuton maahanmuuttajien asumisneuvonta vahvistui kunnan sivulta: tiistaisin klo 15–16, kunnantalon huone V206.
 - Kuntia ei merkitty valmiiksi.
 
 Tiedosto: `data/etela-karjala-lahdetarkistus-2026-11-15.json`
