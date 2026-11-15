@@ -27,14 +27,13 @@
     "Lappeenranta",
     "Lemi",
     "Luumäki",
-    "Parikkala"
-  ],
-  "municipalities_remaining": [
+    "Parikkala",
     "Rautjärvi",
     "Ruokolahti",
     "Savitaipale",
     "Taipalsaari"
   ],
+  "municipalities_remaining": [],
   "category_checks": [
     {
       "municipality": "Imatra",
@@ -291,6 +290,224 @@
         "ekhva-turvakoti"
       ],
       "finding": "Regional free emergency accommodation and shelter services cover Parikkala; no separate local free housing programme confirmed."
+    },
+    {
+      "municipality": "Rautjärvi",
+      "category": "Ruoka-apu",
+      "status": "no_qualifying_recurring_service_confirmed",
+      "pending_ids": [
+        "ruokolahden-seurakunta-diakonia-guidance"
+      ],
+      "finding": "No regular free food distribution was confirmed from current primary sources. Parish diaconia may arrange food assistance, but current terms and regular availability are not explicit; the one-time grocery voucher is excluded."
+    },
+    {
+      "municipality": "Rautjärvi",
+      "category": "Kotiapu",
+      "status": "no_qualifying_free_service_confirmed",
+      "pending_ids": [
+        "ruokolahden-seurakunta-arkiapu"
+      ],
+      "finding": "Ekhva ordinary home care and support services are fee-based. No separate free general home-help service was confirmed; the parish Arkiapu lead remains pending."
+    },
+    {
+      "municipality": "Rautjärvi",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No free clothing distribution was confirmed. Missiokirppis in Simpele is a paid second-hand shop, not free aid."
+    },
+    {
+      "municipality": "Rautjärvi",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No free goods distribution was confirmed. Missiokirppis in Simpele sells donated goods and is excluded."
+    },
+    {
+      "municipality": "Rautjärvi",
+      "category": "Raha",
+      "status": "accepted_regional; local_diakonia_pending",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling"
+      ],
+      "pending_ids": [
+        "ruokolahden-seurakunta-diakonia-guidance"
+      ],
+      "finding": "Ekhva supplementary/preventive support and public debt counselling cover Rautjärvi. Local parish financial guidance is pending because its current fee and terms are not explicit."
+    },
+    {
+      "municipality": "Rautjärvi",
+      "category": "Asuminen",
+      "status": "accepted_regional; local_advice_pending",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "pending_ids": [
+        "rautjarvi-immigrant-housing-advice"
+      ],
+      "finding": "Free regional Tilma emergency accommodation and the 24/7 Etelä-Karjala shelter cover the area. Rautjärvi's immigrant housing-advice schedule conflicts between current and older page versions."
+    },
+    {
+      "municipality": "Ruokolahti",
+      "category": "Ruoka-apu",
+      "status": "no_qualifying_recurring_service_confirmed",
+      "pending_ids": [
+        "ruokolahden-seurakunta-diakonia-guidance"
+      ],
+      "finding": "No recurring free food distribution was confirmed. A breakfast event asks for a voluntary payment; parish food assistance is not described with current regular access details."
+    },
+    {
+      "municipality": "Ruokolahti",
+      "category": "Kotiapu",
+      "status": "pending_local_service_details",
+      "pending_ids": [
+        "ruokolahden-seurakunta-arkiapu"
+      ],
+      "finding": "The parish 2026 activity plan says Arkiapu continues, but current scope, eligibility, no-fee terms and schedule are not published. Ekhva ordinary home care is fee-based."
+    },
+    {
+      "municipality": "Ruokolahti",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "pending_ids": [
+        "ruokolahden-seurakunta-diakonia-guidance"
+      ],
+      "finding": "No free local clothing distribution was confirmed. The parish says it may arrange help case by case, but the current terms are not explicit."
+    },
+    {
+      "municipality": "Ruokolahti",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No free local goods distribution was confirmed. One-off newborn visits and paid second-hand sales are not included."
+    },
+    {
+      "municipality": "Ruokolahti",
+      "category": "Raha",
+      "status": "accepted_regional; local_diakonia_pending",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling"
+      ],
+      "pending_ids": [
+        "ruokolahden-seurakunta-diakonia-guidance"
+      ],
+      "finding": "Ekhva supplementary/preventive support and public debt counselling cover Ruokolahti. Local diaconal guidance requires confirmation of current no-fee terms."
+    },
+    {
+      "municipality": "Ruokolahti",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Free regional Tilma emergency accommodation and the 24/7 Etelä-Karjala shelter are available through Ekhva."
+    },
+    {
+      "municipality": "Savitaipale",
+      "category": "Ruoka-apu",
+      "status": "accepted_time_limited_recurring",
+      "service_ids": [
+        "taipaleen-diakonia-aamupuuro-savitaipale"
+      ],
+      "finding": "Taipaleen seurakunnan maksuton aamupuuro kokoontuu keskiviikkoisin klo 9–10; järjestäjän syksyn 2026 sivulla on julkaistu päivät 18.11., 25.11., 2.12. ja 9.12. Recheck after 9.12."
+    },
+    {
+      "municipality": "Savitaipale",
+      "category": "Kotiapu",
+      "status": "pending_local_service_status",
+      "pending_ids": [
+        "taipaleen-pikkuhelppi-savitaipale"
+      ],
+      "finding": "Taipaleen seurakunnan PikkuHelppi is free when active, but the latest available organizer information says Savitaipale activity is paused; reactivation not confirmed."
+    },
+    {
+      "municipality": "Savitaipale",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No current free local clothing distribution was confirmed from the reviewed primary sources."
+    },
+    {
+      "municipality": "Savitaipale",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No current free local goods distribution was confirmed from the reviewed primary sources."
+    },
+    {
+      "municipality": "Savitaipale",
+      "category": "Raha",
+      "status": "accepted_regional; local_terms_pending",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling"
+      ],
+      "pending_ids": [
+        "taipaleen-diaconia-financial-aid-terms"
+      ],
+      "finding": "Ekhva supplementary/preventive support and public debt counselling cover Savitaipale. Taipaleen parish financial-assistance terms remain pending."
+    },
+    {
+      "municipality": "Savitaipale",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Free regional Tilma emergency accommodation and the 24/7 Etelä-Karjala shelter cover Savitaipale."
+    },
+    {
+      "municipality": "Taipalsaari",
+      "category": "Ruoka-apu",
+      "status": "pending_next_occurrence",
+      "pending_ids": [
+        "taipalsaari-diakonian-aamupuuro"
+      ],
+      "finding": "Taipaleen seurakunnan aamupuuro was confirmed as free at the 12.11.2026 event, with earlier dates in autumn, but no next date or stable ongoing rhythm was published by 15.11."
+    },
+    {
+      "municipality": "Taipalsaari",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "service_ids": [
+        "taipaleen-pikkuhelppi-lemi"
+      ],
+      "finding": "Taipaleen seurakunnan PikkuHelppi is free, appointment-based practical childcare and family support; appointments can be booked about every other week, up to 2.5 hours."
+    },
+    {
+      "municipality": "Taipalsaari",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No current free local clothing distribution was confirmed from the reviewed primary sources."
+    },
+    {
+      "municipality": "Taipalsaari",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_local_service_confirmed",
+      "finding": "No current free local goods distribution was confirmed from the reviewed primary sources."
+    },
+    {
+      "municipality": "Taipalsaari",
+      "category": "Raha",
+      "status": "accepted_regional; local_terms_pending",
+      "service_ids": [
+        "ekhva-supplementary-preventive-income-support",
+        "oikeuspalvelu-debt-counselling"
+      ],
+      "pending_ids": [
+        "taipaleen-diaconia-financial-aid-terms"
+      ],
+      "finding": "Ekhva supplementary/preventive support and public debt counselling cover Taipalsaari. Taipaleen parish financial-assistance terms remain pending."
+    },
+    {
+      "municipality": "Taipalsaari",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "ekhva-tilma-emergency-accommodation",
+        "ekhva-turvakoti"
+      ],
+      "finding": "Free regional Tilma emergency accommodation and the 24/7 Etelä-Karjala shelter cover Taipalsaari."
     }
   ],
   "accepted_services": [
@@ -499,18 +716,19 @@
     },
     {
       "id": "taipaleen-pikkuhelppi-lemi",
-      "name": "PikkuHelppi",
+      "name": "PikkuHelppi – Taipaleen seurakunta (Lemi ja Taipalsaari)",
       "organizer": "Taipaleen seurakunta",
       "categories": [
         "Kotiapu"
       ],
       "coverage": [
-        "Lemi"
+        "Lemi",
+        "Taipalsaari"
       ],
       "location": "Perheen koti tai sovittu lähiympäristö; lastenhoitoapua voidaan järjestää myös kävelymatkan päässä olevassa kerhotilassa.",
-      "regular_time": "Aikoja voi varata noin joka toinen viikko; enintään 2,5 tuntia kerrallaan. Ajanvarauksella.",
-      "free_and_conditions": "Maksuton lastenhoito- ja arjen tukipalvelu pienten lasten vanhemmille; sisältää vaunulenkkejä, ulkoilua ja vanhemman jaksamisen tukea. Savitaipaleen toiminta on järjestäjän mukaan tauolla; tämä tietue koskee vain Lemiä.",
-      "contact": "Lemillä Minna Lehikoinen 040 520 1970.",
+      "regular_time": "Ajanvarauksella, aikoja noin joka toinen viikko; enintään 2,5 tuntia kerrallaan. Lemi: Minna Lehikoinen 040 520 1970. Taipalsaari: Ruusa Jurvanen 040 511 4606.",
+      "free_and_conditions": "Maksuton lastenhoito- ja arjen tukipalvelu pienten lasten vanhemmille. Sisältää esimerkiksi vaunulenkkejä, ulkoilua ja vanhemman jaksamisen tukea. Savitaipaleen toiminta on järjestäjän aiemman ilmoituksen mukaan tauolla, joten Savitaipaletta ei merkitä tämän tietueen aktiiviseen kattavuuteen.",
+      "contact": "Lemi: Minna Lehikoinen 040 520 1970. Taipalsaari: Ruusa Jurvanen 040 511 4606.",
       "source_urls": [
         "https://www.taipaleenseurakunta.fi/lapsille-ja-lapsiperheille/pikkuhelppi",
         "https://www.taipaleenseurakunta.fi/apua-ja-tukea"
@@ -554,6 +772,27 @@
         "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
       ],
       "checked_date": "2026-11-15"
+    },
+    {
+      "id": "taipaleen-diakonia-aamupuuro-savitaipale",
+      "name": "Diakonian aamupuuro Savitaipaleella",
+      "organizer": "Taipaleen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Savitaipale"
+      ],
+      "location": "Savitaipale, Nikkarintie 2 (F-ovi), 54800 Savitaipale.",
+      "regular_time": "Keskiviikkoisin klo 9–10. Järjestäjän syyskauden 2026 sivulla julkaistut seuraavat kerrat: 18.11., 25.11., 2.12. ja 9.12.2026.",
+      "free_and_conditions": "Maksuton ja kaikille avoin diakonian aamupuuro. Julkaistu säännöllisenä syyskauden sarjana; tarkistettava 9.12. jälkeen ennen ympärivuotiseksi merkitsemistä.",
+      "contact": "Laura Peltoniemi, 040 840 1185.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/tapahtumat",
+        "https://www.taipaleenseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-15",
+      "recheck_after": "2026-12-09"
     }
   ],
   "pending_services": [
@@ -623,6 +862,132 @@
       "source_urls": [
         "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
       ]
+    },
+    {
+      "id": "rautjarvi-immigrant-housing-advice",
+      "name": "Rautjärven maahanmuuttajien asumisneuvonta",
+      "organizer": "Rautjärven kunta",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Rautjärvi"
+      ],
+      "location": "Rautjärven kunnan palvelupiste, Simpeleentie 12, Simpele; huone V206 (toisen kerroksen asiointitila).",
+      "regular_time": "Uusin hakutulos näyttää maanantain klo 13–14; vanhempi virallisen sivun sisältönäkymä näyttää tiistain klo 15–16. Aika ristiriitainen, vahvistettava ennen julkaisua.",
+      "free_and_conditions": "Kunnan maksuton asumis- ja kotoutumisneuvonta maahanmuuttajille. Palvelun sisältö ja maksuttomuus löytyvät kunnan omasta palvelukuvauksesta, mutta vastaanottoajan ristiriita estää julkaisukelpoisuuden.",
+      "contact": "Jenni Aho, 040 545 9776, jenni.aho@rautjarvi.fi.",
+      "source_urls": [
+        "https://www.rautjarvi.fi/fi/hyvinvointi-ja-terveys/maahanmuutto-ja-kotouttaminen",
+        "https://www.rautjarvi.fi/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_schedule_conflict"
+    },
+    {
+      "id": "ruokolahden-seurakunta-diakonia-guidance",
+      "name": "Ruokolahden seurakunnan diakonia – talous- ja aineellinen neuvonta",
+      "organizer": "Ruokolahden seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Rautjärvi",
+        "Ruokolahti"
+      ],
+      "location": "Tapaaminen paikallisen diakoniatyöntekijän kanssa sovitussa paikassa.",
+      "regular_time": "Ajanvarauksella; kiinteää julkista vastaanottoaikaa ei vahvistettu.",
+      "free_and_conditions": "Seurakunta kertoo voivansa auttaa taloushuolissa ja ohjata etuuksien hakemiseen sekä tarvittaessa järjestää ruoka- tai vaateapua. Neuvonnan maksuttomuutta ja nykyisiä myöntämisehtoja ei ilmoiteta riittävän täsmällisesti. Erillinen kertaluonteinen ruokakaupan ostovoucher-avustus on rajattu pois toistuvien palvelujen luettelosta.",
+      "contact": "Rautjärvi: Anni Parikka 050 531 3406. Ruokolahti: Laura Leppänen 044 788 1129. Yhteydenotto puhelimitse tai seurakunnan diakoniatyön kautta.",
+      "source_urls": [
+        "https://www.ruokolahdenseurakunta.fi/apua-ja-tukea/diakonia"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_free_status_and_current_terms"
+    },
+    {
+      "id": "ruokolahden-seurakunta-arkiapu",
+      "name": "Ruokolahden seurakunnan Arkiapu",
+      "organizer": "Ruokolahden seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Rautjärvi",
+        "Ruokolahti"
+      ],
+      "location": "Perheen koti tai muu yhdessä sovittu paikka.",
+      "regular_time": "Vuoden 2026 toimintasuunnitelma kertoo toiminnan jatkuvan, mutta ajantasaisia käyntiaikoja ei ole julkaistu.",
+      "free_and_conditions": "Arkiapu mainitaan seurakunnan vuoden 2026 toimintasuunnitelmassa jatkuvana toimintana. Palvelun tarkka sisältö, kohderyhmä, maksuttomuus ja varauskäytäntö on vahvistettava järjestäjältä.",
+      "contact": "Ruokolahti: Sari Lappalainen 044 788 1138. Rautjärvi: Suvi Vento 050 043 0027.",
+      "source_urls": [
+        "https://www.ruokolahdenseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_scope_and_free_status"
+    },
+    {
+      "id": "taipalsaari-diakonian-aamupuuro",
+      "name": "Taipalsaaren diakonian aamupuuro",
+      "organizer": "Taipaleen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Taipalsaari"
+      ],
+      "location": "Taipalsaaren seurakuntatalo, Savilahdentie 18 A, 54920 Taipalsaari.",
+      "regular_time": "Viimeisin vahvistettu tilaisuus oli 12.11.2026 klo 9–10; aiempia päivämääriä löytyi syys- ja lokakuulta. Seuraavaa päivää tai pysyvää viikkorytmiä ei ollut julkaistu 15.11.2026.",
+      "free_and_conditions": "Järjestäjän tapahtumatiedoissa aamupuuro on maksuton ja avoin. Palvelua ei hyväksytä vielä pysyväksi säännölliseksi palveluksi, koska seuraavaa toteutuskertaa ei ole julkaistu.",
+      "contact": "Maria Karhu, 050 572 9983.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/tapahtumat",
+        "https://www.taipaleenseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_next_occurrence"
+    },
+    {
+      "id": "taipaleen-pikkuhelppi-savitaipale",
+      "name": "PikkuHelppi Savitaipaleella",
+      "organizer": "Taipaleen seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Savitaipale"
+      ],
+      "location": "Perheen koti tai sovittu lähiympäristö.",
+      "regular_time": "Ajanvarauksella; palvelusivulla on yhteyshenkilö, mutta aiempi järjestäjätieto ilmoitti Savitaipaleen toiminnan olevan tauolla.",
+      "free_and_conditions": "PikkuHelppi on maksuton lapsiperheiden arjen ja lastenhoidon tukipalvelu silloin kun se on toiminnassa. Savitaipaleen tämänhetkistä käynnistymistä ei voitu vahvistaa.",
+      "contact": "Eija Mielikäinen, 040 840 2551.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/lapsille-ja-lapsiperheille/pikkuhelppi"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_service_reactivation"
+    },
+    {
+      "id": "taipaleen-diaconia-financial-aid-terms",
+      "name": "Taipaleen seurakunnan diakoninen taloudellinen apu",
+      "organizer": "Taipaleen seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Lemi",
+        "Savitaipale",
+        "Taipalsaari"
+      ],
+      "location": "Paikallisen diakoniatyöntekijän vastaanotto tai sovittu tapaaminen.",
+      "regular_time": "Ajanvarauksella; paikalliset vastaanottoajat ja yhteyshenkilöt tarkistettava.",
+      "free_and_conditions": "Seurakunnalla on taloudellista avustamista koskeva palvelukuvaus, mutta vuoden 2026 myöntämisehdot, avustuksen lahja-/laina-luonne, maksuttomuus ja paikalliset yhteyshenkilöt eivät käy riittävän täsmällisesti ilmi.",
+      "contact": "Ota yhteyttä oman alueen diakoniatyöhön Taipaleen seurakunnan yhteystietojen kautta.",
+      "source_urls": [
+        "https://www.taipaleenseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_current_terms"
     }
   ],
   "excluded_observations": [
@@ -695,6 +1060,53 @@
       "source_urls": [
         "https://www.imatranseurakunta.fi/"
       ]
+    },
+    {
+      "id": "simpele-missiokirppis-paid",
+      "name": "Missiokirppis, Simpele",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "location": "Simpele, Rautjärvi.",
+      "reason": "Toiminta on käytettyjen vaatteiden ja tavaroiden myyntiä. Lahjoitusten vastaanotto ei osoita, että asiakkaille jaettaisiin tavaroita maksutta."
+    },
+    {
+      "id": "taipalsaari-resq-club-paid-surplus-food",
+      "name": "ResQ Clubin Taipalsaaren ylijäämäruoka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "location": "Taipalsaari.",
+      "reason": "Ylijäämäruoka myydään sovelluksen kautta maksua vastaan; ei täytä maksuttomuusehtoa."
+    },
+    {
+      "id": "ruokolahti-vauvasta-vaariin-breakfast",
+      "name": "Vauvasta vaariin -aamupala",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "location": "Ruokolahti.",
+      "reason": "Tapahtumatiedossa aamupalalle pyydetään vapaaehtoista maksua eikä maksuttomuutta vahvisteta. Yksittäinen tapahtumapäivä ei yksin osoita pysyvää säännöllistä palvelua."
+    },
+    {
+      "id": "ruokolahti-rotinat-one-off",
+      "name": "Ruokolahden seurakunnan rotinaperinne",
+      "categories": [
+        "Tavarat"
+      ],
+      "location": "Ruokolahti ja Rautjärvi.",
+      "reason": "Kyse on yksittäiseen vauvan syntymään/kasteeseen liittyvästä käynnistä, ei jatkuvasta avustuspalvelusta."
+    },
+    {
+      "id": "ruokolahden-diakonia-one-time-grocery-voucher",
+      "name": "Ruokolahden seurakunnan kertaluonteinen ruokakaupan ostovoucher",
+      "categories": [
+        "Raha",
+        "Ruoka-apu"
+      ],
+      "location": "Ruokolahti ja Rautjärvi.",
+      "reason": "Järjestäjä kuvaa avustuksen kertaluonteiseksi ja harkinnanvaraiseksi. Se dokumentoidaan poissuljettuna kertaluonteisena avustuksena, ei säännöllisenä palveluna."
     }
   ],
   "duplicate_control": {
@@ -705,7 +1117,20 @@
     "existing_record_count": 171,
     "matching_Imatra_or_Lappeenranta_records_found": 0,
     "regional_services_are_single_records": true,
-    "note": "Regional Ekhva services are referenced by the five reviewed municipalities but stored only once in this audit. No public registry records were added."
+    "note": "Regional Ekhva services are referenced by the five reviewed municipalities but stored only once in this audit. No public registry records were added.",
+    "main_registry_checked_again": true,
+    "matching_existing_records": [
+      "av-0154 SPR Rautjärven ystävätoiminta (Keskusteluapu; ei päällekkäisyyttä kuuden avustuskategorian kanssa)",
+      "av-0155 SPR Savitaipaleen ystävätoiminta (Keskusteluapu; ei päällekkäisyyttä kuuden avustuskategorian kanssa)",
+      "av-0157 SPR Taipalsaaren ryhmä- ja ystävätoiminta (Keskusteluapu; ei päällekkäisyyttä kuuden avustuskategorian kanssa)"
+    ],
+    "regional_services_stored_once": [
+      "ekhva-supplementary-preventive-income-support",
+      "oikeuspalvelu-debt-counselling",
+      "ekhva-tilma-emergency-accommodation",
+      "ekhva-turvakoti"
+    ],
+    "duplicate_service_records_created": 0
   },
   "municipality_progress": [
     {
@@ -791,17 +1216,88 @@
         "no free local clothing/goods service found",
         "new community-meal schedule not published"
       ]
+    },
+    {
+      "municipality": "Rautjärvi",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "no regular free food distribution confirmed",
+        "Ruokolahden seurakunnan Arkiapu and diaconia details not fully confirmed",
+        "immigrant housing-advice schedule conflict",
+        "no free local clothing or goods distribution confirmed"
+      ]
+    },
+    {
+      "municipality": "Ruokolahti",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Arkiapu scope and no-fee terms",
+        "diaconia financial/food/clothing aid current terms",
+        "no recurring free food distribution confirmed",
+        "no free local clothing or goods distribution confirmed"
+      ]
+    },
+    {
+      "municipality": "Savitaipale",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "PikkuHelppi reactivation status",
+        "Taipaleen diaconia financial-aid terms",
+        "no free local clothing or goods distribution confirmed",
+        "aamupuuro series must be rechecked after 9.12.2026"
+      ]
+    },
+    {
+      "municipality": "Taipalsaari",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "next aamupuuro date and stable recurrence",
+        "Taipaleen diaconia financial-aid terms",
+        "no free local clothing or goods distribution confirmed"
+      ]
     }
   ],
   "counts": {
-    "municipalities_reviewed": 5,
-    "category_checks_completed": 30,
-    "accepted_unique_service_records": 12,
-    "pending_service_leads_or_details": 5,
-    "excluded_observations": 10,
+    "municipalities_reviewed": 9,
+    "category_checks_completed": 54,
+    "accepted_unique_service_records": 13,
+    "pending_service_leads_or_details": 11,
+    "excluded_observations": 15,
     "municipalities_marked_complete": 0
   },
-  "next_position": "Etelä-Karjala / Rautjärvi / Ruoka-apu",
+  "next_position": "Etelä-Pohjanmaa / Alajärvi / Ruoka-apu",
   "sources": [
     "https://www.ekhva.fi/asiakkuus-ja-osallisuus/neuvontapalvelut/taydentava-ja-ehkaiseva-toimeentulotuki/",
     "https://www.ekhva.fi/asiakkuus-ja-osallisuus/neuvontapalvelut/talous-ja-velkaneuvonta/",
@@ -819,9 +1315,14 @@
     "https://www.taipaleenseurakunta.fi/lapsille-ja-lapsiperheille/pikkuhelppi",
     "https://www.taipaleenseurakunta.fi/apua-ja-tukea",
     "https://www.luumaenseurakunta.fi/apua-ja-tukea",
-    "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
+    "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia",
+    "https://www.rautjarvi.fi/fi/hyvinvointi-ja-terveys/maahanmuutto-ja-kotouttaminen",
+    "https://www.ruokolahdenseurakunta.fi/apua-ja-tukea/diakonia",
+    "https://www.ruokolahdenseurakunta.fi/",
+    "https://www.oikeuspalveluvirasto.fi/talous-ja-velkaneuvonta/",
+    "https://www.taipaleenseurakunta.fi/tapahtumat"
   ],
   "public_site_changed": false,
   "main_registry_changed": false,
-  "checked_note": "This is a first-pass audit, not a claim that any municipality is complete. Categories with no confirmed qualifying service are explicitly left open rather than filled with empty placeholders."
+  "checked_note": "Rautjärvi, Ruokolahti, Savitaipale and Taipalsaari were reviewed across all six categories. This is a first-pass review only; all nine municipalities in Etelä-Karjala remain incomplete until outstanding source and access details are resolved. Regional services are referenced once, not copied per municipality. Next province: Etelä-Pohjanmaa, starting at Alajärvi."
 }
