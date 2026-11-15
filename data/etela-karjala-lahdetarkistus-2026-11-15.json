@@ -337,15 +337,14 @@
     {
       "municipality": "Rautjärvi",
       "category": "Asuminen",
-      "status": "accepted_regional; local_advice_pending",
+      "status": "accepted_regional_and_local",
       "service_ids": [
         "ekhva-tilma-emergency-accommodation",
-        "ekhva-turvakoti"
-      ],
-      "pending_ids": [
+        "ekhva-turvakoti",
         "rautjarvi-immigrant-housing-advice"
       ],
-      "finding": "Free regional Tilma emergency accommodation and the 24/7 Etelä-Karjala shelter cover the area. Rautjärvi's immigrant housing-advice schedule conflicts between current and older page versions."
+      "pending_ids": [],
+      "finding": "Free regional Tilma emergency accommodation and the 24/7 Etelä-Karjala shelter cover the area. Rautjärvi's own multilingual housing and integration advice is also confirmed free: walk-in Tuesdays 15–16 at the town hall, room V206."
     },
     {
       "municipality": "Ruokolahti",
@@ -793,6 +792,25 @@
       ],
       "checked_date": "2026-11-15",
       "recheck_after": "2026-12-09"
+    },
+    {
+      "id": "rautjarvi-immigrant-housing-advice",
+      "name": "Rautjärven maahanmuuttajien ohjaus- ja neuvontapalvelu (sis. asumisneuvonta)",
+      "organizer": "Rautjärven kunta",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Rautjärvi"
+      ],
+      "location": "Kunnantalo, 2. kerros, huone V206, Simpeleentie 12, 56800 Simpele.",
+      "regular_time": "Tiistaisin klo 15–16, ilman ajanvarausta (walk-in).",
+      "free_and_conditions": "Maksuton ja luottamuksellinen monikielinen ohjaus maahanmuuttajille. Palveluun sisältyy asumisneuvonta, arkielämän ohjaus ja opastus oikeiden palvelujen piiriin; tarvittaessa käytetään tulkkia.",
+      "contact": "Kotoutumiskoordinaattori Jenni Aho, 040 545 9776, jenni.aho@rautjarvi.fi.",
+      "source_urls": [
+        "https://www.rautjarvi.fi/fi/hyvinvointi-ja-terveys/maahanmuutto-ja-kotouttaminen"
+      ],
+      "checked_date": "2026-11-15"
     }
   ],
   "pending_services": [
@@ -862,27 +880,6 @@
       "source_urls": [
         "https://www.parikkalanseurakunta.fi/tule-mukaan/diakonia"
       ]
-    },
-    {
-      "id": "rautjarvi-immigrant-housing-advice",
-      "name": "Rautjärven maahanmuuttajien asumisneuvonta",
-      "organizer": "Rautjärven kunta",
-      "categories": [
-        "Asuminen"
-      ],
-      "coverage": [
-        "Rautjärvi"
-      ],
-      "location": "Rautjärven kunnan palvelupiste, Simpeleentie 12, Simpele; huone V206 (toisen kerroksen asiointitila).",
-      "regular_time": "Uusin hakutulos näyttää maanantain klo 13–14; vanhempi virallisen sivun sisältönäkymä näyttää tiistain klo 15–16. Aika ristiriitainen, vahvistettava ennen julkaisua.",
-      "free_and_conditions": "Kunnan maksuton asumis- ja kotoutumisneuvonta maahanmuuttajille. Palvelun sisältö ja maksuttomuus löytyvät kunnan omasta palvelukuvauksesta, mutta vastaanottoajan ristiriita estää julkaisukelpoisuuden.",
-      "contact": "Jenni Aho, 040 545 9776, jenni.aho@rautjarvi.fi.",
-      "source_urls": [
-        "https://www.rautjarvi.fi/fi/hyvinvointi-ja-terveys/maahanmuutto-ja-kotouttaminen",
-        "https://www.rautjarvi.fi/"
-      ],
-      "checked_date": "2026-11-15",
-      "status": "pending_schedule_conflict"
     },
     {
       "id": "ruokolahden-seurakunta-diakonia-guidance",
@@ -1231,7 +1228,6 @@
       "unresolved": [
         "no regular free food distribution confirmed",
         "Ruokolahden seurakunnan Arkiapu and diaconia details not fully confirmed",
-        "immigrant housing-advice schedule conflict",
         "no free local clothing or goods distribution confirmed"
       ]
     },
@@ -1292,8 +1288,8 @@
   "counts": {
     "municipalities_reviewed": 9,
     "category_checks_completed": 54,
-    "accepted_unique_service_records": 13,
-    "pending_service_leads_or_details": 11,
+    "accepted_unique_service_records": 14,
+    "pending_service_leads_or_details": 10,
     "excluded_observations": 15,
     "municipalities_marked_complete": 0
   },
@@ -1324,5 +1320,5 @@
   ],
   "public_site_changed": false,
   "main_registry_changed": false,
-  "checked_note": "Rautjärvi, Ruokolahti, Savitaipale and Taipalsaari were reviewed across all six categories. This is a first-pass review only; all nine municipalities in Etelä-Karjala remain incomplete until outstanding source and access details are resolved. Regional services are referenced once, not copied per municipality. Next province: Etelä-Pohjanmaa, starting at Alajärvi."
+  "checked_note": "Rautjärvi, Ruokolahti, Savitaipale and Taipalsaari were reviewed across all six categories. Rautjärvi's free multilingual housing guidance was confirmed from the municipality's current official page: walk-in Tuesdays 15–16 at Simpeleentie 12, room V206. This is a first-pass review only; all nine municipalities in Etelä-Karjala remain incomplete until other outstanding source and access details are resolved. Regional services are referenced once, not copied per municipality. Next province: Etelä-Pohjanmaa, starting at Alajärvi."
 }
