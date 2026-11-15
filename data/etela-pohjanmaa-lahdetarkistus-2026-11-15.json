@@ -1,0 +1,610 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-15",
+  "province": "Etelä-Pohjanmaa",
+  "update_type": "first_pass_municipal_audit",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Alajärvi",
+    "Alavus",
+    "Evijärvi",
+    "Ilmajoki",
+    "Isojoki",
+    "Karijoki",
+    "Kauhajoki",
+    "Kauhava",
+    "Kuortane",
+    "Kurikka",
+    "Lappajärvi",
+    "Lapua",
+    "Seinäjoki",
+    "Soini",
+    "Teuva",
+    "Vimpeli",
+    "Ähtäri"
+  ],
+  "municipalities_reviewed": [
+    "Alajärvi",
+    "Alavus"
+  ],
+  "municipalities_remaining": [
+    "Evijärvi",
+    "Ilmajoki",
+    "Isojoki",
+    "Karijoki",
+    "Kauhajoki",
+    "Kauhava",
+    "Kuortane",
+    "Kurikka",
+    "Lappajärvi",
+    "Lapua",
+    "Seinäjoki",
+    "Soini",
+    "Teuva",
+    "Vimpeli",
+    "Ähtäri"
+  ],
+  "category_checks": [
+    {
+      "municipality": "Alajärvi",
+      "category": "Ruoka-apu",
+      "status": "pending_current_recurrence_and_terms",
+      "pending_ids": [
+        "alajarven-vapaaseurakunta-ruoka-apu",
+        "alajarvi-lehtimaki-diakonia-surplus-food"
+      ],
+      "finding": "Alajärven Vapaaseurakunnan virallinen sivu julkaisee seuraavan ruokajaon ke 18.11.2026 klo 16.40–17.30 osoitteessa Hoiskontie 4 ja nimeää ruoka-aputiimin, mutta pysyvää kuukausi-/viikkorytmiä ja tarkkoja saantiehtoja ei vahvisteta järjestäjän omalla sivulla. Lehtimäen diakoniapäivystyksen yhteydessä jaetaan hävikkiruokaa torstaisin klo 10–12, mutta maksuttomuutta ei ilmaista riittävän selvästi."
+    },
+    {
+      "municipality": "Alajärvi",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free",
+      "service_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu auttaa kotikäynneillä arjen askareissa ja tilapäisessä lastenhoidossa. Palvelu voidaan myöntää maksuttomana perheen tulojen, säännöllisen toimeentulotuen tai lapsen asiakassuunnitelman/kokonaistilanteen perusteella; muille se on maksullinen."
+    },
+    {
+      "municipality": "Alajärvi",
+      "category": "Vaatteet",
+      "status": "accepted_regional_existing_record",
+      "service_ids": [
+        "av-0201"
+      ],
+      "finding": "Hope Seinäjoki palvelee koko Etelä-Pohjanmaata ja jakaa maksutta lahjoitettuja vaatteita vähävaraisille ja kriisin kokeneille lapsiperheille. Käytetään olemassa olevaa päärekisterin tietuetta av-0201; ei luoda kaksoiskappaletta."
+    },
+    {
+      "municipality": "Alajärvi",
+      "category": "Tavarat",
+      "status": "accepted_regional_existing_record",
+      "service_ids": [
+        "av-0201"
+      ],
+      "finding": "Hope Seinäjoki palvelee koko Etelä-Pohjanmaata ja jakaa maksutta lahjoitettuja tavaroita vähävaraisille ja kriisin kokeneille lapsiperheille. Käytetään olemassa olevaa päärekisterin tietuetta av-0201; ei luoda kaksoiskappaletta."
+    },
+    {
+      "municipality": "Alajärvi",
+      "category": "Raha",
+      "status": "accepted_regional_support; local_guidance_pending",
+      "service_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola"
+      ],
+      "pending_ids": [
+        "alajarvi-diakonia-financial-guidance"
+      ],
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja maksuton Talousneuvola palvelevat koko aluetta. Alajärven seurakunnan talousneuvonta on olemassa, mutta sen maksuttomuutta ei erikseen vahvistettu; kertaluonteinen harkinnanvarainen diakonia-avustus ei kuulu jatkuvien palvelujen luetteloon."
+    },
+    {
+      "municipality": "Alajärvi",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "etela-pohjanmaan-turvakoti"
+      ],
+      "finding": "Etelä-Pohjanmaan turvakoti tarjoaa maksutonta ympärivuorokautista kriisiasumista koko maakunnan asukkaille."
+    },
+    {
+      "municipality": "Alavus",
+      "category": "Ruoka-apu",
+      "status": "accepted_conditional_limited_availability",
+      "service_ids": [
+        "alavuden-seurakunta-esr-ruokakortit"
+      ],
+      "finding": "Alavuden seurakunnan ESR+-hankkeessa vähävaraisille, erityisesti työttömille ja työelämän ulkopuolella oleville aikuisille sekä heidän perheilleen voidaan myöntää rajallinen määrä maksukortteja ruokakauppaan. Tapaaminen keskiviikkoisin klo 9–11 ajanvarauksella."
+    },
+    {
+      "municipality": "Alavus",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free; volunteer_help_pending",
+      "service_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "pending_ids": [
+        "alavus-asiointiapu-ystavatoiminta"
+      ],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu voi olla maksuton pienituloisille tai säännöllistä toimeentulotukea saaville perheille. Alavuden seurakunnan vapaaehtoisen ystävätoiminnan asiointiapu on kuvattu tilapäiseksi ja lyhytkestoiseksi, mutta maksuttomuus ja käytännön saatavuus on vielä vahvistettava."
+    },
+    {
+      "municipality": "Alavus",
+      "category": "Vaatteet",
+      "status": "accepted_regional_existing_record; local_vaatepankki_pending",
+      "service_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [
+        "alavus-vaatepankki"
+      ],
+      "finding": "Hope Seinäjoki palvelee koko Etelä-Pohjanmaata ja tarjoaa maksutonta vaateapua lapsiperheille; käytetään olemassa olevaa tietuetta av-0201. Alavuden seurakunnan vaatepankin yhteyshenkilö on nimetty, mutta jakeluehdot ja asiakkaiden asiointiajat puuttuvat."
+    },
+    {
+      "municipality": "Alavus",
+      "category": "Tavarat",
+      "status": "accepted_regional_existing_record",
+      "service_ids": [
+        "av-0201"
+      ],
+      "finding": "Hope Seinäjoki palvelee koko Etelä-Pohjanmaata ja jakaa maksutta lahjoitettuja tavaroita lapsiperheille; käytetään olemassa olevaa tietuetta av-0201."
+    },
+    {
+      "municipality": "Alavus",
+      "category": "Raha",
+      "status": "accepted_regional_support_and_annual_grant; local_guidance_pending",
+      "service_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola",
+        "alavus-opiskelijalahja"
+      ],
+      "pending_ids": [
+        "alavus-diakonia-financial-guidance"
+      ],
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja maksuton Talousneuvola palvelevat koko aluetta. Alavuden kaupunki maksaa lisäksi 150 € lukuvuodessa päätoimisille 18–29-vuotiaille alavutelaisille opiskelijoille, jotka asuvat opintojen vuoksi muualla; vuoden 2026 hakuaika on 2.–30.11. Alavuden seurakunnan talousneuvonnan maksuttomuus ei ole julkisessa lähteessä erikseen vahvistettu."
+    },
+    {
+      "municipality": "Alavus",
+      "category": "Asuminen",
+      "status": "accepted_regional",
+      "service_ids": [
+        "etela-pohjanmaan-turvakoti"
+      ],
+      "finding": "Etelä-Pohjanmaan turvakoti tarjoaa maksutonta ympärivuorokautista kriisiasumista koko maakunnan asukkaille."
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "hyvaep-lapsiperheiden-kotipalvelu",
+      "name": "Lapsiperheiden kotipalvelu – maksuton tuloperusteisesti",
+      "organizer": "Etelä-Pohjanmaan hyvinvointialue (HyvaEP)",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Alajärvi",
+        "Alavus",
+        "Lappajärvi",
+        "Vimpeli",
+        "Kuortane",
+        "Soini",
+        "Ähtäri"
+      ],
+      "location": "Perheen koti; Alajärven alueen asiointipiste Alajärven perhekeskus, Alvar Aallon tie 2; Alavuden alueen sosiaalipalvelut, Kuulantie 5.",
+      "regular_time": "Hakulomakkeella; kiireettömät hakemukset käsitellään palvelukohtaisesti kerran viikossa. Käynnit sovitaan määräaikaisella päätöksellä.",
+      "free_and_conditions": "Kotikäynnit auttavat päivittäisissä askareissa, kodinhoidollisissa töissä ja tarvittaessa tilapäisessä lastenhoidossa. Tavallinen tilapäismaksu on 15 € (0–2 h) tai 20 € (3–5 h), mutta maksu jätetään perimättä, jos perheen bruttotulot alittavat perhekoon rajan tai perhe saa säännöllistä toimeentulotukea. Lapsen asiakassuunnitelmaan perustuva palvelu voidaan myöntää maksuttomana perheen taloudellisen tai kokonaistilanteen perusteella. Vain tämä maksuton myöntämisperusteinen reitti kuuluu hakemistoon.",
+      "contact": "Alajärvi/Alavus/Lappajärvi/Vimpeli: vastaava perheohjaaja Riikka Salli 040 142 7717. Perhekeskuksen asiakasohjaus 06 230 7850, ma–pe 9–15.",
+      "source_urls": [
+        "https://www.hyvaep.fi/palvelu/lapsiperheiden-kotipalvelu/",
+        "https://www.hyvaep.fi/tietoa-ja-ohjeita/asiakasmaksut/perhe-ja-sosiaalipalveluiden-asiakasmaksut/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "hyvaep-supplementary-preventive-income-support",
+      "name": "Täydentävä ja ehkäisevä toimeentulotuki",
+      "organizer": "Etelä-Pohjanmaan hyvinvointialue (HyvaEP)",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Koko Etelä-Pohjanmaa"
+      ],
+      "location": "Digitaalinen Omapalvelu tai oman sote-keskuksen sosiaalityön toimipaikka.",
+      "regular_time": "Hakemuksia voi jättää jatkuvasti; ei kiinteää vastaanottoaikaa.",
+      "free_and_conditions": "Tukea voi hakea erityisistä tarpeista ja olosuhteista aiheutuviin menoihin, joita perustoimeentulotuki ei kata. Kelan perustoimeentulotuki on haettava ensisijaisesti; päätös tehdään yksilöllisen harkinnan perusteella.",
+      "contact": "Aikuissosiaalityön asiakasohjaus 040 636 7999, ma–pe 9–11 ja 12–14; yleinen vaihde 06 415 4111.",
+      "source_urls": [
+        "https://www.hyvaep.fi/palvelu/taydentava-ja-ehkaiseva-toimeentulotuki/",
+        "https://www.hyvaep.fi/palvelu/aikuissosiaalityo/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "hyvaep-talousneuvola",
+      "name": "Talousneuvola",
+      "organizer": "Etelä-Pohjanmaan hyvinvointialue ja yhteistyökumppanit",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Koko Etelä-Pohjanmaa; pop-up-päiviä järjestetään eri kunnissa"
+      ],
+      "location": "Kalevankadun yhteinen palvelupiste, Kalevankatu 17, Seinäjoki; lisäksi alueelliset pop-up-päivät ajanvarauksella.",
+      "regular_time": "Seinäjoella parittomien viikkojen perjantaisin klo 12–15. Syksyn 2026 jäljellä olevat julkaistut ajat 20.11. ja 4.12.",
+      "free_and_conditions": "Maksuton, luottamuksellinen ja haluttaessa nimetön neuvonta arjen raha-asioissa. Mukana aikuissosiaalityö, valtion talous- ja velkaneuvonta, ulosotto ja Kela.",
+      "contact": "050 408 5166 aukioloaikana.",
+      "source_urls": [
+        "https://www.hyvaep.fi/palvelu/talousneuvola/"
+      ],
+      "checked_date": "2026-11-15",
+      "recheck_after": "2026-12-04"
+    },
+    {
+      "id": "etela-pohjanmaan-turvakoti",
+      "name": "Etelä-Pohjanmaan turvakoti",
+      "organizer": "Etelä-Pohjanmaan Ensi- ja turvakotiyhdistys ry / HyvaEP:n palveluketju",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Etelä-Pohjanmaa"
+      ],
+      "location": "Simunantie 10 A, 60200 Seinäjoki.",
+      "regular_time": "Avoinna ympäri vuorokauden, vuoden jokaisena päivänä.",
+      "free_and_conditions": "Maksuton lyhytaikainen kriisiasuminen lähisuhdeväkivaltaa tai sen uhkaa kokeville sukupuolesta ja iästä riippumatta. Turvakotiin voi tulla yksin tai perheen kanssa, suoraan ilman lähetettä.",
+      "contact": "050 575 0541 (24/7). Hätätilanteessa 112.",
+      "source_urls": [
+        "https://www.hyvaep.fi/palvelu/lahisuhdevakivalta/",
+        "https://palveluketjut.hyvaep.fi/palveluketju/vakivaltaa-kokeneen-lapsen-palveluketju-2/jatkotuki/jarjestojen-palvelut/"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "alavuden-seurakunta-esr-ruokakortit",
+      "name": "Yhdessä tehden 2 – aineellisen avun ruokakortit",
+      "organizer": "Alavuden seurakunta / Kirkkopalvelut ry:n koordinoima ESR+-hanke",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Alavus",
+        "Töysä (Alavuden kaupungin osa)"
+      ],
+      "location": "Alavuden diakoniatoimisto, Kirkkopiha, Louontie 1 A 1, 63300 Alavus.",
+      "regular_time": "Keskiviikkoisin klo 9–11 ajanvarauksella; tapaaminen sovittava etukäteen.",
+      "free_and_conditions": "Maksuton aineellisen avun maksukortti ruokakauppaan. Kohderyhmänä erityisesti työttömät ja työelämän ulkopuolella olevat aikuiset sekä heidän perheensä. Kortteja on rajallinen määrä; saaminen edellyttää kasvokkaista keskustelua avuntarpeesta.",
+      "contact": "Diakoni Maija Hietaniemi 050 347 0631.",
+      "source_urls": [
+        "https://www.alavudenseurakunta.fi/apua-ja-tukea/diakoniatyo-tukenasi"
+      ],
+      "checked_date": "2026-11-15"
+    },
+    {
+      "id": "alavus-opiskelijalahja",
+      "name": "Alavuden kaupungin opiskelijalahja",
+      "organizer": "Alavuden kaupunki",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Alavus"
+      ],
+      "location": "Sähköinen hakemus; paperilomakkeita kaupunginviraston neuvonnasta Torikatu 1 ja Töysä-talon kirjastosta.",
+      "regular_time": "Vuosittainen haku; lukuvuoden 2026–2027 hakuaika 2.–30.11.2026, maksu tammikuussa.",
+      "free_and_conditions": "150 € lukuvuodessa Alavudella asuville päätoimisille 18–29-vuotiaille opiskelijoille, jotka asuvat opiskelun vuoksi Alavuden ulkopuolella. Ei takaisinmaksua; ei tuloharkintaa.",
+      "contact": "Toimistosihteeri Pirjo Ahola 040 145 0930, pirjo.ahola@alavus.fi.",
+      "source_urls": [
+        "https://www.alavus.fi/fi/kaupunki-ja-hallinto/asiointi/sahkoinen-asiointi/opiskelijalahja.html",
+        "https://www.alavus.fi/fi/etusivu/ajankohtaista/uutiset/lukuvuoden-2026-2027-opiskelijalahja-haettavana-30.11.-mennessa..html"
+      ],
+      "checked_date": "2026-11-15"
+    }
+  ],
+  "existing_registry_services": [
+    {
+      "registry_id": "av-0201",
+      "name": "Hope Seinäjoki – maksuton vaate- ja tavara-apu vähävaraisille lapsiperheille",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "coverage": [
+        "Koko Etelä-Pohjanmaa"
+      ],
+      "note": "Tämä tietue on jo päärekisterissä. Sitä käytetään Alajärven ja Alavuden alueellisena palveluna; uutta kuntakohtaista kopiota ei luoda.",
+      "source_url": "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/"
+    },
+    {
+      "registry_id": "av-0187",
+      "name": "SPR Alajärven osaston Lehtimäen ystävävälitys",
+      "categories": [
+        "Keskusteluapu"
+      ],
+      "coverage": [
+        "Alajärvi"
+      ],
+      "note": "Olemassa oleva tietue ei kuulu kuuteen avustuskategoriaan eikä aiheuta päällekkäisyyttä."
+    }
+  ],
+  "pending_services": [
+    {
+      "id": "alajarven-vapaaseurakunta-ruoka-apu",
+      "name": "Alajärven vapaaseurakunnan ruoka-apujakelu",
+      "organizer": "Alajärven vapaaseurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Alajärvi"
+      ],
+      "location": "Hoiskontie 4, 62900 Alajärvi.",
+      "regular_time": "Järjestäjän sivulla seuraava julkaistu ruokajako ke 18.11.2026 klo 16.40–17.30. Säännöllinen kuukausi-/viikkorytmi ei käy järjestäjän sivulta yksiselitteisesti ilmi.",
+      "free_and_conditions": "ViaDia-verkoston palveluhakemisto kuvaa ruoka-avun maksuttomaksi ja vähävaraisille suunnatuksi, mutta tarkat paikalliset saantiehdot ja jatkuva rytmi vaativat järjestäjän vahvistuksen.",
+      "contact": "Ruoka-aputyö: Juhani Raunio. Yleinen yhteys: 0400 384 911, alajarvi@svk.fi.",
+      "source_urls": [
+        "https://www.alajarvenvapaaseurakunta.fi/",
+        "https://www.alajarvenvapaaseurakunta.fi/henkilot/",
+        "https://auttamisestaarkea.fi/kohde/ruoka-apu-alajarvi"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_regular_schedule_and_local_terms"
+    },
+    {
+      "id": "alajarvi-lehtimaki-diakonia-surplus-food",
+      "name": "Lehtimäen diakoniatyön hävikkiruoan jako",
+      "organizer": "Alajärven seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Alajärvi (Lehtimäki)"
+      ],
+      "location": "Lehtimäen seurakuntakoti, Matkatie 1, 63500 Lehtimäki.",
+      "regular_time": "Diakoniapäivystys torstaisin klo 10–12; seurakuntakodin diakoniatoimisto on avoinna torstaisin klo 9–11. Jakoajassa on tarkennettava ristiriita.",
+      "free_and_conditions": "Järjestäjä kertoo hävikkiruoan jaosta, mutta maksuttomuutta ja ruoan saatavuusehtoja ei ilmaista selvästi.",
+      "contact": "Diakoni Ulla Anttila 044 327 1108.",
+      "source_urls": [
+        "https://www.alajarvenseurakunta.fi/apua-ja-tukea/lehtimaen-alueen-diakoniatyo",
+        "https://www.alajarvenseurakunta.fi/kirkot-ja-tilat/lehtimaen-seurakuntakoti"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_fee_and_distribution_time"
+    },
+    {
+      "id": "alajarvi-helluntaiseurakunta-hyvalla-sydamella",
+      "name": "Hyvällä sydämellä – apua arkeen -hanke",
+      "organizer": "Alajärven Helluntaiseurakunta / Suomen Helluntaikirkon ESR+-hanke",
+      "categories": [
+        "Tavarat"
+      ],
+      "coverage": [
+        "Alajärvi"
+      ],
+      "location": "Ovi auki -kahvila; hankkeen PDF:ssä osoite Pitkäkankaantie 6, seurakunnan etusivulla Pitkäkankaantie 16.",
+      "regular_time": "Tapaaminen joka toinen tiistai Ovi auki -kahvilan yhteydessä, ajanvarauksella.",
+      "free_and_conditions": "2025–2027 ESR+-hanke työttömille vähävaraisille ja heidän perheilleen; PDF vahvistaa aineellisen avun ja palveluohjauksen, mutta tarkka jaettava tavara-/vaate-/ruokasisältö ja maksuttomuus eivät ilmene riittävän täsmällisesti.",
+      "contact": "Varaa tapaaminen tekstiviestillä tai WhatsAppilla 045 804 7346.",
+      "source_urls": [
+        "https://www.alajarvenhelluntaiseurakunta.fi/files/hyvalla_sydamella_apua_arkeen.pdf",
+        "https://www.alajarvenhelluntaiseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_exact_aid_type_address_and_free_status"
+    },
+    {
+      "id": "alajarvi-diakonia-financial-guidance",
+      "name": "Alajärven seurakunnan taloudellinen neuvonta",
+      "organizer": "Alajärven seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Alajärvi"
+      ],
+      "location": "Kirkontupa, Kirkkotie 6, Alajärvi.",
+      "regular_time": "Työntekijät tavoittaa varmimmin maanantaisin, keskiviikkoisin ja perjantaisin klo 9–11; tapaaminen sovittava.",
+      "free_and_conditions": "Taloudellista neuvontaa ja ohjausta on tarjolla; erillinen kriisiavustus on seurakunnan mukaan kertaluonteista ja harkinnanvaraista. Neuvonnan maksuttomuus on vahvistettava ennen hyväksymistä.",
+      "contact": "Marja-Terttu Akonniemi 044 327 1119; Virpi Rinne 044 493 9102.",
+      "source_urls": [
+        "https://www.alajarvenseurakunta.fi/apua-ja-tukea/diakonia"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_no_fee_confirmation"
+    },
+    {
+      "id": "alavus-vaatepankki",
+      "name": "Alavuden seurakunnan vaatepankki",
+      "organizer": "Alavuden seurakunta",
+      "categories": [
+        "Vaatteet"
+      ],
+      "coverage": [
+        "Alavus"
+      ],
+      "location": "Alavuden seurakunnan diakoniatyö.",
+      "regular_time": "Ei julkista asiakasvastaanottoaikaa.",
+      "free_and_conditions": "Seurakunnan sivu nimeää vaatepankin yhteyshenkilön, mutta jakelun maksuttomuutta, kohderyhmää, saatavuutta ja asiointitapaa ei ole kuvattu.",
+      "contact": "Diakoni Mirjami Majuri 050 563 6087.",
+      "source_urls": [
+        "https://www.alavudenseurakunta.fi/apua-ja-tukea/diakoniatyo-tukenasi"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_access_and_free_terms"
+    },
+    {
+      "id": "alavus-asiointiapu-ystavatoiminta",
+      "name": "Alavuden seurakunnan ystävätoiminnan asiointiapu",
+      "organizer": "Alavuden seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Alavus"
+      ],
+      "location": "Sovitaan avunsaajan kanssa; tilapäinen lyhytkestoinen apu kotona tai asioinnissa.",
+      "regular_time": "Sovitaan erikseen; ei julkista säännöllistä aikaa.",
+      "free_and_conditions": "Seurakunta kertoo asiointiapua olevan tiedusteltavissa ystävätoiminnan kautta. Maksuttomuutta, saatavuutta ja myöntämisehtoja ei ole julkaistu.",
+      "contact": "Diakoni Mirjami Majuri 050 563 6087.",
+      "source_urls": [
+        "https://www.alavudenseurakunta.fi/apua-ja-tukea/diakoniatyo-tukenasi/omaishoitotyo"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_no_fee_and_access_confirmation"
+    },
+    {
+      "id": "alavus-diakonia-financial-guidance",
+      "name": "Alavuden seurakunnan taloudellinen neuvonta",
+      "organizer": "Alavuden seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Alavus"
+      ],
+      "location": "Kirkkopiha, Louontie 1 A 1, 63300 Alavus.",
+      "regular_time": "Keskiviikkoisin klo 9–11 ajanvarauksella.",
+      "free_and_conditions": "Taloudellinen neuvonta ja avustustyö ovat diakoniatyön vastuulla, mutta neuvonnan maksuttomuutta ei erikseen vahvistettu tässä palvelukuvauksessa.",
+      "contact": "Diakoni Maija Hietaniemi 050 347 0631.",
+      "source_urls": [
+        "https://www.alavudenseurakunta.fi/apua-ja-tukea/diakoniatyo-tukenasi"
+      ],
+      "checked_date": "2026-11-15",
+      "status": "pending_no_fee_confirmation"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "alajarvi-diakonia-one-time-crisis-grant",
+      "name": "Alajärven seurakunnan kertaluonteinen diakonia-avustus",
+      "categories": [
+        "Raha",
+        "Ruoka-apu",
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "reason": "Järjestäjän mukaan taloudellinen apu ja siihen liittyvä ruoka-/vaate-/aineellinen avustus myönnetään lyhytaikaisesti, kertaluonteisesti ja harkinnanvaraisesti. Ei hyväksytä jatkuvaksi palveluksi tämän kartoituksen rajauksella."
+    },
+    {
+      "id": "alajarvi-kirpputori-olotila",
+      "name": "Kirpputori Olotila ja diakonian kirpputori",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "reason": "Järjestäjä kuvaa toimintaa kirpputoriksi; maksutonta avunsaajien jakelua ei vahvistettu. Myyntiä ei luokitella ilmaiseksi vaate- tai tavara-avuksi."
+    },
+    {
+      "id": "alajarvi-diakonia-lunches",
+      "name": "Alajärven seurakunnan diakonia- ja lähetyslounaat",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "reason": "Seurakunnan mukaan ruokailumaksuilla katetaan kustannuksia ja tuetaan toimintaa; ei maksuton ruoka-apupalvelu."
+    },
+    {
+      "id": "alavus-old-2020-free-food-distribution",
+      "name": "Alavuden vanha helluntaiseurakunnan viikoittainen ruokajakelu",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "reason": "Löytynyt virallinen kuntatiedote on vuodelta 2020 eikä nykyistä 2026 jakelua tai aikataulua vahvistettu järjestäjän ajantasaisesta lähteestä."
+    },
+    {
+      "id": "alavus-social-credit",
+      "name": "HyvaEP:n sosiaalinen luototus",
+      "categories": [
+        "Raha"
+      ],
+      "reason": "Kyseessä on takaisinmaksettava luotto, ei maksuton avustus. Ei hyväksytä maksuttomaksi raha-avuksi."
+    }
+  ],
+  "duplicate_control": {
+    "main_registry_checked": true,
+    "main_registry_records_checked": 171,
+    "matching_local_records": [
+      "av-0187 SPR Alajärven osaston Lehtimäen ystävävälitys (Keskusteluapu; ei päällekkäisyyttä kuuden kategorian kanssa)",
+      "av-0201 Hope Seinäjoki (Vaatteet/Tavarat; kattaa koko Etelä-Pohjanmaan; käytetään olemassa olevaa tietuetta)"
+    ],
+    "existing_regional_service_reused": [
+      "av-0201"
+    ],
+    "duplicate_service_records_created": 0
+  },
+  "municipality_progress": [
+    {
+      "municipality": "Alajärvi",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Vapaaseurakunnan ruokajaon pysyvä rytmi ja ehdot",
+        "Lehtimäen hävikkiruoan maksuttomuus ja tarkka jakoaika",
+        "Helluntaiseurakunnan hankkeen tarkka aineellinen apu, osoite ja maksuttomuus",
+        "Alajärven diakoniatalousneuvonnan maksuttomuus"
+      ]
+    },
+    {
+      "municipality": "Alavus",
+      "reviewed_categories": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "complete": false,
+      "unresolved": [
+        "Vaatepankin asiakkaiden asiointitapa ja maksuttomuus",
+        "Ystävätoiminnan asiointiapu maksuttomuus ja saatavuus",
+        "Diakonisen talousneuvonnan maksuttomuus",
+        "vanhan helluntaiseurakunnan ruokajaon nykytila"
+      ]
+    }
+  ],
+  "counts": {
+    "municipalities_reviewed": 2,
+    "category_checks_completed": 12,
+    "accepted_unique_service_records": 7,
+    "pending_service_leads_or_details": 7,
+    "excluded_observations": 5,
+    "municipalities_marked_complete": 0
+  },
+  "next_position": "Etelä-Pohjanmaa / Evijärvi / Ruoka-apu",
+  "sources": [
+    "https://www.alajarvenvapaaseurakunta.fi/",
+    "https://www.alajarvenvapaaseurakunta.fi/henkilot/",
+    "https://auttamisestaarkea.fi/kohde/ruoka-apu-alajarvi",
+    "https://www.alajarvenhelluntaiseurakunta.fi/files/hyvalla_sydamella_apua_arkeen.pdf",
+    "https://www.alajarvenhelluntaiseurakunta.fi/",
+    "https://www.alajarvenseurakunta.fi/apua-ja-tukea/diakonia",
+    "https://www.alajarvenseurakunta.fi/apua-ja-tukea/lehtimaen-alueen-diakoniatyo",
+    "https://www.alajarvenseurakunta.fi/kirkot-ja-tilat/lehtimaen-seurakuntakoti",
+    "https://www.alavudenseurakunta.fi/apua-ja-tukea/diakoniatyo-tukenasi",
+    "https://www.alavudenseurakunta.fi/apua-ja-tukea/diakoniatyo-tukenasi/omaishoitotyo",
+    "https://www.alavus.fi/fi/kaupunki-ja-hallinto/asiointi/sahkoinen-asiointi/opiskelijalahja.html",
+    "https://www.alavus.fi/fi/etusivu/ajankohtaista/uutiset/lukuvuoden-2026-2027-opiskelijalahja-haettavana-30.11.-mennessa..html",
+    "https://www.hyvaep.fi/palvelu/lapsiperheiden-kotipalvelu/",
+    "https://www.hyvaep.fi/tietoa-ja-ohjeita/asiakasmaksut/perhe-ja-sosiaalipalveluiden-asiakasmaksut/",
+    "https://www.hyvaep.fi/palvelu/taydentava-ja-ehkaiseva-toimeentulotuki/",
+    "https://www.hyvaep.fi/palvelu/aikuissosiaalityo/",
+    "https://www.hyvaep.fi/palvelu/talousneuvola/",
+    "https://www.hyvaep.fi/palvelu/lahisuhdevakivalta/",
+    "https://palveluketjut.hyvaep.fi/palveluketju/vakivaltaa-kokeneen-lapsen-palveluketju-2/jatkotuki/jarjestojen-palvelut/",
+    "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/"
+  ],
+  "public_site_changed": false,
+  "main_registry_changed": false,
+  "checked_note": "Etelä-Pohjanmaan ensimmäinen tarkistuskierros alkoi Alajärvestä ja Alavudesta. Molemmissa käytiin läpi kaikki kuusi kategoriaa, mutta keskeneräisiä kuntia ei merkitä valmiiksi. Hope Seinäjoki hyödynnetään olemassa olevana koko maakunnan tietueena av-0201; uutta kopiota ei luoda."
+}
