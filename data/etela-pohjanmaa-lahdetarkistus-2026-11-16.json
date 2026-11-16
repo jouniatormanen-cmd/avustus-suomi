@@ -205,21 +205,21 @@
     {
       "municipality": "Soini",
       "category": "Raha",
-      "status": "accepted_regional_services_reused_and_two_new_local_grants; local_diaconia_pending",
+      "status": "accepted_regional_services_and_vauvaraha; student_support_age_limit_pending; local_diaconia_pending",
       "accepted_ids": [
         "hyvaep-supplementary-preventive-income-support",
         "hyvaep-talousneuvola",
-        "soini-opiskelijatuki",
         "soini-vauvaraha"
       ],
       "existing_ids": [],
       "pending_ids": [
-        "soini-diakonia-financial-aid-terms"
+        "soini-diakonia-financial-aid-terms",
+        "soini-student-support-age-range-conflict"
       ],
       "excluded_ids": [
         "soini-first-degree-scholarship-fixed-cohort"
       ],
-      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola ovat alueellisia olemassa olevia palveluja. Soinin kunnan opiskelijatuki on 18–29-vuotiaille Soinissa kirjoilla oleville päätoimisille opiskelijoille 200 €/lukukausi (400 €/vuosi), haku kahdesti vuodessa loka- ja helmikuussa; syksyn 2026 haku päättyi 31.10. Vauvaraha on 500 €/vuosi kolmen vuoden ajan (yhteensä 1 500 €) Soinissa syntyneille lapsille, jos perhe asuu edelleen kunnassa; kunta myöntää sen automaattisesti ja tuki on verollinen. Seurakunnan hätätilanteiden taloudellisen avun ehdot ja maksuttomuus vaativat vielä täsmennystä. Ensimmäisen korkeakoulututkinnon 1 000 € stipendi rajataan pois yleisestä jatkuvasta palvelusta, koska kelpoisuus on sidottu 31.12.2023 kotikuntatietoon.",
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola ovat alueellisia olemassa olevia palveluja. Soinin kunnan opiskelijatuki on 18–29-vuotiaille Soinissa kirjoilla oleville päätoimisille opiskelijoille 200 €/lukukausi (400 €/vuosi), haku kahdesti vuodessa loka- ja helmikuussa; syksyn 2026 haku päättyi 31.10. Vauvaraha on 500 €/vuosi kolmen vuoden ajan (yhteensä 1 500 €) Soinissa syntyneille lapsille, jos perhe asuu edelleen kunnassa; kunta myöntää sen automaattisesti ja tuki on verollinen. Seurakunnan hätätilanteiden taloudellisen avun ehdot ja maksuttomuus vaativat vielä täsmennystä. Ensimmäisen korkeakoulututkinnon 1 000 € stipendi rajataan pois yleisestä jatkuvasta palvelusta, koska kelpoisuus on sidottu 31.12.2023 kotikuntatietoon. Opiskelijatuki on muutoin dokumentoitu (200 €/lukukausi, haku loka- ja helmikuussa), mutta kunnan yksityiskohtainen sivu ilmoittaa ikärajaksi 18–29 ja yleinen esittelysivu 18–25; ikäraja jää vahvistettavaksi. Sitä ei vielä hyväksytä julkaisuun.",
       "checked_date": "2026-11-16"
     },
     {
@@ -513,29 +513,6 @@
       "notes": "Hakemisen ja noudon aukioloajat ovat eri vaiheita. Joulun erillisjakoja ei sisällytetä palvelun säännölliseen aikatauluun."
     },
     {
-      "id": "soini-opiskelijatuki",
-      "name": "Soinin kunnan opiskelijatuki",
-      "organizer": "Soinin kunta",
-      "categories": [
-        "Raha"
-      ],
-      "coverage": [
-        "Soini"
-      ],
-      "location": "Hakemus Soinin kunnan sähköisellä hakulomakkeella; kunnan yhteystiedot Multiantie 27 A, 63800 Soini.",
-      "regular_time": "Haku kahdesti vuodessa, lokakuussa ja helmikuussa. Syksyn 2026 hakuaika 1.–31.10.2026; maksu marras- ja maaliskuussa.",
-      "free_and_conditions": "Kunnan myöntämä 200 € lukukaudessa (400 € vuodessa), enintään viiden vuoden ajan. Kohderyhmänä 18–29-vuotiaat päätoimiset ammattiin tai tutkintoon tähtäävät opiskelijat, jotka ovat kirjoilla Soinissa koko lukuvuoden mutta asuvat opintojen vuoksi muualla. Virallinen sivu ei kuvaa tukea lainaksi eikä ilmoita takaisinmaksuehtoa.",
-      "contact": "Soinin kunta, soinin.kunta@soini.fi, Multiantie 27 A, 63800 Soini.",
-      "source_urls": [
-        "https://kunta.soini.fi/index.php/fi/opiskelijatuki-soinilaisille-opiskelijoille",
-        "https://kunta.soini.fi/index.php/fi/mita-soinilaisena-saat"
-      ],
-      "checked_date": "2026-11-16",
-      "status": "accepted",
-      "publication_ready": true,
-      "notes": "Syksyn 2026 haku on tarkistuspäivänä jo päättynyt; seuraava ilmoitettu hakukierros on helmikuussa 2027."
-    },
-    {
       "id": "soini-vauvaraha",
       "name": "Soinin kunnan vauvaraha",
       "organizer": "Soinin kunta",
@@ -743,6 +720,12 @@
       "municipality": "Seinäjoki / maakunta",
       "category": "Vaatteet ja Tavarat",
       "detail": "Hope Seinäjoen olemassa oleva tietue av-0201 on maksuton maakunnallinen vaate- ja tavara-apu, mutta uusia avunpyyntöjä ei oteta loppuvuonna 2026 muuton vuoksi. Tarkista uudelleen vuoden 2027 alussa."
+    },
+    {
+      "id": "soini-student-support-age-range-conflict",
+      "municipality": "Soini",
+      "category": "Raha",
+      "detail": "Soinin kunnan yksityiskohtainen opiskelijatukisivu ilmoittaa ikärajaksi 18–29 vuotta, mutta kunnan yleinen 'Mitä soinilaisena saat?' -sivu ilmoittaa 18–25 vuotta. Tuki 200 €/lukukausi, haku loka- ja helmikuussa ja muu kelpoisuus vahvistuvat; ikäraja on ristiriitainen ja vaatii kunnalta vahvistuksen ennen hyväksyntää."
     }
   ],
   "excluded_observations": [
@@ -812,14 +795,14 @@
   "counts": {
     "municipalities_reviewed": 18,
     "category_checks_completed": 108,
-    "accepted_unique_service_records": 15,
-    "pending_service_leads_or_details": 40,
+    "accepted_unique_service_records": 14,
+    "pending_service_leads_or_details": 41,
     "excluded_observations": 24,
     "municipalities_marked_complete": 0,
     "new_municipalities_reviewed_this_run": 5,
     "new_category_checks_this_run": 30,
-    "new_accepted_service_records_this_run": 3,
-    "new_pending_leads_or_details_this_run": 18,
+    "new_accepted_service_records_this_run": 2,
+    "new_pending_leads_or_details_this_run": 19,
     "new_excluded_observations_this_run": 5
   },
   "next_continuation": {
