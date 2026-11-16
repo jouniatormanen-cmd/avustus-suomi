@@ -37,8 +37,7 @@ Yhdessä 15.11.2026 auditin kanssa kaikki Etelä-Pohjanmaan 18 kuntaa on nyt seu
 ## Uudet hyväksytyt palvelut
 
 1. **Seinäjoen seurakunnan Ruokapankki – Ruoka-apu.** Maksuton ruoka-avustus tilapäisesti vaikeassa taloustilanteessa oleville kotitalouksille. Ensin henkilökohtainen keskustelu oman alueen diakoniatyöntekijän kanssa; avustus harkinnanvarainen ja taloustiedot/etuus- tai opiskelutiedot voidaan pyytää. Nouto Matti Visannin kuja 15 B, Seinäjoki: ma ja to klo 12–16.30. Ensivaiheen asiointi: keskustan diakoniatoimisto ti ja to klo 9–11.30 tai Ruokapankki ti klo 9–12. Syyskauden viimeinen normaali jakopäivä 7.12.2026; joulun erillisjakoja ei rekisteröidä. Ruoka-avun koordinaattori Jaana Lähdesmäki 050 385 0444.
-2. **Soinin kunnan opiskelijatuki – Raha.** 18–29-vuotiaille päätoimisille opiskelijoille, jotka ovat kirjoilla Soinissa koko lukuvuoden mutta asuvat opintojen vuoksi muualla. 200 €/lukukausi, 400 €/vuosi, enintään viisi vuotta. Haku loka- ja helmikuussa; syksyn 2026 haku päättyi 31.10.2026.
-3. **Soinin kunnan vauvaraha – Raha.** Soinissa syntyneelle lapselle 500 €/vuosi kolmen vuoden ajan, yhteensä 1 500 €. Kunta myöntää automaattisesti vuosittaisen tarkistuksen jälkeen; tuki verollinen ja edellyttää asumisen jatkumista Soinissa.
+2. **Soinin kunnan vauvaraha – Raha.** Soinissa syntyneelle lapselle 500 €/vuosi kolmen vuoden ajan, yhteensä 1 500 €. Kunta myöntää automaattisesti vuosittaisen tarkistuksen jälkeen; tuki verollinen ja edellyttää asumisen jatkumista Soinissa.
 
 ## Avoimet ja poissuljetut
 
@@ -46,6 +45,7 @@ Avoimiksi jäivät muun muassa:
 - Seinäjoen Lakeuden ruoka-avun, ViaDia Seinäjoen ja Peräseinäjoen Uloskutsutut ry:n pisteiden ajantasaiset järjestäjälähteet ja maksuttomuuden vahvistus.
 - Hope Seinäjoen uusien avunpyyntöjen tauko muuton vuoksi loppuvuonna 2026; tarkistettava uudelleen 2027.
 - Soinin Ruoka-apu ry:n nykyinen jakorytmi ja maksuttomuus; seurakunnan 28.10.2026 infotilaisuus ja kunnan vuoden 2026 avustus vahvistavat toiminnan olemassaoloa, mutta nykyinen aikataulu puuttuu järjestäjän omasta lähteestä.
+- Soinin opiskelijatuen ikäraja on ristiriitainen: yksityiskohtainen sivu ilmoittaa 18–29 vuotta ja kunnan yleinen esittelysivu 18–25 vuotta. Tuen määrä ja hakurytmi vahvistuvat, mutta ikäraja on tarkistettava kunnalta ennen hyväksyntää.
 - Teuvan seurakunnan hävikkiruoan maksuttomuus (säännöllinen jako ma/to, toistaiseksi klo 13–15, Asematie 4 C).
 - Vimpelin ja Soinin seurakuntien diakonisen koti-/asiointituen ja raha-avun ehdot ja maksuttomuus.
 - Ähtärin aikuis- ja lapsiperheiden ruoka-avun maksuttomuus; seurakunnan ilmoittamat ajat ovat ti klo 10–11 aikuisille ja pe klo 10–11 lapsiperheille, Ostolantie 14.
