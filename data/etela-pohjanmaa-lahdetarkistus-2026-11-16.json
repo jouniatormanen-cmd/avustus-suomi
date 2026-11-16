@@ -1,0 +1,855 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-16",
+  "province": "Etelä-Pohjanmaa",
+  "update_type": "first_pass_municipal_audit_completion",
+  "previous_audit_path": "data/etela-pohjanmaa-lahdetarkistus-2026-11-15.json",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Alajärvi",
+    "Alavus",
+    "Evijärvi",
+    "Ilmajoki",
+    "Isojoki",
+    "Isokyrö",
+    "Karijoki",
+    "Kauhajoki",
+    "Kauhava",
+    "Kuortane",
+    "Kurikka",
+    "Lappajärvi",
+    "Lapua",
+    "Seinäjoki",
+    "Soini",
+    "Teuva",
+    "Vimpeli",
+    "Ähtäri"
+  ],
+  "municipalities_reviewed": [
+    "Alajärvi",
+    "Alavus",
+    "Evijärvi",
+    "Ilmajoki",
+    "Isojoki",
+    "Isokyrö",
+    "Karijoki",
+    "Kauhajoki",
+    "Kauhava",
+    "Kuortane",
+    "Kurikka",
+    "Lappajärvi",
+    "Lapua",
+    "Seinäjoki",
+    "Soini",
+    "Teuva",
+    "Vimpeli",
+    "Ähtäri"
+  ],
+  "municipalities_remaining": [],
+  "first_pass_screening_complete": true,
+  "final_verification_complete": false,
+  "category_checks": [
+    {
+      "municipality": "Seinäjoki",
+      "category": "Ruoka-apu",
+      "status": "accepted_new_service_with_other_local_points_pending",
+      "accepted_ids": [
+        "seinajoen-seurakunta-ruokapankki"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "seinajoki-lakeuden-ruoka-apu-current-primary-confirmation",
+        "seinajoki-viadia-food-aid-current-primary-confirmation",
+        "peraseinajoki-uloskutsutut-food-aid-primary-confirmation"
+      ],
+      "excluded_ids": [
+        "spr-seinajoki-ruoka-apukortti-2026-11-10"
+      ],
+      "finding": "Seinäjoen seurakunnan Ruokapankki on järjestäjän mukaan maksuton. Hakijan on ensin keskusteltava oman alueen diakoniatyöntekijän kanssa; avustus on harkinnanvarainen ja tarkoitettu tilapäisesti vaikeassa taloustilanteessa oleville kotitalouksille. Hakemisen yhteydessä selvitetään taloustilanne ja tarvittaessa esitetään etuuspäätös tai opiskelutodistus. Ruokapankin nouto Matti Visannin kuja 15 B: ma ja to klo 12–16.30; ensivaiheen asiointi keskustan diakoniatoimistossa ti ja to klo 9–11.30 tai Ruokapankilla ti klo 9–12. Syyskauden viimeinen normaali jakopäivä 7.12.2026; joulupäiviä ei oteta jatkuvaksi palveluksi. Jaana Lähdesmäki 050 385 0444. Lakeuden ruoka-avun, ViaDia Seinäjoen ja Uloskutsutut ry:n paikallispisteistä löytyi vain toissijaisia jakotietoja, joten niiden nykyrytmiä ja maksuttomuutta ei hyväksytä ilman järjestäjän omaa vahvistusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Seinäjoki",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free; local_supported_housing_fee_pending",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "hyvaep-supported-housing-fee-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu kattaa Seinäjoen. Se on maksuton vain tulorajan, säännöllisen toimeentulotuen tai lapsen asiakassuunnitelmaan perustuvan maksuttoman myöntämisperusteen täyttyessä. HyvaEP:n tuetun asumisen/kotitiimien arjen tuki voi sisältää kodinhoidollisia tehtäviä ja asiointiapua, mutta tämän erillisen palvelun asiakasmaksua ei tässä tarkistuksessa vahvistettu.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Seinäjoki",
+      "category": "Vaatteet",
+      "status": "temporarily_closed_to_new_requests_existing_record",
+      "accepted_ids": [],
+      "existing_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [
+        "hope-seinajoki-intake-resumes-2027"
+      ],
+      "excluded_ids": [],
+      "finding": "Hope Seinäjoki on aiemmin hyväksytty maakunnalliseksi maksuttomaksi vaateavuksi lapsiperheille, mutta järjestäjän ajantasainen sivu ilmoittaa, ettei uusia avunpyyntöjä voida ottaa loppuvuodelle 2026 muuton vuoksi. Tietuetta ei lasketa tällä hetkellä uusille hakijoille avoimeksi; tarkistettava uudelleen vuonna 2027.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Seinäjoki",
+      "category": "Tavarat",
+      "status": "temporarily_closed_to_new_requests_existing_record",
+      "accepted_ids": [],
+      "existing_ids": [
+        "av-0201"
+      ],
+      "pending_ids": [
+        "hope-seinajoki-intake-resumes-2027"
+      ],
+      "excluded_ids": [],
+      "finding": "Hope Seinäjoen maksuton lahjoitettujen tavaroiden apu on sama olemassa oleva tietue av-0201 kuin vaateapu. Uusia avunpyyntöjä ei oteta loppuvuonna 2026 muuton vuoksi. Ei luoda erillistä kaksoiskappaletta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Seinäjoki",
+      "category": "Raha",
+      "status": "accepted_regional_services_reused; local_diaconal_material_aid_pending",
+      "accepted_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "seinajoki-diakonia-material-aid-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n täydentävä ja ehkäisevä toimeentulotuki sekä maksuton Talousneuvola ovat jo rekisteröityjä koko maakunnan palveluja. Seinäjoen seurakunta kertoo diakonian kautta saatavan aineellista apua, mutta paikallisen raha-avun tai muun aineellisen tuen tarkat ehdot ja myöntämistapa vaativat erillisen vahvistuksen.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Seinäjoki",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused; housing_advice_free_status_pending",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "hyvaep-asumisneuvonta-free-status"
+      ],
+      "excluded_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus ovat käytettävissä ehtojensa mukaan. HyvaEP:n asumisneuvonta palvelee myös Seinäjoella ja tarjoaa yleistä asumisen, vuokravelkojen ja häätöjen ehkäisyn ohjausta, mutta maksuttomuutta ei ilmaista sivulla yksiselitteisesti; jätetään odottamaan hintatiedon vahvistusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Soini",
+      "category": "Ruoka-apu",
+      "status": "pending_current_recurrence_and_free_status",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [
+        "soini-ruoka-apu-current-recurrence"
+      ],
+      "excluded_ids": [],
+      "finding": "Soinin Ruoka-apu ry:n toiminta on edelleen esillä Soinin seurakunnan 28.10.2026 infotilaisuudessa, ja kunta myönsi yhdistykselle toimitila-avustusta vuonna 2026. Aiempi joka toisen viikon keskiviikon jakoaika (klo 13–15, ovet klo 12) löytyy vain vuoden 2025 lehtijutusta, ei järjestäjän ajantasaisesta ensisijaislähteestä. Nykyinen jakorytmi, jakopaikka, maksuttomuus ja yhteyshenkilön vahvistus jäävät avoimiksi.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Soini",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free; local_diaconia_practical_help_pending",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "soini-diakonia-home-practical-help-free-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu kattaa Soinin ja voi olla maksuton tuloperusteisen tai palvelusuunnitelmaan perustuvan myöntämisen perusteella. Soinin seurakunnan diakonia ilmoittaa kotikäynneistä ja käytännön asiointiavusta, mutta tehtävien rajaus, maksuttomuus ja saatavuus on vahvistettava ennen Kotiapu-luokitusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Soini",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Tarkistetuista kunnan ja seurakunnan ensisijaisista lähteistä ei löytynyt ajantasaista, maksuttomaksi ja säännölliseksi vahvistettua vaatejakelua. Soinin Ruoka-apu ry:n mahdollinen muu aineellinen apu vaatii järjestäjän vahvistuksen.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Soini",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Tarkistetuista ensisijaisista lähteistä ei löytynyt ajantasaista maksutonta tavarajakelu- tai lainauspalvelua. Maksullista myyntiä ei hyväksytä tavara-avuksi.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Soini",
+      "category": "Raha",
+      "status": "accepted_regional_services_reused_and_two_new_local_grants; local_diaconia_pending",
+      "accepted_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola",
+        "soini-opiskelijatuki",
+        "soini-vauvaraha"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "soini-diakonia-financial-aid-terms"
+      ],
+      "excluded_ids": [
+        "soini-first-degree-scholarship-fixed-cohort"
+      ],
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola ovat alueellisia olemassa olevia palveluja. Soinin kunnan opiskelijatuki on 18–29-vuotiaille Soinissa kirjoilla oleville päätoimisille opiskelijoille 200 €/lukukausi (400 €/vuosi), haku kahdesti vuodessa loka- ja helmikuussa; syksyn 2026 haku päättyi 31.10. Vauvaraha on 500 €/vuosi kolmen vuoden ajan (yhteensä 1 500 €) Soinissa syntyneille lapsille, jos perhe asuu edelleen kunnassa; kunta myöntää sen automaattisesti ja tuki on verollinen. Seurakunnan hätätilanteiden taloudellisen avun ehdot ja maksuttomuus vaativat vielä täsmennystä. Ensimmäisen korkeakoulututkinnon 1 000 € stipendi rajataan pois yleisestä jatkuvasta palvelusta, koska kelpoisuus on sidottu 31.12.2023 kotikuntatietoon.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Soini",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused; housing_advice_free_status_pending",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "hyvaep-asumisneuvonta-free-status"
+      ],
+      "excluded_ids": [
+        "soini-housing-discount-50"
+      ],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus kattavat Soinin ehtojensa mukaan. HyvaEP:n asumisneuvonta listaa Soinin vuokranantajan ja alueellisen palvelun, mutta maksuttomuus on vielä vahvistettava. Kunnan 50 prosentin vuokraetu työpaikan vuoksi muuttaville on alennus maksullisesta vuokrasta, ei maksuton asumispalvelu.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Teuva",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status_despite_current_recurring_distribution",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [
+        "teuva-diakonia-food-free-status"
+      ],
+      "excluded_ids": [],
+      "finding": "Teuvan seurakunnan diakoniatoimistosta saa kauppojen hävikkiruokaa Asematie 4 C:ssä normaalisti maanantaisin ja torstaisin klo 9–11; järjestäjän ajantasainen sivu ilmoittaa toistaiseksi poikkeusajaksi klo 13–15. Yhteys diakoniatyöntekijään 040 688 1406. Maksuttomuutta ei sivulla sanota suoraan, joten palvelua ei vielä hyväksytä maksuttomaksi.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Teuva",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu kattaa Teuvan. Maksuton vain tulorajan, säännöllisen toimeentulotuen tai lapsen asiakassuunnitelmaan perustuvan maksuttoman myöntämisperusteen täyttyessä. Paikallista erillistä maksutonta kotiapua ei vahvistettu.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Teuva",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Teuvan seurakunnan sivu mainitsee lähetystyön kirpputorin, mutta kyse on myyntitoiminnasta eikä lähteistä löytynyt maksutonta vaatejakelua.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Teuva",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Maksutonta tavarajakelua ei vahvistettu. Seurakunnan kirpputorimyyntiä ei lasketa ilmaiseksi tavara-avuksi.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Teuva",
+      "category": "Raha",
+      "status": "accepted_regional_services_reused; local_diaconia_terms_pending",
+      "accepted_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "teuva-diakonia-financial-aid-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola palvelevat myös Teuvan asukkaita. Teuvan seurakunnan diakoniavastaanotto on seurakuntatoimistossa ja järjestäjä kertoo avusta vaikeissa tilanteissa, mutta taloudellisen avun maksuttomuus ja myöntämisehdot eivät käy lähteistä ilmi.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Teuva",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused; housing_advice_free_status_pending",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "hyvaep-asumisneuvonta-free-status"
+      ],
+      "excluded_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus ovat käytettävissä. HyvaEP:n asumisneuvonta palvelee aluetta, mutta maksuttomuuden yksiselitteinen vahvistus puuttuu.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Vimpeli",
+      "category": "Ruoka-apu",
+      "status": "excluded_paid_local_meal; no_free_food_distribution_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "vimpeli-paid-soup-lunch"
+      ],
+      "finding": "Alajärven seurakunnan Vimpelin alueen diakoniatyön sivu vahvistaa seurakuntakodilla noin kerran kuukaudessa järjestettävän keittolounaan hinnaksi 4 € (ulosmyynti 3 €/litra). Maksullinen ruokailu rajataan pois. Maksutonta säännöllistä ruoka-apujakoa ei vahvistettu.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Vimpeli",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free; local_diaconia_home_visits_pending",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "vimpeli-diakonia-home-visit-help-free-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu kattaa Vimpelin ja voi olla maksuton hyväksytyn tuloperusteen tai palvelusuunnitelman nojalla. Alajärven seurakunnan Vimpelin diakoniatyössä tehdään kotikäyntejä, mutta kotona annettavan käytännön avun sisältö ja maksuttomuus on vahvistettava ennen Kotiapu-luokitusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Vimpeli",
+      "category": "Vaatteet",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Vimpelin alueen seurakunnan ensisijaisista lähteistä ei löytynyt maksutonta vaatejakelua.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Vimpeli",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Vimpelin alueen seurakunnan ensisijaisista lähteistä ei löytynyt maksutonta tavarajakelua tai tavaralainausta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Vimpeli",
+      "category": "Raha",
+      "status": "accepted_regional_services_reused; local_diaconia_financial_terms_pending",
+      "accepted_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "vimpeli-diakonia-financial-aid-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola ovat käytettävissä alueellisesti. Vimpelin diakoniatyö tarjoaa keskusteluapua taloudellisiin ja muihin huoliin, mutta varsinaisen rahallisen avun maksuttomuus ja ehdot on vielä vahvistettava.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Vimpeli",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused; housing_advice_free_status_pending",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "hyvaep-asumisneuvonta-free-status"
+      ],
+      "excluded_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus kattavat Vimpelin ehtojensa mukaisesti. HyvaEP:n asumisneuvonnan maksuttomuus odottaa vahvistusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Ähtäri",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status_recurring_distribution_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [
+        "ahtari-food-distribution-free-status"
+      ],
+      "excluded_ids": [],
+      "finding": "Ähtärin seurakunta vahvistaa säännöllisen ylijäämäruoan jaon: aikuisille tiistaisin klo 10–11 ja lapsiperheille perjantaisin klo 10–11, Ostolantie 14, kulku R-kioskin ja OmaSäästöpankin välistä taakse. Lapsiperheiden on oltava etukäteen yhteydessä diakoniin. Yhteyshenkilö Paula Häkkinen 050 579 0004. Järjestäjä ei ilmaise maksuttomuutta yksiselitteisesti, joten palvelu jää odottamaan hinnan vahvistusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Ähtäri",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free; local_diaconia_home_visit_terms_pending",
+      "accepted_ids": [
+        "hyvaep-lapsiperheiden-kotipalvelu"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "ahtari-diakonia-home-visits-free-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n lapsiperheiden kotipalvelu kattaa Ähtärin ja voi olla maksuton tuloperusteisen tai palvelusuunnitelmaan perustuvan myöntämisen nojalla. Ähtärin seurakunta kuvaa kotikäyntityön keskeiseksi diakoniatyön muodoksi, mutta tehtävien sisältö, maksuttomuus ja saatavuus on vahvistettava ennen Kotiapu-luokitusta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Ähtäri",
+      "category": "Vaatteet",
+      "status": "pending_free_status_and_access_terms",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [
+        "ahtari-diakonia-clothing-aid-free-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "Ähtärin seurakunnan oma diakoniatyön sivu kertoo, että diakonian kautta annetaan vaateapua. Sivulla ei kerrota jakeluaikoja, hakumenettelyä tai maksuttomuutta yksiselitteisesti. Yhteys diakoniin 050 579 0004; selvitys jää avoimeksi.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Ähtäri",
+      "category": "Tavarat",
+      "status": "no_qualifying_free_service_confirmed",
+      "accepted_ids": [],
+      "existing_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "finding": "Ähtärin seurakunnan ja kaupungin tarkistetuista ensisijaisista lähteistä ei löytynyt maksutonta tavarajakelu- tai lainaamispalvelua.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Ähtäri",
+      "category": "Raha",
+      "status": "accepted_regional_services_reused; local_diaconia_financial_terms_pending",
+      "accepted_ids": [
+        "hyvaep-supplementary-preventive-income-support",
+        "hyvaep-talousneuvola"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "ahtari-diakonia-financial-aid-terms"
+      ],
+      "excluded_ids": [],
+      "finding": "HyvaEP:n täydentävä/ehkäisevä toimeentulotuki ja Talousneuvola palvelevat myös Ähtärissä. Ähtärin seurakunta ohjaa taloudellisia huolia kokevan diakoniavastaanotolle ajanvarauksella, mutta varsinaisen taloudellisen avun olemassaolo, maksuttomuus ja ehdot eivät vahvistu sivulta.",
+      "checked_date": "2026-11-16"
+    },
+    {
+      "municipality": "Ähtäri",
+      "category": "Asuminen",
+      "status": "accepted_regional_services_reused; housing_advice_free_status_pending",
+      "accepted_ids": [
+        "etela-pohjanmaan-turvakoti",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "existing_ids": [],
+      "pending_ids": [
+        "hyvaep-asumisneuvonta-free-status"
+      ],
+      "excluded_ids": [],
+      "finding": "Maakunnallinen turvakoti ja VARKEn korjausavustus ovat käytettävissä ehtojensa mukaan. HyvaEP:n asumisneuvonta palvelee maakuntaa, mutta maksuttomuus on vahvistettava.",
+      "checked_date": "2026-11-16"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "seinajoen-seurakunta-ruokapankki",
+      "name": "Seinäjoen seurakunnan Ruokapankki – maksuton ruoka-avustus",
+      "organizer": "Seinäjoen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Seinäjoki"
+      ],
+      "location": "Ruokakassin nouto: Matti Visannin kuja 15 B, 60100 Seinäjoki. Ensivaiheen asiointi keskustan alueella Ala-Kuljun katu 1 C:n diakoniatoimistossa tai Ruokapankilla.",
+      "regular_time": "Ruokapankki / ensivaiheen asiointi tiistaisin klo 9–12; keskustan diakoniatoimisto tiistaisin ja torstaisin klo 9–11.30. Myönnetyn ruokakassin nouto maanantaisin ja torstaisin klo 12–16.30. Syyskauden viimeinen normaali jakopäivä 7.12.2026.",
+      "free_and_conditions": "Maksuton ruoka-avustus tilapäisesti vaikeassa elämäntilanteessa oleville kotitalouksille, joiden perustoimeentulo ei ole riittävä tai jotka ovat muuten joutuneet taloudellisiin vaikeuksiin. Ensin keskustelu oman alueen diakoniatyöntekijän kanssa; avustus myönnetään harkinnanvaraisesti. Hakijan on asioitava henkilökohtaisesti ja tuotava taloudellisen tilanteen selvittämiseen tarvittavat etuus- tai opiskelutiedot. Ruokakassin sisältö vaihtelee lahjoitusten mukaan. Erityistilanteissa diakoniatyöntekijä voi sallia noudon toisen henkilön kautta tai kotiinkuljetuksen terveydellisistä syistä.",
+      "contact": "Ruoka-avun koordinaattori Jaana Lähdesmäki 050 385 0444, jaana.lahdesmaki@evl.fi. Terveydellisten esteiden puhelinasiointi tiistaisin klo 13.30–14.30, 06 418 4902.",
+      "source_urls": [
+        "https://seinajoenseurakunta.fi/apua-ja-tukea/diakonia/",
+        "https://seinajoenseurakunta.fi/toimintaa/vapaaehtoistoiminta/"
+      ],
+      "checked_date": "2026-11-16",
+      "status": "accepted",
+      "publication_ready": true,
+      "recheck_after": "2026-12-07",
+      "notes": "Hakemisen ja noudon aukioloajat ovat eri vaiheita. Joulun erillisjakoja ei sisällytetä palvelun säännölliseen aikatauluun."
+    },
+    {
+      "id": "soini-opiskelijatuki",
+      "name": "Soinin kunnan opiskelijatuki",
+      "organizer": "Soinin kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Soini"
+      ],
+      "location": "Hakemus Soinin kunnan sähköisellä hakulomakkeella; kunnan yhteystiedot Multiantie 27 A, 63800 Soini.",
+      "regular_time": "Haku kahdesti vuodessa, lokakuussa ja helmikuussa. Syksyn 2026 hakuaika 1.–31.10.2026; maksu marras- ja maaliskuussa.",
+      "free_and_conditions": "Kunnan myöntämä 200 € lukukaudessa (400 € vuodessa), enintään viiden vuoden ajan. Kohderyhmänä 18–29-vuotiaat päätoimiset ammattiin tai tutkintoon tähtäävät opiskelijat, jotka ovat kirjoilla Soinissa koko lukuvuoden mutta asuvat opintojen vuoksi muualla. Virallinen sivu ei kuvaa tukea lainaksi eikä ilmoita takaisinmaksuehtoa.",
+      "contact": "Soinin kunta, soinin.kunta@soini.fi, Multiantie 27 A, 63800 Soini.",
+      "source_urls": [
+        "https://kunta.soini.fi/index.php/fi/opiskelijatuki-soinilaisille-opiskelijoille",
+        "https://kunta.soini.fi/index.php/fi/mita-soinilaisena-saat"
+      ],
+      "checked_date": "2026-11-16",
+      "status": "accepted",
+      "publication_ready": true,
+      "notes": "Syksyn 2026 haku on tarkistuspäivänä jo päättynyt; seuraava ilmoitettu hakukierros on helmikuussa 2027."
+    },
+    {
+      "id": "soini-vauvaraha",
+      "name": "Soinin kunnan vauvaraha",
+      "organizer": "Soinin kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Soini"
+      ],
+      "location": "Automaattinen kunnan myöntämä tuki; kunnan yhteystiedot Multiantie 27 A, 63800 Soini.",
+      "regular_time": "Kunta tarkistaa syntyneiden soinilaisten määrän vuosittain ja maksaa 500 € vuodessa kolmen vuoden ajan, yhteensä 1 500 €.",
+      "free_and_conditions": "Tuki Soinissa syntyneelle lapselle, jos lapsi/perhe asuu edelleen Soinissa. Erillistä hakemusta ei tarvita; kunta ilmoittaa tuen saajille automaattisesti. Tuki on verollinen.",
+      "contact": "Soinin kunta, soinin.kunta@soini.fi, Multiantie 27 A, 63800 Soini.",
+      "source_urls": [
+        "https://kunta.soini.fi/fi/asuminen-ja-ymparisto/mita-soinilaisena-saat/vauvaraha",
+        "https://kunta.soini.fi/index.php/fi/mita-soinilaisena-saat"
+      ],
+      "checked_date": "2026-11-16",
+      "status": "accepted",
+      "publication_ready": true
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "hyvaep-lapsiperheiden-kotipalvelu",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Seinäjoki",
+        "Soini",
+        "Teuva",
+        "Vimpeli",
+        "Ähtäri"
+      ],
+      "status": "accepted_conditional_free_existing_record",
+      "note": "Maksuton vain julkaistujen tulorajojen, säännöllisen toimeentulotuen tai lapsen asiakassuunnitelmaan perustuvan maksuttoman myöntämisperusteen täyttyessä. Yhteyshenkilöt ja yhteinen asiakasohjaus ovat 15.11.2026 auditissa."
+    },
+    {
+      "id": "hyvaep-supplementary-preventive-income-support",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Seinäjoki",
+        "Soini",
+        "Teuva",
+        "Vimpeli",
+        "Ähtäri"
+      ],
+      "status": "accepted_existing_regional_record",
+      "note": "Täydentävä ja ehkäisevä toimeentulotuki koko Etelä-Pohjanmaalla; Kelan perustoimeentulotuki ensisijaisesti, päätös yksilöllisen harkinnan perusteella."
+    },
+    {
+      "id": "hyvaep-talousneuvola",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Seinäjoki",
+        "Soini",
+        "Teuva",
+        "Vimpeli",
+        "Ähtäri"
+      ],
+      "status": "accepted_existing_regional_record",
+      "note": "Maksuton alueellinen talousneuvonta; Seinäjoella parittomien viikkojen perjantaisin klo 12–15, yhteys 050 408 5166."
+    },
+    {
+      "id": "etela-pohjanmaan-turvakoti",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Seinäjoki",
+        "Soini",
+        "Teuva",
+        "Vimpeli",
+        "Ähtäri"
+      ],
+      "status": "accepted_existing_regional_record",
+      "note": "Maksuton ympärivuorokautinen kriisimajoitus koko maakunnan asukkaille."
+    },
+    {
+      "id": "varke-korjausavustus-ikaantyneet-vammaiset",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Seinäjoki",
+        "Soini",
+        "Teuva",
+        "Vimpeli",
+        "Ähtäri"
+      ],
+      "status": "accepted_existing_nationwide_record",
+      "note": "Vastikkeeton korjausavustus ehtojen täyttyessä; omistus-/korjausvastuu, yli 65-vuotias tai vammainen taloudessa sekä tulo- ja varallisuusharkinta."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "seinajoki-lakeuden-ruoka-apu-current-primary-confirmation",
+      "municipality": "Seinäjoki",
+      "category": "Ruoka-apu",
+      "detail": "Arkikahvilan/toissijaisen hakemiston mukaan Lakeuden ruoka-apu ry:n jakelu Vellamonrinne 1 arkipäivisin klo 12–13, puhelin 040 417 1729. Järjestäjän oma ajantasainen sivu tai kirjallinen vahvistus puuttuu; ei hyväksytä ennen ensisijaista lähdettä."
+    },
+    {
+      "id": "seinajoki-viadia-food-aid-current-primary-confirmation",
+      "municipality": "Seinäjoki",
+      "category": "Ruoka-apu",
+      "detail": "ViaDia Seinäjoki ry:n osoite Koulukatu 47 vahvistuu ViaDian omalta yhdistyssivulta, mutta säännöllinen jakorytmi ja maksuttomuus eivät vahvistu järjestäjän omasta lähteestä."
+    },
+    {
+      "id": "peraseinajoki-uloskutsutut-food-aid-primary-confirmation",
+      "municipality": "Seinäjoki",
+      "category": "Ruoka-apu",
+      "detail": "Toissijainen hakemisto listaa Uloskutsutut ry:n jakelun Peräseinäjoella, mutta yhdistyksen oma ajantasainen lähde, maksuttomuus ja yhteystietojen vahvistus puuttuvat."
+    },
+    {
+      "id": "hyvaep-supported-housing-fee-terms",
+      "municipality": "Seinäjoki",
+      "category": "Kotiapu",
+      "detail": "HyvaEP:n tuetun asumisen/kotitiimien arjen tuki voi sisältää kodinhoidollisia tehtäviä ja asiointiapua. Asiakasmaksu ja tarkka kohderyhmä on vahvistettava ennen maksuttomaksi palveluksi hyväksymistä."
+    },
+    {
+      "id": "seinajoki-diakonia-material-aid-terms",
+      "municipality": "Seinäjoki",
+      "category": "Raha",
+      "detail": "Seinäjoen seurakunta kertoo diakonian kautta saatavan aineellista apua, mutta paikallisen raha-avun tai tavara-avun sisältö, maksuttomuus ja myöntämisehdot eivät ole riittävän tarkat."
+    },
+    {
+      "id": "hyvaep-asumisneuvonta-free-status",
+      "municipality": "Maakunnallinen",
+      "category": "Asuminen",
+      "detail": "HyvaEP:n asumisneuvonta kattaa alueen ja sisältää asunnonhaun, vuokravelkojen, häätöjen ja asumisen pulmien neuvontaa. Järjestäjän sivu ei ilmaise asiakasmaksua yksiselitteisesti; maksuttomuus vahvistettava ennen hyväksyntää."
+    },
+    {
+      "id": "soini-ruoka-apu-current-recurrence",
+      "municipality": "Soini",
+      "category": "Ruoka-apu",
+      "detail": "Soinin Ruoka-apu ry:n toiminnan olemassaolo vahvistuu seurakunnan 28.10.2026 infotilaisuudesta ja kunnan vuoden 2026 toimitila-avustuksesta. Jakoajan ja maksuttomuuden ajantasainen järjestäjän oma vahvistus puuttuu; vuoden 2025 lehtitietoa joka toisen viikon keskiviikosta ei käytetä julkaisutietona."
+    },
+    {
+      "id": "soini-diakonia-home-practical-help-free-terms",
+      "municipality": "Soini",
+      "category": "Kotiapu",
+      "detail": "Soinin seurakunnan diakonia ilmoittaa kotikäynneistä ja käytännön asiointiavusta, mutta tehtävien rajaus, maksuttomuus ja käytännön saatavuus on vahvistettava."
+    },
+    {
+      "id": "soini-diakonia-financial-aid-terms",
+      "municipality": "Soini",
+      "category": "Raha",
+      "detail": "Soinin seurakunnan diakonia ilmoittaa taloudellisesta avustamisesta hätätilanteissa. Avun myöntämisehdot, maksuttomuus ja mahdollinen kertaluonteisuus eivät käy lähteestä riittävän tarkasti ilmi."
+    },
+    {
+      "id": "teuva-diakonia-food-free-status",
+      "municipality": "Teuva",
+      "category": "Ruoka-apu",
+      "detail": "Teuvan seurakunta vahvistaa hävikkiruoan jaon diakoniatoimistosta maanantaisin ja torstaisin; normaaliaika 9–11, toistaiseksi 13–15, Asematie 4 C. Maksuttomuus ei ole sivulla yksiselitteinen."
+    },
+    {
+      "id": "teuva-diakonia-financial-aid-terms",
+      "municipality": "Teuva",
+      "category": "Raha",
+      "detail": "Seurakuntatoimistossa toimii diakoniavastaanotto vaikeissa tilanteissa, mutta taloudellisen avun tarkat ehdot ja maksuttomuus on vahvistettava."
+    },
+    {
+      "id": "vimpeli-diakonia-home-visit-help-free-terms",
+      "municipality": "Vimpeli",
+      "category": "Kotiapu",
+      "detail": "Alajärven seurakunnan Vimpelin diakoniatyöhön kuuluvat kotikäynnit. Kotona annettavan käytännön avun sisältö, maksuttomuus ja saatavuus on täsmennettävä."
+    },
+    {
+      "id": "vimpeli-diakonia-financial-aid-terms",
+      "municipality": "Vimpeli",
+      "category": "Raha",
+      "detail": "Vimpelin diakoniatyö tarjoaa keskusteluapua taloudellisiin ja muihin huoliin, mutta varsinaisen rahallisen avun olemassaolo, maksuttomuus ja ehdot on vahvistettava."
+    },
+    {
+      "id": "ahtari-food-distribution-free-status",
+      "municipality": "Ähtäri",
+      "category": "Ruoka-apu",
+      "detail": "Ähtärin seurakunta vahvistaa aikuisille tiistaisin ja lapsiperheille perjantaisin klo 10–11 järjestettävän lahjoitetun ylijäämäruoan jaon Ostolantie 14:ssä. Maksuttomuus ei ole sivulla yksiselitteinen."
+    },
+    {
+      "id": "ahtari-diakonia-home-visits-free-terms",
+      "municipality": "Ähtäri",
+      "category": "Kotiapu",
+      "detail": "Ähtärin seurakunnan mukaan kotikäyntityö on keskeinen osa diakoniaa. Tehtävien sisältö, maksuttomuus ja saatavuus on täsmennettävä."
+    },
+    {
+      "id": "ahtari-diakonia-clothing-aid-free-terms",
+      "municipality": "Ähtäri",
+      "category": "Vaatteet",
+      "detail": "Ähtärin seurakunnan diakoniatyön sivu vahvistaa vaateavun olemassaolon, mutta maksuttomuus, hakumenettely, ehdot ja säännöllinen asiointiaika puuttuvat."
+    },
+    {
+      "id": "ahtari-diakonia-financial-aid-terms",
+      "municipality": "Ähtäri",
+      "category": "Raha",
+      "detail": "Ähtärin seurakunta ohjaa taloudellisia huolia kokevan diakoniavastaanotolle ajanvarauksella. Varsinaisen taloudellisen avun sisältö ja maksuttomuus eivät vahvistu sivulta."
+    },
+    {
+      "id": "hope-seinajoki-intake-resumes-2027",
+      "municipality": "Seinäjoki / maakunta",
+      "category": "Vaatteet ja Tavarat",
+      "detail": "Hope Seinäjoen olemassa oleva tietue av-0201 on maksuton maakunnallinen vaate- ja tavara-apu, mutta uusia avunpyyntöjä ei oteta loppuvuonna 2026 muuton vuoksi. Tarkista uudelleen vuoden 2027 alussa."
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "spr-seinajoki-ruoka-apukortti-2026-11-10",
+      "municipality": "Seinäjoki",
+      "category": "Ruoka-apu",
+      "reason": "SPR Seinäjoen osaston 10.11.2026 maksukorttijako oli yksittäinen päivämääräkohtainen tilaisuus ja korttien voimassaolo päättyy 30.11.2026. Ei vahvistettua säännöllistä jakorytmiä; ei hyväksytä jatkuvaksi palveluksi.",
+      "source_urls": [
+        "https://osastot.punainenristi.fi/osastot/ajankohtaista/ruoka-apu"
+      ]
+    },
+    {
+      "id": "soini-housing-discount-50",
+      "municipality": "Soini",
+      "category": "Asuminen",
+      "reason": "Työn perusteella myönnettävä 50 % alennus kunnan vuokra-asunnon vuokrasta on alennus maksullisesta asumisesta, ei maksuton asumispalvelu.",
+      "source_urls": [
+        "https://kunta.soini.fi/index.php/fi/asuminen-ja-ymparisto/mita-soinilaisena-saat/asuntoetu-soiniin-toihin-tulevalle"
+      ]
+    },
+    {
+      "id": "soini-first-degree-scholarship-fixed-cohort",
+      "municipality": "Soini",
+      "category": "Raha",
+      "reason": "1 000 € stipendi on sidottu hakijan kotikuntaan 31.12.2023 ja valmistumista seuraavan vuoden loppuun. Rajattu vanha kelpoisuusryhmä; ei käsitellä yleisenä jatkuvana palveluna tässä kartoituksessa.",
+      "source_urls": [
+        "https://kunta.soini.fi/fi/asuminen-ja-ymparisto/mita-soinilaisena-saat/stipendi-ensimmaisen-korkeakoulututkinnon"
+      ]
+    },
+    {
+      "id": "teuva-mission-flea-market",
+      "municipality": "Teuva",
+      "category": "Vaatteet ja Tavarat",
+      "reason": "Seurakunnan lähetystyön kirpputori on myyntitoimintaa; maksuttomasta vaate- tai tavarajaosta ei löytynyt ensisijaista vahvistusta.",
+      "source_urls": [
+        "https://www.teuvanseurakunta.fi/tule-mukaan"
+      ]
+    },
+    {
+      "id": "vimpeli-paid-soup-lunch",
+      "municipality": "Vimpeli",
+      "category": "Ruoka-apu",
+      "reason": "Seurakuntakodin noin kuukausittainen keittolounas maksaa 4 € (ulosmyynti 3 €/litra), joten se ei ole maksuton ruoka-apupalvelu.",
+      "source_urls": [
+        "https://www.alajarvenseurakunta.fi/apua-ja-tukea/diakoniatyo-vimpelin-alueella"
+      ]
+    }
+  ],
+  "existing_record_updates": [
+    {
+      "id": "av-0201",
+      "name": "Hope Seinäjoki – maksuton vaate- ja tavara-apu vähävaraisille lapsiperheille",
+      "status": "temporarily_closed_to_new_requests_until_end_2026",
+      "detail": "Hope Seinäjoen oma sivu kertoo, ettei uusia avunpyyntöjä voida ottaa loppuvuodelle 2026 muuton vuoksi. Tietuetta ei kopioida eikä käsitellä uusille hakijoille tällä hetkellä avoimena.",
+      "source_url": "https://hopeyhdistys.fi/paikallistoimisto/seinajoki/",
+      "checked_date": "2026-11-16"
+    }
+  ],
+  "coverage_notes": [
+    "Tässä ajossa tehtiin viimeiset 30 kuntakategoriatarkistusta viidessä kunnassa. Yhdessä 15.11.2026 auditin kanssa kaikki 18 Etelä-Pohjanmaan kuntaa on nyt käyty ensimmäisellä kuuden kategorian seulontakierroksella (108 tarkistusta).",
+    "Kuntien ensimmäinen seulonta ei tarkoita kuntien valmistumista: maksuttomuuden, hakuehtojen, ajantasaisen rytmin tai yhteystietojen avoimet kohdat estävät valmiiksi merkitsemisen.",
+    "Maakunnalliset palvelut säilytetään yhtenä tietueena; HyvaEP:n palveluja, turvakotia, VARKEn avustusta ja Hope Seinäjokea ei kopioida kuntakohtaisiksi kaksoiskappaleiksi.",
+    "Seinäjoen seurakunnan Ruokapankki on uusi hyväksytty paikallinen tietue. Soinin opiskelijatuki ja vauvaraha ovat kaksi uutta kunnan jatkuvaa taloudellisen tuen muotoa.",
+    "Etelä-Karjalan 9 kunnan ensimmäinen seulonta on jo tehty tiedostossa data/etela-karjala-lahdetarkistus-2026-11-15.json. Etelä-Pohjanmaan jälkeen seuraava uusi maakunta aakkosjärjestyksessä on Etelä-Savo."
+  ],
+  "counts": {
+    "municipalities_reviewed": 18,
+    "category_checks_completed": 108,
+    "accepted_unique_service_records": 15,
+    "pending_service_leads_or_details": 40,
+    "excluded_observations": 24,
+    "municipalities_marked_complete": 0,
+    "new_municipalities_reviewed_this_run": 5,
+    "new_category_checks_this_run": 30,
+    "new_accepted_service_records_this_run": 3,
+    "new_pending_leads_or_details_this_run": 18,
+    "new_excluded_observations_this_run": 5
+  },
+  "next_continuation": {
+    "province": "Etelä-Savo",
+    "municipality": "Enonkoski",
+    "category": "Ruoka-apu",
+    "category_order": [
+      "Ruoka-apu",
+      "Kotiapu",
+      "Vaatteet",
+      "Tavarat",
+      "Raha",
+      "Asuminen"
+    ],
+    "municipality_order": [
+      "Enonkoski",
+      "Heinävesi",
+      "Hirvensalmi",
+      "Joroinen",
+      "Juva",
+      "Kangasniemi",
+      "Mikkeli",
+      "Mäntyharju",
+      "Pieksämäki",
+      "Puumala",
+      "Rantasalmi",
+      "Savonlinna",
+      "Sulkava"
+    ],
+    "source_url": "https://www.kuntaliitto.fi/maakunta/etela-savo",
+    "note": "Etelä-Karjalan ja Etelä-Pohjanmaan ensimmäiset kuntaseulonnat ovat jo olemassa. Etelä-Savon kuntaluettelo tarkistettu Kuntaliiton 2026 listasta; Heinävesi ja Joroinen mukana."
+  }
+}
