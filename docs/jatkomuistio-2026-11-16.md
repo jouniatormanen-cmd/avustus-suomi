@@ -70,8 +70,8 @@ Poissuljettiin:
 
 - Etelä-Pohjanmaan ensimmäisen kuuden kategorian seulonnan läpikäyneet kunnat: **18/18**.
 - Kuntakategoriatarkistuksia: **108**.
-- Uusia hyväksyttyjä palvelutietueita tässä ajossa: **3**.
-- Avoimia palveluvihjeitä/täydennyksiä yhteensä: **40**.
+- Uusia hyväksyttyjä palvelutietueita tässä ajossa: **2**.
+- Avoimia palveluvihjeitä/täydennyksiä yhteensä: **41**.
 - Poissuljettuja havaintoja yhteensä: **24**.
 - Kokonaan valmiiksi merkittyjä kuntia: **0**.
 - Päärekisteriä (paarekisteri.json, palvelut.json) tai julkista sivustoa ei muutettu.
