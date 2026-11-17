@@ -364,7 +364,7 @@
       "municipality": "Juva",
       "category": "Tavarat",
       "status": "accepted",
-      "finding": "Juvan seurakunta jakaa ESR+ aineellisen avun maksukortteja; kortti on 40 euroa ja käy elintarvikkeisiin sekä muihin perustuotteisiin S- ja K-ryhmän kaupoissa. Uusia eriä jaetaan vuoden 2026 loppuun. Haku kasvokkaisessa diakoniatapaamisessa, kohderyhmänä erityisesti työttömät ja työelämän ulkopuolella olevat aikuiset perheineen.",
+      "finding": "Juvan seurakunta jakaa ESR+ aineellisen avun maksukortteja; kortti on 40 euroa ja käy elintarvikkeisiin sekä muihin perustuotteisiin maksukortin myöntäneissä S-ryhmän kaupoissa. Uusia eriä jaetaan vuoden 2026 loppuun. Haku kasvokkaisessa diakoniatapaamisessa, kohderyhmänä erityisesti työttömät ja työelämän ulkopuolella olevat aikuiset perheineen.",
       "pending_ids": [],
       "service_ids": [
         "juva-esr-material-aid-card"
@@ -808,16 +808,16 @@
       ],
       "location": "Juvan seurakunnan diakoniatoimisto, Pappilan kulma, Piikkiläntie 5–7, 51900 Juva",
       "regular_time": "Kasvokkainen diakoniatapaaminen ajanvarauksella; uusia korttier iä jaetaan vuoden 2026 loppuun asti. Maarit-Hannele Sutisen vastaanotto tiistaisin; Jonna Lemmetyisen vastaanotto torstaisin ja perjantaisin.",
-      "free_and_conditions": "Avunsaajalle maksuton 40 euron maksukortti elintarvikkeisiin ja muihin perustarvikkeisiin S- ja K-ryhmän kaupoissa. Pääkohderyhmänä työttömät ja työelämän ulkopuolella olevat aikuiset sekä heidän perheensä. Avuntarve kartoitetaan henkilökohtaisessa tapaamisessa. Kortilla ei voi ostaa Veikkaus-, alkoholi- tai tupakkatuotteita.",
+      "free_and_conditions": "Avunsaajalle maksuton 40 euron maksukortti elintarvikkeisiin ja muihin perustuotteisiin maksukortin myöntäneissä S-ryhmän kaupoissa. Pääkohderyhmänä työttömät ja työelämän ulkopuolella olevat aikuiset sekä heidän perheensä. Avuntarve kartoitetaan henkilökohtaisessa tapaamisessa. Kortilla ei voi ostaa Veikkaus-, alkoholi- tai tupakkatuotteita.",
       "contact": "Maarit-Hannele Sutinen 044 0340 990 (ma–ke; vastaanotto ti), Jonna Lemmetyinen 0440 334 503 (ma–pe; vastaanotto to–pe); Pappilan Kulma, Piikkiläntie 5–7, 51900 Juva.",
       "source_urls": [
         "https://www.juvanseurakunta.fi/apua-ja-tukea",
-        "https://www.juvanseurakunta.fi/"
+        "https://www.juvanseurakunta.fi/kirkot-ja-tilat/pappilan-kulma"
       ],
       "checked_date": "2026-11-17",
       "status": "accepted",
       "publication_ready": true,
-      "notes": "Seurakunnan virasto- ja diakoniatoiminnot ovat muuttaneet Piikkiläntie 5–7:ään; vanhaa seurakuntatalon osoitetta ei käytetä."
+      "notes": "Seurakunnan toimistot ja diakonian vastaanotto ovat siirtyneet Pappilan Kulmaan 1.10.2026; kortin käyttöpaikat ovat myöntäneen seurakunnan ilmoittamat S-ryhmän kaupat."
     },
     {
       "id": "mikkeli-soppatiistai",
@@ -1280,7 +1280,7 @@
     "Eloisan palvelut kattavat 11 kuntaa: Enonkoski, Hirvensalmi, Juva, Kangasniemi, Mikkeli, Mäntyharju, Pieksämäki, Puumala, Rantasalmi, Savonlinna ja Sulkava. Heinävesi kuuluu Siun soten alueeseen ja Joroinen Pohjois-Savon hyvinvointialueeseen; niiden palvelut kirjattiin eri järjestäjien alle.",
     "Heinäveden Siun soten lapsiperheiden kotipalvelu on maksuton; Siun soten täydentävä/ehkäisevä toimeentulotuki on erillinen hyväksytty Raha-palvelu. Joroisten Pohjois-Savon lapsiperheiden kotipalvelu on maksuton vain julkaistujen erityisehtojen täyttyessä; Pohjois-Savon täydentävä/ehkäisevä toimeentulotuki kirjattiin erikseen.",
     "Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva kansallinen tietue av-0029. Etelä-Savon paikallinen neuvoja Ismo Kortman 0500 651 737, ismo.kortman@vtkl.fi. Ei luoda uutta kopiota.",
-    "Juvan seurakunnan ESR+ 40 euron kortti käy S- ja K-ryhmän kaupoissa. Seurakunnan nykyinen toimipaikka on Pappilan Kulma, Piikkiläntie 5–7; vanhaa seurakuntatalon osoitetta ei käytetä.",
+    "Juvan seurakunnan ESR+ 40 euron kortti käy kortin myöntäneissä S-ryhmän kaupoissa. Seurakunnan nykyinen toimipaikka on Pappilan Kulma, Piikkiläntie 5–7; vanhaa seurakuntatalon osoitetta ei käytetä.",
     "Enonkosken kirjaston kotikirjapalvelu, Kangasniemen Perjantai-Pysäkki ja Mikkelin avoimet perheiden kohtaamispaikat ovat maksuttomia mutta eivät kuulu kuuteen pyydettyyn avustuskategoriaan; niitä ei laskettu hyväksytyiksi avustuspalveluiksi.",
     "Joroisten ja Pieksämäen seurakuntien taloudellinen kriisiapu sekä Heinäveden ja Hirvensalmen seurakuntien kertaluonteinen taloudellinen apu rajattiin pois jatkuvista raha-avustuspalveluista.",
     "Julkista verkkosivustoa, data/paarekisteri.json-tiedostoa tai data/palvelut.json-tiedostoa ei muutettu."
