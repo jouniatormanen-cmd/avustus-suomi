@@ -88,6 +88,6 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 - Poissuljetut havainnot: **11**.
 - Kokonaan valmiiksi merkityt kunnat: **0**.
 
-Seuraava kunta on **Puumala**, aloitus **Ruoka-apu**. Jatka kaikki kuusi kategoriaa ennen Rantasalmelle siirtymistä. Puumalan siivouspalvelusetelistä löytyi ennakkotieto: asiakas maksaa palveluntuottajan hinnan ja setelin arvon erotuksen, joten sitä ei hyväksytä maksuttomaksi palveluksi.
+Seuraava kunta on **Puumala**, aloitus **Ruoka-apu**. Jatka kaikki kuusi kategoriaa ennen Rantasalmelle siirtymistä.
 
 Päärekisteriä `data/paarekisteri.json` ja `data/palvelut.json` eikä julkista verkkosivustoa muutettu.
