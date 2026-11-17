@@ -47,7 +47,7 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 - Joroinen kuuluu Pohjois-Savon hyvinvointialueeseen; sen lapsiperheiden kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki kirjataan Pohjois-Savon alle.
 - Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva kansallinen tietue **av-0029**. Etelä-Savon paikallinen neuvoja Ismo Kortman, 0500 651 737, ismo.kortman@vtkl.fi. Ei luotu uutta kopiota.
 
-## Avoimet kohdat (15)
+## Avoimet kohdat (16)
 
 - Enonkosken kevään yhteisöruokailun syksyn 2026 aikataulua ei löytynyt; kevään päivät päättyivät 14.5. ja maksu oli vapaaehtoinen.
 - Heinäveden Liperin seurakunnan kerran kuussa saatavan ruokakassin paikallinen noutopaikka ja maksuttomuus täsmennettävä.
@@ -84,7 +84,7 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 - Kunnat tarkistettu ensimmäisellä kierroksella: **9/13**.
 - Kuntakategoriatarkistukset: **54**.
 - Hyväksytyt yksilölliset palvelutietueet: **12**.
-- Avoimet palveluvihjeet/täydennykset: **15**.
+- Avoimet palveluvihjeet/täydennykset: **16**.
 - Poissuljetut havainnot: **11**.
 - Kokonaan valmiiksi merkityt kunnat: **0**.
 
