@@ -65,7 +65,7 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 - Mäntyharjun seurakunnan diakoniavastaanoton ruoka- ja talousavun säännöllisyys, maksuttomuus ja ehdot täsmennettävä.
 - Pieksämäen seurakunnan diakoniatoimistojen ajanvarauksella saatavan hernekeitto- ja näkkileipäavun maksuttomuus, noutopaikka ja säännöllisyys täsmennettävä.
 
-## Poissuljetut (11)
+## Poissuljetut (13)
 
 - Enonkosken tilapäisasunto 20 €/vrk.
 - Enonkosken Kyllikki Östringin palveluseteli siltä osin kuin asiakas maksaa palvelun hinnan ja setelin erotuksen.
@@ -78,6 +78,8 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 - Pieksämäen seurakunnan yleensä kertaluonteinen taloudellinen kriisiapu jatkuvan raha-avustuspalvelun rekisteristä.
 - ViaDia Mikkelin maksulliset kirpputorit.
 - Mikkelin 10 € ohjelmallinen lounas.
+- Juvan seurakunnan ennen joulua vuosittain jaettavat jouluruokakassit (joulun kausitapahtuma).
+- Juvan seurakunnan ikäihmisten Pikkuhelppi 5.2.–24.5.2024 (päättynyt määräaikainen toiminta).
 
 ## Kattavuus ja jatko
 
