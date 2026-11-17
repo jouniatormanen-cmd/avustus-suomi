@@ -190,13 +190,15 @@
     {
       "municipality": "Hirvensalmi",
       "category": "Ruoka-apu",
-      "status": "pending_explicit_free_status",
-      "finding": "Hirvensalmen seurakunnan sivu vahvistaa SPR:n hävikkiruokajaon joka perjantai klo 11–11.30 seurakuntatalon alakerrassa. Järjestäjänä SPR Hirvensalmi; sivu ei kuitenkaan sano maksuttomuutta suoraan. Yhteyshenkilöt Kalevi Puukko 044 550 4301 ja diakoni Ainoleena Laitinen 0400 143 694. EU-ruokakortteja voi tiedustella.",
+      "status": "accepted_and_pending",
+      "finding": "Hirvensalmen seurakunnan Arjen Aamiainen on maksuton osallistujalle (vapaaehtoinen maksu), kerran kuukaudessa perjantaisin klo 10–11 seurakuntakodilla, Sysmäläntie 1. Lisäksi SPR:n viikoittainen perjantain hävikkiruokajako klo 11–11.30 on vahvistettu, mutta sen maksuttomuus ei ilmene lähteestä suoraan; EU-ruokakorttien hakureitti on avoin.",
       "pending_ids": [
         "hirvensalmi-spr-surplus-food-free-status",
         "hirvensalmi-eu-food-card-access"
       ],
-      "service_ids": [],
+      "service_ids": [
+        "hirvensalmi-arjen-aamiainen"
+      ],
       "checked_date": "2026-11-17",
       "excluded_ids": []
     },
@@ -977,6 +979,29 @@
       "status": "accepted_voluntary_contribution",
       "publication_ready": true,
       "notes": "Vapaaehtoinen maksu ei ole osallistumisen ehto; seuraavan kuukauden tarkka päivämäärä ei ollut vielä julkaistu tarkistushetkellä."
+    },
+    {
+      "id": "hirvensalmi-arjen-aamiainen",
+      "name": "Hirvensalmen seurakunnan Arjen Aamiainen",
+      "organizer": "Hirvensalmen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hirvensalmi"
+      ],
+      "location": "Seurakuntakoti, Sysmäläntie 1, 52550 Hirvensalmi",
+      "regular_time": "Kerran kuukaudessa perjantaisin klo 10–11; tarkka päivämäärä ilmoitetaan seurakunnan tapahtumakalenterissa.",
+      "free_and_conditions": "Avoin yhteinen aamiainen. Maksu on vapaaehtoinen, joten osallistuminen ei edellytä maksua.",
+      "contact": "Diakoni Ainoleena Laitinen, 0400 143 694; Hirvensalmen seurakunta.",
+      "source_urls": [
+        "https://www.hirvensalmenseurakunta.fi/apua-ja-tukea/diakonia",
+        "https://www.hirvensalmenseurakunta.fi/kirkko-ja-tilat/seurakuntakoti"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted_voluntary_contribution",
+      "publication_ready": true,
+      "notes": "Seurakunnan sivu vahvistaa kerran kuussa perjantaisin klo 10–11; vapaaehtoinen maksu ei ole osallistumisen ehto."
     }
   ],
   "regional_service_reuse": [
@@ -1152,12 +1177,6 @@
       "detail": "Ristiinan alueseurakunnan tapahtumasivut vahvistavat maksuttoman yhteisölounaan ja vapaaehtoisen maksun useina tiistaina syksyllä 2026; tarkka säännöllinen rytmi ja seuraavat päivät eivät ole yksiselitteiset."
     },
     {
-      "id": "hirvensalmi-arjen-aamiainen-free-status",
-      "municipality": "Hirvensalmi",
-      "category": "Ruoka-apu",
-      "detail": "Arjen Aamiainen kokoontuu seurakuntakodilla kerran kuukaudessa perjantaisin klo 10–11; tarjoilu ja maksu ovat vapaaehtoisia. Maksuttomuus ja seuraavat päivät vahvistettava."
-    },
-    {
       "id": "hirvensalmi-refugee-clothing-and-dishes-eligibility",
       "municipality": "Hirvensalmi",
       "category": "Vaatteet ja Tavarat",
@@ -1310,14 +1329,14 @@
   "counts": {
     "municipalities_reviewed": 9,
     "category_checks_completed": 54,
-    "accepted_unique_service_records": 12,
-    "pending_service_leads_or_details": 16,
+    "accepted_unique_service_records": 13,
+    "pending_service_leads_or_details": 15,
     "excluded_observations": 13,
     "municipalities_marked_complete": 0,
     "new_municipalities_reviewed_this_run": 9,
     "new_category_checks_this_run": 54,
-    "new_accepted_service_records_this_run": 12,
-    "new_pending_leads_or_details_this_run": 16,
+    "new_accepted_service_records_this_run": 13,
+    "new_pending_leads_or_details_this_run": 15,
     "new_excluded_observations_this_run": 13
   },
   "next_continuation": {
