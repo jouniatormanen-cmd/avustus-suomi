@@ -2,7 +2,7 @@
 
 ## Tarkka jatkokohta
 
-**Etelä-Savo / Mäntyharju / Ruoka-apu.** Etene kunnissa aakkosjärjestyksessä ja jokaisessa kuusi kategoriaa tässä järjestyksessä: Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha, Asuminen.
+**Etelä-Savo / Puumala / Ruoka-apu.** Etene kunnissa aakkosjärjestyksessä ja jokaisessa kuusi kategoriaa tässä järjestyksessä: Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha, Asuminen.
 
 Etelä-Savon kuntajärjestys:
 1. Enonkoski
@@ -23,58 +23,71 @@ Kuntaluettelo: https://www.kuntaliitto.fi/maakunta/etela-savo
 
 ## Tämän ajon toteutunut työ
 
-Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi seitsemän ensimmäistä kuntaa: **Enonkoski, Heinävesi, Hirvensalmi, Joroinen, Juva, Kangasniemi ja Mikkeli**. Yhteensä **42 kuntakategoriatarkistusta**.
+Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän ensimmäistä kuntaa: **Enonkoski, Heinävesi, Hirvensalmi, Joroinen, Juva, Kangasniemi, Mikkeli, Mäntyharju ja Pieksämäki**. Yhteensä **54 kuntakategoriatarkistusta**.
 
-### Uudet hyväksytyt palvelut (7 yksilöllistä tietuetta)
+### Uudet hyväksytyt palvelut (12 yksilöllistä tietuetta)
 
-1. **Enonkosken kunnan maksuttomat liukuesteet 65 vuotta täyttäneille – Tavarat.** Haettavissa kunnanvirastolta ma–pe klo 9–15, Enonkoskentie 3T, puh. 015 527 5500.
+1. **Enonkosken kunnan maksuttomat liukuesteet 65 vuotta täyttäneille – Tavarat.** Kunnanvirastolta ma–pe klo 9–15, Enonkoskentie 3T, puh. 015 527 5500.
 2. **Enonkosken Thera-Trainer Mobi -polkulaitteen maksuton kotilaina – Tavarat.** Yli 65-vuotiaille fysioterapeutin suosituksesta. FysioSatama Enonkoski, Kirkkotie 6, puh. 050 306 6620.
-3. **Eloisan maksuton lapsiperheen kotipalvelu – Kotiapu.** Etelä-Savon Eloisa-alueen perheille, joissa on alle 18-vuotias lapsi; yksilöllinen palvelutarpeen arviointi. Perheneuvo 015 411 4120, ma–pe 9–14. Palvelu voi olla tilapäinen tai jatkuva.
-4. **Eloisan täydentävä ja ehkäisevä toimeentulotuki – Raha.** Takaisinmaksuton, yksilölliseen harkintaan perustuva tuki Kelan perustoimeentulotukipäätöksen jälkeen. Neuvonta 040 359 7770, ma–pe 9–12.
-5. **Juvan seurakunnan ESR+ aineellisen avun 40 € maksukortti – Ruoka-apu/Tavarat.** Käy elintarvikkeisiin ja muihin perustuotteisiin S-ryhmän kaupoissa. Uusia eriä jaetaan vuoden 2026 loppuun; kasvokkainen diakoniatapaaminen. Seurakunnan nykyinen toimipaikka Pappilan kulma, Piikkiläntie 5–7.
-6. **Mikkelin tuomiokirkkoseurakunnan Soppatiistai – Ruoka-apu.** Maksuton keittoruokailu vähävaraisille joka tiistai klo 11–12, Kirkonmäen seurakuntatalo, Otavankatu 9. Anne Pöyry 0400 143 419.
-7. **Mikkelin tuomiokirkkoseurakunnan maksuton diakonia- ja taloudellisen avun vastaanotto – Raha.** Mikkelin asukkaille; palvelut luottamuksellisia ja maksuttomia. Avustusvastaanoton ajanvaraus/neuvonta 0400 143 250 ma ja pe klo 9–11, Savilahdenkatu 20, 3. kerros.
+3. **Eloisan maksuton lapsiperheen kotipalvelu – Kotiapu.** 11 Eloisan kunnan alle 18-vuotiaiden lasten perheille yksilöllisen palvelutarpeen arvioinnin perusteella. Perheneuvo 015 411 4120, ma–pe 9–14.
+4. **Eloisan täydentävä ja ehkäisevä toimeentulotuki – Raha.** Takaisinmaksuton tuki yksilöllisen harkinnan perusteella Kelan perustoimeentulotukipäätöksen jälkeen. Neuvonta 040 359 7770, ma–pe 9–12.
+5. **Siun soten maksuton lapsiperheiden kotipalvelu Heinävedellä – Kotiapu.** Maksuton perheille palvelutarpeen perusteella; Heinäveden/Liperin/Outokummun/Polvijärven palveluneuvonta 013 330 5111.
+6. **Siun soten täydentävä ja ehkäisevä toimeentulotuki Heinävedellä – Raha.** Hakemus Miunpalveluissa tai paperilla; työikäisten sosiaalipalvelut 013 330 2810, ma–to 10–13 ja pe 10–12.
+7. **Pohjois-Savon hyvinvointialueen lapsiperheiden kotipalvelu Joroisissa – Kotiapu.** Maksuton vain julkaistujen erityisehtojen täyttyessä (lapsen erityinen tuki ja sosiaalityöntekijän arvio/asiakassuunnitelma, tuloraja, säännöllinen toimeentulotuki tai lastensuojelun asiakassuunnitelma). Puhelin 044 718 1321, ke 11–13.
+8. **Pohjois-Savon hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki Joroisissa – Raha.** Kelan perustoimeentulotukipäätöksen jälkeen yksilöllisen harkinnan perusteella; työikäisten sosiaalipalvelut 017 273 6080, ma–pe 9–11.
+9. **Juvan seurakunnan ESR+ aineellisen avun 40 € maksukortti – Ruoka-apu/Tavarat.** Käy elintarvikkeisiin ja muihin perustuotteisiin S- ja K-ryhmän kaupoissa. Uusia eriä vuoden 2026 loppuun; kasvokkainen diakoniatapaaminen. Nykyinen toimipaikka Pappilan Kulma, Piikkiläntie 5–7.
+10. **Mikkelin tuomiokirkkoseurakunnan Soppatiistai – Ruoka-apu.** Maksuton keittoruokailu vähävaraisille joka tiistai klo 11–12, Kirkonmäen seurakuntatalo, Otavankatu 9. Anne Pöyry 0400 143 419.
+11. **Mikkelin tuomiokirkkoseurakunnan maksuton diakonia- ja taloudellisen avun vastaanotto – Raha.** Mikkelin asukkaille; palvelut luottamuksellisia ja maksuttomia. Ajanvaraus/neuvonta 0400 143 250 ma ja pe klo 9–11, Savilahdenkatu 20, 3. kerros.
+12. **Pieksämäen seurakunnan Arkiateria – Ruoka-apu.** Kerran kuukaudessa Uuden kirkon seurakuntakeskuksessa, Keskuskatu 27–31. 20.10.2026 klo 11.30–13.00 vahvistettu. Maksu on vapaaehtoinen, joten osallistuminen ei edellytä maksua. Irma Alastalo 0440 767 903.
 
 ### Alueelliset tietueet – ei kaksoiskappaleita
 
-- Eloisan lapsiperheen kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki tallennetaan kumpikin vain yhtenä alueellisena palveluna. Niiden palvelusivujen alue-lista kattaa 11 kuntaa; Heinävesi ja Joroinen jätettiin näiden tietueiden ulkopuolelle.
-- Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva kansallinen tietue **av-0029**. Enonkosken 2026 opas vahvistaa Etelä-Savon neuvojan Ismo Kortmanin, 0500 651 737, ismo.kortman@vtkl.fi. Ei luotu uutta kopiota.
+- Eloisan kaksi palvelua kirjataan vain yhtenä alueellisena tietueena. Eloisan alueeseen kuuluvat Enonkoski, Hirvensalmi, Juva, Kangasniemi, Mikkeli, Mäntyharju, Pieksämäki, Puumala, Rantasalmi, Savonlinna ja Sulkava.
+- Heinävesi kuuluu Siun soten palvelualueeseen; sen lapsiperheiden kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki kirjataan Siun soten alle.
+- Joroinen kuuluu Pohjois-Savon hyvinvointialueeseen; sen lapsiperheiden kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki kirjataan Pohjois-Savon alle.
+- Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva kansallinen tietue **av-0029**. Etelä-Savon paikallinen neuvoja Ismo Kortman, 0500 651 737, ismo.kortman@vtkl.fi. Ei luotu uutta kopiota.
 
-## Avoimet kohdat (12)
+## Avoimet kohdat (15)
 
 - Enonkosken kevään yhteisöruokailun syksyn 2026 aikataulua ei löytynyt; kevään päivät päättyivät 14.5. ja maksu oli vapaaehtoinen.
 - Heinäveden Liperin seurakunnan kerran kuussa saatavan ruokakassin paikallinen noutopaikka ja maksuttomuus täsmennettävä.
-- Hirvensalmen SPR:n perjantain hävikkiruokajaon maksuttomuus vahvistettava suoraan järjestäjältä; EU-ruokakorttien hakureitti tarkistettava.
-- Joroisten seurakunnan/SPR:n 40 € ESR+ maksukorttien seuraava jakopäivä ja säännöllinen rytmi puuttuvat.
-- Juvan Toimintatalon perjantain ylijäämäruokajaon maksuttomuus ei käy kunnan sivulta suoraan ilmi.
+- Hirvensalmen SPR:n perjantain hävikkiruokajaon maksuttomuus vahvistettava; EU-ruokakorttien hakureitti tarkistettava.
+- Hirvensalmen kerran kuukaudessa järjestettävän Arjen Aamiaisen maksuttomuus ja seuraavat päivät täsmennettävä; tarjoilu ja maksu ovat vapaaehtoisia.
+- Hirvensalmen SPR:n maahanmuuttajille antaman vaate- ja astia-avun maksuttomuus, hakureitti ja säännöllisyys täsmennettävä.
+- Joroisten 40 € ESR+ aineellisen avun maksukorttien seuraava jakopäivä ja säännöllinen rytmi puuttuvat.
+- Juvan Toimintatalon perjantain ylijäämäruokajaon maksuttomuus ei käy kunnan sivulta yksiselitteisesti ilmi.
 - Kangasniemen Myrskylyhdyn ylijäämäruoan maksuttomuus ja järjestäjän oma ajantasainen lähde puuttuvat.
 - Kangasniemen seurakunnan pienimuotoisen talousavun maksuttomuus ja ehdot täsmennettävä.
 - Mikkelin ViaDia-yhteistyökumppanien valmiiden ruokakassien noutorytmi puuttuu.
 - Mikkelin Työttömät ry:n ruokajaon ajantasainen järjestäjälähde ja maksuttomuus puuttuvat.
 - Hope Mikkelin asiakkaiden avunhakureittiä, paikallista vaate-/tavarajakelua ja maksuttomuusehtoja ei ole vahvistettu.
 - Ristiinan soppatiistain säännöllinen rytmi ja vapaaehtoisen maksun tarkka luonne täsmennettävä.
-- Hirvensalmen diakonian maksuttoman talousohjauksen ja kertaluonteisen taloudellisen tuen suhde selvitettävä.
+- Mäntyharjun seurakunnan diakoniavastaanoton ruoka- ja talousavun säännöllisyys, maksuttomuus ja ehdot täsmennettävä.
+- Pieksämäen seurakunnan diakoniatoimistojen ajanvarauksella saatavan hernekeitto- ja näkkileipäavun maksuttomuus, noutopaikka ja säännöllisyys täsmennettävä.
 
-## Poissuljetut (8)
+## Poissuljetut (11)
 
 - Enonkosken tilapäisasunto 20 €/vrk.
 - Enonkosken Kyllikki Östringin palveluseteli siltä osin kuin asiakas maksaa palvelun hinnan ja setelin erotuksen.
 - Eloisan sosiaalinen luototus: takaisinmaksettava, korkoa sisältävä laina.
+- Heinäveden Liperin seurakunnan kertaluonteinen taloudellinen diakonia-apu jatkuvan raha-avustuspalvelun rekisteristä.
+- Hirvensalmen seurakunnan kertaluonteinen taloudellinen diakonia-apu jatkuvan raha-avustuspalvelun rekisteristä.
 - Joroisten seurakunnan kertaluonteinen taloudellinen kriisiapu jatkuvan raha-avustuspalvelun rekisteristä.
 - Joroisten 3 € diakonialounas.
 - Juvan seurakunnan erillinen kertaluonteinen kriisiapu jatkuvan raha-avustuspalvelun rekisteristä.
+- Pieksämäen seurakunnan yleensä kertaluonteinen taloudellinen kriisiapu jatkuvan raha-avustuspalvelun rekisteristä.
 - ViaDia Mikkelin maksulliset kirpputorit.
 - Mikkelin 10 € ohjelmallinen lounas.
 
 ## Kattavuus ja jatko
 
-- Kunnat tarkistettu: **7/13**.
-- Kuntakategoriatarkistukset: **42**.
-- Uudet hyväksytyt yksilölliset palvelutietueet: **7**.
-- Avoimet palveluvihjeet/täydennykset: **12**.
-- Poissuljetut havainnot: **8**.
+- Kunnat tarkistettu ensimmäisellä kierroksella: **9/13**.
+- Kuntakategoriatarkistukset: **54**.
+- Hyväksytyt yksilölliset palvelutietueet: **12**.
+- Avoimet palveluvihjeet/täydennykset: **15**.
+- Poissuljetut havainnot: **11**.
 - Kokonaan valmiiksi merkityt kunnat: **0**.
 
-Seuraava kunta on **Mäntyharju**, aloitus **Ruoka-apu**. Mäntyharjun seurakunnan diakonia-sivu löytyi, mutta nykyinen säännöllinen maksuton ruokajako ei vielä vahvistunut. Jatka kaikki kuusi kategoriaa ennen Pieksämäkeen siirtymistä.
+Seuraava kunta on **Puumala**, aloitus **Ruoka-apu**. Jatka kaikki kuusi kategoriaa ennen Rantasalmelle siirtymistä. Puumalan siivouspalvelusetelistä löytyi ennakkotieto: asiakas maksaa palveluntuottajan hinnan ja setelin arvon erotuksen, joten sitä ei hyväksytä maksuttomaksi palveluksi.
 
 Päärekisteriä `data/paarekisteri.json` ja `data/palvelut.json` eikä julkista verkkosivustoa muutettu.
