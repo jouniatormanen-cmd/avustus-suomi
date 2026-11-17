@@ -336,7 +336,9 @@
       ],
       "service_ids": [],
       "checked_date": "2026-11-17",
-      "excluded_ids": []
+      "excluded_ids": [
+        "juva-seurakunta-jouluruokakassit"
+      ]
     },
     {
       "municipality": "Juva",
@@ -348,7 +350,9 @@
         "eloisa-lapsiperheen-kotipalvelu"
       ],
       "checked_date": "2026-11-17",
-      "excluded_ids": []
+      "excluded_ids": [
+        "juva-pikkuhelppi-2024-expired"
+      ]
     },
     {
       "municipality": "Juva",
@@ -1272,6 +1276,24 @@
       "source_urls": [
         "https://www.pieksamaenseurakunta.fi/apua-ja-tukea/apua-talouden-ja-arjen-hallintaan"
       ]
+    },
+    {
+      "id": "juva-seurakunta-jouluruokakassit",
+      "municipality": "Juva",
+      "category": "Ruoka-apu",
+      "reason": "Juvan seurakunnan diakoniajakamat ruokakassit on lähdesivulla kuvattu vuosittain ennen joulua jaettaviksi jouluruokakasseiksi. Käyttäjän rajaus sulkee joulun kausitapahtumat pois.",
+      "source_urls": [
+        "https://www.juvanseurakunta.fi/apua-ja-tukea"
+      ]
+    },
+    {
+      "id": "juva-pikkuhelppi-2024-expired",
+      "municipality": "Juva",
+      "category": "Kotiapu",
+      "reason": "Juvan seurakunnan ikäihmisten Pikkuhelppi oli rajattu ajalle 5.2.–24.5.2024, eikä nykyisestä jatkosta ole näyttöä. Vanhentunutta määräaikaista toimintaa ei hyväksytä nykyiseksi palveluksi.",
+      "source_urls": [
+        "https://www.juvanseurakunta.fi/apua-ja-tukea"
+      ]
     }
   ],
   "coverage_notes": [
@@ -1290,13 +1312,13 @@
     "category_checks_completed": 54,
     "accepted_unique_service_records": 12,
     "pending_service_leads_or_details": 16,
-    "excluded_observations": 11,
+    "excluded_observations": 13,
     "municipalities_marked_complete": 0,
     "new_municipalities_reviewed_this_run": 9,
     "new_category_checks_this_run": 54,
     "new_accepted_service_records_this_run": 12,
     "new_pending_leads_or_details_this_run": 16,
-    "new_excluded_observations_this_run": 11
+    "new_excluded_observations_this_run": 13
   },
   "next_continuation": {
     "province": "Etelä-Savo",
