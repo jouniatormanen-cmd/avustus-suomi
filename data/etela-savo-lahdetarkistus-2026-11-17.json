@@ -1,0 +1,924 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-17",
+  "province": "Etelä-Savo",
+  "update_type": "first_pass_municipal_audit_partial",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Enonkoski",
+    "Heinävesi",
+    "Hirvensalmi",
+    "Joroinen",
+    "Juva",
+    "Kangasniemi",
+    "Mikkeli",
+    "Mäntyharju",
+    "Pieksämäki",
+    "Puumala",
+    "Rantasalmi",
+    "Savonlinna",
+    "Sulkava"
+  ],
+  "municipalities_reviewed": [
+    "Enonkoski",
+    "Heinävesi",
+    "Hirvensalmi",
+    "Joroinen",
+    "Juva",
+    "Kangasniemi",
+    "Mikkeli"
+  ],
+  "municipalities_remaining": [
+    "Mäntyharju",
+    "Pieksämäki",
+    "Puumala",
+    "Rantasalmi",
+    "Savonlinna",
+    "Sulkava"
+  ],
+  "category_checks": [
+    {
+      "municipality": "Enonkoski",
+      "category": "Ruoka-apu",
+      "status": "pending_current_autumn_schedule",
+      "finding": "Enonkosken vuoden 2026 ikääntyneiden palveluopas listaa yhteisöruokailun parillisina torstaina klo 11–12 vain kevään päiville 22.1.–14.5.; syksyn 2026 jatkuvaa aikataulua ei löytynyt. Maksu on ilmoitettu vapaaehtoiseksi. Ei hyväksytä nykyiseksi palveluksi ilman uutta aikataulua.",
+      "pending_ids": [
+        "enonkoski-community-meal-autumn-schedule"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Enonkoski",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Eloisan alueen perheet yksilöllisen palvelutarpeen arvioinnin perusteella; ei yleistä maksutonta ikäihmisten kotiapua vahvistettu.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Enonkoski",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei vahvistettu jatkuvaa maksutonta paikallista vaatejakelua tässä ensikierroksessa.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Enonkoski",
+      "category": "Tavarat",
+      "status": "accepted",
+      "finding": "Kunnan 2026 oppaassa vahvistuvat maksuttomat liukuesteet kaikille 65 vuotta täyttäneille kunnanvirastolta sekä maksuton Thera-Trainer Mobi -polkulaitteen kotilaina yli 65-vuotiaille fysioterapeutin suosituksella.",
+      "pending_ids": [],
+      "service_ids": [
+        "enonkoski-liukuesteet-65-plus",
+        "enonkoski-thera-trainer-loan"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Enonkoski",
+      "category": "Raha",
+      "status": "accepted_regional",
+      "finding": "Eloisan täydentävä ja ehkäisevä toimeentulotuki on käytettävissä Eloisan alueen asukkaille Kelan perustoimeentulotukipäätöksen jälkeen yksilöllisen harkinnan perusteella.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-taydentava-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Enonkoski",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva valtakunnallinen tietue av-0029. Enonkosken 2026 opas vahvistaa Etelä-Savon korjausneuvojan Ismo Kortmanin; itse korjaustyöt ovat asiakkaan maksettavia.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Heinävesi",
+      "category": "Ruoka-apu",
+      "status": "pending_local_access_and_free_terms",
+      "finding": "Liperin seurakunnan sivu kertoo ruoka-avun hakemisesta puhelinpäivystyksessä tiistaisin klo 9–10 ja ruokakassin saamisen kerran kuussa. Sivulla mainitaan vakituinen osoite Liperissä tai Heinävedellä, mutta Heinäveden paikallinen noutopaikka ja maksuttomuus eivät vahvistu yksiselitteisesti; Heinäveden yhteyshenkilö on Anne-Maria Issakainen.",
+      "pending_ids": [
+        "liperi-heinavesi-monthly-food-package-terms"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Heinävesi",
+      "category": "Kotiapu",
+      "status": "no_qualifying_free_service_confirmed_first_pass",
+      "finding": "Eloisan lapsiperheiden kotipalvelun alueellinen sivu ei listaa Heinäveden aluetta; Heinäveden paikallista maksutonta käytännön kotiapua ei vahvistettu.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Heinävesi",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Maksutonta jatkuvaa vaatejakelua ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Heinävesi",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Maksutonta jatkuvaa tavarajakoa tai lainauspalvelua ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Heinävesi",
+      "category": "Raha",
+      "status": "excluded_one_time_grant_guidance_not_fully_specified",
+      "finding": "Liperin seurakunta kertoo Heinäveden alueen diakoniasta ja taloudellisesta avustamisesta, mutta ruoka- ja raha-avun paikallinen hakureitti on osin epäselvä. Seurakunnan taloudellinen apu on kertaluonteista; erillinen jatkuva maksuton rahaohjaus jää tarkistettavaksi.",
+      "pending_ids": [
+        "liperi-heinavesi-diaconia-current-scope"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Heinävesi",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta on olemassa oleva valtakunnallinen tietue av-0029; Etelä-Savon oppaan paikallinen neuvoja ja yhteystieto voidaan liittää samaan tietueeseen, ei uutena kopiona.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Hirvensalmi",
+      "category": "Ruoka-apu",
+      "status": "pending_explicit_free_status",
+      "finding": "Hirvensalmen seurakunnan sivu vahvistaa SPR:n hävikkiruokajaon joka perjantai klo 11–11.30 seurakuntatalon alakerrassa. Järjestäjänä SPR Hirvensalmi; sivu ei kuitenkaan sano maksuttomuutta suoraan. Yhteyshenkilöt Kalevi Puukko 044 550 4301 ja diakoni Ainoleena Laitinen 0400 143 694. EU-ruokakortteja voi tiedustella.",
+      "pending_ids": [
+        "hirvensalmi-spr-surplus-food-free-status",
+        "hirvensalmi-eu-food-card-access"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Hirvensalmi",
+      "category": "Kotiapu",
+      "status": "no_qualifying_practical_home_help_confirmed",
+      "finding": "Diakonia tarjoaa maksuttomia kotikäyntejä ja keskusteluapua, mutta lähde ei kuvaa kotikäyntejä käytännön kotiapuna tai kotitöinä; niitä ei luokitella Kotiapu-palveluksi.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Hirvensalmi",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta vaatejakelua ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Hirvensalmi",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta tavarajakoa ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Hirvensalmi",
+      "category": "Raha",
+      "status": "pending_scope_of_free_financial_support",
+      "finding": "Seurakunnan diakonia ilmoittaa maksuttomasta keskusteluavusta ja taloudellisesta tuesta, mutta varsinainen taloudellinen apu on kertaluonteista. Jatkuva talousohjaus ja sen luokittelu Raha-kategoriaan vaativat täsmennyksen.",
+      "pending_ids": [
+        "hirvensalmi-diaconia-financial-guidance-scope"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Hirvensalmi",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta (av-0029) on olemassa oleva valtakunnallinen palvelu; ei luoda kuntakohtaista kopiota.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Joroinen",
+      "category": "Ruoka-apu",
+      "status": "pending_material_card_distribution_schedule",
+      "finding": "Joroisten seurakunta vahvistaa 40 euron aineellisen avun maksukorttiohjelman vuosille 2025–2027, mutta paikalliset jakopäivät ilmoitetaan erikseen eikä jatkuvaa jakorytmiä ole julkaistu järjestäjän sivulla. Kortilla voi ostaa ruokaa ja muita perustuotteita.",
+      "pending_ids": [
+        "joroinen-esr-material-card-next-distribution"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Joroinen",
+      "category": "Kotiapu",
+      "status": "no_qualifying_free_service_confirmed_first_pass",
+      "finding": "Maksutonta käytännön kotiapua ei vahvistettu; diakonian kotikäynti- tai keskustelutuki ei lähteissä tarkoita kotitöitä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Joroinen",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta paikallista vaatejakelua ei vahvistettu.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Joroinen",
+      "category": "Tavarat",
+      "status": "pending_material_card_distribution_schedule",
+      "finding": "40 euron ESR+ aineellisen avun maksukortti käy elintarvikkeisiin ja muihin perustarvikkeisiin S-ryhmän kaupoissa; jakopäivien säännöllisyys ja seuraava tilaisuus puuttuvat järjestäjän verkkosivulta.",
+      "pending_ids": [
+        "joroinen-esr-material-card-next-distribution"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Joroinen",
+      "category": "Raha",
+      "status": "excluded_one_time_crisis_grant",
+      "finding": "Joroisten seurakunnan taloudellinen diakonia-apu on lähteen mukaan pääsääntöisesti tilapäistä ja kertaluonteista kriisiapua; ei hyväksytä jatkuvaksi raha-avustuspalveluksi. ESR+ korttiohjelma jää erillisenä aineellisen avun vihjeenä avoimeksi.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Joroinen",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta (av-0029) säilytetään yhtenä valtakunnallisena tietueena; ei kuntakohtaista kopiota.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Juva",
+      "category": "Ruoka-apu",
+      "status": "pending_explicit_free_status",
+      "finding": "Juvan kunta vahvistaa kauppojen ylijäämäruoan jaon joka perjantai klo 9 Juvantie 7:n Toimintatalon ovelta; pyhäpäivänä torstaina klo 9. Ruokakassi yhdelle hakijalle, tuloja ei kysytä, mutta sivu ei ilmoita maksuttomuutta yksiselitteisesti.",
+      "pending_ids": [
+        "juva-toimintatalo-surplus-food-free-status"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Juva",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Eloisan alueen alle 18-vuotiaiden lasten perheet yksilöllisen palvelutarpeen arvioinnin perusteella.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Juva",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta vaatejakelua ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Juva",
+      "category": "Tavarat",
+      "status": "accepted",
+      "finding": "Juvan seurakunta jakaa ESR+ aineellisen avun maksukortteja; kortti on 40 euroa ja käy elintarvikkeisiin sekä muihin perustuotteisiin S-ryhmän kaupoissa. Uusia eriä luvataan vuoden 2026 loppuun. Haku kasvokkaisessa diakoniatapaamisessa, kohderyhmänä erityisesti työttömät ja työelämän ulkopuolella olevat aikuiset perheineen.",
+      "pending_ids": [],
+      "service_ids": [
+        "juva-esr-material-aid-card"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Juva",
+      "category": "Raha",
+      "status": "accepted_regional",
+      "finding": "Eloisan täydentävä ja ehkäisevä toimeentulotuki on käytettävissä Kelan perustoimeentulotukipäätöksen jälkeen yksilöllisen harkinnan perusteella. Juvan seurakunnan erillinen taloudellinen kriisiapu on yleensä kertaluonteista eikä sitä lisätä jatkuvaksi raha-avustuspalveluksi.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-taydentava-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Juva",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta (av-0029) on olemassa oleva valtakunnallinen tietue; ei luoda uutta kuntakohtaista tietuetta.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Kangasniemi",
+      "category": "Ruoka-apu",
+      "status": "pending_organizer_primary_and_free_status",
+      "finding": "Kangasniemen seurakunnan diakoniatyön sivu ohjaa kysymään Myrskylyhdyn päiväkeskuksesta kauppojen lahjoittamaa ylijäämäruokaa ma, ke ja pe klo 12.30–13.00, Kankaistentie 2. Myrskylyhdyn oma ajantasainen sivu ja maksuttomuuden suora vahvistus puuttuvat.",
+      "pending_ids": [
+        "kangasniemi-myrskylyhty-food-aid-free-status"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Kangasniemi",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Eloisan alueen perheet yksilöllisen palvelutarpeen arvioinnin perusteella.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Kangasniemi",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta vaatejakelua ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Kangasniemi",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta tavarajakoa ei vahvistettu järjestäjän ensisijaisesta lähteestä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Kangasniemi",
+      "category": "Raha",
+      "status": "pending_local_diaconia_terms",
+      "finding": "Kangasniemen seurakunnan diakonia kertoo voivansa auttaa pienimuotoisesti akuutissa talousahdingossa. Hakijalta pyydetään tili-/saldotiedot, tulo- ja menoselvitys sekä tarvittaessa toimeentulotukipäätös. Avun maksuttomuus ja myöntämisen tarkemmat ehdot eivät käy sivulta täysin ilmi; Eloisan alueellinen toimeentulotuki on erillinen hyväksytty palvelu.",
+      "pending_ids": [
+        "kangasniemi-diaconia-financial-aid-terms"
+      ],
+      "service_ids": [
+        "eloisa-taydentava-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Kangasniemi",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta (av-0029) on olemassa oleva valtakunnallinen tietue; ei luoda kopiota.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Mikkeli",
+      "category": "Ruoka-apu",
+      "status": "accepted",
+      "finding": "Mikkelin tuomiokirkkoseurakunnan Soppatiistai on vähävaraisille tarkoitettu maksuton keittoruokailu joka tiistai klo 11–12 Kirkonmäen seurakuntatalolla, Otavankatu 9. Lisäksi ViaDia Mikkelin yhteistyökumppanien ruokakassien noutoaika sekä Mikkelin Työttömät ry:n jakelun ajantasainen maksuttomuus jäävät avoimiksi.",
+      "pending_ids": [
+        "mikkeli-viadia-food-bag-schedule",
+        "mikkeli-tyottomat-food-distribution-primary-details"
+      ],
+      "service_ids": [
+        "mikkeli-soppatiistai"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Mikkeli",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Eloisan alueen perheet yksilöllisen palvelutarpeen arvioinnin perusteella; seurakunnan kotikäynnit eivät ole käytännön kotitöitä.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Mikkeli",
+      "category": "Vaatteet",
+      "status": "pending_local_client_assistance_details",
+      "finding": "Hope Mikkelin oma paikallissivu vahvistaa toimipisteen ja yhteystiedon, mutta ei nykyistä avunhakureittiä, vaatevalikoimaa tai maksuttomuusehtoja. Ei hyväksytä pelkän yleisen Hope-kuvauksen perusteella.",
+      "pending_ids": [
+        "hope-mikkeli-client-assistance-terms"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Mikkeli",
+      "category": "Tavarat",
+      "status": "pending_local_client_assistance_details",
+      "finding": "Hope Mikkelin paikallissivu ei vahvista asiakkaiden tavara-avun hakumenettelyä tai nykyistä jakelua. ViaDia-torit ovat maksullista myyntiä, eivät maksutonta tavara-apua.",
+      "pending_ids": [
+        "hope-mikkeli-client-assistance-terms"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Mikkeli",
+      "category": "Raha",
+      "status": "accepted",
+      "finding": "Mikkelin tuomiokirkkoseurakunnan diakoniatyön palvelut ovat luottamuksellisia ja maksuttomia; taloudellisen auttamisen asioissa voi varata avustusvastaanottoajan. Ristimäen ja Savilahden diakoniatoimisto, Savilahdenkatu 20, 3. krs; puhelin 0400 143 250 ma ja pe klo 9–11.",
+      "pending_ids": [],
+      "service_ids": [
+        "mikkeli-diakonia-free-financial-support"
+      ],
+      "checked_date": "2026-11-17"
+    },
+    {
+      "municipality": "Mikkeli",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_record_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta (av-0029) on olemassa oleva valtakunnallinen tietue; Etelä-Savon paikallinen neuvoja Ismo Kortman, 0500 651 737. Ei uutta kopiota.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029"
+      ],
+      "checked_date": "2026-11-17"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "enonkoski-liukuesteet-65-plus",
+      "name": "Enonkosken kunnan maksuttomat liukuesteet 65 vuotta täyttäneille",
+      "organizer": "Enonkosken kunta",
+      "categories": [
+        "Tavarat"
+      ],
+      "coverage": [
+        "Enonkoski"
+      ],
+      "location": "Enonkosken kunnanvirasto, Enonkoskentie 3T, 58175 Enonkoski",
+      "regular_time": "Kunnanvirasto ma–pe klo 9–15; liukuesteet voi hakea aukioloaikana.",
+      "free_and_conditions": "Maksuttomat liukuesteet jaetaan kaikille 65 vuotta täyttäneille enonkoskelaisille. Palvelu on tarkoitettu liukastumisen ehkäisyyn.",
+      "contact": "Enonkosken kunta, 015 527 5500, enonkosken.kunta@enonkoski.fi",
+      "source_urls": [
+        "https://enonkoski.fi/wp-content/uploads/2026/01/Palveluopas-2026.pdf",
+        "https://enonkoski.fi/yhteystiedot/"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted",
+      "publication_ready": true,
+      "notes": "2026 palveluoppaan mukaan kunnanvirastolta ma–pe klo 9–15."
+    },
+    {
+      "id": "enonkoski-thera-trainer-loan",
+      "name": "Enonkosken senioreiden Thera-Trainer Mobi -polkulaitteen maksuton kotilaina",
+      "organizer": "Enonkosken kunta / FysioSatama Enonkoski",
+      "categories": [
+        "Tavarat"
+      ],
+      "coverage": [
+        "Enonkoski"
+      ],
+      "location": "FysioSatama Enonkoski, Kirkkotie 6, 58175 Enonkoski; laite kotikäyttöön",
+      "regular_time": "Laina sovitaan FysioSataman kanssa; fysioterapeutin suositus vaaditaan.",
+      "free_and_conditions": "Maksuton kotilaina enonkoskelaisille yli 65-vuotiaille fysioterapeutin suosituksesta. Terapeutti opastaa laitteen käytössä ja voi tarvittaessa kuljettaa laitteen asiakkaalle.",
+      "contact": "FysioSatama Enonkoski, 050 306 6620",
+      "source_urls": [
+        "https://enonkoski.fi/wp-content/uploads/2026/01/Palveluopas-2026.pdf"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "eloisa-lapsiperheen-kotipalvelu",
+      "name": "Eloisan maksuton lapsiperheen kotipalvelu",
+      "organizer": "Etelä-Savon hyvinvointialue Eloisa",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "location": "Perheen oma koti Etelä-Savon hyvinvointialueella",
+      "regular_time": "Tapaamiset sovitaan perheen kanssa; palvelu voi olla tilapäistä tai jatkuvaa ja säännöllistä. Perheneuvon puhelinaika ma–pe klo 9–14.",
+      "free_and_conditions": "Palvelu on perheille maksuton. Tarkoitettu Etelä-Savossa asuville perheille, joissa on vähintään yksi alle 18-vuotias lapsi ja yksilöllisessä palvelutarpeen arvioinnissa todettu tuen tarve esimerkiksi sairauden, vamman, synnytyksen, vanhemman jaksamisen tai erityisen perhetilanteen vuoksi. Ei myönnetä pelkkään siivoukseen, tavallisen päivähoidon korvaamiseen tai työssäkäyvien vanhempien tavanomaiseen lastenhoitoon.",
+      "contact": "Perheneuvo, 015 411 4120, ma–pe klo 9–14; sähköinen yhteydenottopyyntö OmaEloisassa.",
+      "source_urls": [
+        "https://etelasavonha.fi/palvelut/sosiaalipalvelut/tukea-arkeen-lapsiperheille/lapsiperheenkotipalvelu/"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted_conditional_free",
+      "publication_ready": true,
+      "notes": "Ei kata Heinäveden eikä Joroisten kuntakohtaisia palveluja tässä auditissa; ne eivät sisälly Eloisan kyseisen palvelusivun alueelliseen listaukseen."
+    },
+    {
+      "id": "eloisa-taydentava-ehkaiseva-toimeentulotuki",
+      "name": "Eloisan täydentävä ja ehkäisevä toimeentulotuki",
+      "organizer": "Etelä-Savon hyvinvointialue Eloisa",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "location": "Hakemus OmaEloisassa tai kirjallisesti; palveluohjaus myös Enonkosken, Mikkelin, Pieksämäen ja Savonlinnan toimipisteissä",
+      "regular_time": "Hakemuksia voi jättää jatkuvasti. Työikäisten sosiaalipalvelujen puhelinneuvonta ma–pe klo 9–12.",
+      "free_and_conditions": "Takaisinmaksuton taloudellinen tuki välttämättömiin erityismenoihin, joita Kelan perustoimeentulotuki ei kata tai kata riittävästi. Hakijalla tulee olla voimassa oleva Kelan perustoimeentulotukipäätös (myönteinen tai kielteinen); myöntäminen perustuu yksilölliseen harkintaan ja tilapäiseen tuen tarpeeseen.",
+      "contact": "Työikäisten sosiaalipalvelujen neuvonta 040 359 7770, ma–pe klo 9–12; OmaEloisa.",
+      "source_urls": [
+        "https://etelasavonha.fi/palvelut/sosiaalipalvelut/tyoikaisten-sosiaalipalvelut/taloudellinen-tuki-ja-ohjaus/taydentava-ja-ehkaiseva-toimeentulotuki/"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted",
+      "publication_ready": true,
+      "notes": "Alueellisen palvelusivun alue-lista kattaa 11 kuntaa; Heinävesi ja Joroinen jätetty tämän tietueen ulkopuolelle."
+    },
+    {
+      "id": "juva-esr-material-aid-card",
+      "name": "Juvan seurakunnan ESR+ aineellisen avun 40 euron maksukortti",
+      "organizer": "Juvan seurakunta",
+      "categories": [
+        "Ruoka-apu",
+        "Tavarat"
+      ],
+      "coverage": [
+        "Juva"
+      ],
+      "location": "Juvan seurakunnan diakoniatoimisto, Pappilan kulma, Piikkiläntie 5–7, 51900 Juva",
+      "regular_time": "Kasvokkainen diakoniatapaaminen ajanvarauksella; uusia korttier iä jaetaan vuoden 2026 loppuun asti. Diakonien puhelinyhteydet ma–ke.",
+      "free_and_conditions": "Avunsaajalle maksuton 40 euron maksukortti elintarvikkeisiin ja muihin perustarvikkeisiin kortin myöntäneissä S-ryhmän kaupoissa. Pääkohderyhmänä työttömät ja työelämän ulkopuolella olevat aikuiset sekä heidän perheensä. Avuntarve kartoitetaan henkilökohtaisessa tapaamisessa. Kortilla ei voi ostaa Veikkaus-, alkoholi- tai tupakkatuotteita.",
+      "contact": "Maarit-Hannele Sutinen 044 0340 990 (ma–ke) tai Jonna Lemmetyinen 0440 334 503; Juvan seurakunta, juva.kirkkoherranvirasto@evl.fi.",
+      "source_urls": [
+        "https://www.juvanseurakunta.fi/apua-ja-tukea",
+        "https://www.juvanseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted",
+      "publication_ready": true,
+      "notes": "Seurakunnan virasto- ja diakoniatoiminnot ovat muuttaneet Piikkiläntie 5–7:ään; vanhaa seurakuntatalon osoitetta ei käytetä."
+    },
+    {
+      "id": "mikkeli-soppatiistai",
+      "name": "Mikkelin tuomiokirkkoseurakunnan Soppatiistai – maksuton keittoruokailu",
+      "organizer": "Mikkelin tuomiokirkkoseurakunta, Savilahden alueseurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Mikkeli"
+      ],
+      "location": "Kirkonmäen seurakuntatalo, Otavankatu 9, 50100 Mikkeli",
+      "regular_time": "Joka tiistai klo 11–12; syksyn 2026 tapahtumasivuilla vahvistettu toistuvuus.",
+      "free_and_conditions": "Maksuton keittoruokailu vähävaraisille. Soppatiistai on avoin ilmoitetulle kohderyhmälle; sivu ei edellytä ajanvarausta.",
+      "contact": "Johtava diakoniatyöntekijä Anne Pöyry, 0400 143 419, anne.poyry@evl.fi.",
+      "source_urls": [
+        "https://mikkelintuomiokirkkoseurakunta.fi/tapahtumahaku/soppatiistai-6/",
+        "https://mikkelintuomiokirkkoseurakunta.fi/tapahtumahaku/soppatiistai-8/"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "mikkeli-diakonia-free-financial-support",
+      "name": "Mikkelin tuomiokirkkoseurakunnan maksuton diakonia- ja taloudellisen avun vastaanotto",
+      "organizer": "Mikkelin tuomiokirkkoseurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Mikkeli"
+      ],
+      "location": "Ristimäen ja Savilahden diakoniatoimisto, seurakuntakeskus, Savilahdenkatu 20, 3. kerros, 50100 Mikkeli",
+      "regular_time": "Avustusvastaanoton ajanvaraus ja neuvonta puhelimitse maanantaisin ja perjantaisin klo 9–11; tapaamiset sovitaan.",
+      "free_and_conditions": "Seurakunnan diakoniapalvelut ovat luottamuksellisia ja maksuttomia, kaikenikäisille. Taloudellisen auttamisen asiat käsitellään oman alueen diakoniatoimistossa; avun myöntäminen arvioidaan tilanteen mukaan.",
+      "contact": "0400 143 250 (ma ja pe klo 9–11); johtava diakoniatyöntekijä 0400 143 419.",
+      "source_urls": [
+        "https://mikkelintuomiokirkkoseurakunta.fi/apua-ja-tukea/diakoniatyo/"
+      ],
+      "checked_date": "2026-11-17",
+      "status": "accepted",
+      "publication_ready": true,
+      "notes": "Tietue kuvaa jatkuvaa maksutonta asiointi- ja avustuspalvelua, ei lupaa automaattista rahasuoritusta."
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "eloisa-lapsiperheen-kotipalvelu",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "status": "accepted_conditional_free",
+      "note": "Yksi alueellinen tietue, ei kuntakohtaisia kopioita. Heinävesi ja Joroinen eivät sisälly palvelusivun Eloisa-alueen listaukseen."
+    },
+    {
+      "id": "eloisa-taydentava-ehkaiseva-toimeentulotuki",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "status": "accepted",
+      "note": "Yksi alueellinen tietue, ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "av-0029",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Etelä-Savon maakunta"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Vanhustyön keskusliiton maksuton korjausneuvonta; Etelä-Savon paikallinen neuvoja Ismo Kortman 0500 651 737, ismo.kortman@vtkl.fi. Ei luoda uutta tietuetta."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "enonkoski-community-meal-autumn-schedule",
+      "municipality": "Enonkoski",
+      "category": "Ruoka-apu",
+      "detail": "Kevään 2026 parillisten torstaitten yhteisöruokailut päättyivät 14.5.; syksyn 2026 jatkuvaa aikataulua ei löytynyt. Vapaaehtoinen ruokamaksu. Tarkista järjestäjältä, jatkuuko palvelu."
+    },
+    {
+      "id": "liperi-heinavesi-monthly-food-package-terms",
+      "municipality": "Heinävesi",
+      "category": "Ruoka-apu",
+      "detail": "Liperin seurakunnan ruoka-apusivu ilmoittaa ruokakassin kerran kuussa ja tiistain puhelinpäivystyksen klo 9–10. Heinäveden paikallinen noutopaikka, paikallinen yhteyshenkilö ja maksuttomuuden täsmennys puuttuvat."
+    },
+    {
+      "id": "hirvensalmi-spr-surplus-food-free-status",
+      "municipality": "Hirvensalmi",
+      "category": "Ruoka-apu",
+      "detail": "SPR Hirvensalmi jakaa hävikkiruokaa joka perjantai klo 11–11.30 seurakuntatalon alakerrassa. Järjestäjän oma ajantasainen vahvistus ja maksuttomuuden suora ilmaisu puuttuvat."
+    },
+    {
+      "id": "hirvensalmi-eu-food-card-access",
+      "municipality": "Hirvensalmi",
+      "category": "Ruoka-apu",
+      "detail": "Seurakunnan diakoni ja SPR voivat myöntää/tiedottaa EU-ruokakorteista; hakuehdot, saatavuus ja säännöllinen hakurytmi tarkistettava."
+    },
+    {
+      "id": "joroinen-esr-material-card-next-distribution",
+      "municipality": "Joroinen",
+      "category": "Tavarat",
+      "detail": "Joroisten seurakunnan ja SPR Joroisten osaston 40 euron ESR+ aineellisen avun korttiohjelma on käynnissä 2025–2027, mutta seuraavaa jakopäivää tai säännöllistä rytmiä ei ole julkaistu järjestäjän sivulla."
+    },
+    {
+      "id": "juva-toimintatalo-surplus-food-free-status",
+      "municipality": "Juva",
+      "category": "Ruoka-apu",
+      "detail": "Kunnan sivu vahvistaa kauppojen ylijäämäruoan jaon perjantaisin klo 9 Juvantie 7:n Toimintatalon ovelta; pyhäpäivänä torstaina klo 9. Maksuttomuus ei ole sivulla yksiselitteinen."
+    },
+    {
+      "id": "kangasniemi-myrskylyhty-food-aid-free-status",
+      "municipality": "Kangasniemi",
+      "category": "Ruoka-apu",
+      "detail": "Seurakunnan sivu ohjaa Myrskylyhdyn päiväkeskukseen kauppojen lahjoittamalle ylijäämäruoalle ma/ke/pe klo 12.30–13.00, Kankaistentie 2. Myrskylyhdyn oma ajantasainen lähde ja maksuttomuuden suora vahvistus puuttuvat."
+    },
+    {
+      "id": "kangasniemi-diaconia-financial-aid-terms",
+      "municipality": "Kangasniemi",
+      "category": "Raha",
+      "detail": "Seurakunnan diakonia voi auttaa pienimuotoisesti akuutissa talousahdingossa, mutta avun maksuttomuus, kertaluonteisuus ja myöntämisehdot eivät käy sivulta täysin ilmi."
+    },
+    {
+      "id": "mikkeli-viadia-food-bag-schedule",
+      "municipality": "Mikkeli",
+      "category": "Ruoka-apu",
+      "detail": "ViaDia Mikkeli kertoo Moision ruokajaon päättyneen ja ruoka-avun jatkuvan yhteistyökumppanien kautta valmiina kasseina Peitsarin toimipisteestä Juvantie 26. Ajantasainen noutorytmi, ehdot ja maksuttomuus puuttuvat."
+    },
+    {
+      "id": "mikkeli-tyottomat-food-distribution-primary-details",
+      "municipality": "Mikkeli",
+      "category": "Ruoka-apu",
+      "detail": "Mikkelin Työttömät ry:n lahjoitusruoan jakelusta löytyy toissijainen aikataulutieto ma/ke/pe 10.30–12.30 ja jäsenyysehto, mutta yhdistyksen omalta sivulta ei löytynyt ajantasaista jakokuvausta eikä maksuttomuuden suoraa vahvistusta."
+    },
+    {
+      "id": "hope-mikkeli-client-assistance-terms",
+      "municipality": "Mikkeli",
+      "category": "Vaatteet ja Tavarat",
+      "detail": "Hope Mikkelin oma paikallissivu vahvistaa tiiminvetäjän Petra Turusen ja sähköpostin mikkeli@hopeyhdistys.fi, mutta ei asiakkaiden avunhakureittiä, nykyistä jakelua tai paikallisia ehtoja."
+    },
+    {
+      "id": "ristiina-soup-tuesday-regular-schedule-and-free-status",
+      "municipality": "Mikkeli / Ristiina",
+      "category": "Ruoka-apu",
+      "detail": "Ristiinan alueseurakunnan tapahtumasivut vahvistavat maksuttoman yhteisölounaan ja vapaaehtoisen maksun useina tiistaina syksyllä 2026; tarkka säännöllinen rytmi ja seuraavat päivät eivät ole yksiselitteiset."
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "enonkoski-temporary-accommodation-paid",
+      "municipality": "Enonkoski",
+      "category": "Asuminen",
+      "reason": "Kunnan ikääntyneille tarjoama tilapäinen vanhustentaloasunto maksaa 20 €/vuorokausi; maksullinen majoitus ei täytä maksuttomuusehtoa.",
+      "source_urls": [
+        "https://enonkoski.fi/wp-content/uploads/2026/01/Palveluopas-2026.pdf"
+      ]
+    },
+    {
+      "id": "enonkoski-ostring-service-voucher-copay",
+      "municipality": "Enonkoski",
+      "category": "Kotiapu",
+      "reason": "Kyllikki Östringin 5 × 25 € palveluseteli kattaa vain osan palvelusta, jos hinta ylittää setelin arvon; asiakas maksaa ylimenevän osuuden. Ei hyväksytä yleiseksi maksuttomaksi kotiavuksi.",
+      "source_urls": [
+        "https://enonkoski.fi/tiedote-muistutus-kyllikki-ostringin-palvelusetelien-kaytosta-v-2026-loppuun-mennessa/"
+      ]
+    },
+    {
+      "id": "eloisa-social-credit-loan",
+      "municipality": "Maakunnallinen / Eloisan alue",
+      "category": "Raha",
+      "reason": "Sosiaalinen luototus on takaisinmaksettava laina ja siitä peritään korkolain mukainen viitekorko; ei ole maksuton avustus.",
+      "source_urls": [
+        "https://hyvinvointitarjotin.etelasavonha.fi/palveluhakemisto/sosiaalinen-luototus/"
+      ]
+    },
+    {
+      "id": "joroinen-diaconia-one-time-crisis-grant",
+      "municipality": "Joroinen",
+      "category": "Raha",
+      "reason": "Joroisten seurakunnan taloudellinen apu on pääsääntöisesti tilapäistä ja kertaluonteista kriisiavustamista; ei hyväksytä jatkuvaksi raha-avustuspalveluksi tässä rekisterissä.",
+      "source_urls": [
+        "https://joroistenseurakunta.fi/apua-ja-tukea/taloudellinen-avustaminen/",
+        "https://joroistenseurakunta.fi/apua-ja-tukea/taloudellinen-avustaminen/avustamisen-periaatteet-ja-kaytannot/"
+      ]
+    },
+    {
+      "id": "joroinen-diakonialounas-paid",
+      "municipality": "Joroinen",
+      "category": "Ruoka-apu",
+      "reason": "Joroisten seurakunnan diakonialounaan hinta on 3 euroa; maksullinen ateria rajataan pois.",
+      "source_urls": [
+        "https://joroistenseurakunta.fi/tapahtumahaku/diakonialounas-6/"
+      ]
+    },
+    {
+      "id": "juva-diaconia-one-time-financial-aid",
+      "municipality": "Juva",
+      "category": "Raha",
+      "reason": "Juvan seurakunnan erillinen taloudellinen apu kuvataan yleensä kertaluonteiseksi avuksi odottamattomassa kriisissä; ei lisätä jatkuvaksi raha-avustuspalveluksi. ESR+ aineellisen avun korttiohjelma käsitellään erillisenä palveluna.",
+      "source_urls": [
+        "https://www.juvanseurakunta.fi/apua-ja-tukea"
+      ]
+    },
+    {
+      "id": "mikkeli-viadia-paid-second-hand-sales",
+      "municipality": "Mikkeli",
+      "category": "Vaatteet ja Tavarat",
+      "reason": "ViaDia Mikkelin torit ovat kirpputorimyyntiä, eivät maksutonta vaate- tai tavarajakoa.",
+      "source_urls": [
+        "https://mikkeli.viadia.fi/"
+      ]
+    },
+    {
+      "id": "mikkeli-paid-programmed-lunch",
+      "municipality": "Mikkeli",
+      "category": "Ruoka-apu",
+      "reason": "Kirkonmäen Pöytä on katettu -ohjelmallisen lounaan hinta on 10 euroa; maksullinen ateria ei ole ruoka-apua.",
+      "source_urls": [
+        "https://mikkelintuomiokirkkoseurakunta.fi/tapahtumahaku/kirkonmaen-poyta-on-katettu-3/"
+      ]
+    }
+  ],
+  "coverage_notes": [
+    "Tässä ajossa käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi seitsemän aakkosjärjestyksessä ensimmäistä kuntaa: Enonkoski, Heinävesi, Hirvensalmi, Joroinen, Juva, Kangasniemi ja Mikkeli. Yhteensä 42 kuntakategoriatarkistusta.",
+    "Etelä-Savon 13 kunnan maakuntaluettelo säilytettiin Kuntaliiton 2026 listan mukaisena. Mäntyharju, Pieksämäki, Puumala, Rantasalmi, Savonlinna ja Sulkava ovat vielä käsittelemättä tässä ensimmäisessä kuntakierroksessa.",
+    "Eloisan lapsiperheen kotipalvelun ja täydentävän/ehkäisevän toimeentulotuen palvelusivujen alue-lista kattaa 11 kuntaa; Heinävesi ja Joroinen jätettiin näiden alueellisten tietueiden ulkopuolelle.",
+    "Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva kansallinen tietue av-0029. Etelä-Savon paikallinen neuvoja lisätään olemassa olevan tietueen kattavuustietoihin myöhemmässä päärekisterin päivityksessä, ei uutena kuntakohtaisena kopiona.",
+    "Enonkosken kirjaston kotikirjapalvelu ja Kangasniemen Perjantai-Pysäkki sekä Mikkelin avoimet perheiden kohtaamispaikat ovat maksuttomia mutta eivät kuulu kuuteen pyydettyyn avustuskategoriaan; niitä ei laskettu hyväksytyiksi avustuspalveluiksi.",
+    "Julkista verkkosivustoa, paarekisteri.json-tiedostoa tai palvelut.json-tiedostoa ei muutettu."
+  ],
+  "counts": {
+    "municipalities_reviewed": 7,
+    "category_checks_completed": 42,
+    "accepted_unique_service_records": 7,
+    "pending_service_leads_or_details": 12,
+    "excluded_observations": 8,
+    "municipalities_marked_complete": 0,
+    "new_municipalities_reviewed_this_run": 7,
+    "new_category_checks_this_run": 42,
+    "new_accepted_service_records_this_run": 7,
+    "new_pending_leads_or_details_this_run": 12,
+    "new_excluded_observations_this_run": 8
+  },
+  "next_continuation": {
+    "province": "Etelä-Savo",
+    "municipality": "Mäntyharju",
+    "category": "Ruoka-apu",
+    "category_order": [
+      "Ruoka-apu",
+      "Kotiapu",
+      "Vaatteet",
+      "Tavarat",
+      "Raha",
+      "Asuminen"
+    ],
+    "municipality_order": [
+      "Enonkoski",
+      "Heinävesi",
+      "Hirvensalmi",
+      "Joroinen",
+      "Juva",
+      "Kangasniemi",
+      "Mikkeli",
+      "Mäntyharju",
+      "Pieksämäki",
+      "Puumala",
+      "Rantasalmi",
+      "Savonlinna",
+      "Sulkava"
+    ],
+    "source_url": "https://www.kuntaliitto.fi/maakunta/etela-savo",
+    "note": "Enonkoski–Mikkeli on käyty läpi ensimmäisellä kuuden kategorian kierroksella. Seuraava kunta on Mäntyharju; sen seurakunnan diakoniapalveluista löytyi ensisijainen sivu, mutta Ruoka-apu-kategorian nykyinen säännöllinen ruokajako ja maksuttomuus on tarkistettava ennen hyväksyntää."
+  }
+}
