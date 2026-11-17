@@ -25,7 +25,7 @@ Kuntaluettelo: https://www.kuntaliitto.fi/maakunta/etela-savo
 
 Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän ensimmäistä kuntaa: **Enonkoski, Heinävesi, Hirvensalmi, Joroinen, Juva, Kangasniemi, Mikkeli, Mäntyharju ja Pieksämäki**. Yhteensä **54 kuntakategoriatarkistusta**.
 
-### Uudet hyväksytyt palvelut (12 yksilöllistä tietuetta)
+### Uudet hyväksytyt palvelut (13 yksilöllistä tietuetta)
 
 1. **Enonkosken kunnan maksuttomat liukuesteet 65 vuotta täyttäneille – Tavarat.** Kunnanvirastolta ma–pe klo 9–15, Enonkoskentie 3T, puh. 015 527 5500.
 2. **Enonkosken Thera-Trainer Mobi -polkulaitteen maksuton kotilaina – Tavarat.** Yli 65-vuotiaille fysioterapeutin suosituksesta. FysioSatama Enonkoski, Kirkkotie 6, puh. 050 306 6620.
@@ -39,6 +39,7 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 10. **Mikkelin tuomiokirkkoseurakunnan Soppatiistai – Ruoka-apu.** Maksuton keittoruokailu vähävaraisille joka tiistai klo 11–12, Kirkonmäen seurakuntatalo, Otavankatu 9. Anne Pöyry 0400 143 419.
 11. **Mikkelin tuomiokirkkoseurakunnan maksuton diakonia- ja taloudellisen avun vastaanotto – Raha.** Mikkelin asukkaille; palvelut luottamuksellisia ja maksuttomia. Ajanvaraus/neuvonta 0400 143 250 ma ja pe klo 9–11, Savilahdenkatu 20, 3. kerros.
 12. **Pieksämäen seurakunnan Arkiateria – Ruoka-apu.** Kerran kuukaudessa Uuden kirkon seurakuntakeskuksessa, Keskuskatu 27–31. 20.10.2026 klo 11.30–13.00 vahvistettu. Maksu on vapaaehtoinen, joten osallistuminen ei edellytä maksua. Irma Alastalo 0440 767 903.
+13. **Hirvensalmen seurakunnan Arjen Aamiainen – Ruoka-apu.** Kerran kuukaudessa perjantaisin klo 10–11, Seurakuntakoti, Sysmäläntie 1. Maksu on vapaaehtoinen, joten aamiainen on maksuton ilman maksua. Diakoni Ainoleena Laitinen 0400 143 694.
 
 ### Alueelliset tietueet – ei kaksoiskappaleita
 
@@ -47,13 +48,12 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 - Joroinen kuuluu Pohjois-Savon hyvinvointialueeseen; sen lapsiperheiden kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki kirjataan Pohjois-Savon alle.
 - Vanhustyön keskusliiton maksuton korjausneuvonta on jo olemassa oleva kansallinen tietue **av-0029**. Etelä-Savon paikallinen neuvoja Ismo Kortman, 0500 651 737, ismo.kortman@vtkl.fi. Ei luotu uutta kopiota.
 
-## Avoimet kohdat (16)
+## Avoimet kohdat (15)
 
 - Enonkosken kevään yhteisöruokailun syksyn 2026 aikataulua ei löytynyt; kevään päivät päättyivät 14.5. ja maksu oli vapaaehtoinen.
 - Heinäveden Liperin seurakunnan kerran kuussa saatavan ruokakassin paikallinen noutopaikka ja maksuttomuus täsmennettävä.
 - Hirvensalmen SPR:n perjantain hävikkiruokajaon maksuttomuus vahvistettava; EU-ruokakorttien hakureitti tarkistettava.
-- Hirvensalmen kerran kuukaudessa järjestettävän Arjen Aamiaisen maksuttomuus ja seuraavat päivät täsmennettävä; tarjoilu ja maksu ovat vapaaehtoisia.
-- Hirvensalmen SPR:n maahanmuuttajille antaman vaate- ja astia-avun maksuttomuus, hakureitti ja säännöllisyys täsmennettävä.
+- - Hirvensalmen SPR:n maahanmuuttajille antaman vaate- ja astia-avun maksuttomuus, hakureitti ja säännöllisyys täsmennettävä.
 - Joroisten 40 € ESR+ aineellisen avun maksukorttien seuraava jakopäivä ja säännöllinen rytmi puuttuvat.
 - Juvan Toimintatalon perjantain ylijäämäruokajaon maksuttomuus ei käy kunnan sivulta yksiselitteisesti ilmi.
 - Kangasniemen Myrskylyhdyn ylijäämäruoan maksuttomuus ja järjestäjän oma ajantasainen lähde puuttuvat.
@@ -85,8 +85,8 @@ Käytiin ensimmäisellä kuuden kategorian seulontakierroksella läpi yhdeksän 
 
 - Kunnat tarkistettu ensimmäisellä kierroksella: **9/13**.
 - Kuntakategoriatarkistukset: **54**.
-- Hyväksytyt yksilölliset palvelutietueet: **12**.
-- Avoimet palveluvihjeet/täydennykset: **16**.
+- Hyväksytyt yksilölliset palvelutietueet: **13**.
+- Avoimet palveluvihjeet/täydennykset: **15**.
 - Poissuljetut havainnot: **11**.
 - Kokonaan valmiiksi merkityt kunnat: **0**.
 
