@@ -74,7 +74,7 @@ Savonlinnan seurakunnan 40 euron ESR+ aineellisen avun maksukorttiohjelma jatkuu
 - Tämän ajon poissuljetut havainnot: **9**.
 - Täysin valmiiksi merkityt kunnat: **0**.
 
-Seuraava maakunta aakkosjärjestyksessä on **Kainuu**. Tarkka seuraava kuntakohtainen jatkokohta on **Kainuu / Hyrynsalmi / Ruoka-apu**. Etelä-Savon avoimet kohdat jäävät seurantaan; kuntia ei merkitä lopullisesti valmiiksi ennen ehtojen ja palveluaikojen täsmennystä.
+Seuraava maakunta aakkosjärjestyksessä on **Kainuu**. Kainuun ensimmäinen seulonta on aloitettu: Hyrynsalmi, Kajaani ja Kuhmo on käyty läpi kaikissa kuudessa kategoriassa (18 kuntakategoriatarkistusta). Uusia hyväksyttyjä tietueita Kainuussa on 6, avoimia täsmennyksiä 8 ja poissuljettuja havaintoja 7; yhtään kuntaa ei ole merkitty täysin valmiiksi. Tarkka seuraava kuntakohtainen jatkokohta on **Kainuu / Paltamo / Ruoka-apu**. Kainuun avoimet kohdat sekä Etelä-Savon aiemmat avoimet kohdat jäävät seurantaan; kuntia ei merkitä lopullisesti valmiiksi ennen ehtojen ja palveluaikojen täsmennystä.
 
 ## Tallennus
 
