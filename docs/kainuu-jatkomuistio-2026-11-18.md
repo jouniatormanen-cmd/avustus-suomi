@@ -1,10 +1,10 @@
 # Avustus Suomi – Kainuun kartoituksen jatko 2026-11-18
 
-## Maakunnan tarkka aloituskohta
+## Toteutunut ensimmäinen kuntakierros
 
-Etelä-Savon ensimmäinen kuntakategorioiden seulontakierros päättyi 18.11.2026. Seuraava maakunta aakkosjärjestyksessä on **Kainuu**.
+Kainuun kaikki kahdeksan kuntaa on nyt seulottu kaikissa kuudessa kategoriassa järjestyksessä: **48 kuntakategoriatarkistusta**. Tämä on ensimmäinen seulonta, ei kuntien lopullinen valmistuminen.
 
-Kainuun kuntajärjestys:
+Kuntajärjestys:
 1. Hyrynsalmi
 2. Kajaani
 3. Kuhmo
@@ -14,61 +14,75 @@ Kainuun kuntajärjestys:
 7. Sotkamo
 8. Suomussalmi
 
-## Tämän ajon toteutunut Kainuu-työ
+## Hyväksytyt palvelut (8 tietuetta)
 
-Kävin läpi **Hyrynsalmen, Kajaanin ja Kuhmon** kaikki kuusi kategoriaa järjestyksessä: **18 kuntakategoriatarkistusta**. Tämä on ensimmäinen seulontakierros, ei kuntien lopullinen valmistuminen.
+Aiemmat kuusi tietuetta säilyvät:
+1. Hyrynsalmen kunnan maksuton asumisneuvonta – Asuminen.
+2. Hope Kajaani – maksuton vaateapu – Vaatteet.
+3. Hope Kajaani – maksuton tavara-apu – Tavarat.
+4. Kainuun lapsiperheiden kotipalvelu – ehdollisesti maksuton Kotiapu.
+5. Kainuun täydentävä ja ehkäisevä toimeentulotuki – Raha.
+6. Kuhmon seurakunnan Arkinen ateria – Ruoka-apu.
 
-### Uudet hyväksytyt palvelut (6 tietuetta)
-
-1. **Hyrynsalmen kunnan maksuton asumisneuvonta – Asuminen.** Maksutonta neuvontaa kaikille Hyrynsalmen asukkaille asumismuodosta riippumatta. Apua vuokranmaksuun, vuokrasopimuksiin, häätöuhkaan, asunnonhakuun ja viranomaisyhteyksiin. Laskutie 1; palveluaika ma–to 9–15, pe 9–13, lounastauko 11–11.30. Asumisneuvoja Kati Heikkinen 044 710 4424, kati.heikkinen@hyrynsalmi.fi.
-2. **Hope Kajaani – maksuton vaateapu – Vaatteet.** Hope jakaa lahjoituksina saatuja vaatteita vähävaraisille ja kriisin kohdanneille lapsiperheille. Paikallistoimisto Sammonkatu 7 B, avoinna sopimuksen mukaan, yhteydenotot sähköpostilla. Tiiminvetäjä Anja Salmi, kajaani@hopeyhdistys.fi. Vuoden 2026 paikallissivu ilmoittaa, ettei uusia harrastustukia tällä hetkellä myönnetä; vaateapu on erillinen toimintamuoto.
-3. **Hope Kajaani – maksuton tavara-apu – Tavarat.** Lahjoituksina saatuja tavaroita vähävaraisille ja kriisin kohdanneille lapsiperheille. Sama paikallinen yhteydenotto ja asiointikäytäntö kuin vaateavussa.
-4. **Kainuun hyvinvointialueen lapsiperheiden kotipalvelu – Kotiapu, ehdollisesti maksuton.** Tilapäinen palvelu (enintään 12 käyntiä/vuosi) on maksuton, kun perheen bruttotulot alittavat 1.1.2026 voimassa olevan perhekoon mukaisen tulorajan tai palvelu järjestetään lastensuojelun asiakkuuden perusteella. Tulorajat €/kk: 1 hlö 699; 2 hlöä 1 290; 3 hlöä 2 025; 4 hlöä 2 503; 5 hlöä 3 030; 6 hlöä 3 481; yli kuuden henkilön perheessä rajaa korotetaan 350 €/henkilö. Muutoin tilapäinen palvelu 5 €/h; säännöllinen palvelu tulosidonnainen. Pelkkää siivousta ei myönnetä. Yhteys sosiaaliohjaajaan 044 797 4434; palvelu haetaan Omasotessa tai kirjallisesti.
-5. **Kainuun hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki – Raha.** Yksi alueellinen palvelutietue kaikille Kainuun kunnille. Täydentävää tukea voidaan myöntää erityisiin menoihin, kuten lasten harrastuksiin, lastenvaunuihin, hautauskuluihin ja kodin irtaimistoon. Ehkäisevää tukea voidaan myöntää asumisen turvaamiseen, ylivelkaantumisen tai äkillisen talousvaikeuden lieventämiseen. Yleensä ensin haetaan Kelan perustoimeentulotukea; akuutit kriisit ovat poikkeus. Tavallinen käsittelyaika 7 arkipäivää, kiireellisessä tapauksessa seuraava arkipäivä. Kajaanin aikuissosiaalityön takaisinsoitto 08 6156 7741.
-6. **Kuhmon seurakunnan Arkinen ateria – Ruoka-apu.** Noin kerran kuukaudessa syys- ja kevätkaudella, keskimäärin kuukauden kolmantena perjantaina klo 11–13. Vuoden 2026 seurakuntajulkaisussa ateria oli 23.1. klo 11–13; Kainuun ruoka-apuopas 2/2026 vahvistaa kuukausittaisen syys- ja kevätkauden rytmin. Maksu on vapaaehtoinen, joten osallistuminen ei edellytä maksua. Paikka Kuhmon seurakuntakeskus, Kirkkotie 6–8. Diakonit Anne Malinen 044 738 4315 ja Anu Haverinen 044 738 4314.
+Tässä jatkossa hyväksyttiin kaksi uutta palvelua:
+7. **Paltamon seurakunnan Syödään yhdessä -yhteisöruokailut – Ruoka-apu.** Yksi alueellinen tietue kattaa Paltamon ja Ristijärven. Ruokailuja järjestetään noin kerran kuukaudessa; maksu on vapaaehtoinen. Paltamon seurakuntakeskus, Puolangantie 14, ja Ristijärven seurakuntakoti, Pappilantie 27. Diakoni Hanna Heikkinen 044 597 4762; kirkkoherranvirasto 044 597 4753.
+8. **Paltamon kunnan harrastusraha lapsiperheille – Raha.** Vuoden 2026 tarveharkintainen maksusitoumus vähävaraisille lapsille, nuorille ja perheille. Enintään 200 €/henkilö/kalenterivuosi, kokonaismääräraha 3 000 €. Käyttö harrastusmaksuihin, välineisiin, lisensseihin ja kursseihin; ei matka- tai majoituskuluihin. Hyvinvointiaktivaattori Jenna Härkönen 040 623 7272.
 
 ## Alueelliset ja valtakunnalliset tietueet – ei kaksoiskappaleita
 
-- Kainuun lapsiperheiden kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki ovat kumpikin yksi koko Kainuun kattava tietue, ei kuntakohtaisia kopioita.
-- Vanhustyön keskusliiton korjausneuvonta **av-0029** ja Varken korjausavustus ovat valtakunnallisia tietueita, joita käytetään kaikissa Kainuun kunnissa ilman kopiointia.
-- Hope Kajaanin vuoden 2026 toimipiste kirjattiin vain Kajaanin kattavuudella; vuoden 2019 vuosikertomuksen mainintaa muista Kainuun kunnista ei laajennettu ilman nykyvahvistusta.
-- Kuhmon seurakunnan Arkinen ateria on paikallinen palvelu; sitä ei yhdistetty maksullisiin perhekerhojen lounaisiin.
+- Kainuun lapsiperheiden kotipalvelu ja täydentävä/ehkäisevä toimeentulotuki ovat kumpikin yksi koko Kainuun kattava tietue.
+- VTKL:n korjausneuvonta **av-0029** ja Varken korjausavustus ovat valtakunnallisia tietueita.
+- Paltamon seurakunnan kuukausittainen yhteisruokailu on yksi tietue Paltamon ja Ristijärven kattavuudella, ei kaksi kuntakopiota.
+- Hope Kajaanin nykyinen alueellinen kattavuus muissa Kainuun kunnissa on edelleen vahvistamatta.
 
-## Avoimet kohdat (8)
+## Avoimet täsmennykset (16)
 
-- **Kajaani / Ruoka-apu:** Kajaanin Päiväkeskus ry:n vuoden 2026 toiminta-avustuksen käsittelyasiakirja kuvaa aamupalan arkipäivisin, lämpimän ruoan kahdesti viikossa, ylijäämäruoan jaon kahdesti viikossa ja välittömän ruoka-avun. Maksuttomuus, tarkat nykyajat ja vuoden 2026 toiminnan vahvistus on vielä pyydettävä järjestäjältä.
-- **Kajaani / Vaatteet ja Tavarat:** Päiväkeskusasiakirja kuvaa myös vaate- ja kodinirtaimistoapua kaikkein vaikeimmassa tilanteessa oleville, mutta maksuttomuus ja tämänhetkinen hakureitti puuttuvat. Eri järjestäjä kuin Hope.
-- **Hyrynsalmi / Raha:** seurakunnan diakonia neuvoo taloushuolissa ja mainitsee taloudellisen avun, mutta paikallisen rahallisen avun maksuttomuus, ehdot ja säännöllinen hakureitti vaativat täsmennystä. Diakoni Sanna Pihlaja 044 781 9371, sanna.pihlaja@evl.fi.
-- **Hyrynsalmi ja Kuhmo / Vaatteet ja Tavarat:** Hope Kajaanin vuoden 2019 kuvauksessa mainitaan muiden Kainuun kuntien auttaminen postitse. Vuoden 2026 kattavuus Hyrynsalmelle ja Kuhmoon pitää vahvistaa ennen alueellisen palvelun kirjaamista.
-- **Hyrynsalmi, Kajaani ja Kuhmo / Asuminen:** Kainuun hyvinvointialueen asunnottomien palveluohjaus voi sisältää asunnon etsimistä, välivuokrausta, asumisen ohjausta, välitystilipalvelua ja tilapäismajoitusta. Maksuttomuus ja tarkat myöntöehdot eivät ilmene palvelusivulta.
-- **Kuhmo / Ruoka-apu:** Piilolankankaan Lähiötuvalla, Karhunpolku 3 A, jaetaan Tuupalan keittiön hävikkiruokaa ma–pe noin klo 13.15 koulupäivinä. Maksuttomuutta ei ilmaista järjestäjän sivulla. Yhteys 044 710 5095.
-- **Kuhmo / Ruoka-apu ja Raha:** Kainuun ruoka-apuopas 2/2026 kertoo, että Kuhmon seurakunnan diakoniatyöltä voi hakea ruokakaupan osto-osoitusta vaikeassa taloudellisessa tilanteessa; tuloja ja menoja tarkastellaan tositteista. Seurakunnan omalla diakonia-sivulla ei kuvata osto-osoituksen ehtoja tai hakuaikaa; vahvista Anne Maliselta 044 738 4315 tai Anu Haveriselta 044 738 4314.
-- **Kuhmo / Asuminen:** Terva-asuntojen asumisneuvoja Piia Myllylä (044 710 5081, piia.myllyla@kuhmo.fi) neuvoo kaupungin muuttajan oppaan mukaan kaikkia kuntalaisia asumismuodosta riippumatta. Palvelun maksuttomuutta ei ole vahvistettu; pidetään avoimena.
+- **Kajaani / Ruoka-apu:** Kajaanin Päiväkeskus ry:n aamupala, lämmin ruoka, ylijäämäruoka ja välitön ruoka-apu: maksuttomuus ja tarkat nykyajat puuttuvat järjestäjän omalta lähteeltä.
+- **Kajaani / Vaatteet ja Tavarat:** Päiväkeskuksen vaate- ja kodinirtaimistoavun maksuttomuus ja vuoden 2026 hakureitti varmistamatta.
+- **Hyrynsalmi / Raha:** seurakunnan paikallisen talousavun ehdot ja säännöllinen hakureitti tarkennettava.
+- **Hyrynsalmi, Kuhmo, Paltamo, Puolanka, Ristijärvi, Sotkamo ja Suomussalmi / Vaatteet ja Tavarat:** Hope Kajaanin vuoden 2026 alueellinen kattavuus näihin kuntiin pitää vahvistaa.
+- **Koko Kainuu / Asuminen:** asunnottomien palveluohjauksen maksuttomuus ja paikalliset hakureitit eivät ilmene palvelusivulta.
+- **Kuhmo / Ruoka-apu:** Piilolankankaan Lähiötuvan hävikkiruoan maksuttomuus ei ilmene järjestäjän sivulta.
+- **Kuhmo / Ruoka-apu ja Raha:** seurakunnan ruokakaupan osto-osoituksen nykyiset ehdot ja hakuaika vahvistettava.
+- **Paltamo / Ruoka-apu:** kuukausittaisen hävikkiruoan jaon tarkka järjestäjä, paikka, aika ja maksuttomuusehdot.
+- **Paltamo ja Ristijärvi / Ruoka-apu:** seurakunnan ESR+ ja seurakunnan määrärahoista myönnettävien ruokalahjakorttien ajantasaiset ehdot ja hakureitti.
+- **Puolanka / Ruoka-apu:** SRP-Puolangan aineellisen ruoka-avun ja EU-maksukorttien paikalliset jakopäivät ja hakuehdot.
+- **Ristijärvi / Ruoka-apu:** koulun ylijäämäruoan 4H-jakelun tarkka paikka, aika ja maksuttomuus.
+- **Sotkamo / Ruoka-apu:** seurakunnan diakonia-avun muoto, säännöllisyys ja maksuttomuusehdot.
+- **Suomussalmi / Ruoka-apu:** helluntaiseurakunnan Leipäkirkko on joka toinen perjantai klo 13, mutta maksuttomuus ei ilmene sivulta.
+- **Suomussalmi / Ruoka-apu:** Takkatuvan tiistaisen hävikkiruokajaon tarkka jakeluaika ja maksuttomuus.
+- **Suomussalmi / Ruoka-apu:** seurakunnan tarveharkintaisten ruokakorttien nykyinen saatavuus, arvo ja hakureitti.
 
-## Poissuljetut (7)
+## Poissuljetut havainnot (14)
 
-- Hyrynsalmen seurakunnan 11.11.–19.12.2026 joulutuki: kausiluonteinen.
-- Kajaanin seurakunnan diakonian rahallinen kriisiapu: järjestäjä kuvaa sen yleensä kertaluonteiseksi, joten ei jatkuvien palvelujen rekisteriin.
+- Hyrynsalmen seurakunnan joulutuki 11.11.–19.12.2026: kausiluonteinen.
+- Kajaanin seurakunnan kertaluonteinen diakoninen kriisiapu: ei jatkuva palvelu.
 - SPR Kajaanin Terveyspisteen 1.9.2026 keittolounas: yksittäinen tapahtuma.
-- Kajaanin Työvoimayhdistyksen Ruokala Eines: maksullinen lounas.
-- Kajaanin seurakunnan Otanmäen ruokakassijako: vanha, vuoden 2022 kolmen jakokerran ilmoitus, ei nykyinen jatkuva palvelu.
-- Kuhmon MLL:n Perheiden Pesäkolo -lounas ja Kuhmon seurakunnan perhekerhon lounas maksavat 3 €/perhe; eivät maksuttomia.
-- Kuhmon kotihoidontuen kuntalisä päättyi 1.8.2026; ei aktiivinen palvelu.
+- Kajaanin Työvoimayhdistyksen Ruokala Eines: maksullinen.
+- Kajaanin seurakunnan Otanmäen ruokakassijako: vuoden 2022 vanha kolmen jakokerran ilmoitus.
+- Kuhmon MLL:n Perheiden Pesäkolo -lounas ja seurakunnan perhekerhon lounas 3 €/perhe: maksullisia.
+- Kuhmon kotihoidontuen kuntalisä päättyi 1.8.2026.
+- Ristijärven 4H:n kotiaskare-, siivous-, asiointi- ja ulkoiluapu 25–45 €/h: maksullinen.
+- Paltamon ja Ristijärven 4H-kierrätysmyymälät/kirpputorit: eivät ole maksuttomia avustusjakeluita.
+- Sotkamon Apajan hävikkiruoka-annos 2 €: maksullinen.
+- Puolangan seurakunnan 16–25-vuotiaiden vuoden 2026 itsenäistymisavustus: kertaluonteinen hakukierros, määräaika 14.8.2026.
+- Puolangan seurakunnan joulukeräys: joulun kausiluonteinen varainkeruu.
+- Suomussalmen seurakunnan yleinen kertaluonteinen diakoninen talousapu: ei jatkuva palvelu.
 
 ## Tilanne ja seuraava jatkokohta
 
-- Kainuun ensimmäisen seulontakierroksen kunnat: **3/8**.
-- Kuntakategoriatarkistukset: **18**.
-- Uudet hyväksytyt tietueet: **6**.
-- Avoimet täsmennykset: **8**.
-- Poissuljetut havainnot: **7**.
+- Kainuun ensimmäisen seulonnan kunnat: **8/8**.
+- Kuntakategoriatarkistukset: **48**.
+- Hyväksytyt palvelutietueet: **8**.
+- Avoimet täsmennykset: **16**.
+- Poissuljetut havainnot: **14**.
 - Täysin valmiiksi merkityt kunnat: **0**.
 
-Seuraava tarkka jatkokohta on **Kainuu / Paltamo / Ruoka-apu**. Sen jälkeen jatketaan Puolankaan, Ristijärvelle, Sotkamoon ja Suomussalmelle aakkosjärjestyksessä.
+Seuraava maakunta aakkosjärjestyksessä on **Kanta-Häme**. Sen ensimmäisellä kierroksella Forssa ja Hämeenlinna on jo seulottu (12 kuntakategoriatarkistusta). Tarkka seuraava kohta on **Kanta-Häme / Hattula / Ruoka-apu**.
 
 ## Tallennus
 
 - `data/kainuu-lahdetarkistus-2026-11-18.json`
 - `docs/kainuu-jatkomuistio-2026-11-18.md`
 
-Etelä-Savon auditointi ja sen jatkomuistio ovat erillisissä 18.11. tiedostoissa. Päärekisteriä `data/paarekisteri.json` tai `data/palvelut.json` eikä julkista sivustoa muutettu.
+Päärekisteriä eikä julkista verkkosivustoa muutettu.
