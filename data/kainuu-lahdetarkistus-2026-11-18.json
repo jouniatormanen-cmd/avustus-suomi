@@ -2,8 +2,8 @@
   "schema_version": "1.0",
   "checked_date": "2026-11-18",
   "province": "Kainuu",
-  "update_type": "first_pass_municipal_screen_in_progress",
-  "source_checkpoint": "2026-11-18: Kainuu / Hyrynsalmi / Ruoka-apu",
+  "update_type": "first_pass_municipal_screen_completed",
+  "source_checkpoint": "2026-11-18: Kainuu first-pass screening completed 8/8; next Kanta-Häme / Forssa / Ruoka-apu",
   "category_order": [
     "Ruoka-apu",
     "Kotiapu",
@@ -25,7 +25,12 @@
   "municipalities_screened_first_pass": [
     "Hyrynsalmi",
     "Kajaani",
-    "Kuhmo"
+    "Kuhmo",
+    "Paltamo",
+    "Puolanka",
+    "Ristijärvi",
+    "Sotkamo",
+    "Suomussalmi"
   ],
   "municipalities_fully_completed": [],
   "category_checks": [
@@ -257,6 +262,406 @@
       ],
       "excluded_ids": [],
       "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Paltamo",
+      "category": "Ruoka-apu",
+      "status": "accepted_recurring_meal_with_pending_food_distribution_and_vouchers",
+      "finding": "Paltamon seurakunnan Syödään yhdessä -ruokailu järjestetään noin kerran kuukaudessa, maksu vapaaehtoinen. Paltamon seurakuntakeskuksen ja Ristijärven seurakuntakodin 2026 tapahtumat vahvistavat toiminnan; Paltamon kuukausittaisen hävikkiruoan jaon sekä seurakunnan ruokalahjakorttien tarkat ajat ja ehdot ovat vielä avoinna.",
+      "service_ids": [
+        "paltamon-seurakunta-syodaan-yhdessa-ruokailut"
+      ],
+      "pending_ids": [
+        "paltamo-monthly-surplus-food-distribution",
+        "paltamo-ristijarvi-parish-food-voucher-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Paltamo",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun hyvinvointialueen lapsiperheiden kotipalvelu kattaa Paltamon. Tilapäinen palvelu on maksuton 2026 perhekoon tulorajojen alittuessa tai lastensuojelun asiakkuuden perusteella; muutoin tilapäinen käynti 5 €/h ja säännöllinen palvelu tulosidonnainen.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Paltamo",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista maksutonta vaatejakelua ei vahvistettu. Ristijärven 4H-yhdistyksen Paltamon kierrätysmyymälä vastaanottaa kierrätystavaraa, mutta järjestäjä ei kuvaa sitä maksuttomana avustusjakeluna. Hope Kajaanin nykyinen alueellinen kattavuus Paltamoon on vahvistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [
+        "paltamo-4h-recycling-shop-not-free"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Paltamo",
+      "category": "Tavarat",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Maksutonta tavarajakoa ei vahvistettu. Paltamon 4H-kierrätysmyymälä ei ole lähteissä maksuton avustuspalvelu; Hope Kajaanin mahdollinen nykyinen toimitus Paltamoon on tarkistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [
+        "paltamo-4h-recycling-shop-not-free"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Paltamo",
+      "category": "Raha",
+      "status": "accepted_local_hobby_support_and_regional_income_support",
+      "finding": "Paltamon kunnan vuonna 2026 käytössä oleva harrastusraha on tarveharkintainen maksusitoumus vähävaraisille lapsille, nuorille ja perheille: enintään 200 €/henkilö/kalenterivuosi, vuoden 2026 määräraha 3 000 €. Lisäksi Kainuun täydentävä ja ehkäisevä toimeentulotuki kattaa Paltamon.",
+      "service_ids": [
+        "paltamo-harrastusraha-lapsiperheille-2026",
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Paltamo",
+      "category": "Asuminen",
+      "status": "accepted_national_records_with_regional_housing_advice_pending",
+      "finding": "VTKL:n maksuton korjausneuvonta ja Varken korjausavustus ovat valtakunnallisia tietueita. Kainuun asunnottomien palveluohjauksen maksuttomuus ja Paltamon paikallinen hakureitti vaativat vielä vahvistuksen.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kainuu-asunnottomien-palveluohjaus-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Puolanka",
+      "category": "Ruoka-apu",
+      "status": "pending_current_free_terms_and_schedule",
+      "finding": "Kainuun ruoka-apuopas 2/2026 nimeää SRP-Puolangan aineellisen ruoka-avun ja EU-maksukorttien jaon sekä muutamia yleisötapahtumia vuodessa. Vuoden 2026–2027 paikalliset jakopäivät, hakureitti ja maksuttomuusehdot eivät ole järjestäjän ajantasaisesta lähteestä vahvistuneet.",
+      "service_ids": [],
+      "pending_ids": [
+        "puolanka-srp-material-food-aid-local-schedule-2026-27"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Puolanka",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun hyvinvointialueen lapsiperheiden kotipalvelu kattaa Puolangan; tilapäinen palvelu maksuton tulorajan alittuessa tai lastensuojelun asiakkuuden perusteella, muutoin 5 €/h.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Puolanka",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta vaateapua ei vahvistettu. Hope Kajaani -toimipisteen vuoden 2026 kattavuus Puolangalle on tarkistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Puolanka",
+      "category": "Tavarat",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta tavara-apua ei vahvistettu. Hope Kajaani -toimipisteen vuoden 2026 kattavuus Puolangalle on tarkistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Puolanka",
+      "category": "Raha",
+      "status": "accepted_regional_support_one_off_local_grant_excluded",
+      "finding": "Kainuun täydentävä ja ehkäisevä toimeentulotuki kattaa Puolangan. Puolangan seurakunnan 16–25-vuotiaille suunnattu 2026 itsenäistymisavustus oli kertaluonteinen hakukierros, jonka määräaika 14.8.2026 on päättynyt.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "puolanka-church-one-off-youth-grant-2026"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Puolanka",
+      "category": "Asuminen",
+      "status": "accepted_national_records_with_regional_housing_advice_pending",
+      "finding": "VTKL:n maksuton korjausneuvonta ja Varken korjausavustus ovat valtakunnallisia. Kainuun asunnottomien palveluohjauksen maksuttomuus ja paikallinen saatavuus vaativat vahvistuksen.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kainuu-asunnottomien-palveluohjaus-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Ristijärvi",
+      "category": "Ruoka-apu",
+      "status": "accepted_recurring_meal_with_pending_school_surplus_and_vouchers",
+      "finding": "Paltamon seurakunnan/Ristijärven alueseurakunnan Syödään yhdessä -ruokailu järjestetään noin kerran kuukaudessa Ristijärven seurakuntakodilla, maksu vapaaehtoinen. Ristijärven koulun hävikkiruoan jakelun 4H-yhdistyksen kautta sekä diakonian ruokalahjakorttien tarkat ajat ja ehdot ovat avoinna.",
+      "service_ids": [
+        "paltamon-seurakunta-syodaan-yhdessa-ruokailut"
+      ],
+      "pending_ids": [
+        "ristijarvi-4h-school-surplus-food-distribution-2026",
+        "paltamo-ristijarvi-parish-food-voucher-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Ristijärvi",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service_paid_local_service_excluded",
+      "finding": "Kainuun lapsiperheiden kotipalvelu on maksuton vain tulorajan tai lastensuojelun ehdon täyttyessä. Ristijärven 4H-yhdistyksen kotiaskare- ja siivouspalvelu maksaa 25–45 €/h, joten sitä ei hyväksytty maksuttomaksi.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "ristijarvi-4h-paid-home-help"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Ristijärvi",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Ristijärven 4H:n kierrätysmyymälä ja kirpputori eivät ole maksuton vaatejakelu. Hope Kajaanin nykyinen alueellinen kattavuus Ristijärvelle on vahvistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [
+        "ristijarvi-4h-recycling-shop-not-free"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Ristijärvi",
+      "category": "Tavarat",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Ristijärven 4H:n kirpputori myy tavaroita ja perii myyntiprovision; maksutonta tavara-apua ei vahvistettu. Hope Kajaanin mahdollinen nykyinen toimitus Ristijärvelle vaatii vahvistuksen.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [
+        "ristijarvi-4h-recycling-shop-not-free"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Ristijärvi",
+      "category": "Raha",
+      "status": "accepted_regional_support_with_local_diaconia_food_vouchers_pending",
+      "finding": "Kainuun täydentävä ja ehkäisevä toimeentulotuki kattaa Ristijärven. Seurakunnan ruoka-avun lahjakortit on kuvattu erikseen Ruoka-apu-kategoriassa; paikalliset ehdot odottavat vahvistusta.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Ristijärvi",
+      "category": "Asuminen",
+      "status": "accepted_national_records_with_regional_housing_advice_pending",
+      "finding": "VTKL:n maksuton korjausneuvonta ja Varken korjausavustus ovat valtakunnallisia. Kainuun asunnottomien palveluohjauksen maksuttomuus ja Ristijärven hakureitti ovat avoinna.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kainuu-asunnottomien-palveluohjaus-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Sotkamo",
+      "category": "Ruoka-apu",
+      "status": "no_current_recurring_free_service_confirmed_paid_distribution_excluded",
+      "finding": "Sotkamon kunnan Apajan hävikkiruokaa jaetaan arkipäivisin klo 12.30–13.00, mutta annos/rasia maksaa 2 €. Seurakunnan diakoniaruoka-avun säännöllisyys ja mahdollinen kertaluonteisuus vaativat vielä tarkennuksen.",
+      "service_ids": [],
+      "pending_ids": [
+        "sotkamo-parish-diaconia-food-aid-regularity-2026"
+      ],
+      "excluded_ids": [
+        "sotkamo-food-waste-2-euro"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Sotkamo",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun hyvinvointialueen lapsiperheiden kotipalvelu kattaa Sotkamon; tilapäinen palvelu maksuton tulorajan alittuessa tai lastensuojelun asiakkuuden perusteella, muutoin 5 €/h.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Sotkamo",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta vaatejakelua ei vahvistettu. Hope Kajaani -toimipisteen nykyinen kattavuus Sotkamoon on avoinna.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Sotkamo",
+      "category": "Tavarat",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta tavara-apua ei vahvistettu. Hope Kajaani -toimipisteen nykyinen kattavuus Sotkamoon on avoinna.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Sotkamo",
+      "category": "Raha",
+      "status": "accepted_regional_support",
+      "finding": "Kainuun hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki kattaa Sotkamon. Erillistä jatkuvaa paikallista henkilökohtaista raha-avustusta ei vahvistettu.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Sotkamo",
+      "category": "Asuminen",
+      "status": "accepted_national_records_with_regional_housing_advice_pending",
+      "finding": "VTKL:n maksuton korjausneuvonta ja Varken korjausavustus ovat valtakunnallisia. Kainuun asunnottomien palveluohjauksen maksuttomuus ja paikallinen saatavuus vaativat vahvistuksen.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kainuu-asunnottomien-palveluohjaus-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Suomussalmi",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status_and_local_schedule",
+      "finding": "Suomussalmen helluntaiseurakunnan Leipäkirkko ja elintarvikejakelu järjestetään joka toinen perjantai klo 13.00, mutta maksuttomuutta ei ilmaista sivulla. Suomussalmen seurakunnan Takkatuvan tiistainen hävikkiruokajako ja ruokakorttien ehdot vaativat järjestäjän lisävahvistuksen.",
+      "service_ids": [],
+      "pending_ids": [
+        "suomussalmi-helluntaiseurakunta-leipakirkko-free-terms-2026",
+        "suomussalmi-seurakunta-takkatuppa-food-aid-free-terms-2026",
+        "suomussalmi-seurakunta-food-card-terms-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Suomussalmi",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun hyvinvointialueen lapsiperheiden kotipalvelu kattaa Suomussalmen; tilapäinen palvelu maksuton tulorajan alittuessa tai lastensuojelun asiakkuuden perusteella, muutoin 5 €/h.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Suomussalmi",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta vaateapua ei vahvistettu. Hope Kajaani -toimipisteen nykyinen kattavuus Suomussalmelle on avoinna.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Suomussalmi",
+      "category": "Tavarat",
+      "status": "no_local_free_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta tavara-apua ei vahvistettu. Hope Kajaani -toimipisteen nykyinen kattavuus Suomussalmelle on avoinna.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Suomussalmi",
+      "category": "Raha",
+      "status": "accepted_regional_support_one_off_diaconia_aid_excluded",
+      "finding": "Kainuun täydentävä ja ehkäisevä toimeentulotuki kattaa Suomussalmen. Seurakunnan kertaluonteinen diakoninen talousapu rajattiin pois; ruoka-avun lahjakortti on erillinen avoin selvitys.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "suomussalmi-diaconia-one-off-financial-aid"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Suomussalmi",
+      "category": "Asuminen",
+      "status": "accepted_national_records_with_regional_housing_advice_pending",
+      "finding": "VTKL:n maksuton korjausneuvonta ja Varken korjausavustus ovat valtakunnallisia. Kainuun asunnottomien palveluohjauksen maksuttomuus ja paikallinen saatavuus vaativat vahvistuksen.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kainuu-asunnottomien-palveluohjaus-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
     }
   ],
   "accepted_services": [
@@ -408,6 +813,54 @@
       "checked_date": "2026-11-18",
       "status": "accepted_voluntary_contribution",
       "publication_ready": true
+    },
+    {
+      "id": "paltamon-seurakunta-syodaan-yhdessa-ruokailut",
+      "name": "Paltamon seurakunnan Syödään yhdessä -yhteisöruokailut",
+      "organizer": "Paltamon seurakunta / Ristijärven alueseurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Paltamo",
+        "Ristijärvi"
+      ],
+      "location": "Paltamon seurakuntakeskus, Puolangantie 14, 88300 Paltamo; Ristijärven seurakuntakoti, Pappilantie 27, 88400 Ristijärvi.",
+      "regular_time": "Noin kerran kuukaudessa; päivät vaihtelevat kuukausittain. Vuoden 2026 seurakunnan tapahtumakalenterissa useita Paltamon ja Ristijärven ruokailuja; Kainuun ruoka-apuopas 2/2026 vahvistaa kuukausirytmin.",
+      "free_and_conditions": "Ruokailuissa on vapaaehtoinen maksu. Osallistuminen ei edellytä maksua, joten palveluun voi osallistua maksutta. Avoin yhteisöruokailu.",
+      "contact": "Diakoniatyöntekijä Hanna Heikkinen 044 597 4762; Paltamon kirkkoherranvirasto 044 597 4753 (ma ja to 9–12); Ristijärven seurakuntakoti/virasto 044 597 4753 (ti 9–12).",
+      "source_urls": [
+        "https://hyrynsalmi.fi/wp-content/uploads/Ruoka-apu-opasvihko-022026.pdf",
+        "https://www.paltamonseurakunta.fi/tapahtumat",
+        "https://www.paltamonseurakunta.fi/kirkot-ja-tilat/paltamon-seurakuntakeskus",
+        "https://www.paltamonseurakunta.fi/kirkot-ja-tilat/ristijarven-seurakuntakoti",
+        "https://www.paltamonseurakunta.fi/yhteystiedot"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "paltamo-harrastusraha-lapsiperheille-2026",
+      "name": "Paltamon kunnan harrastusraha lapsiperheille",
+      "organizer": "Paltamon kunta yhteistyössä Kainuun hyvinvointialueen sosiaalityön kanssa",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Paltamo"
+      ],
+      "location": "Hakeminen Paltamon lapsiperheiden ja aikuisten sosiaalityön palvelutarpeen arvioinnin kautta; Paltamon perhekeskus, Salmelankuja 1, 88300 Paltamo.",
+      "regular_time": "Käytössä kalenterivuonna 2026; tukea haetaan tarpeen mukaan sosiaalityön palvelutarpeen arvioinnissa, ei erillistä määräpäivää ilmoitettu.",
+      "free_and_conditions": "Maksuton maksusitoumus vähävaraisille lapsille, nuorille ja perheille harrastustoiminnan kustannuksiin. Enintään 200 €/henkilö/kalenterivuosi; vuoden 2026 kokonaismääräraha 3 000 €. Käyttö ensisijaisesti Paltamossa tapahtuviin harrastuksiin, välineisiin, osallistumismaksuihin, lisensseihin ja kursseihin. Ei matka- tai majoituskuluihin. Ei suoraa käteismaksua hakijalle eikä takaisinmaksua.",
+      "contact": "Hyvinvointiaktivaattori Jenna Härkönen 040 623 7272; hakeminen Paltamon lapsiperheiden/aikuisten sosiaalityön kautta.",
+      "source_urls": [
+        "https://www.paltamo.fi/hyvinvointi-ja-terveys/harrastusraha-lapsiperheille.html",
+        "https://hyvinvointialue.kainuu.fi/toimipaikat/paltamon-perhekeskus"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
     }
   ],
   "regional_service_reuse": [
@@ -462,20 +915,20 @@
     },
     {
       "id": "hope-kajaani-regional-coverage-2026",
-      "municipality": "Hyrynsalmi ja Kuhmo",
+      "municipality": "Hyrynsalmi, Kuhmo, Paltamo, Puolanka, Ristijärvi, Sotkamo ja Suomussalmi",
       "categories": [
         "Vaatteet",
         "Tavarat"
       ],
-      "detail": "Hope Kajaanin vuoden 2019 paikallistoimijakuvauksessa kerrotaan, että Kajaanin toimipiste auttoi myös muita Kainuun kuntia ja postitti apua kauempana asuville. Vuoden 2026 alueellinen kattavuus Hyrynsalmelle ei ole nykyisestä paikallissivusta vahvistettavissa. Kuhmo lisätty tarkistettavaksi."
+      "detail": "Hope Kajaanin vuoden 2019 aineistossa mainitaan muiden Kainuun kuntien auttaminen postitse. Vuoden 2026 paikallissivu ei vahvista toimialueen laajuutta; tarkista kattavuus jokaiselle Kainuun kunnalle ennen laajentamista."
     },
     {
       "id": "kainuu-asunnottomien-palveluohjaus-free-terms",
-      "municipality": "Hyrynsalmi, Kajaani ja Kuhmo",
+      "municipality": "Koko Kainuu; paikallinen toteutus tarkistettava kunnittain",
       "categories": [
         "Asuminen"
       ],
-      "detail": "Kainuun hyvinvointialueen asunnottomien palveluohjaus voi sisältää asunnon etsimistä, välivuokrausta, asumisenohjausta, välitystilipalvelua ja tilapäismajoitusta. Palvelu on saatavilla sekä Hyrynsalmella että Kajaanissa; maksuttomuus ja yksityiskohtaiset myöntöehdot eivät ilmene sivulta. Kuhmo lisätty samaan alueelliseen tarkistukseen."
+      "detail": "Kainuun hyvinvointialueen asunnottomien palveluohjaus voi sisältää asunnon etsimistä, välivuokrausta, asumisen ohjausta ja tilapäismajoitusta. Maksuttomuus ja kaikkien kuntien paikallinen hakureitti eivät käy ilmi palvelusivulta; vahvista ennen hyväksyntää."
     },
     {
       "id": "kuhmo-lahiotupa-food-aid-free-status",
@@ -501,6 +954,86 @@
         "Asuminen"
       ],
       "detail": "Kuhmon Terva-asuntojen asumisneuvoja Piia Myllylä (044 710 5081, piia.myllyla@kuhmo.fi) neuvoo muuttajan oppaan mukaan kaikkia kuntalaisia asumismuodosta riippumatta. Palvelun maksuttomuutta ei ilmaista nykyisellä yhteystieto-/asumissivulla; varmista ennen hyväksyntää."
+    },
+    {
+      "id": "paltamo-monthly-surplus-food-distribution",
+      "municipality": "Paltamo",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 ilmoittaa Paltamossa kerran kuukaudessa järjestettävän hävikkiruoan jaon. Järjestäjän oma ajantasainen sivu ei kerro jakopaikkaa, kellonaikaa, jakelijaa tai maksuttomuusehtoja; vahvista diakoniatyöntekijältä Hanna Heikkiseltä 044 597 4762.",
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "paltamo-ristijarvi-parish-food-voucher-terms",
+      "municipality": "Paltamo ja Ristijärvi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 kertoo Paltamon seurakunnan ja Ristijärven alueseurakunnan ruoka-avusta lahjakorttien muodossa (ESR+ maksukortit ja seurakunnan avustusmäärärahat). Apu on tarveharkintaista ja perustuu talous- ja elämäntilanteen selvittelyyn. Nykyiset saatavuus-, maksuttomuus- ja hakuehdot sekä säännöllinen hakureitti on vahvistettava seurakunnalta.",
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "puolanka-srp-material-food-aid-local-schedule-2026-27",
+      "municipality": "Puolanka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 nimeää SRP-Puolangan aineellisen ruoka-avun ja EU-maksukorttien jaon sekä muutamia yleisötapahtumia vuodessa. Vuoden 2026–2027 paikalliset jakopäivät, hakureitti ja maksuttomuusehdot puuttuvat.",
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "ristijarvi-4h-school-surplus-food-distribution-2026",
+      "municipality": "Ristijärvi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 kertoo, että Ristijärven koululta toimitetaan pääruokaa 4H-yhdistykselle, joka koordinoi hävikkiruoan jaon. Järjestäjän ajantasainen oma sivu ei vahvista jakopäivää, kellonaikaa, paikkaa tai maksuttomuutta; tarkista Ristijärven 4H-yhdistykseltä.",
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "suomussalmi-helluntaiseurakunta-leipakirkko-free-terms-2026",
+      "municipality": "Suomussalmi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Suomussalmen helluntaiseurakunnan oma sivu vahvistaa Leipäkirkon ja kauppojen lahjoittaman ylijäämäruoan jaon joka toinen perjantai klo 13.00. Osoite Säröspinontie 14, 89600 Suomussalmi; puhelin 044 053 7226. Maksuttomuutta ei ilmaista sivulla, joten palvelu pidetään avoimena kunnes järjestäjä vahvistaa ettei asiakkaalta peritä maksua.",
+      "source_urls": [
+        "https://www.suomussalmenhelluntaisrk.fi/leipakirkko-ja-elintarvikejakelu/",
+        "https://www.suomussalmenhelluntaisrk.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "suomussalmi-seurakunta-takkatuppa-food-aid-free-terms-2026",
+      "municipality": "Suomussalmi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 kertoo Takkatuvan tiistaisesta hävikkiruoan jaosta Yhteinen olohuone -tapahtumassa. Takkatuvan sijainti on Kirkkokuja 1, 89600 Suomussalmi; seurakunnan kalenteri vahvistaa tiistaiset kokoontumiset klo 9. Jakelun tarkka aika ja maksuttomuus on vahvistettava seurakunnalta.",
+      "source_urls": [
+        "https://hyrynsalmi.fi/wp-content/uploads/Ruoka-apu-opasvihko-022026.pdf",
+        "https://www.suomussalmenseurakunta.fi/kirkot-ja-tilat/nuorisotila-takkatupa"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "suomussalmi-seurakunta-food-card-terms-2026",
+      "municipality": "Suomussalmi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 kertoo Suomussalmen seurakunnan tarveharkintaisista ruokakaupan lahjakorteista, joiden hakemiseen vaaditaan toimeentulotukipäätös. Paikalliset jakopäivät, saatavuus, kortin arvo ja hakureitti eivät käy ilmi järjestäjän ajantasaisesta sivusta.",
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "sotkamo-parish-diaconia-food-aid-regularity-2026",
+      "municipality": "Sotkamo",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kainuun ruoka-apuopas 2/2026 kertoo, että Sotkamon seurakunnan diakoniatyöltä voi hakea ruoka-avustusta. Säännöllistä jakeluaikaa, avun muotoa ja maksuttomuusehtoja ei ilmoiteta; paikallinen käytäntö on vahvistettava seurakunnalta.",
+      "checked_date": "2026-11-18"
     }
   ],
   "excluded_observations": [
@@ -588,16 +1121,106 @@
         "https://www.kuhmo.fi/en/municipal-supplement-to-the-child-home-care-allowance/"
       ],
       "checked_date": "2026-11-18"
+    },
+    {
+      "id": "paltamo-4h-recycling-shop-not-free",
+      "municipality": "Paltamo",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Ristijärven 4H-yhdistyksen Paltamon kierrätysmyymälä vastaanottaa kierrätystavaraa, mutta järjestäjän sivu ei kuvaa maksutonta avustusjakelua; myymälää ei lasketa maksuttomaksi vaate- tai tavara-avuksi.",
+      "source_urls": [
+        "https://ristijarvi.4h.fi/toiminta/palvelut/kierratysmyymalat/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "ristijarvi-4h-paid-home-help",
+      "municipality": "Ristijärvi",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Ristijärven 4H-yhdistyksen kotiaskare-, siivous-, asiointi- ja ulkoiluapu maksaa 25–45 €/h; ei maksuton palvelu.",
+      "source_urls": [
+        "https://ristijarvi.4h.fi/toiminta/palvelut/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "ristijarvi-4h-recycling-shop-not-free",
+      "municipality": "Ristijärvi",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Ristijärven 4H:n kirpputori ja kierrätysmyymälä toimii myynti- ja provisioperiaatteella; ei maksuton vaate- tai tavara-apu.",
+      "source_urls": [
+        "https://ristijarvi.4h.fi/toiminta/palvelut/",
+        "https://ristijarvi.4h.fi/toiminta/palvelut/kierratysmyymalat/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "sotkamo-food-waste-2-euro",
+      "municipality": "Sotkamo",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Sotkamon kunnan Apajan hävikkiruokaa jaetaan arkipäivisin klo 12.30–13.00, mutta annos tai rasia maksaa 2 €; ei maksuton.",
+      "source_urls": [
+        "https://hyrynsalmi.fi/wp-content/uploads/Ruoka-apu-opasvihko-022026.pdf"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "puolanka-church-one-off-youth-grant-2026",
+      "municipality": "Puolanka",
+      "categories": [
+        "Raha",
+        "Ruoka-apu",
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Puolangan seurakunnan 16–25-vuotiaille vähävaraisille nuorille suunnattu itsenäistymisavustus oli kertaluonteinen vuoden 2026 hakukierros; hakemusten määräaika oli 14.8.2026. Ei jatkuva palvelu.",
+      "source_urls": [
+        "https://www.puolanganseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "puolanka-church-christmas-fundraiser-2026",
+      "municipality": "Puolanka",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Puolangan seurakunnan marraskuussa 2026 käynnissä oleva joulukeräys on kausiluonteinen varainkeruu, ei jatkuva henkilökohtainen avustuspalvelu.",
+      "source_urls": [
+        "https://www.puolanganseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "suomussalmi-diaconia-one-off-financial-aid",
+      "municipality": "Suomussalmi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kainuun ruoka-apuoppaan mukaan seurakuntien diakonian taloudellinen apu on yleensä kertaluonteista; Suomussalmen yleinen taloudellinen diakonia-apu ei siten kuulu jatkuvien palvelujen rekisteriin. Ruokakorttien erillinen palveluvihje pidetään avoimena.",
+      "source_urls": [
+        "https://hyrynsalmi.fi/wp-content/uploads/Ruoka-apu-opasvihko-022026.pdf"
+      ],
+      "checked_date": "2026-11-18"
     }
   ],
   "summary": {
-    "municipalities_screened_first_pass": 3,
+    "municipalities_screened_first_pass": 8,
     "total_municipalities": 8,
-    "category_checks": 18,
-    "new_accepted_service_records": 6,
-    "pending_leads": 8,
-    "excluded_observations": 7,
+    "category_checks": 48,
+    "new_accepted_service_records": 8,
+    "pending_leads": 16,
+    "excluded_observations": 14,
     "municipalities_fully_completed": 0
   },
-  "next_checkpoint": "Kainuu / Paltamo / Ruoka-apu"
+  "next_checkpoint": "Kanta-Häme / Forssa / Ruoka-apu"
 }
