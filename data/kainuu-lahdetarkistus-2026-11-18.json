@@ -1,0 +1,450 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-18",
+  "province": "Kainuu",
+  "update_type": "first_pass_municipal_screen_in_progress",
+  "source_checkpoint": "2026-11-18: Kainuu / Hyrynsalmi / Ruoka-apu",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Hyrynsalmi",
+    "Kajaani",
+    "Kuhmo",
+    "Paltamo",
+    "Puolanka",
+    "Ristijärvi",
+    "Sotkamo",
+    "Suomussalmi"
+  ],
+  "municipalities_screened_first_pass": [
+    "Hyrynsalmi",
+    "Kajaani"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Hyrynsalmi",
+      "category": "Ruoka-apu",
+      "status": "no_current_recurring_free_service_confirmed",
+      "finding": "Hyrynsalmen seurakunnan nykyinen apua ja tukea -sivu ei ilmoita säännöllistä ruoka-apua; vuoden 2026 joulutuki on kausiluonteinen ja rajattiin pois.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hyrynsalmi",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun hyvinvointialueen lapsiperheiden kotipalvelu kattaa Hyrynsalmen. Tilapäinen palvelu (enintään 12 käyntiä/vuosi) on maksuton, jos bruttotulot alittavat 2026 perhekokokohtaisen rajan tai palvelu järjestetään lastensuojelun asiakkuuden perusteella; muille 5 €/h. Säännöllinen palvelu on tulosidonnainen ja voi olla maksullinen.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hyrynsalmi",
+      "category": "Vaatteet",
+      "status": "no_local_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta vaatejakelua ei vahvistettu. Hope Kajaanin vuoden 2019 aineistossa kerrotaan avun toimittamisesta myös muille Kainuun kunnille postitse; vuoden 2026 kattavuus Hyrynsalmelle pitää vahvistaa.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hyrynsalmi",
+      "category": "Tavarat",
+      "status": "no_local_service_confirmed_regional_lead_pending",
+      "finding": "Paikallista jatkuvaa maksutonta tavarajakoa ei vahvistettu. Hope Kajaanin mahdollinen alueellinen toimitus Hyrynsalmelle on tarkistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hyrynsalmi",
+      "category": "Raha",
+      "status": "accepted_regional_support_with_local_diaconia_pending",
+      "finding": "Kainuun hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki kattaa Hyrynsalmen. Hyrynsalmen seurakunnan diakonia tarjoaa lisäksi taloushuolien neuvontaa ja mahdollisesti tapauskohtaista apua, mutta paikallisen rahallisen avun maksuttomuus, ehdot ja säännöllinen hakureitti vaativat vielä vahvistuksen.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [
+        "hyrynsalmi-diaconia-financial-aid-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hyrynsalmi",
+      "category": "Asuminen",
+      "status": "accepted_free_local_advice_and_national_records",
+      "finding": "Hyrynsalmen kunnan/KOy Ahmahaan asumisneuvonta on maksuton kaikille asukkaille. Lisäksi VTKL:n korjausneuvonta ja Varken valtakunnallinen korjausavustus soveltuvat ehtojen täyttyessä.",
+      "service_ids": [
+        "hyrynsalmi-asumisneuvonta",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kajaani",
+      "category": "Ruoka-apu",
+      "status": "pending_free_terms_and_current_schedule",
+      "finding": "Kajaanin Päiväkeskus ry:n 2026 toiminta-avustuksen käsittelyasiakirjassa kuvataan arkipäivien aamupala, lämmin ruoka kahdesti viikossa, ylijäämäruoan jako kahdesti viikossa ja välitön ruoka-apu. Maksuttomuutta, tarkkoja jakopäiviä ja vuoden 2026 ajantasaista käytäntöä ei vahvistettu järjestäjän omalta sivulta.",
+      "service_ids": [],
+      "pending_ids": [
+        "kajaani-paivakeskus-food-aid-free-terms-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kajaani",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun lapsiperheiden kotipalvelun tilapäinen palvelu on maksuton, kun bruttotulot jäävät perhekoon 2026 tulorajan alle (1 hlö 699 €, 2 hlöä 1 290 €, 3 hlöä 2 025 €, 4 hlöä 2 503 €, 5 hlöä 3 030 €, 6 hlöä 3 481 €/kk) tai palvelu järjestetään lastensuojelun asiakkuuden perusteella. Muutoin tilapäinen käynti 5 €/h; säännöllinen palvelu tulosidonnainen.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kajaani",
+      "category": "Vaatteet",
+      "status": "accepted_free_donated_aid",
+      "finding": "Hope Kajaani jakaa lahjoituksina saatuja vaatteita vähävaraisille ja kriisin kohdanneille lapsiperheille. Paikallistoimipiste on aktiivinen 2026; asiointi vain sähköpostilla ja sopimuksen mukaan. Harrastustukea ei tällä hetkellä myönnetä, mutta vaateapu kuuluu järjestön yleiseen toimintamuotoon.",
+      "service_ids": [
+        "hope-kajaani-vaateapu"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kajaani",
+      "category": "Tavarat",
+      "status": "accepted_free_donated_aid",
+      "finding": "Hope Kajaani jakaa lahjoituksina saatuja tavaroita vähävaraisille ja kriisin kohdanneille lapsiperheille. Paikallistoimipiste on aktiivinen 2026; asiointi vain sähköpostilla ja sopimuksen mukaan.",
+      "service_ids": [
+        "hope-kajaani-tavara-apu"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kajaani",
+      "category": "Raha",
+      "status": "accepted_regional_support",
+      "finding": "Kainuun hyvinvointialueen täydentävää ja ehkäisevää toimeentulotukea voi hakea myös Kajaanissa. Täydentävä tuki kattaa erityisiä menoja (mm. lasten harrastusmenot, lastenvaunut, kodin irtaimisto, hautauskulut); ehkäisevää tukea voidaan myöntää asumisen turvaamiseen ja äkillisen talousvaikeuden lieventämiseen. Ensin haetaan yleensä Kelan perustoimeentulotuki.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kajaani",
+      "category": "Asuminen",
+      "status": "pending_free_status_regional_service",
+      "finding": "Kainuun hyvinvointialueen asunnottomien palveluohjaus auttaa asunnon löytämisessä, asumisen ohjauksessa, välivuokrauksessa ja tarvittaessa tilapäismajoituksessa. Palvelu on saatavilla Kajaanin aikuissosiaalityön kautta, mutta maksuttomuus ja yksityiskohtaiset myöntämisehdot eivät käy ilmi palvelusivulta; ei hyväksytä ennen vahvistusta.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kainuu-asunnottomien-palveluohjaus-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "hyrynsalmi-asumisneuvonta",
+      "name": "Hyrynsalmen kunnan maksuton asumisneuvonta",
+      "organizer": "Hyrynsalmen kunta / Kiinteistö Oy Ahmahaka",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hyrynsalmi"
+      ],
+      "location": "Kunnanvirasto, Laskutie 1, 89400 Hyrynsalmi; Kiinteistö Oy Ahmahaka, Laskutie 1 A.",
+      "regular_time": "Ma–to klo 9–15, pe klo 9–13; suljettu lounasaikaan klo 11–11.30. Tapaaminen ajanvarauksella tai yhteydenotolla.",
+      "free_and_conditions": "Maksutonta ohjausta kaikille Hyrynsalmen asukkaille asumismuodosta riippumatta. Apua vuokranmaksuun, taloudenhallintaan, vuokrasopimuksiin, häätöuhkaan, asunnonhakuun ja viranomaisyhteyksiin.",
+      "contact": "Asumisneuvoja Kati Heikkinen, 044 710 4424, kati.heikkinen@hyrynsalmi.fi; asuntotoimisto@hyrynsalmi.fi.",
+      "source_urls": [
+        "https://hyrynsalmi.fi/asuminen-ja-ymparisto/asuminen-ja-ymparisto/asumisneuvonta/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hope-kajaani-vaateapu",
+      "name": "Hope Kajaani – maksuton vaateapu lapsiperheille",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry, Kajaanin paikallistoimisto",
+      "categories": [
+        "Vaatteet"
+      ],
+      "coverage": [
+        "Kajaani"
+      ],
+      "location": "Sammonkatu 7 B, Kajaani.",
+      "regular_time": "Avoinna sopimuksen mukaan; ei julkista säännöllistä vastaanottoaikaa. Yhteydenotot vain sähköpostitse.",
+      "free_and_conditions": "Hope jakaa lahjoituksina saatuja vaatteita vähävaraisille ja kriisin kohdanneille lapsiperheille. Asiakasapu on maksutonta. Vuoden 2026 paikallissivun mukaan uusia harrastustukia ei tällä hetkellä myönnetä; vaateapu kuuluu järjestön yleiseen palveluun.",
+      "contact": "Tiiminvetäjä Anja Salmi; kajaani@hopeyhdistys.fi.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/kajaani/",
+        "https://hopeyhdistys.fi/yhteystiedot/",
+        "https://hopeyhdistys.fi/wp-content/uploads/2026/04/Hope_2025.pdf"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hope-kajaani-tavara-apu",
+      "name": "Hope Kajaani – maksuton tavara-apu lapsiperheille",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry, Kajaanin paikallistoimisto",
+      "categories": [
+        "Tavarat"
+      ],
+      "coverage": [
+        "Kajaani"
+      ],
+      "location": "Sammonkatu 7 B, Kajaani.",
+      "regular_time": "Avoinna sopimuksen mukaan; ei julkista säännöllistä vastaanottoaikaa. Yhteydenotot vain sähköpostitse.",
+      "free_and_conditions": "Hope jakaa lahjoituksina saatuja kodin ja lasten käyttöön soveltuvia tavaroita vähävaraisille ja kriisin kohdanneille lapsiperheille. Asiakasapu on maksutonta.",
+      "contact": "Tiiminvetäjä Anja Salmi; kajaani@hopeyhdistys.fi.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/kajaani/",
+        "https://hopeyhdistys.fi/yhteystiedot/",
+        "https://hopeyhdistys.fi/wp-content/uploads/2026/04/Hope_2025.pdf"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa",
+      "name": "Kainuun lapsiperheiden kotipalvelu – maksuton pienituloisille perheille",
+      "organizer": "Kainuun hyvinvointialue",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Hyrynsalmi",
+        "Kajaani",
+        "Kuhmo",
+        "Paltamo",
+        "Puolanka",
+        "Ristijärvi",
+        "Sotkamo",
+        "Suomussalmi"
+      ],
+      "location": "Palvelu toteutetaan perheen kotona; perhekeskukset ja Omasote koko Kainuun alueella.",
+      "regular_time": "Palvelua haetaan tarpeen mukaan; järjestämisaika noin 14 vuorokautta. Tilapäinen palvelu enintään 12 käyntiä kalenterivuodessa.",
+      "free_and_conditions": "Tilapäinen lapsiperheiden kotipalvelu on maksuton, jos perheen bruttotulot alittavat 1.1.2026 voimassa olevan perhekoon mukaisen tulorajan (1 hlö 699 €, 2 hlöä 1 290 €, 3 hlöä 2 025 €, 4 hlöä 2 503 €, 5 hlöä 3 030 €, 6 hlöä 3 481 €/kk; yli 6 henkilön perheessä rajaa korotetaan 350 €/henkilö). Maksu jätetään perimättä myös lastensuojelun asiakkuuden perusteella järjestetystä tilapäisestä palvelusta. Muutoin tilapäinen palvelu maksaa 5 €/h; säännöllinen palvelu on tulosidonnainen. Pelkkää siivousta ei myönnetä.",
+      "contact": "Lapsiperheiden kotipalvelun sosiaaliohjaaja 044 797 4434; Kajaanin perhekeskus, Lönnrotinkatu 2 C, 87100 Kajaani; Omasote.",
+      "source_urls": [
+        "https://hyvinvointialue.kainuu.fi/palvelutarjonta/lapsiperheiden-kotipalvelu",
+        "https://hyvinvointialue.kainuu.fi/sites/default/files/documents/library/2025-12/Kainuun-hyvinvointialueen-asiakasmaksut.pdf"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_conditional_free",
+      "publication_ready": true
+    },
+    {
+      "id": "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki",
+      "name": "Kainuun hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki",
+      "organizer": "Kainuun hyvinvointialue",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Hyrynsalmi",
+        "Kajaani",
+        "Kuhmo",
+        "Paltamo",
+        "Puolanka",
+        "Ristijärvi",
+        "Sotkamo",
+        "Suomussalmi"
+      ],
+      "location": "Kainuun hyvinvointialueen aikuisten sosiaalityö; sähköinen hakemus Omasotessa tai kirjallinen hakemus oman kunnan aikuisten sosiaalityöhön.",
+      "regular_time": "Hakemuksia vastaanotetaan jatkuvasti. Tavallinen käsittelyaika 7 arkipäivää; kiireellisessä tapauksessa päätös viimeistään seuraavana arkipäivänä.",
+      "free_and_conditions": "Tuki on maksuton viranomaispalvelu ja myönnetään yksilöllisen tarveharkinnan perusteella. Täydentävää tukea voidaan myöntää erityisiin menoihin kuten lasten harrastuksiin, lastenvaunuihin, hautauskuluihin ja kodin irtaimistoon. Ehkäisevää tukea voidaan myöntää mm. asumisen turvaamiseen, ylivelkaantumisen ehkäisyyn ja äkilliseen talousvaikeuteen. Yleensä ensin haetaan Kelan perustoimeentulotukea; akuutit kriisit ovat poikkeus.",
+      "contact": "Kajaani: aikuissosiaalityön takaisinsoitto 08 6156 7741, Linnankatu 18 A. Hyrynsalmi: aikuisten sosiaalityön yhteydenotto paikallisen Kainuun sosiaalityön toimipisteen/Omasoten kautta; Hyrynsalmen kunnantalo, Laskutie 1.",
+      "source_urls": [
+        "https://hyvinvointialue.kainuu.fi/taydentava-ja-ehkaiseva-toimeentulotuki",
+        "https://hyvinvointialue.kainuu.fi/toimipaikat/kajaanin-aikuisten-sosiaalityon-toimipiste",
+        "https://hyvinvointialue.kainuu.fi/asiointi/sahkoinen-toimeentulotukihakemus"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "av-0029",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kainuu"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Vanhustyön keskusliiton maksuton korjausneuvonta; ei uutta kopiota."
+    },
+    {
+      "id": "varke-korjausavustus-iakkaat-vammaiset",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Varken korjausavustus lisättiin valtakunnallisena tietueena Etelä-Savon auditointiin 18.11.2026; ei kuntakohtaisia kopioita."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "kajaani-paivakeskus-food-aid-free-terms-2026",
+      "municipality": "Kajaani",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kajaanin Päiväkeskus ry:n vuoden 2026 avustushakemuksen käsittelyasiakirjassa kuvataan aamupala arkipäivisin, lämmin ruoka kahdesti viikossa, ylijäämäruoan jako kahdesti viikossa ja välitön ruoka-apu. Maksuttomuus ja nykyiset tarkat ajat puuttuvat järjestäjän omasta lähteestä. Yhteystieto Kainuunkatu 9, 044 737 9637."
+    },
+    {
+      "id": "kajaani-paivakeskus-clothing-goods-free-terms-2026",
+      "municipality": "Kajaani",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Kajaanin Päiväkeskus ry antaa kaupungin vuoden 2026 toiminta-avustushakemuksen mukaan vaate- ja kodinirtaimistoapua kaikkein vaikeimmassa tilanteessa oleville. Maksuttomuus, tarkka hakureitti ja vuoden 2026 saatavuus on vielä vahvistettava järjestäjältä."
+    },
+    {
+      "id": "hyrynsalmi-diaconia-financial-aid-free-terms",
+      "municipality": "Hyrynsalmi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Hyrynsalmen seurakunnan diakonia neuvoo ja ohjaa taloushuolissa ja sivu mainitsee taloudellisen avun. Yhteys diakoni Sanna Pihlaja 044 781 9371, sanna.pihlaja@evl.fi; Nivantie 4 / kunnantalon Laskutie 1. Paikallisen rahallisen avun maksuttomuus, myöntöehdot ja säännöllinen vastaanottorytmi tarkennettava."
+    },
+    {
+      "id": "hope-kajaani-regional-coverage-2026",
+      "municipality": "Hyrynsalmi",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Hope Kajaanin vuoden 2019 paikallistoimijakuvauksessa kerrotaan, että Kajaanin toimipiste auttoi myös muita Kainuun kuntia ja postitti apua kauempana asuville. Vuoden 2026 alueellinen kattavuus Hyrynsalmelle ei ole nykyisestä paikallissivusta vahvistettavissa."
+    },
+    {
+      "id": "kainuu-asunnottomien-palveluohjaus-free-terms",
+      "municipality": "Hyrynsalmi ja Kajaani",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Kainuun hyvinvointialueen asunnottomien palveluohjaus voi sisältää asunnon etsimistä, välivuokrausta, asumisenohjausta, välitystilipalvelua ja tilapäismajoitusta. Palvelu on saatavilla sekä Hyrynsalmella että Kajaanissa; maksuttomuus ja yksityiskohtaiset myöntöehdot eivät ilmene sivulta."
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "hyrynsalmi-parish-christmas-aid-2026",
+      "municipality": "Hyrynsalmi",
+      "categories": [
+        "Raha",
+        "Ruoka-apu"
+      ],
+      "detail": "Seurakunnan 11.11.–19.12.2026 jakama joulun talousavustus on kausiluonteinen, joten sitä ei sisällytetä jatkuvien palvelujen rekisteriin.",
+      "source_urls": [
+        "https://www.hyrynsalmenseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "kajaani-parish-one-off-diaconal-grant",
+      "municipality": "Kajaani",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kajaanin seurakunnan sivun mukaan diakonian taloudellinen apu on yleensä kertaluonteista odottamattoman kriisin tukea. Käyttäjän rajauksen mukaisesti sitä ei kirjata jatkuvaksi palveluksi.",
+      "source_urls": [
+        "https://www.kajaaninseurakunta.fi/apua-ja-tukea/arjen-ongelmat"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "kajaani-spr-one-time-terveyspiste-meal",
+      "municipality": "Kajaani",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "SPR Kajaanin osaston Terveyspisteen 1.9.2026 keittolounas oli yksittäinen tapahtuma, ei vahvistettu säännöllinen jakelu.",
+      "source_urls": [
+        "https://arkikahvila.fi/food-aid/kajaani"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "kajaani-ruokala-eines-paid",
+      "municipality": "Kajaani",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kajaanin Työvoimayhdistyksen Ruokala Eines on maksullinen (työttömät/eläkeläiset 7,50 €, muut 9 €), joten se ei ole maksuton ruoka-apupalvelu.",
+      "source_urls": [
+        "https://ktyry.fi/digitukipajat-10-9-ja-17-9/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "kajaani-otanmaeki-old-food-distribution",
+      "municipality": "Kajaani",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kajaanin seurakunnan Otanmäen ruokakassijako löytyi vuoden 2022 kolmen jakokerran ilmoituksena; ei ajantasainen jatkuva palvelu.",
+      "source_urls": [
+        "https://www.kajaaninseurakunta.fi/uutiset/-/news/108983533"
+      ],
+      "checked_date": "2026-11-18"
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 2,
+    "total_municipalities": 8,
+    "category_checks": 12,
+    "new_accepted_service_records": 4,
+    "pending_leads": 5,
+    "excluded_observations": 5,
+    "municipalities_fully_completed": 0
+  },
+  "next_checkpoint": "Kainuu / Kuhmo / Ruoka-apu"
+}
