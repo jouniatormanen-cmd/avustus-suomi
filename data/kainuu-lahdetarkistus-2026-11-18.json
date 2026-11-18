@@ -24,7 +24,8 @@
   ],
   "municipalities_screened_first_pass": [
     "Hyrynsalmi",
-    "Kajaani"
+    "Kajaani",
+    "Kuhmo"
   ],
   "municipalities_fully_completed": [],
   "category_checks": [
@@ -176,6 +177,86 @@
       ],
       "excluded_ids": [],
       "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kuhmo",
+      "category": "Ruoka-apu",
+      "status": "accepted_recurring_meal_with_pending_food_distribution",
+      "finding": "Kuhmon seurakunnan Arkinen ateria järjestetään noin kerran kuukaudessa syys- ja kevätkaudella, keskimäärin kuukauden kolmantena perjantaina klo 11–13; maksu on vapaaehtoinen. Lisäksi Piilolankankaan Lähiötuvalla jaetaan Tuupalan keittiön hävikkiruokaa ma–pe noin klo 13.15 koulupäivinä, mutta maksuttomuutta ei ilmaista järjestäjän sivulla. Seurakunnan ruokakaupan osto-osoitus vaikeassa taloustilanteessa on kuvattu Kainuun oppaassa, mutta sen paikalliset ehdot odottavat seurakunnan vahvistusta.",
+      "service_ids": [
+        "kuhmo-seurakunta-arkinen-ateria"
+      ],
+      "pending_ids": [
+        "kuhmo-lahiotupa-food-aid-free-status",
+        "kuhmo-diaconia-food-voucher-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kuhmo",
+      "category": "Kotiapu",
+      "status": "accepted_conditional_free_regional_service",
+      "finding": "Kainuun hyvinvointialueen lapsiperheiden kotipalvelun tilapäinen palvelu (enintään 12 käyntiä/vuosi) on maksuton perheen bruttotulojen jäädessä 2026 perhekoon mukaisten rajojen alle tai lastensuojelun asiakkuuden perusteella. Muutoin 5 €/h; säännöllinen palvelu tulosidonnainen.",
+      "service_ids": [
+        "kainuu-lapsiperheiden-kotipalvelu-maksuton-tulorajan-alittuessa"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kuhmo",
+      "category": "Vaatteet",
+      "status": "no_local_service_confirmed_regional_lead_pending",
+      "finding": "Kuhmossa ei vahvistettu paikallista jatkuvaa maksutonta vaatejakelua. Hope Kajaanin vuoden 2019 aineistossa kuvataan muiden Kainuun kuntien auttamista postitse, mutta vuoden 2026 Kuhmo-kattavuus on varmistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kuhmo",
+      "category": "Tavarat",
+      "status": "no_local_service_confirmed_regional_lead_pending",
+      "finding": "Kuhmossa ei vahvistettu paikallista jatkuvaa maksutonta tavarajakoa. Hope Kajaanin mahdollinen nykyinen toimitus Kuhmoon vaatii vahvistuksen.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kajaani-regional-coverage-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kuhmo",
+      "category": "Raha",
+      "status": "accepted_regional_support_with_local_diaconia_pending",
+      "finding": "Kainuun hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki kattaa Kuhmon. Kuhmon seurakunnan diakoniatyöltä voi Kainuun ruoka-apuoppaan mukaan hakea ruokakaupan osto-osoitusta vaikeassa taloudellisessa tilanteessa; paikalliset ehdot ja hakureitti pitää vahvistaa seurakunnalta.",
+      "service_ids": [
+        "kainuu-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [
+        "kuhmo-diaconia-food-voucher-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Kuhmo",
+      "category": "Asuminen",
+      "status": "accepted_national_records_local_advice_pending",
+      "finding": "VTKL:n korjausneuvonta (av-0029) ja Varken korjausavustus ovat valtakunnallisia. Kuhmon Terva-asuntojen asumisneuvoja palvelee muuttajan oppaan mukaan kaikkia kuntalaisia asumismuodosta riippumatta, mutta palvelun maksuttomuutta ei ole lähteessä vahvistettu.",
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "kuhmo-terva-asunnot-housing-advice-free-status"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
     }
   ],
   "accepted_services": [
@@ -304,6 +385,29 @@
       "checked_date": "2026-11-18",
       "status": "accepted",
       "publication_ready": true
+    },
+    {
+      "id": "kuhmo-seurakunta-arkinen-ateria",
+      "name": "Kuhmon seurakunnan Arkinen ateria",
+      "organizer": "Kuhmon seurakunta ja Hanka-Martat",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kuhmo"
+      ],
+      "location": "Kuhmon seurakuntakeskus, Kirkkotie 6–8, 88900 Kuhmo",
+      "regular_time": "Noin kerran kuukaudessa syys- ja kevätkaudella, keskimäärin kuukauden kolmantena perjantaina klo 11–13. Vuoden 2026 seurakuntajulkaisussa Arkinen ateria oli 23.1. klo 11–13; Kainuun ruoka-apuopas 2/2026 vahvistaa kuukausittaisen syys- ja kevätkauden rytmin.",
+      "free_and_conditions": "Aterialla on vapaaehtoinen maksu; osallistuminen ei edellytä maksua, joten aterian saa maksutta.",
+      "contact": "Diakoni Anne Malinen 044 738 4315, anne.malinen@evl.fi; diakonissa Anu Haverinen 044 738 4314, anu.haverinen@evl.fi; Kirkkotie 6–8, Kuhmo.",
+      "source_urls": [
+        "https://www.kuhmonseurakunta.fi/documents/d/www.kuhmonseurakunta.fi/22-1-2026-pdf",
+        "https://www.kuhmo.fi/wp-content/uploads/Ruoka-apu-opasvihko-022026.pdf",
+        "https://www.kuhmonseurakunta.fi/info-ja-asiointi/diakoniatoimisto"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_voluntary_contribution",
+      "publication_ready": true
     }
   ],
   "regional_service_reuse": [
@@ -358,20 +462,45 @@
     },
     {
       "id": "hope-kajaani-regional-coverage-2026",
-      "municipality": "Hyrynsalmi",
+      "municipality": "Hyrynsalmi ja Kuhmo",
       "categories": [
         "Vaatteet",
         "Tavarat"
       ],
-      "detail": "Hope Kajaanin vuoden 2019 paikallistoimijakuvauksessa kerrotaan, että Kajaanin toimipiste auttoi myös muita Kainuun kuntia ja postitti apua kauempana asuville. Vuoden 2026 alueellinen kattavuus Hyrynsalmelle ei ole nykyisestä paikallissivusta vahvistettavissa."
+      "detail": "Hope Kajaanin vuoden 2019 paikallistoimijakuvauksessa kerrotaan, että Kajaanin toimipiste auttoi myös muita Kainuun kuntia ja postitti apua kauempana asuville. Vuoden 2026 alueellinen kattavuus Hyrynsalmelle ei ole nykyisestä paikallissivusta vahvistettavissa. Kuhmo lisätty tarkistettavaksi."
     },
     {
       "id": "kainuu-asunnottomien-palveluohjaus-free-terms",
-      "municipality": "Hyrynsalmi ja Kajaani",
+      "municipality": "Hyrynsalmi, Kajaani ja Kuhmo",
       "categories": [
         "Asuminen"
       ],
-      "detail": "Kainuun hyvinvointialueen asunnottomien palveluohjaus voi sisältää asunnon etsimistä, välivuokrausta, asumisenohjausta, välitystilipalvelua ja tilapäismajoitusta. Palvelu on saatavilla sekä Hyrynsalmella että Kajaanissa; maksuttomuus ja yksityiskohtaiset myöntöehdot eivät ilmene sivulta."
+      "detail": "Kainuun hyvinvointialueen asunnottomien palveluohjaus voi sisältää asunnon etsimistä, välivuokrausta, asumisenohjausta, välitystilipalvelua ja tilapäismajoitusta. Palvelu on saatavilla sekä Hyrynsalmella että Kajaanissa; maksuttomuus ja yksityiskohtaiset myöntöehdot eivät ilmene sivulta. Kuhmo lisätty samaan alueelliseen tarkistukseen."
+    },
+    {
+      "id": "kuhmo-lahiotupa-food-aid-free-status",
+      "municipality": "Kuhmo",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Piilolankankaan Lähiötuvalla, Karhunpolku 3 A, jaetaan Tuupalan keittiön hävikkiruokaa ma–pe noin klo 13.15 koulupäivinä. Järjestäjän Terva-asunnot-sivu ei ilmaise maksua tai maksuttomuutta. Yhteys 044 710 5095."
+    },
+    {
+      "id": "kuhmo-diaconia-food-voucher-terms",
+      "municipality": "Kuhmo",
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "detail": "Kainuun hyvinvointialueen Ruoka-apuopas 2/2026 kertoo, että Kuhmon seurakunnan diakoniatyöltä voi hakea ruokakaupan osto-osoitusta vaikeassa taloudellisessa tilanteessa; tuloja ja menoja tarkastellaan tositteista. Seurakunnan omalla diakonia-sivulla ei kuvata kortin ehtoja tai hakuaikaa; vahvista paikallinen menettely Anne Maliselta 044 738 4315 tai Anu Haveriselta 044 738 4314."
+    },
+    {
+      "id": "kuhmo-terva-asunnot-housing-advice-free-status",
+      "municipality": "Kuhmo",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Kuhmon Terva-asuntojen asumisneuvoja Piia Myllylä (044 710 5081, piia.myllyla@kuhmo.fi) neuvoo muuttajan oppaan mukaan kaikkia kuntalaisia asumismuodosta riippumatta. Palvelun maksuttomuutta ei ilmaista nykyisellä yhteystieto-/asumissivulla; varmista ennen hyväksyntää."
     }
   ],
   "excluded_observations": [
@@ -435,16 +564,40 @@
         "https://www.kajaaninseurakunta.fi/uutiset/-/news/108983533"
       ],
       "checked_date": "2026-11-18"
+    },
+    {
+      "id": "kuhmo-family-meals-paid",
+      "municipality": "Kuhmo",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "MLL Kuhmon Perheiden Pesäkolo -toiminnan yhteydessä tiistaisin tarjottava lounas maksaa 3 €/perhe ja Kuhmon seurakunnan keskiviikon perhekerhon lounas 3 €/perhe; ei maksuton.",
+      "source_urls": [
+        "https://www.kuhmo.fi/ruoka-apu-opasvihko-kainuu/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "kuhmo-kuntalisa-discontinued-2026",
+      "municipality": "Kuhmo",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kuhmon kaupungin kotihoidontuen kuntalisä päättyi 1.8.2026. Ei aktiivinen palvelu tämän tarkistuksen päivänä.",
+      "source_urls": [
+        "https://www.kuhmo.fi/en/municipal-supplement-to-the-child-home-care-allowance/"
+      ],
+      "checked_date": "2026-11-18"
     }
   ],
   "summary": {
-    "municipalities_screened_first_pass": 2,
+    "municipalities_screened_first_pass": 3,
     "total_municipalities": 8,
-    "category_checks": 12,
-    "new_accepted_service_records": 4,
-    "pending_leads": 5,
-    "excluded_observations": 5,
+    "category_checks": 18,
+    "new_accepted_service_records": 5,
+    "pending_leads": 8,
+    "excluded_observations": 7,
     "municipalities_fully_completed": 0
   },
-  "next_checkpoint": "Kainuu / Kuhmo / Ruoka-apu"
+  "next_checkpoint": "Kainuu / Paltamo / Ruoka-apu"
 }
