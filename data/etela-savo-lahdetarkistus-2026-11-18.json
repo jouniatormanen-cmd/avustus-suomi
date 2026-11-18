@@ -1,0 +1,735 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-18",
+  "province": "Etelä-Savo",
+  "update_type": "first_pass_municipal_screen_completed_with_open_verifications",
+  "source_checkpoint": "2026-11-17: Etelä-Savo / Puumala / Ruoka-apu",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Enonkoski",
+    "Heinävesi",
+    "Hirvensalmi",
+    "Joroinen",
+    "Juva",
+    "Kangasniemi",
+    "Mikkeli",
+    "Mäntyharju",
+    "Pieksämäki",
+    "Puumala",
+    "Rantasalmi",
+    "Savonlinna",
+    "Sulkava"
+  ],
+  "municipalities_screened_first_pass": [
+    "Enonkoski",
+    "Heinävesi",
+    "Hirvensalmi",
+    "Joroinen",
+    "Juva",
+    "Kangasniemi",
+    "Mikkeli",
+    "Mäntyharju",
+    "Pieksämäki",
+    "Puumala",
+    "Rantasalmi",
+    "Savonlinna",
+    "Sulkava"
+  ],
+  "municipalities_fully_completed": [],
+  "municipalities_with_open_followup": [
+    "Enonkoski",
+    "Heinävesi",
+    "Hirvensalmi",
+    "Joroinen",
+    "Juva",
+    "Kangasniemi",
+    "Mikkeli",
+    "Mäntyharju",
+    "Pieksämäki",
+    "Puumala",
+    "Rantasalmi",
+    "Savonlinna",
+    "Sulkava"
+  ],
+  "category_checks": [
+    {
+      "municipality": "Puumala",
+      "category": "Ruoka-apu",
+      "status": "pending_current_terms_and_schedule",
+      "finding": "Puumalan alueseurakunnan diakoniatoimisto palvelee ajanvarauksella (0400 143 273), mutta järjestäjän ajantasaisesta lähteestä ei löytynyt erillistä ruokakassi-/ruokajakelupalvelua eikä sen maksuttomuusehtoja. Ei hyväksytä ennen täsmennystä.",
+      "pending_ids": [
+        "puumala-diaconia-food-aid-free-terms-and-schedule"
+      ],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Puumala",
+      "category": "Kotiapu",
+      "status": "accepted_existing_regional_record_reused",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Puumalan; palvelu edellyttää alle 18-vuotiaan lapsen perhettä ja yksilöllistä palvelutarpeen arviointia. Ei uutta kuntakohtaista kopiota.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Puumala",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta paikallista vaatejakelua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Puumala",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Kylätuvan kierrätyspiste on kunnan sivun mukaan toistaiseksi tauolla; pienjäteaseman hyötyjakeiden vastaanotto ei ole avustuksena annettavaa käyttökelpoista tavaraa.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Puumala",
+      "category": "Raha",
+      "status": "accepted_regional_record_with_local_lead_pending",
+      "finding": "Eloisan täydentävä ja ehkäisevä toimeentulotuki kattaa Puumalan. Puumalan alueseurakunnan taloudellisen diakonia-avun tarkat myöntöehdot ja paikallinen hakureitti vaativat vielä vahvistuksen.",
+      "pending_ids": [
+        "puumala-diaconia-financial-support-terms"
+      ],
+      "service_ids": [
+        "eloisa-taydentava-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Puumala",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_records_reused",
+      "finding": "Vanhustyön keskusliiton maksuton korjausneuvonta (av-0029) ja Varken henkilöasiakkaiden korjausavustus koskevat myös Puumalaa; ei kuntakohtaisia kopioita.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Rantasalmi",
+      "category": "Ruoka-apu",
+      "status": "accepted_voluntary_contribution",
+      "finding": "Rantasalmen kappeliseurakunnan yhteisöruokailu Kirkkorinteellä toistuu joka toinen maanantai klo 11–12; julkaistut päivät 14.9., 28.9., 12.10., 26.10., 9.11. ja 23.11.2026. Maksu on vapaaehtoinen, joten osallistuminen ei edellytä maksua.",
+      "pending_ids": [],
+      "service_ids": [
+        "rantasalmi-kirkkorinteen-yhteisoruokailu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Rantasalmi",
+      "category": "Kotiapu",
+      "status": "accepted_existing_regional_record_reused",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Rantasalmen yksilöllisen palvelutarpeen arvioinnin perusteella. Ikääntyneiden kotihoito ja tukipalvelut järjestetään Eloisan palvelutarpeen arvioinnin mukaan; niitä ei vahvistettu yleisesti maksuttomiksi.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Rantasalmi",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta paikallista vaatejakelua ei vahvistettu.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Rantasalmi",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta tavarajakoa tai lainausta ei vahvistettu. SPR:n ystävä- ja kohtaamistoiminta ei ole tavara-apua.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Rantasalmi",
+      "category": "Raha",
+      "status": "accepted_regional_diaconia_service",
+      "finding": "Savonlinnan seurakunnan diakoniatyön palvelut ovat maksuttomia; taloudellista apua voi hakea tilanteen arvioinnin jälkeen. Hakijan tulee ottaa mukaan kahden kuukauden tiliotteet tai voimassa oleva toimeentulotukipäätös. Rantasalmen paikallinen diakoni Pirjo-Leena Kinanen-Nimmrichter 040 838 5412.",
+      "pending_ids": [],
+      "service_ids": [
+        "savonlinnan-seurakunta-diakonian-taloudellinen-apu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Rantasalmi",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_records_reused",
+      "finding": "Vanhustyön keskusliiton korjausneuvonta (av-0029) ja Varken henkilöasiakkaiden korjausavustus ovat valtakunnallisia; ei kuntakohtaisia kopioita.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Savonlinna",
+      "category": "Ruoka-apu",
+      "status": "accepted_multiple_free_services_with_pending_lead",
+      "finding": "ViaDia Savonlinnan maksuton ruokailu ja leivän-/ruoanjakelu toimii tiistaisin klo 10–14, keskiviikkoisin klo 10–13 ja perjantaisin klo 10–14 (ruokailu sananhetken jälkeen klo 11). Lisäksi Savonlinnan Tuomiokirkkoseurakunnan Hengen ravintola Leipä kokoontuu maanantaisin klo 10–12, ruokailu klo 11–12; maksu on vapaaehtoinen. TEKO ry:n Leipätorin ruoka-apu on vahvistettu, mutta maksuttomuutta ei ilmaista järjestäjän lähteessä yksiselitteisesti.",
+      "pending_ids": [
+        "savonlinna-teko-leipatori-free-status"
+      ],
+      "service_ids": [
+        "viadia-savonlinna-maksuton-ruokailu",
+        "savonlinna-hengen-ravintola-leipa"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Savonlinna",
+      "category": "Kotiapu",
+      "status": "accepted_existing_regional_record_reused",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Savonlinnan yksilöllisen palvelutarpeen arvioinnin perusteella. Savonlinnan Marttojen kotiapu on hinnaston mukaan maksullinen, joten sitä ei hyväksytä.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": [
+        "savonlinna-marttojen-maksullinen-kotiapu"
+      ]
+    },
+    {
+      "municipality": "Savonlinna",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Maksutonta jatkuvaa vaatejakelua ei vahvistettu. ViaDia Tori on kierrätysmyymälä, ei maksuton jakelupalvelu.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Savonlinna",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Maksutonta jatkuvaa tavarajakoa ei vahvistettu. ViaDia Tori ja Savonlinnan Toimintakeskuksen kierrätysmyymälät myyvät tavaroita; ne rajattiin pois.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Savonlinna",
+      "category": "Raha",
+      "status": "accepted_two_free_services",
+      "finding": "Savonlinnan seurakunnan maksuton diakonia- ja taloudellisen avun palvelu on käytettävissä; diakoniavastaanotto tiistaisin ja torstaisin klo 9–12, Kirkkokatu 17, puh. 044 555 2579. Lisäksi Talouskahvit tarjoaa maksutonta ja anonyymiä raha-asioiden neuvontaa noin kerran kuukaudessa syksyllä 2026; 23.11. klo 10–12 Kirkkokatu 17 ja 9.12. klo 12–14 Linnala.",
+      "pending_ids": [],
+      "service_ids": [
+        "savonlinnan-seurakunta-diakonian-taloudellinen-apu",
+        "savonlinna-talouskahvit-2026"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Savonlinna",
+      "category": "Asuminen",
+      "status": "accepted_existing_national_records_reused",
+      "finding": "Vanhustyön keskusliiton korjausneuvonta (av-0029) ja Varken henkilöasiakkaiden korjausavustus ovat valtakunnallisia; kaupungin vuokra-asunnot ovat maksullisia eivätkä maksutonta asumisapua.",
+      "pending_ids": [],
+      "service_ids": [
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Sulkava",
+      "category": "Ruoka-apu",
+      "status": "accepted_voluntary_contribution",
+      "finding": "Sulkavan kappeliseurakunnan kaikille avoin yhteisöruokailu järjestetään toistuvasti torstaisin klo 12 Sulkavan seurakuntasalissa; julkaistut päivät 8.10., 5.11. ja 19.11.2026. Maksu on vapaaehtoinen, joten osallistuminen ei edellytä maksua.",
+      "pending_ids": [],
+      "service_ids": [
+        "sulkavan-seurakunnan-yhteisoruokailu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Sulkava",
+      "category": "Kotiapu",
+      "status": "accepted_existing_regional_record_reused",
+      "finding": "Eloisan maksuton lapsiperheen kotipalvelu kattaa Sulkavan yksilöllisen palvelutarpeen arvioinnin perusteella. Ikääntyneiden kotihoito arvioidaan erikseen eikä sitä vahvistettu yleisesti maksuttomaksi.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-lapsiperheen-kotipalvelu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Sulkava",
+      "category": "Vaatteet",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta paikallista vaatejakelua ei vahvistettu.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Sulkava",
+      "category": "Tavarat",
+      "status": "no_qualifying_local_service_confirmed_first_pass",
+      "finding": "Jatkuvaa maksutonta paikallista tavarajakoa tai lainausta ei vahvistettu.",
+      "pending_ids": [],
+      "service_ids": [],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Sulkava",
+      "category": "Raha",
+      "status": "accepted_multiple_services",
+      "finding": "Eloisan täydentävä ja ehkäisevä toimeentulotuki kattaa Sulkavan. Sulkavan kunnan kotihoidontuen kuntalisä on 300 €/kk alle 3-vuotiaasta kotona hoidettavasta lapsesta ja 200 €/kk sisaruksista, jos perheen kaikki alle kouluikäiset lapset hoidetaan kotona; tuki on verotettavaa ja haettava kunnasta. Lisäksi Savonlinnan seurakunnan maksuton diakonia- ja taloudellisen avun palvelu kattaa Sulkavan; paikallinen diakoni Anne Borén 040 540 6738.",
+      "pending_ids": [],
+      "service_ids": [
+        "eloisa-taydentava-ehkaiseva-toimeentulotuki",
+        "sulkavan-kotihoidontuen-kuntalisa",
+        "savonlinnan-seurakunta-diakonian-taloudellinen-apu"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    },
+    {
+      "municipality": "Sulkava",
+      "category": "Asuminen",
+      "status": "accepted_free_local_advice_and_national_records",
+      "finding": "Sulkavan kunnan asumisneuvonta on maksuton, luottamuksellinen ja kaikille kuntalaisille asumismuodosta riippumatta. Lisäksi käytettävissä ovat VTKL:n korjausneuvonta (av-0029) ja Varken korjausavustus iäkkäille ja vammaisille.",
+      "pending_ids": [],
+      "service_ids": [
+        "sulkava-asumisneuvonta",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "checked_date": "2026-11-18",
+      "excluded_ids": []
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "viadia-savonlinna-maksuton-ruokailu",
+      "name": "ViaDia Savonlinnan maksuton ruokailu ja leivän-/ruoanjakelu",
+      "organizer": "ViaDia Savonlinna ry",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Savonlinna"
+      ],
+      "location": "Cafe ViaDia, Olavinkatu 40B, 57130 Savonlinna",
+      "regular_time": "Ti 10–14, ke 10–13 ja pe 10–14; hartaus klo 11 ja ruokailu sen jälkeen. Leipää ja ruokaa jaetaan mukaan. Ilta-café to 17–20.",
+      "free_and_conditions": "Järjestäjän sivu ilmoittaa ruokailun maksuttomaksi ja kaikille avoimeksi. Kahvittelu ja yhteisöllinen toiminta sisältyvät palveluun; leivän- ja ruoanjakelu on maksutonta.",
+      "contact": "ViaDian vastaava ohjaaja Karita Winqvist, 050 379 7822; Cafe ViaDia, Olavinkatu 40B, Savonlinna.",
+      "source_urls": [
+        "https://savonlinna.viadia.fi/",
+        "https://savonlinna.viadia.fi/yhteystiedot/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "savonlinna-hengen-ravintola-leipa",
+      "name": "Savonlinnan Tuomiokirkkoseurakunnan Hengen ravintola Leipä",
+      "organizer": "Savonlinnan Tuomiokirkkoseurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Savonlinna"
+      ],
+      "location": "Seurakuntakeskuksen Pikkusali ja kahvio, Kirkkokatu 17, 57100 Savonlinna",
+      "regular_time": "Maanantaisin klo 10–12; ovet aukeavat klo 10, ruokailu klo 11–12 ja viikkomessu klo 12.",
+      "free_and_conditions": "Yhteisöruokailu on kaikille avoin. Maksu on vapaaehtoinen ja menee toiminnan ylläpitämiseen, joten osallistuminen ei edellytä maksua.",
+      "contact": "Savonlinnan seurakunnan diakoniatyö 044 555 2579; seurakuntakeskus, Kirkkokatu 17.",
+      "source_urls": [
+        "https://savonlinnanseurakunta.fi/tapahtumahaku/hengen-ravintola-leipa-10/",
+        "https://savonlinnanseurakunta.fi/apua-ja-tukea/diakoniatyo/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_voluntary_contribution",
+      "publication_ready": true
+    },
+    {
+      "id": "rantasalmi-kirkkorinteen-yhteisoruokailu",
+      "name": "Rantasalmen kappeliseurakunnan yhteisöruokailu Kirkkorinteellä",
+      "organizer": "Rantasalmen kappeliseurakunta, Savonlinnan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Rantasalmi"
+      ],
+      "location": "Rantasalmen seurakuntatalo ja kappeli Kirkkorinne, Kirkkotie 3, 58900 Rantasalmi",
+      "regular_time": "Joka toinen maanantai klo 11–12; syksyn 2026 julkaistut päivät 14.9., 28.9., 12.10., 26.10., 9.11. ja 23.11.",
+      "free_and_conditions": "Kaikille avoin yhteisöruokailu. Maksu on vapaaehtoinen; ruokailuun voi osallistua ilman maksua.",
+      "contact": "Diakoni Pirjo-Leena Kinanen-Nimmrichter, 040 838 5412, pirjo-leena.kinanen-nimmrichter@evl.fi; Kirkkotie 3, Rantasalmi.",
+      "source_urls": [
+        "https://savonlinnanseurakunta.fi/tietoa-meista/kappeliseurakunnat/rantasalmen-kappeliseurakunta/",
+        "https://savonlinnanseurakunta.fi/yhteystiedot/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_voluntary_contribution",
+      "publication_ready": true
+    },
+    {
+      "id": "savonlinnan-seurakunta-diakonian-taloudellinen-apu",
+      "name": "Savonlinnan seurakunnan maksuton diakonia- ja taloudellisen avun palvelu",
+      "organizer": "Savonlinnan seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "location": "Paikalliset diakoniatoimistot ja seurakuntien vastaanotot; Savonlinnan seurakuntakeskus, Kirkkokatu 17, 57100 Savonlinna; Rantasalmen Kirkkotie 3; Sulkavan Vilkaharjuntie 1.",
+      "regular_time": "Savonlinnan Tuomiokirkkoseurakunnan diakoniavastaanotto ti ja to klo 9–12. Rantasalmella vastaanottoja on julkaistu mm. ma ja ke klo 9; Sulkavan päivystysajat ilmoitetaan seurakunnan tapahtumakalenterissa. Paikalliset tapaamiset myös ajanvarauksella.",
+      "free_and_conditions": "Seurakunnan diakoniapalvelut ovat maksuttomia ja luottamuksellisia. Taloudellinen apu on tarveharkintaista, eikä sitä myönnetä automaattisesti. Savonlinnan seurakunnan ohjeen mukaan taloudellista avustusta hakevan tulee ottaa mukaan kahden kuukauden tiliotteet tai voimassa oleva toimeentulotukipäätös talouden kaikilta täysi-ikäisiltä. Seurakunta osallistuu lisäksi 2025–2027 ESR+ aineellisen avun 40 euron maksukorttiohjelmaan; paikallinen jakovuoro ja saatavuus tarkistetaan diakoniatyöstä.",
+      "contact": "Rantasalmi: Pirjo-Leena Kinanen-Nimmrichter 040 838 5412, pirjo-leena.kinanen-nimmrichter@evl.fi. Savonlinna: diakoniavastaanotto 044 555 2579. Sulkava: Anne Borén 040 540 6738, anne.boren@evl.fi.",
+      "source_urls": [
+        "https://savonlinnanseurakunta.fi/apua-ja-tukea/diakoniatyo/",
+        "https://savonlinnanseurakunta.fi/tietoa-meista/kappeliseurakunnat/rantasalmen-kappeliseurakunta/",
+        "https://savonlinnanseurakunta.fi/yhteystiedot/",
+        "https://www.savonlinnanseurakunta.fi/wp-content/uploads/sites/8/2026/04/Seurakuntauutiset-1_2026.pdf"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_conditional_free",
+      "publication_ready": true,
+      "notes": "Yksi seurakuntatason tietue kolmelle kunnalle; ei erillisiä kuntakohtaisia kopioita. ESR+ maksukorttien paikallinen jakorytmi ei ole julkaistu."
+    },
+    {
+      "id": "savonlinna-talouskahvit-2026",
+      "name": "Savonlinnan Talouskahvit – maksuton raha-asioiden neuvonta",
+      "organizer": "Savonlinnan kaupunki, Eloisa, Kela, talous- ja velkaneuvonta, ulosotto, Savonlinnan seurakunta ja Viola ry:n TaTuki-hanke",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Savonlinna"
+      ],
+      "location": "Vuorokuukausin Savonlinnan seurakuntakeskus, Kirkkokatu 17, ja Linnala, Sotilaspojankatu 7.",
+      "regular_time": "Noin kerran kuukaudessa. Syksyn 2026 julkaistut ajat: 28.9. klo 10–12, 27.10. klo 12–14, 23.11. klo 10–12 ja 9.12. klo 12–14.",
+      "free_and_conditions": "Kaikille avoin, maksuton, anonyymi ja luottamuksellinen neuvonta. Ajanvarausta ei tarvita; osallistuja voi tulla kaikenlaisten talouskysymysten kanssa.",
+      "contact": "TaTuki-hankkeen Inka Laitamo, 050 594 7459, inka.laitamo@violary.fi.",
+      "source_urls": [
+        "https://www.savonlinna.fi/savonlinnan-talouskahvien-syyskausi-2026-kaynnistyy-28-9/",
+        "https://etelasavonha.fi/palvelut/sosiaalipalvelut/tyoikaisten-sosiaalipalvelut/taloudellinen-tuki-ja-ohjaus/talousneuvola/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true,
+      "notes": "Syksyn 2026 kuukausittainen sarja; ei joulun kertatapahtuma."
+    },
+    {
+      "id": "sulkavan-seurakunnan-yhteisoruokailu",
+      "name": "Sulkavan kappeliseurakunnan kaikille avoin yhteisöruokailu",
+      "organizer": "Sulkavan kappeliseurakunta, Savonlinnan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Sulkava"
+      ],
+      "location": "Sulkavan seurakuntasali, Vilkaharjuntie 1, 58700 Sulkava",
+      "regular_time": "Toistuvasti torstaisin klo 12; seurakunnan vuoden 2026 kalenterissa mm. 8.10., 5.11. ja 19.11. Tarkista yksittäinen toteutuspäivä kalenterista.",
+      "free_and_conditions": "Kaikille avoin yhteisöruokailu. Maksu on vapaaehtoinen ja tuotto käytetään seurakunnan diakoniatyön tukemiseen; osallistuminen ei edellytä maksua.",
+      "contact": "Diakoni Anne Borén, 040 540 6738, anne.boren@evl.fi; Vilkaharjuntie 1, Sulkava.",
+      "source_urls": [
+        "https://savonlinnanseurakunta.fi/tapahtumahaku/yhteisoruokailu-13/",
+        "https://savonlinnanseurakunta.fi/yhteystiedot/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_voluntary_contribution",
+      "publication_ready": true
+    },
+    {
+      "id": "sulkava-asumisneuvonta",
+      "name": "Sulkavan kunnan maksuton asumisneuvonta",
+      "organizer": "Sulkavan kunta",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Sulkava"
+      ],
+      "location": "Kunnanviraston palvelupiste, Kauppatie 1, 58700 Sulkava",
+      "regular_time": "Asiointipiste avoinna ma–pe klo 9–11 ja 12–15; asumisneuvontaa saa palvelupisteeltä ja yhteydenotolla.",
+      "free_and_conditions": "Maksuton, luottamuksellinen ja matalan kynnyksen palvelu kaikille sulkavalaisille asumismuodosta riippumatta. Apua vuokranmaksuun, asumistukiin, asuntohakemuksiin, vuokravelkoihin, häätöuhkaan, häiriötilanteisiin ja asumisen arjen hallintaan.",
+      "contact": "Palveluneuvoja Anne Simonen, 044 417 5337, yhteispalvelu@sulkava.fi; kunnan vaihde 015 527 5200.",
+      "source_urls": [
+        "https://sulkava.fi/asuminen-ja-ymparisto/asumisneuvontapalvelu/",
+        "https://sulkava.fi/sulkavan-kunta-kaynnistaa-asumisneuvontapalvelun/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "sulkavan-kotihoidontuen-kuntalisa",
+      "name": "Sulkavan kunnan kotihoidontuen kuntalisä",
+      "organizer": "Sulkavan kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Sulkava"
+      ],
+      "location": "Hakemus päiväkoti Touhulasta tai kunnanviraston asiointipisteestä; päätös Sulkavan kunta.",
+      "regular_time": "Kuukausittainen tuki; hakemus jätettävä kuukauden 15. päivään mennessä, jolloin tuki alkaa seuraavan kuukauden alusta.",
+      "free_and_conditions": "Kuntalisä on 300 €/kk alle 3-vuotiaasta kotona hoidettavasta lapsesta ja 200 €/kk sisaruksista. Edellyttää, että perheen kaikki alle kouluikäiset lapset hoidetaan kotona; 6-vuotias voi osallistua osapäiväiseen esiopetukseen. Tuki on verotettavaa tuloa.",
+      "contact": "Päiväkodin johtaja Mariannika Auvinen, 044 417 5320; Sulkavan kunta, Kauppatie 1, 58700 Sulkava.",
+      "source_urls": [
+        "https://sulkava.fi/varhaiskasvatus-ja-opetus/lapsiperheiden-avustukset/kotihoidontuki-ja-kuntalisa/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "varke-korjausavustus-iakkaat-vammaiset",
+      "name": "Varken korjausavustus iäkkäiden ja vammaisten henkilöiden asuntoihin",
+      "organizer": "Valtion tukeman asuntorakentamisen keskus Varke",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "location": "Hakemus Varken sähköisessä asioinnissa tai postitse; neuvonta valtakunnallisesti.",
+      "regular_time": "Hakemuksia otetaan vastaan voimassa olevan hakumenettelyn mukaisesti; henkilöasiakkaiden korjausavustuksen neuvonta keskiviikkoisin klo 9–11.",
+      "free_and_conditions": "Avustus parantaa kodin esteettömyyttä tai turvallisuutta. Vähintään yhden vakituisen asukkaan tulee olla yli 65-vuotias tai vammainen. Hakijan tulee omistaa asunto tai hänelle tulee olla pysyvästi/pitkäaikaisesti siirretty korjausvastuu; vuokralainen ei voi hakea. Kaikkien asukkaiden tulot ja varallisuus vaikuttavat. Avustus enintään 50 % hyväksytyistä kustannuksista, erityisestä syystä 70 %. Avustusta ei tarvitse maksaa takaisin.",
+      "contact": "Korjausavustusten neuvonta 029 525 0560, ke klo 9–11; korjausavustus.varke@gov.fi.",
+      "source_urls": [
+        "https://www.varke.fi/fi/henkiloasiakkaat/avustukset-henkiloasiakkaille/korjausavustus-iakkaiden-ja-vammaisten-asuntoihin",
+        "https://www.varke.fi/fi/palvelut/asiakaspalvelu/korjausavustus-henkiloasiakkaille",
+        "https://avustusohjeet.varke.fi/fi/korjausavustus/v8"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted_national_record",
+      "publication_ready": true,
+      "notes": "Yksi valtakunnallinen tietue, ei kuntakohtaisia kopioita. VTKL:n korjausneuvonta av-0029 on erillinen jo olemassa oleva neuvontatietue."
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "eloisa-lapsiperheen-kotipalvelu",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "status": "accepted_conditional_free",
+      "note": "Yksi alueellinen Eloisa-tietue; ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "eloisa-taydentava-ehkaiseva-toimeentulotuki",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enonkoski",
+        "Hirvensalmi",
+        "Juva",
+        "Kangasniemi",
+        "Mikkeli",
+        "Mäntyharju",
+        "Pieksämäki",
+        "Puumala",
+        "Rantasalmi",
+        "Savonlinna",
+        "Sulkava"
+      ],
+      "status": "accepted",
+      "note": "Yksi alueellinen Eloisa-tietue; ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "av-0029",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Etelä-Savo"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Vanhustyön keskusliiton maksuton korjausneuvonta; paikallinen Etelä-Savon neuvoja Ismo Kortman 0500 651 737, ismo.kortman@vtkl.fi. Ei uutta kopiota."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "puumala-diaconia-food-aid-free-terms-and-schedule",
+      "municipality": "Puumala",
+      "category": "Ruoka-apu",
+      "detail": "Puumalan alueseurakunnan diakoniatoimisto palvelee ajanvarauksella 0400 143 273. Järjestäjän sivu ei vahvista erillisen ruokakassi-/ruokajakelun maksuttomuutta, jakelupaikkaa tai säännöllistä aikaa."
+    },
+    {
+      "id": "puumala-diaconia-financial-support-terms",
+      "municipality": "Puumala",
+      "category": "Raha",
+      "detail": "Puumalan diakoniatoimiston yhteys on vahvistettu (0400 143 273, ajanvarauksella), mutta paikallisen rahallisen avun myöntämisehdot ja säännöllinen asiointikäytäntö on vielä täsmennettävä."
+    },
+    {
+      "id": "savonlinna-teko-leipatori-free-status",
+      "municipality": "Savonlinna",
+      "category": "Ruoka-apu",
+      "detail": "Työpajayhdistys TEKO ry:n Savonlinnan Leipätori jakaa lahjoituksena saatuja ylijäämäleipiä ja einesruokia ruoka-avun tarpeessa oleville; palveluun ei tarvitse ilmoittautua ja Suomi.fi-palvelukuvaus on päivitetty 6.10.2026. Järjestäjän ensisijaisesta sivusta ei saatu maksuttomuuden suoraa vahvistusta eikä tarkkaa osoitetta/aikaa; varmista ennen hyväksyntää."
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "puumala-siivouspalveluseteli-client-co-pay",
+      "municipality": "Puumala",
+      "category": "Kotiapu",
+      "detail": "Kunnan siivouspalveluseteli on enintään 20 €/h ja asiakas maksaa palvelun todellisen hinnan ja setelin erotuksen; ei täysin maksuton palvelu.",
+      "source_urls": [
+        "https://puumala.fi/asuminen-ja-ymparisto/siivouspalveluseteli/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "puumala-kylatupa-recycling-paused",
+      "municipality": "Puumala",
+      "category": "Tavarat",
+      "detail": "Kylätuvan kierrätyspiste on kunnan sivun mukaan toistaiseksi tauolla; ei aktiivinen tavara-apupalvelu.",
+      "source_urls": [
+        "https://puumala.fi/hallinto-ja-yhteystiedot/asioi-ja-osallistu/kylatupa/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "puumala-waste-station-paid-materials",
+      "municipality": "Puumala",
+      "category": "Tavarat",
+      "detail": "Pienjäteasema ottaa vastaan jätteitä; huonekaluista, puutavarasta ja tiili-/betonikuormista peritään maksu. Kierrätyskontit eivät ole maksutonta käyttökelpoisten tavaroiden jakelua.",
+      "source_urls": [
+        "https://puumala.fi/asuminen-ja-ymparisto/jatehuolto/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "savonlinna-summer-park-meal-2026",
+      "municipality": "Savonlinna",
+      "category": "Ruoka-apu",
+      "detail": "Kaupungin maksuton puistoruokailu oli rajattu kesäkaudelle 8.6.–31.7.2026 ja 0–16-vuotiaille; kausipalvelu ei kuulu jatkuvaan rekisteriin.",
+      "source_urls": [
+        "https://www.savonlinna.fi/savonlinna-jarjestaa-maksutonta-puistoruokailua-kesalla-2026/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "savonlinna-viadia-tori-sales",
+      "municipality": "Savonlinna",
+      "category": "Vaatteet / Tavarat",
+      "detail": "ViaDia Tori on kierrätysmyymälä, joka ottaa lahjoituksia myyntiin; ei maksuton vaate-/tavarajako.",
+      "source_urls": [
+        "https://savonlinna.svk.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "savonlinna-toimintakeskus-sales",
+      "municipality": "Savonlinna",
+      "category": "Vaatteet / Tavarat",
+      "detail": "Savonlinnan Toimintakeskuksen kierrätysmyymälät myyvät tavaroita; noutopalvelusta peritään 10 €; ei maksuton tavara-apu.",
+      "source_urls": [
+        "https://toimarisln.fi/",
+        "https://toimarisln.fi/yhdistys/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "savonlinna-martat-paid-home-help",
+      "municipality": "Savonlinna",
+      "category": "Kotiapu",
+      "detail": "Savonlinnan Marttojen kotiapu on hinnaston mukaan maksullista (hinnat alkaen 38,50 €/h sosiaalihuollon sopimusasiakkaille); ei maksuton palvelu.",
+      "source_urls": [
+        "https://www.martat.fi/savo/savonlinnan-kotiapu/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "rantasalmi-association-grants",
+      "municipality": "Rantasalmi",
+      "category": "Raha",
+      "detail": "Kunnan avustukset on tarkoitettu rekisteröidyille yhdistyksille ja yhteisöille tai niiden toimintaan; ei yksityishenkilöiden henkilökohtainen avustuspalvelu.",
+      "source_urls": [
+        "https://rantasalmi.fi/vapaa-aika-ja-kulttuuri/harrastaminen/jarjestot-ja-avustukset/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "sulkava-development-coins",
+      "municipality": "Sulkava",
+      "category": "Raha",
+      "detail": "Kehityskolikot ja muut kunnan kertaluonteiset kohdeavustukset on suunnattu tapahtumiin, järjestöille tai hankkeisiin, eivät jatkuvaksi henkilökohtaiseksi avustuspalveluksi.",
+      "source_urls": [
+        "https://sulkava.fi/sulkavan-kunnanhallitus-hyvaksyi-avustuksia-nuorisolle-yhdistyksille-ja-yrityksille/"
+      ],
+      "checked_date": "2026-11-18"
+    }
+  ],
+  "summary": {
+    "first_pass_municipality_count": 13,
+    "first_pass_category_checks_total": 78,
+    "new_accepted_records_this_run": 9,
+    "cumulative_accepted_unique_records": 22,
+    "pending_leads_added_this_run": 3,
+    "excluded_observations_added_this_run": 9,
+    "municipalities_fully_completed": 0
+  },
+  "next_checkpoint": "Kainuu / Hyrynsalmi / Ruoka-apu"
+}
