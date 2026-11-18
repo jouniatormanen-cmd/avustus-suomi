@@ -3,7 +3,7 @@
   "checked_date": "2026-11-18",
   "province": "Kainuu",
   "update_type": "first_pass_municipal_screen_completed",
-  "source_checkpoint": "2026-11-18: Kainuu first-pass screening completed 8/8; next Kanta-Häme / Forssa / Ruoka-apu",
+  "source_checkpoint": "2026-11-18: Kainuu first-pass screening completed 8/8; Kanta-Häme Forssa and Hämeenlinna screened; next Hattula / Ruoka-apu",
   "category_order": [
     "Ruoka-apu",
     "Kotiapu",
@@ -1222,5 +1222,5 @@
     "excluded_observations": 14,
     "municipalities_fully_completed": 0
   },
-  "next_checkpoint": "Kanta-Häme / Forssa / Ruoka-apu"
+  "next_checkpoint": "Kanta-Häme / Hattula / Ruoka-apu"
 }
