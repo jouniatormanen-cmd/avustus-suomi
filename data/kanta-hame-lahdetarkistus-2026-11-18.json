@@ -1,0 +1,763 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-18",
+  "province": "Kanta-Häme",
+  "update_type": "first_pass_municipal_screen_in_progress",
+  "source_checkpoint": "2026-11-18: Kanta-Häme / Forssa and Hämeenlinna first-pass screening; next Hattula / Ruoka-apu",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Forssa",
+    "Hämeenlinna",
+    "Hattula",
+    "Hausjärvi",
+    "Humppila",
+    "Janakkala",
+    "Jokioinen",
+    "Loppi",
+    "Riihimäki",
+    "Tammela",
+    "Ypäjä"
+  ],
+  "municipalities_screened_first_pass": [
+    "Forssa",
+    "Hämeenlinna"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Forssa",
+      "category": "Ruoka-apu",
+      "status": "accepted_ongoing_diaconia_food_support",
+      "finding": "Forssan seurakunnan diakonia tarjoaa jatkuvasti ajanvarauksella lyhytaikaista kriisiapua; apu kohdistuu pääsääntöisesti ruokaan ja joskus laskuihin. Hakijan asuinpaikan on oltava seurakunnan toimialueella, taloustilanne selvitetään ja ensisijaiset lakisääteiset tuet on haettava.",
+      "service_ids": [
+        "forssa-seurakunta-diakonian-ruoka-ja-talousapu"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Forssa",
+      "category": "Kotiapu",
+      "status": "accepted_free_regional_service",
+      "finding": "Oma Hämeen lapsiperheiden kotipalvelu on maksuton 1.6.2026 alkaen kaikille palvelun myöntämisen perusteet täyttäville perheille. Forssan seudun palvelupiste Urheilukentänkatu 9.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Forssa",
+      "category": "Vaatteet",
+      "status": "no_local_recurring_free_service_confirmed",
+      "finding": "Forssasta ei vahvistettu järjestäjän ensisijaisesta lähteestä jatkuvaa maksutonta vaatejakelua. Valtakunnallisia palveluja ei kopioitu kuntakohtaisiksi.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Forssa",
+      "category": "Tavarat",
+      "status": "no_local_recurring_free_service_confirmed",
+      "finding": "Forssasta ei vahvistettu järjestäjän ensisijaisesta lähteestä jatkuvaa maksutonta tavara-apua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Forssa",
+      "category": "Raha",
+      "status": "accepted_regional_and_diaconia_support",
+      "finding": "Forssan seurakunnan diakonia voi myöntää tarveharkintaista lyhytaikaista apua pääosin ruokaan ja joskus laskuihin; käteistä ei anneta. Lisäksi Oma Hämeen täydentävä ja ehkäisevä toimeentulotuki kattaa Forssan.",
+      "service_ids": [
+        "forssa-seurakunta-diakonian-ruoka-ja-talousapu",
+        "omahame-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Forssa",
+      "category": "Asuminen",
+      "status": "accepted_regional_guidance_and_national_records",
+      "finding": "Oma Hämeen aikuissosiaalityön Ensilinja neuvoo erityisestä syystä asunnon/asumisen järjestämisessä. Lisäksi VTKL:n korjausneuvonta ja Varken korjausavustus ovat valtakunnallisia tietueita.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "category": "Ruoka-apu",
+      "status": "accepted_free_recurring_meals_and_donated_food_with_pending_other_points",
+      "finding": "Hämeenlinna-Vanajan seurakunnan Reskan Kulman aamupala on maksuton joka tiistai, Café Idänpää maksuton joka toinen keskiviikko ja Haukkaa & Hengaa -illan aterialla on vapaaehtoinen maksu. Diakoniakeskuksesta saa lahjoitusruokaa. Pelastusarmeijan viikoittaisen Leipäkirkon maksuttomuus sekä Hyvän Tahdon Ruokajakeluverkoston ajantasaiset paikallispisteet vaativat lisävahvistuksen.",
+      "service_ids": [
+        "hameenlinna-vanaja-reskan-kulman-aamupala",
+        "hameenlinna-vanaja-cafe-idanpaa",
+        "hameenlinna-vanaja-haukkaa-hengaa-ateria",
+        "hameenlinna-vanaja-lahjoitusruoka"
+      ],
+      "pending_ids": [
+        "pelastusarmeija-hameenlinna-leipakirkko-free-terms",
+        "hameenlinna-hyvan-tahdon-ruokajakeluverkosto-current-points"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "category": "Kotiapu",
+      "status": "accepted_free_regional_and_local_family_services",
+      "finding": "Oma Hämeen lapsiperheiden kotipalvelu on maksuton palvelukriteerit täyttäville perheille. Hämeenlinna-Vanajan seurakunnan Pikkuhelppi tarjoaa kaikille perheille maksutonta lastenhoitoapua enintään neljä kertaa kevät- tai syyskaudella.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026",
+        "hameenlinna-vanaja-pikkuhelppi"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "category": "Vaatteet",
+      "status": "accepted_free_clothing_aid",
+      "finding": "Hämeenlinna-Vanajan seurakunnan Vaatehelppi kierrättää maksutta lasten 80–160 cm vaatteita ja jalkineita; lisäksi Hope Hämeenlinna jakaa lahjoituksina saatuja vaatteita vähävaraisille ja kriisin kokeneille lapsiperheille.",
+      "service_ids": [
+        "hameenlinna-vanaja-vaatehelppi",
+        "hope-hameenlinna-family-aid"
+      ],
+      "pending_ids": [
+        "hope-hameenlinna-hobby-support-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "category": "Tavarat",
+      "status": "accepted_free_donated_goods_aid",
+      "finding": "Hope Hämeenlinna jakaa lahjoituksina saatuja kodin ja lasten käyttöön soveltuvia tavaroita vähävaraisille ja kriisin kokeneille lapsiperheille. Avunpyynnöt tehdään lomakkeella tai sähköpostitse.",
+      "service_ids": [
+        "hope-hameenlinna-family-aid"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "category": "Raha",
+      "status": "accepted_regional_support_with_hobby_support_pending",
+      "finding": "Oma Hämeen täydentävä ja ehkäisevä toimeentulotuki kattaa Hämeenlinnan. Hopen vuoden 2025 vuosikertomus kertoo harrastustuesta, mutta vuoden 2026 saatavuus ja hakuehdot eivät ole paikallissivulla vahvistuneet.",
+      "service_ids": [
+        "omahame-taydentava-ja-ehkaiseva-toimeentulotuki"
+      ],
+      "pending_ids": [
+        "hope-hameenlinna-hobby-support-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "municipality": "Hämeenlinna",
+      "category": "Asuminen",
+      "status": "accepted_free_local_and_regional_guidance_with_one_schedule_pending",
+      "finding": "Maksutonta asumisneuvontaa on tarjolla kansainvälisille asukkaille Palvelupiste Kastellissa ja alle 30-vuotiaille Ohjaamo Stagella. Oma Hämeen aikuissosiaalityön Ensilinja neuvoo asumisen järjestämisessä erityisissä tilanteissa. Ikääntyvien asumisneuvonta on maksuton, mutta kaupungin kahdella sivulla puhelinpäivän tiedot ovat ristiriidassa (ke vs. to 9–11), joten aikataulu jätettiin avoimeksi.",
+      "service_ids": [
+        "hameenlinna-kansainvalisten-asumisneuvonta",
+        "hameenlinna-ohjaamo-stage-asumisneuvonta",
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [
+        "hameenlinna-ikaantyvien-asumisneuvonta-hours"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-18"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "forssa-seurakunta-diakonian-ruoka-ja-talousapu",
+      "name": "Forssan seurakunnan diakoniatyön ruoka- ja talousapu",
+      "organizer": "Forssan seurakunta",
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "coverage": [
+        "Forssa"
+      ],
+      "location": "Diakoniatoimisto, Kartanonkatu 16, 30100 Forssa.",
+      "regular_time": "Puhelinasiointi ma–to klo 9–12, 050 370 6556; vastaanotto tiistaisin ja torstaisin klo 9–12 ajanvarauksella.",
+      "free_and_conditions": "Maksuton, tarveharkintainen ja lyhytaikainen apu kriisitilanteessa. Apua myönnetään pääsääntöisesti ruokaan ja joskus laskuihin; käteistä ei anneta eikä rahaa siirretä tilille. Hakijan vakituisen asuinpaikan tulee olla Forssan seurakunnan toimialueella. Taloustilanne selvitetään; ensisijaiset lakisääteiset tuet on haettava ensin.",
+      "contact": "Diakoniatoimisto 050 370 6556; Arja Kujala 040 643 1545, arja.kujala@evl.fi; johtava diakonian viranhaltija Anni Lautaporras 040 661 4770, anni.lautaporras@evl.fi; Satu Pöllänen 050 308 6770.",
+      "source_urls": [
+        "https://forssanseurakunta.fi/apua-ja-tukea/diakoniatyontekija-tavattavissa/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "omahame-lapsiperheiden-kotipalvelu-maksuton-2026",
+      "name": "Oma Hämeen maksuton lapsiperheiden kotipalvelu",
+      "organizer": "Kanta-Hämeen hyvinvointialue / Oma Häme",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Forssa",
+        "Hämeenlinna"
+      ],
+      "location": "Palvelu toteutetaan pääasiassa perheen kotona arkipäivisin. Forssan seudun palvelupiste Urheilukentänkatu 9, 30100 Forssa; Hämeenlinnan palvelupiste Birger Jaarlin katu 33, 13100 Hämeenlinna.",
+      "regular_time": "Tarpeen ja palvelutarpeen arvion mukaan arkipäivisin; yhteydenotto Perhekeskuksen Ensilinjaan ma 8–15, ti 8–12, ke–to 8–15, pe 8–12.",
+      "free_and_conditions": "Sekä tilapäinen että säännöllinen lapsiperheiden kotipalvelu on maksutonta 1.6.2026 alkaen, jos palvelun myöntämisperusteet täyttyvät. Apua voidaan myöntää esimerkiksi vanhemman sairauden, synnytyksen, uupumuksen, monikkoperheen vauva-arjen tai muun kuormittavan elämäntilanteen vuoksi. Pelkkään siivoukseen, vanhemman työn/opiskelun ajaksi tai kuljetukseen palvelua ei myönnetä.",
+      "contact": "Perhekeskuksen Ensilinja 03 629 6200; verkkolomake tai Perhekeskus-chat. Forssan seudun palvelupiste Urheilukentänkatu 9; Hämeenlinna Birger Jaarlin katu 33.",
+      "source_urls": [
+        "https://omahame.fi/web/guest/lapsiperheiden-kotipalvelu",
+        "https://omahame.fi/lasten-ja-perheiden-palveluiden-asiakasmaksut",
+        "https://omahame.fi/fi/w/lapsiperheiden-kotipalvelu-muuttuu-maksuttomaksi-1.6.-alkaen"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "omahame-taydentava-ja-ehkaiseva-toimeentulotuki",
+      "name": "Oma Hämeen täydentävä ja ehkäisevä toimeentulotuki",
+      "organizer": "Kanta-Hämeen hyvinvointialue / Oma Häme",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Forssa",
+        "Hämeenlinna",
+        "Hattula",
+        "Hausjärvi",
+        "Humppila",
+        "Janakkala",
+        "Jokioinen",
+        "Loppi",
+        "Riihimäki",
+        "Tammela",
+        "Ypäjä"
+      ],
+      "location": "Taloudellisen tuen yksikkö, PL 505, 13111 Hämeenlinna; sähköinen tai paperinen hakemus.",
+      "regular_time": "Hakemuksia otetaan vastaan jatkuvasti. Tavallinen päätös 7 arkipäivässä; kiireellisessä tilanteessa päätös voidaan tehdä seuraavana arkipäivänä. Aikuissosiaalityön Ensilinja ma–pe klo 9–12.",
+      "free_and_conditions": "Maksuton julkinen avustuspalvelu. Täydentävää tukea voidaan myöntää erityisiin menoihin ja ehkäisevää tukea esimerkiksi asumisen turvaamiseen, äkillisen talousvaikeuden lieventämiseen ja ylivelkaantumisen ehkäisyyn. Yleensä ensin haetaan Kelan perustoimeentulotukea; hakemuksen voi siirtää hyvinvointialueelle tai hakea suoraan Oma Hämeeltä.",
+      "contact": "Aikuissosiaalityön Ensilinja 03 629 6566, ma–pe 9–12; taloudellinentuki@omahame.fi; Taloudellinen tuki, PL 505, 13111 Hämeenlinna.",
+      "source_urls": [
+        "https://omahame.fi/web/guest/taydentava-tai-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+      "name": "Oma Hämeen aikuissosiaalityön Ensilinja – asumisen järjestämisen neuvonta",
+      "organizer": "Kanta-Hämeen hyvinvointialue / Oma Häme",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Forssa",
+        "Hämeenlinna",
+        "Hattula",
+        "Hausjärvi",
+        "Humppila",
+        "Janakkala",
+        "Jokioinen",
+        "Loppi",
+        "Riihimäki",
+        "Tammela",
+        "Ypäjä"
+      ],
+      "location": "Alueellinen puhelin- ja digipalvelu; tarvittaessa ohjaus oman alueen sosiaalipalveluihin.",
+      "regular_time": "Aikuissosiaalityön Ensilinja ma–pe klo 9–12.",
+      "free_and_conditions": "Maksuton julkinen neuvonta ja ohjaus. Palvelusta saa erityisestä syystä apua ja tukea asunnon tai asumisen järjestämiseen sekä tietoa palveluista ja etuuksista. Ei itsessään myönnä asuntoa tai avustusta.",
+      "contact": "Aikuissosiaalityön Ensilinja 03 629 6566, ma–pe 9–12; tekstiviestinumero 040 629 6257 kuulovammaisille, puhevammaisille ja tulkkauspalvelua tarvitseville.",
+      "source_urls": [
+        "https://omahame.fi/web/guest/taydentava-tai-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-vanaja-reskan-kulman-aamupala",
+      "name": "Reskan Kulman maksuton aamupala",
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Reskan Kulma, Raatihuoneenkatu 19, 13100 Hämeenlinna.",
+      "regular_time": "Joka tiistai klo 9–11; yhteinen rukoushetki klo 10. Syyskausi 2026 alkoi 1.9.",
+      "free_and_conditions": "Maksuton aamupala, tarjolla kahvia, teetä, voileipiä ja hedelmiä. Kaikki tervetulleita.",
+      "contact": "Diakoniakeskus 040 804 9350, diakonia.hameenlinna@evl.fi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-vanaja-cafe-idanpaa",
+      "name": "Café Idänpää -maksuton kohtaamispaikka",
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Idänpään kerhohuone, Anttilankatu 4, Hämeenlinna.",
+      "regular_time": "Syksyllä 2026 joka toinen keskiviikko klo 13.30–15; julkaistut päivät 16.9., 30.9., 14.10., 28.10., 11.11., 25.11. ja 9.12.",
+      "free_and_conditions": "Maksuton kahvi, tee, voileivät ja hedelmät. Tarkoitettu työttömille ja vastaavassa elämäntilanteessa oleville; diakoniatyöntekijä tavattavissa.",
+      "contact": "Diakoniakeskus 040 804 9350, diakonia.hameenlinna@evl.fi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-vanaja-haukkaa-hengaa-ateria",
+      "name": "Haukkaa & Hengaa -yhteisöateria",
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Jukolan Lintukodon kirkkosali, kahvio ja keittiö, Eeronkuja 5, Hämeenlinna.",
+      "regular_time": "Parittomien viikkojen keskiviikkoisin klo 17–19, 26.8.–16.12.2026; yhteinen ateria klo 17.",
+      "free_and_conditions": "Kaikille avoin yhteisöateria, josta peritään vapaaehtoinen maksu. Osallistuminen ei edellytä maksua.",
+      "contact": "Diakoniatyöntekijä Tiina Hämäläinen 040 804 9353, tiina.s.hamalainen@evl.fi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/pikkuhelppi-ja-vaatehelppi/",
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-vanaja-lahjoitusruoka",
+      "name": "Hämeenlinna-Vanajan seurakunnan lahjoitusruoka-apu",
+      "organizer": "Hämeenlinna-Vanajan seurakunta / Diakoniakeskus",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Diakoniakeskus, Birger Jaarlin katu 3, 13100 Hämeenlinna.",
+      "regular_time": "Ajanvaraus ja asiointi ma, ti, to ja pe klo 9–12; ruoka-avusta sovitaan yhteydenotossa.",
+      "free_and_conditions": "Maksuton lahjoitusruoka-avun palvelu avuntarpeessa oleville. Asiakas ottaa yhteyttä Diakoniakeskukseen puhelimitse tai sähköpostilla; yksilöllinen tarve arvioidaan.",
+      "contact": "Diakoniakeskus 040 804 9350, diakonia.hameenlinna@evl.fi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-vanaja-pikkuhelppi",
+      "name": "Hämeenlinna-Vanajan seurakunnan Pikkuhelppi",
+      "organizer": "Hämeenlinna-Vanajan seurakunta / varhaiskasvatus",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Seurakunnan vapaa kerhotila, perheen kodin lähiympäristö tai muu sovittu paikka.",
+      "regular_time": "Syyskaudella 2026 maanantaisin ja torstaisin klo 13–16, enintään 2 tuntia kerrallaan; perhe voi saada palvelua enintään neljä kertaa kevät- tai syyskaudessa.",
+      "free_and_conditions": "Maksutonta lastenhoitoapua kaikille perheille. Lapsi voidaan tuoda kerhotilaan tai ohjaaja voi ulkoilla lapsen kanssa tai tulla sovittuun paikkaan.",
+      "contact": "Lastenohjaaja Anu Nuopponen 040 804 9387, anu.nuopponen@evl.fi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/pikkuhelppi-ja-vaatehelppi/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-vanaja-vaatehelppi",
+      "name": "Hämeenlinna-Vanajan seurakunnan Vaatehelppi",
+      "organizer": "Hämeenlinna-Vanajan seurakunta",
+      "categories": [
+        "Vaatteet"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Haukkaa & Hengaa -illat Jukolan Lintukodon kirkkosalissa, Eeronkuja 5, sekä muut kerhopisteet ja seurakunnan tapahtumat.",
+      "regular_time": "Mukana Haukkaa & Hengaa -illoissa parittomien viikkojen keskiviikkoisin klo 17–19, 26.8.–16.12.2026; lisäksi ilmoitetuissa kerhoissa ja tapahtumissa.",
+      "free_and_conditions": "Maksuton lastenvaatteiden ja jalkineiden kierrätys. Puhtaita ja ehjiä 80–160 cm vaatteita ja kenkiä voi lahjoittaa tai ottaa omaan käyttöön tarpeen mukaan.",
+      "contact": "Diakoniatyöntekijä Tiina Hämäläinen 040 804 9353, tiina.s.hamalainen@evl.fi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/pikkuhelppi-ja-vaatehelppi/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hope-hameenlinna-family-aid",
+      "name": "Hope Hämeenlinna – maksuton vaate- ja tavara-apu lapsiperheille",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry, Hämeenlinnan paikallistoimisto",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Eeronkuja 5, Hämeenlinna.",
+      "regular_time": "Avunpyynnöt jatkuvasti Tarvitsen apua -lomakkeella tai sähköpostilla; asiakasasioinnille ei julkaista kiinteää vastaanottoaikaa. Paikallissivun joka toinen torstai klo 18–19 koskee lahjoitusten vastaanottoa, ei asiakkaiden asiointia.",
+      "free_and_conditions": "Maksutonta lahjoituksina saatua vaate- ja tavara-apua vähävaraisille ja kriisin kokeneille lapsiperheille. Avunpyynnössä ilmoitetaan perheen tilanne ja lasten tiedot; apu perustuu lahjoituksiin ja paikalliseen arvioon.",
+      "contact": "hameenlinna@hopeyhdistys.fi; valtakunnallinen toiminnanjohtaja 040 931 0114.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/hameenlinna/",
+        "https://hopeyhdistys.fi/yhteystiedot/",
+        "https://www.pirha.fi/web/digiperhe/palveluhaku/vahavaraisten-ja-kriisin-kokeneiden-lapsiperheiden-tuki-hope-yhdessa-yhteisesti-ry"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-kansainvalisten-asumisneuvonta",
+      "name": "Hämeenlinnan kansainvälisten asukkaiden maksuton asumisneuvonta",
+      "organizer": "Hämeenlinnan kaupunki / Palvelupiste Kastelli",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Palvelupiste Kastelli, Wetterhoffinkatu 2, 13100 Hämeenlinna.",
+      "regular_time": "Ma–pe klo 9–16; ei ajanvarausta.",
+      "free_and_conditions": "Maksutonta ja monikielistä asumisneuvontaa kansainvälisille asukkaille. Palvelu auttaa asuntohakemuksissa, isännöinnin ja huollon kanssa asioinnissa sekä asumisen käytännön kysymyksissä.",
+      "contact": "Palvelupiste Kastelli, Wetterhoffinkatu 2; asiointi paikan päällä ilman ajanvarausta.",
+      "source_urls": [
+        "https://www.hameenlinna.fi/arjen-palvelut/asiointi-ja-neuvonta/asiakaspalvelupisteet/palvelupiste-kastelli/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "hameenlinna-ohjaamo-stage-asumisneuvonta",
+      "name": "Ohjaamo Stage Hämeenlinna – maksuton asumisneuvonta alle 30-vuotiaille",
+      "organizer": "Hämeenlinnan kaupunki / Ohjaamo Stage",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hämeenlinna"
+      ],
+      "location": "Ohjaamo Stage, Turuntie 4–6, Hämeenlinna.",
+      "regular_time": "Tieto-, neuvonta- ja ohjauspalvelu ilman ajanvarausta ma–to klo 12–16; muina aikoina ajanvarauksella tai etänä.",
+      "free_and_conditions": "Maksutonta ohjausta alle 30-vuotiaille hämeenlinnalaisille nuorille. Asumisneuvonta auttaa itsenäistymiseen, asunnon hakemiseen ja asumisen tukiin liittyvissä kysymyksissä.",
+      "contact": "050 563 3804, ohjaamo@hameenlinna.fi.",
+      "source_urls": [
+        "https://www.hameenlinna.fi/arjen-palvelut/nuorisopalvelut/ohjaamo-stage/",
+        "https://www.hameenlinna.fi/yhteystiedot/ohjaamo-hameenlinna/"
+      ],
+      "checked_date": "2026-11-18",
+      "status": "accepted",
+      "publication_ready": true
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "pelastusarmeija-hameenlinna-leipakirkko-free-terms",
+      "municipality": "Hämeenlinna, Hattula ja Janakkala",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Pelastusarmeijan Hämeenlinnan osaston Leipäkirkko järjestetään torstaisin klo 11.15, Kasarmikatu 18, 13100 Hämeenlinna; ruokakassit sisältävät kauppojen lahjoittamaa hävikkiruokaa ja kuivaruoan. Puhelin 044 757 7903. Järjestäjän sivu ei ilmaise asiakkaalta perittävää maksua; vahvista maksuttomuus ennen hyväksyntää.",
+      "source_urls": [
+        "https://www.pelastusarmeija.fi/loyda-meidat/hameenlinna/hameenlinnan-osasto/sosiaalinen-apu"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hameenlinna-ikaantyvien-asumisneuvonta-hours",
+      "municipality": "Hämeenlinna",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Maksuttoman ikääntyvien asumisneuvonnan sisältö ja yhteystiedot vahvistuvat kaupungin omalta sivulta, mutta puhelinpäivä on ristiriitainen: yksityiskohtainen sivu (päivitetty 18.6.2026) ilmoittaa keskiviikon klo 9–11, kaupungin yhteystietosivu torstain klo 9–11. Vahvista nykyinen päivä ennen julkaisua. Puhelin 040 662 6610, ikaantyvien.asumisneuvonta@hameenlinna.fi.",
+      "source_urls": [
+        "https://www.hameenlinna.fi/hyvinvointi-ja-liikunta/ikaantyvien-aktiivinen-arki/ikaantyvien-asumisneuvonta/",
+        "https://www.hameenlinna.fi/en/yhteystiedot/asumisneuvonta-ikaantyvien/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hameenlinna-hyvan-tahdon-ruokajakeluverkosto-current-points",
+      "municipality": "Hämeenlinna",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Hämeenlinna-Vanajan seurakunnan sivu vahvistaa Hyvän Tahdon Ruokajakeluverkoston järjestävän ruoka-apua, ruokailuja ja jakelua vähävaraisille. Verkoston nykyiset yksittäiset jakelupisteet, ajat ja järjestäjät on poimittava ruoka-apu.fi:stä ja tarkistettava kunkin järjestäjän omalta sivulta; verkostoa ei kirjata yhtenä epämääräisenä palveluna.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hope-hameenlinna-hobby-support-2026",
+      "municipality": "Hämeenlinna",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Hope Hämeenlinnan vuoden 2025 vuosikertomus kertoo harrastustuen tarjoamisesta, mutta vuoden 2026 ajantasainen hakuaika, euromäärä ja myöntöehdot eivät käy paikallissivulta ilmi. Vaate- ja tavara-apu on jo hyväksytty erillisenä palveluna.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/wp-content/uploads/2026/04/Hope_2025.pdf",
+        "https://hopeyhdistys.fi/paikallistoimisto/hameenlinna/"
+      ],
+      "checked_date": "2026-11-18"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "forssa-arkikeidas-paid-meal",
+      "municipality": "Forssa",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Arkikeitaan ruokailusta peritään 3 €; ei maksuton.",
+      "source_urls": [
+        "https://forssa.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "forssa-euron-aamiainen-paid",
+      "municipality": "Forssa",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Forssan seurakunnan Euron aamiainen maksaa 1 €; ei maksuton.",
+      "source_urls": [
+        "https://forssanseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "forssa-shoe-grip-distribution-one-off-2026",
+      "municipality": "Forssa",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Forssan kaupungin yli 70-vuotiaille jakamat liukuesteet olivat rajattu loka–marraskuun 2026 yksittäinen jakelukampanja, eivät jatkuva palvelu.",
+      "source_urls": [
+        "https://forssa.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "forssa-helluntaiseurakunta-one-off-food-distribution-2026",
+      "municipality": "Forssa",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Forssan helluntaiseurakunnan 1.4.2026 ruokajako löytyi yksittäisenä tapahtumana, ei säännöllisenä palveluna.",
+      "source_urls": [
+        "https://www.forssanhelluntaiseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hameenlinna-rengon-diaconia-meal-paid",
+      "municipality": "Hämeenlinna (Renko)",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Rengon seurakuntatalon diakoniaruokailu maksaa 4 € aikuiselta; lapset syövät maksutta, mutta palvelu ei ole kaikille maksuton.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hameenlinna-kalvola-yhteinen-poyta-paid",
+      "municipality": "Hämeenlinna (Kalvola/Iittala)",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kalvolan Yhteinen pöytä -lounas maksaa 4 €; ei maksuton aikuisille.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/apua-ja-tukea/ruokailut-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hameenlinna-puistoruokailu-summer-2026",
+      "municipality": "Hämeenlinna",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kaupungin puistoruokailu oli kesäkauden 2026 palvelu, joten se rajattiin pois jatkuvien palvelujen rekisteristä.",
+      "source_urls": [
+        "https://www.hameenlinna.fi/hyvinvointi-ja-liikunta/hyvinvoinnin-ja-terveyden-edistaminen/puistoruokailu/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hameenlinna-avoim-poltsari-event-series-2026",
+      "municipality": "Hämeenlinna",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Avoin Poltsari -ruokailut löytyivät yksittäisinä päivämäärinä, ei vahvistettuna säännöllisenä palveluna; ei kirjata jatkuvaksi ruoka-avuksi.",
+      "source_urls": [
+        "https://hameenlinna-vanajanseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "omahame-social-lending-repayable-loan",
+      "municipality": "Kanta-Häme",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Oma Hämeen sosiaalinen luototus on takaisinmaksettava laina, ei maksuton avustus; rajattu pois Raha-kategorian maksuttomista avustuspalveluista.",
+      "source_urls": [
+        "https://omahame.fi/web/guest/taydentava-tai-ehkaiseva-toimeentulotuki"
+      ],
+      "checked_date": "2026-11-18"
+    },
+    {
+      "id": "hope-hameenlinna-christmas-collection-2026",
+      "municipality": "Hämeenlinna",
+      "categories": [
+        "Tavarat",
+        "Vaatteet"
+      ],
+      "detail": "Hope Hämeenlinnan joulukeräys 1.11.–9.12.2026 on joulun kausikeräys, ei jatkuva palvelu. Paikallinen ympärivuotinen vaate- ja tavara-apu on kirjattu erillisenä hyväksyttynä palveluna.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/hameenlinna/"
+      ],
+      "checked_date": "2026-11-18"
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "av-0029",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Vanhustyön keskusliiton maksuton korjausneuvonta; ei uutta kopiota."
+    },
+    {
+      "id": "varke-korjausavustus-iakkaat-vammaiset",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Varken valtakunnallinen korjausavustus; ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "omahame-lapsiperheiden-kotipalvelu-maksuton-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Forssa",
+        "Hämeenlinna"
+      ],
+      "status": "one_regional_record_reused",
+      "note": "Yksi alueellinen tietue; tarkemmat palvelupisteet lisätään sitä mukaa kun kunnat tarkistetaan."
+    },
+    {
+      "id": "omahame-taydentava-ja-ehkaiseva-toimeentulotuki",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Forssa",
+        "Hämeenlinna",
+        "Hattula",
+        "Hausjärvi",
+        "Humppila",
+        "Janakkala",
+        "Jokioinen",
+        "Loppi",
+        "Riihimäki",
+        "Tammela",
+        "Ypäjä"
+      ],
+      "status": "one_regional_record_reused",
+      "note": "Yksi Kanta-Hämeen laajuinen tietue; ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Forssa",
+        "Hämeenlinna",
+        "Hattula",
+        "Hausjärvi",
+        "Humppila",
+        "Janakkala",
+        "Jokioinen",
+        "Loppi",
+        "Riihimäki",
+        "Tammela",
+        "Ypäjä"
+      ],
+      "status": "one_regional_record_reused",
+      "note": "Yksi Kanta-Hämeen laajuinen palveluohjaustietue; ei kuntakohtaisia kopioita."
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 2,
+    "total_municipalities": 11,
+    "category_checks": 12,
+    "new_accepted_service_records": 13,
+    "pending_leads": 4,
+    "excluded_observations": 10,
+    "municipalities_fully_completed": 0
+  },
+  "next_checkpoint": "Kanta-Häme / Hattula / Ruoka-apu"
+}
