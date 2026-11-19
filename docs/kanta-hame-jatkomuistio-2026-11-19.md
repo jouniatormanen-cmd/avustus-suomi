@@ -33,7 +33,7 @@ Täysin valmiiksi merkittyjä kuntia: **0**. Tämä on ensimmäinen seulonta, ei
 
 Oma Hämeen maksuton lapsiperheiden kotipalvelu, täydentävä/ehkäisevä toimeentulotuki ja aikuissosiaalityön asumisen ohjaus sekä VTKL:n korjausneuvonta ja Varken korjausavustus liitettiin kuntien tarkistuksiin olemassa olevilla tunnisteilla. Uusia kuntakohtaisia kopioita ei tehty.
 
-## Avoimet täsmennykset (8)
+## Avoimet täsmennykset (9)
 
 - Hattulan seurakunnan vuoden 2024 tilinpäätös kuvaa viikoittaisia ruokakasseja ja aineellista apua, mutta vuoden 2026 jatkuvuus, maksuttomuus ja hakureitti puuttuvat.
 - Hattulan maksuton asumisneuvonta löytyy kunnan sivulta, mutta sivu ja yhteystietokortti ovat vanhoja; nykyinen vastuuhenkilö vahvistettava.
@@ -59,7 +59,7 @@ Oma Hämeen maksuton lapsiperheiden kotipalvelu, täydentävä/ehkäisevä toime
 - Kuntakategoriatarkistukset: **48/66**
 - Uudet hyväksytyt palvelut tässä ajossa: **7**
 - Hyväksytyt palvelutietueet Kanta-Hämeessä yhteensä: **20**
-- Avoimet täsmennykset yhteensä: **12**
+- Avoimet täsmennykset yhteensä: **13**
 - Poissuljetut havainnot yhteensä: **16**
 - Täysin valmiiksi merkityt kunnat: **0**
 
