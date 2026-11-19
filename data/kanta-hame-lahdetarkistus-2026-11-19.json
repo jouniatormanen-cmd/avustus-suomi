@@ -1,0 +1,827 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-19",
+  "province": "Kanta-Häme",
+  "update_type": "incremental_first_pass_municipal_screen",
+  "previous_checkpoint": "2026-11-18: Kanta-Häme / Hattula / Ruoka-apu",
+  "source_checkpoint": "2026-11-19: first-pass screening continued from Hattula through Loppi; next Riihimäki / Ruoka-apu",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Forssa",
+    "Hämeenlinna",
+    "Hattula",
+    "Hausjärvi",
+    "Humppila",
+    "Janakkala",
+    "Jokioinen",
+    "Loppi",
+    "Riihimäki",
+    "Tammela",
+    "Ypäjä"
+  ],
+  "municipalities_screened_first_pass": [
+    "Forssa",
+    "Hämeenlinna",
+    "Hattula",
+    "Hausjärvi",
+    "Humppila",
+    "Janakkala",
+    "Jokioinen",
+    "Loppi"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Hattula",
+      "category": "Ruoka-apu",
+      "status": "accepted_free_recurring_school_surplus_meal",
+      "finding": "Maksuton ylijäämäruokailu Hattulan kouluilla: henkilökohtainen ateriakortti, vain Hattulassa asuville eläkeläisille ja työttömille; ajat Parola 12.40–13.00, Pekola 12.30–13.00, Lepaa 11.30–12.00. Sivulla ei täsmennetä viikonpäiviä; koulupäivärytmi ja saatavuus vaihtelevat.",
+      "service_ids": [
+        "hattula-koulujen-ylijaamaruokailu-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hattula",
+      "category": "Kotiapu",
+      "status": "accepted_regional_free_service",
+      "finding": "Oma Hämeen lapsiperheiden kotipalvelu kattaa Hattulan; maksuton 1.6.2026 alkaen palvelun myöntämisperusteet täyttäville perheille.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hattula",
+      "category": "Vaatteet",
+      "status": "pending_current_operation_and_free_terms",
+      "finding": "Hattulan seurakunnan vuoden 2024 tilinpäätöksessä kuvataan viikoittaisia ruokakasseja ja materiaalista apua, mutta järjestäjän nykyinen 2026 sivu ei vahvista jakelun jatkumista, ehtoja tai vastaanottoaikoja.",
+      "service_ids": [],
+      "pending_ids": [
+        "hattula-seurakunta-food-clothing-goods-current-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hattula",
+      "category": "Tavarat",
+      "status": "pending_current_operation_and_free_terms",
+      "finding": "Sama Hattulan seurakunnan vuoden 2024 aineellinen apu: nykyinen vaate- ja tavara-avun maksuttomuus, hakureitti ja säännöllinen aika eivät vahvistuneet vuoden 2026 ensisijaisesta lähteestä.",
+      "service_ids": [],
+      "pending_ids": [
+        "hattula-seurakunta-food-clothing-goods-current-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hattula",
+      "category": "Raha",
+      "status": "accepted_free_financial_guidance",
+      "finding": "Hattulan kunnan maksuton työikäisten palveluneuvonta neuvoo myös toimeentuloon ja muihin taloudellisiin tukiin liittyvissä kysymyksissä sekä auttaa hakemusten täyttämisessä; ei itsessään rahallinen avustus.",
+      "service_ids": [
+        "hattula-tyoikaisten-palveluneuvonta-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hattula",
+      "category": "Asuminen",
+      "status": "pending_contact_revalidation",
+      "finding": "Hattulan maksuton asumisneuvonta on kunnan sivulla kuvattu kaikille asukkaille, mutta sivu on päivitetty 10.9.2024 ja yhteystietokortti 2023; palvelun nykyinen vastuuhenkilö ja yhteystiedot on varmistettava ennen julkaisua.",
+      "service_ids": [],
+      "pending_ids": [
+        "hattula-asumisneuvonta-contact-revalidation"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hausjärvi",
+      "category": "Ruoka-apu",
+      "status": "pending_current_free_food_and_clothing_service",
+      "finding": "Hausjärven seurakunnan vuoden 2024 tilinpäätös kuvaa ruoka- ja vaateavun tarvetta, mutta ajantasainen diakoniasivu ei vahvista vastaanottajille tarjottavaa säännöllistä ruoka- tai vaatejakelua; sivu pyytää lahjoittamaan elintarvikkeita ja vaatteita.",
+      "service_ids": [],
+      "pending_ids": [
+        "hausjarvi-parish-food-clothing-aid-current-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hausjärvi",
+      "category": "Kotiapu",
+      "status": "accepted_regional_free_service",
+      "finding": "Oma Hämeen maksuton lapsiperheiden kotipalvelu kattaa Hausjärven palvelukriteerit täyttäville perheille.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hausjärvi",
+      "category": "Vaatteet",
+      "status": "pending_current_free_clothing_service",
+      "finding": "Vuoden 2024 tilinpäätös mainitsee vaateavun tarpeen, mutta vuoden 2026 jakelua, maksuttomuutta ja hakureittiä ei vahvistettu.",
+      "service_ids": [],
+      "pending_ids": [
+        "hausjarvi-parish-food-clothing-aid-current-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hausjärvi",
+      "category": "Tavarat",
+      "status": "no_local_recurring_free_goods_service_confirmed",
+      "finding": "Hausjärven seurakunnan nykyinen diakoniasivu mainitsee kodin tarve-esineet lahjoituksina; vastaanottajille tarjottavaa jatkuvaa maksutonta tavara-apua ei vahvistettu.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hausjärvi",
+      "category": "Raha",
+      "status": "excluded_one_time_or_nonrecurring_financial_aid",
+      "finding": "Hausjärven seurakunnan diakonia tarjoaa hetkellistä tapauskohtaista taloudellista apua ja talousneuvontaa, mutta ilmoittaa ettei se anna säännöllistä taloudellista avustusta tai lainaa; käyttäjän rajauksen vuoksi kertaluonteista raha-apua ei hyväksytty.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "hausjarvi-diaconia-one-time-financial-aid"
+      ],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Hausjärvi",
+      "category": "Asuminen",
+      "status": "accepted_regional_housing_guidance",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus sekä valtakunnalliset VTKL:n korjausneuvonta ja Varken korjausavustus ovat jo olemassa olevia alueellisia/valtakunnallisia tietueita; niitä ei kopioitu Hausjärvelle.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Humppila",
+      "category": "Ruoka-apu",
+      "status": "pending_free_bread_and_meal_voucher_terms",
+      "finding": "Jokiläänin seurakunta kertoo Humppilan yhteisöruokailun maksavan 5 euroa; diakoni voi myöntää ruokalipun varattomalle. Samassa yhteydessä jaetaan vähävaraisille leipää, mutta maksuttomuuden, hakuehtojen ja vuoden 2026 jakorytmin yksityiskohdat on vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-humppila-jokioinen-free-bread-and-meal-tickets-2026"
+      ],
+      "excluded_ids": [
+        "jokilaani-paid-community-meal-5-euro"
+      ],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Humppila",
+      "category": "Kotiapu",
+      "status": "accepted_regional_free_service",
+      "finding": "Oma Hämeen maksuton lapsiperheiden kotipalvelu kattaa Humppilan palvelukriteerit täyttäville perheille.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Humppila",
+      "category": "Vaatteet",
+      "status": "no_local_recurring_free_clothing_service_confirmed",
+      "finding": "Humppilasta ei vahvistettu järjestäjän ensisijaisesta lähteestä jatkuvaa maksutonta vaatejakelua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Humppila",
+      "category": "Tavarat",
+      "status": "no_local_recurring_free_goods_service_confirmed",
+      "finding": "Humppilasta ei vahvistettu järjestäjän ensisijaisesta lähteestä jatkuvaa maksutonta tavara-apua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Humppila",
+      "category": "Raha",
+      "status": "pending_current_financial_aid_terms",
+      "finding": "Jokiläänin seurakunnan diakonia mainitsee ruoka-avustuksen kaksi kertaa vuodessa ja harrastusavustuksen, mutta nykyiset ehdot, hakureitti, maksuttomuus ja paikallinen saatavuus Humppilassa vaativat täsmennyksen.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-diaconia-financial-and-food-aid-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Humppila",
+      "category": "Asuminen",
+      "status": "accepted_regional_housing_guidance",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus sekä valtakunnalliset asumisen tukipalvelut ovat olemassa olevia yhteisiä tietueita; ei kuntakohtaista kopiota.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Janakkala",
+      "category": "Ruoka-apu",
+      "status": "accepted_free_recurring_meals",
+      "finding": "Janakkalan seurakunnan maksuttomat ruokailut: Tervakosken aamupuuro keskiviikkoisin klo 9–11 (syyskausi 3.9.–9.12.2026) ja Turengin keskiviikkoruokailu keskiviikkoisin klo 10.30–12 (syyskausi 5.8.–23.12.2026, kevätkausi alkaa 13.1.2027). Turengin ruokailu on suunnattu erityisesti pienituloisille, työelämän ulkopuolella oleville tai yksinäisyyttä kokeville; ei ennakkoilmoittautumista.",
+      "service_ids": [
+        "janakkala-tervakosken-aamupuuro-2026",
+        "janakkala-turengin-keskiviikkoruokailu-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Janakkala",
+      "category": "Kotiapu",
+      "status": "accepted_regional_free_service",
+      "finding": "Oma Hämeen maksuton lapsiperheiden kotipalvelu kattaa Janakkalan palvelukriteerit täyttäville perheille.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Janakkala",
+      "category": "Vaatteet",
+      "status": "no_local_recurring_free_clothing_service_confirmed",
+      "finding": "Janakkalasta ei vahvistettu järjestäjän ensisijaisesta lähteestä jatkuvaa maksutonta vaatejakelua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Janakkala",
+      "category": "Tavarat",
+      "status": "no_local_recurring_free_goods_service_confirmed",
+      "finding": "Janakkalasta ei vahvistettu järjestäjän ensisijaisesta lähteestä jatkuvaa maksutonta tavara-apua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Janakkala",
+      "category": "Raha",
+      "status": "excluded_one_time_financial_assistance",
+      "finding": "Janakkalan seurakunnan diakonia voi myöntää pienimuotoista apua yllättävässä tiukassa taloustilanteessa, mutta sivu rajaa pois säännöllisen taloudellisen avustamisen ja lainat; kertaluonteista apua ei hyväksytty jatkuvien palvelujen rekisteriin. Oma Hämeen alueellinen toimeentulotuki on jo rekisterissä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "janakkala-parish-one-time-financial-aid"
+      ],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Janakkala",
+      "category": "Asuminen",
+      "status": "accepted_regional_housing_guidance",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus ja valtakunnalliset asumisen tukipalvelut säilytetään yhteisinä tietueina.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Jokioinen",
+      "category": "Ruoka-apu",
+      "status": "pending_free_bread_and_meal_voucher_terms",
+      "finding": "Jokiläänin seurakunnan yhteisöruokailu maksaa 5 euroa; diakonin kautta voi saada ruokalipun, jos ruokailuun ei ole varaa. Vähävaraisille jaetaan Jokioisten leipää kerran kuukaudessa yhteisöruoan yhteydessä; maksuttomuus ja ruokalipun ehdot on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-humppila-jokioinen-free-bread-and-meal-tickets-2026"
+      ],
+      "excluded_ids": [
+        "jokilaani-paid-community-meal-5-euro"
+      ],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Jokioinen",
+      "category": "Kotiapu",
+      "status": "accepted_regional_free_service",
+      "finding": "Oma Hämeen maksuton lapsiperheiden kotipalvelu kattaa Jokioisen palvelukriteerit täyttäville perheille.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Jokioinen",
+      "category": "Vaatteet",
+      "status": "no_local_recurring_free_clothing_service_confirmed",
+      "finding": "Jokioisista ei vahvistettu paikallista jatkuvaa maksutonta vaateapua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Jokioinen",
+      "category": "Tavarat",
+      "status": "no_local_recurring_free_goods_service_confirmed",
+      "finding": "Jokioisista ei vahvistettu paikallista jatkuvaa maksutonta tavara-apua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Jokioinen",
+      "category": "Raha",
+      "status": "pending_current_financial_aid_terms",
+      "finding": "Jokiläänin seurakunnan taloudellisen avun sivu kuvaa ruoka-avustusta kaksi kertaa vuodessa ja harrastusavustusta, mutta yksityiskohtaiset ehdot, maksuttomuus ja nykyinen hakureitti vaativat vahvistuksen.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-diaconia-financial-and-food-aid-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Jokioinen",
+      "category": "Asuminen",
+      "status": "accepted_regional_housing_guidance",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus ja valtakunnalliset asumisen tukipalvelut ovat olemassa olevia yhteisiä tietueita.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Loppi",
+      "category": "Ruoka-apu",
+      "status": "accepted_free_recurring_meal_with_food_bag_lead",
+      "finding": "Lopen seurakunnan Syödään yhdessä -ruokailu on maksuton; tapahtumakalenterissa toteutuneet 16.9., 14.10. ja 11.11.2026 klo 12 seurakuntatalon Kellarissa. Säännöllinen rytmi näyttää kuukausittaiselta, mutta tarkka tuleva kalenteri tarkistetaan seurakunnalta. Ruokakassijaot 25.8., 20.10. ja 1.12. klo 15–17 ovat erillinen avoin selvitys maksuttomuuden vahvistamiseen asti.",
+      "service_ids": [
+        "loppi-seurakunta-syodaan-yhdessa-2026"
+      ],
+      "pending_ids": [
+        "loppi-seurakunta-food-bag-distribution-free-status"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Loppi",
+      "category": "Kotiapu",
+      "status": "accepted_free_local_and_regional_home_help",
+      "finding": "Lopen seurakunnan PikkuHelppi on maksuton arjen apu pienten lasten huoltajille: lastenhoito ja keskustelutuki perheen kotona tai seurakunnan kerhotiloissa, 2 h/kerta, arkipäivisin, tavallisesti enintään 4 kertaa kevät- tai syyskaudella. Lisäksi Oma Hämeen maksuton lapsiperheiden kotipalvelu kattaa Lopen.",
+      "service_ids": [
+        "loppi-seurakunta-pikkuhelppi",
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Loppi",
+      "category": "Vaatteet",
+      "status": "pending_free_clothing_aid_terms",
+      "finding": "Lopen seurakunta vahvistaa vaateavun olemassaolon; avustushuone on ruokakassijaon yhteydessä, mutta sivu ei yksiselitteisesti vahvista vaatteiden maksuttomuutta tai erillistä hakuehtoa.",
+      "service_ids": [],
+      "pending_ids": [
+        "loppi-seurakunta-clothing-aid-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Loppi",
+      "category": "Tavarat",
+      "status": "pending_free_goods_aid_terms",
+      "finding": "Lopen seurakunta vahvistaa kodintavara-avun olemassaolon; avustushuone on ruokakassijaon yhteydessä, mutta tavaroiden maksuttomuus ja ehdot on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "loppi-seurakunta-household-goods-aid-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Loppi",
+      "category": "Raha",
+      "status": "accepted_annual_student_grant_with_current_call_closed",
+      "finding": "K.F.A. ja Edla Johanna von Qvantenin opintorahastosäätiö jakaa vuosittain apurahoja alle 26-vuotiaille Lopen seurakuntaan kuuluville opiskelijoille. Vuoden 2026 hakuaika päättyi 12.10.2026; apurahat maksetaan joulukuussa. Valinnassa huomioidaan opintomenestys ja varallisuusasema. Lisäksi Lopen seurakunnan muu tarveharkintainen diakonia-raha-apu on olemassa, mutta sen maksuttomuus ja käytännön ehdot jäävät avoimeksi.",
+      "service_ids": [
+        "loppi-von-qvanten-opintorahasto-2026"
+      ],
+      "pending_ids": [
+        "loppi-seurakunta-diaconia-financial-aid-free-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    },
+    {
+      "municipality": "Loppi",
+      "category": "Asuminen",
+      "status": "accepted_regional_housing_guidance",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus sekä valtakunnalliset VTKL:n korjausneuvonta ja Varken korjausavustus ovat olemassa olevia tietueita; ei kuntakohtaista kopiota.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-19"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "hattula-koulujen-ylijaamaruokailu-2026",
+      "name": "Hattulan koulujen maksuton ylijäämäruokailu",
+      "organizer": "Hattulan kunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hattula"
+      ],
+      "location": "Parolan koulu/Yhteiskoulun ruokasali; Pekolan koulu; Lepaan koulu.",
+      "regular_time": "Koulupäivien ruokailuaikoihin sidottu. Parola 12.40–13.00; Pekola 12.30–13.00; Lepaa 11.30–12.00. Sivulla ei nimetä viikonpäiviä; koulupäivien poikkeukset ja ruoan riittävyys vaihtelevat.",
+      "free_and_conditions": "Maksuton. Vain Hattulassa asuville eläkeläisille ja työttömille, joilla on henkilökohtainen ateriakortti. Kortin noudossa todistettava asuinpaikka ja oikeus korttiin. Ruokaa ei voi ottaa mukaan; tarjonta voi loppua kesken.",
+      "contact": "Ateriakortti: työttömät Hattulan työllisyyspalveluista, Juteinitalo 2. krs, Kauppatie 3; eläkeläiset Punojankulmalta, Punojantie 3; lisäksi Hattulan kirjasto. Yleinen yhteys kirjaamo@hattula.fi.",
+      "source_urls": [
+        "https://hattula.fi/2026/10/ylijaamaruokailun-jatkuminen-kouluilla/"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": false
+    },
+    {
+      "id": "hattula-tyoikaisten-palveluneuvonta-2026",
+      "name": "Hattulan työikäisten maksuton palveluneuvonta",
+      "organizer": "Hattulan kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Hattula"
+      ],
+      "location": "Parolan kirjasto, 2. kerros; myös puhelimitse ja Teamsillä.",
+      "regular_time": "Käynnissä 1.2.2026 alkaen; lyhytkestoiset yhteydenotot puhelinpyynnöllä tai ajanvarauksella, ei kiinteää viikoittaista vastaanottoaikaa ilmoitettu.",
+      "free_and_conditions": "Maksuton yksilöllinen yleisneuvonta työikäisille Hattulan kuntalaisille. Neuvontaa toimeentulosta, muista taloudellisista tuista, kuntoutushakemuksista ja palveluihin hakeutumisesta; ei suora rahallinen avustus.",
+      "contact": "Marju Vuorinen, 050 515 0056; jätä soittopyyntö.",
+      "source_urls": [
+        "https://hattula.fi/2026/01/tyoikaisten-palveluneuvonta/"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "janakkala-tervakosken-aamupuuro-2026",
+      "name": "Tervakosken maksuton aamupuuro",
+      "organizer": "Janakkalan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Janakkala"
+      ],
+      "location": "Tervakosken seurakuntakeskus, Kirkkotie 1, Tervakoski.",
+      "regular_time": "Keskiviikkoisin klo 9–11 syyskaudella 3.9.–9.12.2026.",
+      "free_and_conditions": "Maksuton vapaaehtoisten valmistama aamiainen, avoin kaikenikäisille. Ei ennakkoilmoittautumista.",
+      "contact": "Janakkalan seurakunta, vaihde 03 656 950, janakkalan.seurakunta@evl.fi; diakoniatyöntekijä Päivi Harju 044 765 6984.",
+      "source_urls": [
+        "https://janakkalanseurakunta.fi/apua-ja-tukea/maksuttomat-ruokailut/",
+        "https://janakkalanseurakunta.fi/apua-ja-tukea/diakoniatyontekijoiden-yhteystiedot/"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "janakkala-turengin-keskiviikkoruokailu-2026",
+      "name": "Turengin maksuton keskiviikkoruokailu",
+      "organizer": "Janakkalan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Janakkala"
+      ],
+      "location": "Turengin seurakuntakeskus, Juttilantie 2, 14200 Turenki.",
+      "regular_time": "Keskiviikkoisin klo 10.30–12. Syyskausi 5.8.–23.12.2026; kevätkausi alkaa 13.1.2027. Ruokailu klo 11–12.",
+      "free_and_conditions": "Maksuton, ei ennakkoilmoittautumista. Erityisesti pienituloisille, työelämän ulkopuolella oleville ja yksinäisyyttä tai muita elämänhaasteita kokeville; avoin kaikille.",
+      "contact": "Diakoniatyöntekijä Virpi Juppala 044 765 6953 (puhelinaika ma, ti ja to 11.30–12); janakkalan.seurakunta@evl.fi.",
+      "source_urls": [
+        "https://janakkalanseurakunta.fi/apua-ja-tukea/maksuttomat-ruokailut/",
+        "https://janakkalanseurakunta.fi/apua-ja-tukea/diakoniatyontekijoiden-yhteystiedot/"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "loppi-seurakunta-syodaan-yhdessa-2026",
+      "name": "Lopen seurakunnan maksuton Syödään yhdessä -ruokailu",
+      "organizer": "Lopen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Loppi"
+      ],
+      "location": "Seurakuntatalon Kellari, Pilpalantie 3, 12700 Loppi.",
+      "regular_time": "Tapahtumakalenterissa 16.9., 14.10. ja 11.11.2026 klo 12; kuukausittainen rytmi näkyy toteutuneissa tapahtumissa. Tarkista seuraava päivämäärä seurakunnan kalenterista.",
+      "free_and_conditions": "Seurakunnan avustus- ja tukisivu nimeää yhteiset ruokailut maksuttomiksi. Avoin yhteisöllinen ruokailu.",
+      "contact": "Diakonissa Auli Kovalainen 050 383 3480; seurakunnan toimisto 050 426 4100, ma–to 9–12.",
+      "source_urls": [
+        "https://www.lopenseurakunta.fi/tukea",
+        "https://www.lopenseurakunta.fi/tapahtumat/2026-11-11/syodaan-yhdessa-seurakuntatoimiston-kellari",
+        "https://www.lopenseurakunta.fi/documents/d/lopenseurakunta.fi/talousarvio-2026"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": false
+    },
+    {
+      "id": "loppi-seurakunta-pikkuhelppi",
+      "name": "Lopen seurakunnan PikkuHelppi",
+      "organizer": "Lopen seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Loppi"
+      ],
+      "location": "Perheen koti tai seurakunnan kerhotilat, Loppi.",
+      "regular_time": "Ennalta sovittuna arkipäivisin, 2 tuntia kerrallaan; pääsääntöisesti enintään neljä kertaa kevät- tai syyskaudessa. Sovittaessa myös ilta-aika. Työntekijöiden lomilla palvelu on suljettu.",
+      "free_and_conditions": "Maksuton arjen apu pienten lasten huoltajille; lastenhoitoapua, keskustelukumppani ja taloudellisen tuen ohjaus. Aika sovitaan etukäteen.",
+      "contact": "Minttu Kuikka 050 352 1150; Milla Ainsalo 045 635 8627; lisätiedot Varpu Takatalo 045 635 8624; avustukset Auli Kovalainen 050 383 3480. Sähköposti etunimi.sukunimi@evl.fi.",
+      "source_urls": [
+        "https://www.lopenseurakunta.fi/pikkuhelppi"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "loppi-von-qvanten-opintorahasto-2026",
+      "name": "K.F.A. ja Edla Johanna von Qvantenin opintorahastosäätiön apurahat",
+      "organizer": "K.F.A. ja Edla Johanna von Qvantenin opintorahastosäätiö sr.; hallinnoijat Lopen kunta ja Lopen seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Loppi"
+      ],
+      "location": "Hakemukset Lopen kunnantalolle, Yhdystie 5, 12700 Loppi.",
+      "regular_time": "Vuosittainen haku syksyllä. Vuoden 2026 hakuaika päättyi 12.10.2026; maksatus joulukuun 2026 loppuun mennessä.",
+      "free_and_conditions": "Takaisinmaksuton opintoapuraha alle 26-vuotiaille lukiossa, ammatillisessa oppilaitoksessa, ammattikorkeakoulussa tai yliopistossa opiskeleville, jotka täyttävät Lopen seurakunnan jäsenyyttä koskevat säännöt. Opintomenestys ja varallisuusasema huomioidaan. Säätiö jakaa yhteensä 40 000 euroa vuodessa; yksittäisen apurahan määrää ei ilmoiteta yleissivulla.",
+      "contact": "Säätiön asiamies Eija Heinonen, 040 352 3560 (ma–ke), eija.heinonen@loppi.fi.",
+      "source_urls": [
+        "https://www.lopenseurakunta.fi/qvanten"
+      ],
+      "checked_date": "2026-11-19",
+      "status": "accepted",
+      "publication_ready": false
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "omahame-lapsiperheiden-kotipalvelu-maksuton-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_regional_record_reused",
+      "note": "Oma Hämeen maksuton lapsiperheiden kotipalvelu 1.6.2026 alkaen; yksi alueellinen tietue."
+    },
+    {
+      "id": "omahame-taydentava-ja-ehkaiseva-toimeentulotuki",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_regional_record_reused",
+      "note": "Täydentävä ja ehkäisevä toimeentulotuki; yksi alueellinen tietue."
+    },
+    {
+      "id": "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_regional_record_reused",
+      "note": "Oma Hämeen aikuissosiaalityön asumisen järjestämisen ohjaus; yksi alueellinen tietue."
+    },
+    {
+      "id": "av-0029",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "VTKL:n maksuton korjausneuvonta; ei kuntakohtaista kopiota."
+    },
+    {
+      "id": "varke-korjausavustus-iakkaat-vammaiset",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Varken korjausavustus ikääntyneiden ja vammaisten henkilöiden asuntojen korjauksiin; ei kuntakohtaista kopiota."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "hattula-seurakunta-food-clothing-goods-current-2026",
+      "municipality": "Hattula",
+      "categories": [
+        "Ruoka-apu",
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Hattulan seurakunnan vuoden 2024 tilinpäätös kertoo viikoittaisista ruokakasseista ja materiaalisen avun jakamisesta. Vuoden 2026 aktiivisuus, maksuttomuus, hakureitti ja aikataulu eivät vahvistuneet nykyiseltä palvelusivulta. Lähde: https://www.hattulanseurakunta.fi/documents/d/www.hattulanseurakunta.fi/tasekirja-2024_tp_28-4-2025_netti_virallinen-pdf-1"
+    },
+    {
+      "id": "hattula-asumisneuvonta-contact-revalidation",
+      "municipality": "Hattula",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Kunnan sivu ilmoittaa asumisneuvonnan maksuttomaksi kaikille kuntalaisille, mutta sivu on päivitetty 10.9.2024 ja asumisneuvojan yhteystietokortti 2023. Nykyinen vastuuhenkilö ja yhteystiedot on vahvistettava. Lähde: https://hattula.fi/palvelut/hyvinvointi/asumisneuvontapalvelut/"
+    },
+    {
+      "id": "hausjarvi-parish-food-clothing-aid-current-2026",
+      "municipality": "Hausjärvi",
+      "categories": [
+        "Ruoka-apu",
+        "Vaatteet"
+      ],
+      "detail": "Hausjärven seurakunnan 2024 tilinpäätös kuvaa ruoka- ja vaateavun tarvetta. Nykyinen diakoniasivu kertoo hetkellisestä talousavusta ja pyytää lahjoittamaan säilyviä elintarvikkeita, vaatteita ja kodin tarve-esineitä, mutta ei vahvista vuoden 2026 vastaanottajille tarjottavaa jatkuvaa jakelua. Lähteet: https://www.hausjarvenseurakunta.fi/apua-ja-tukea/diakonia ; https://www.hausjarvenseurakunta.fi/documents/d/www.hausjarvenseurakunta.fi/liite-2-hausjarven-seurakunnan-tilinpaatos-2024-pdf"
+    },
+    {
+      "id": "jokilaani-humppila-jokioinen-free-bread-and-meal-tickets-2026",
+      "municipality": "Humppila ja Jokioinen (alueellinen palvelu; kattaa myös Ypäjän)",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Jokiläänin seurakunta järjestää yhteisöruokailuja, joiden tavallinen hinta on 5 €, mutta diakoni voi myöntää ruokalipun varattomalle. Jokioisilla vähävaraisille jaetaan Jokioisten leipää kerran kuukaudessa yhteisöruoan yhteydessä; Humppilassa leipäjako on yhteisöruokailun yhteydessä. Maksuttomuus, ruokalippujen ehdot, täsmälliset jakopäivät ja vastaanottajien hakureitti on vahvistettava. Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/taloudellinen-apu"
+    },
+    {
+      "id": "jokilaani-diaconia-financial-and-food-aid-2026",
+      "municipality": "Humppila ja Jokioinen (alueellinen palvelu; kattaa myös Ypäjän)",
+      "categories": [
+        "Raha",
+        "Ruoka-apu"
+      ],
+      "detail": "Jokiläänin seurakunnan diakoniasivu kuvaa ruoka-avustusta kaksi kertaa vuodessa ja harrastusavustuksen mahdollisuutta, mutta vuoden 2026 ehdot, maksuttomuus, määrät ja hakureitti on täsmennettävä diakoneilta. Yhteys: Marja Kattelus 050 415 1775 (Jokioinen), Elise Hartonen 050 331 0977 (Humppila). Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/taloudellinen-apu"
+    },
+    {
+      "id": "loppi-seurakunta-food-bag-distribution-free-status",
+      "municipality": "Loppi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Lopen seurakunta ilmoittaa syksyn 2026 ruokakassijaot Lopen kappelissa 25.8., 20.10. ja 1.12. klo 15–17. Päivät ja paikka vahvistuvat, mutta sivu ei sano yksiselitteisesti, peritäänkö kassista mitään; maksuttomuus vahvistettava ennen hyväksyntää. Lähde: https://www.lopenseurakunta.fi/tukea"
+    },
+    {
+      "id": "loppi-seurakunta-clothing-aid-free-terms",
+      "municipality": "Loppi",
+      "categories": [
+        "Vaatteet"
+      ],
+      "detail": "Lopen seurakunta vahvistaa vaateavun avustushuoneessa ruokakassijaon yhteydessä. Maksuttomuus ja mahdolliset hakuehdot eivät käy sivulta yksiselitteisesti ilmi. Lähde: https://www.lopenseurakunta.fi/tukea"
+    },
+    {
+      "id": "loppi-seurakunta-household-goods-aid-free-terms",
+      "municipality": "Loppi",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Lopen seurakunta vahvistaa kodintavara-avun avustushuoneessa ruokakassijaon yhteydessä. Maksuttomuus ja mahdolliset hakuehdot eivät käy sivulta yksiselitteisesti ilmi. Lähde: https://www.lopenseurakunta.fi/tukea"
+    },
+    {
+      "id": "loppi-seurakunta-diaconia-financial-aid-free-terms",
+      "municipality": "Loppi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Lopen seurakunnan diakonia ilmoittaa tarjoavansa taloudellista apua tilanteen ja tarpeen mukaan, mm. ruokaostoksiin, lääkkeisiin, välttämättömiin menoihin ja harrastuksiin. Vuoden 2026 talousarvio vahvistaa toiminnan jatkuvan, mutta yleissivu ei yksilöi avustusten maksuttomuutta, määrää tai tarkkoja myöntöehtoja; vahvistettava. Lähde: https://www.lopenseurakunta.fi/tukea ; https://www.lopenseurakunta.fi/documents/d/lopenseurakunta.fi/talousarvio-2026"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "hausjarvi-diaconia-one-time-financial-aid",
+      "municipality": "Hausjärvi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Hausjärven seurakunnan diakonia rajaa taloudellisen tuen hetkelliseksi eikä tarjoa säännöllistä avustusta tai lainaa; tämän kartoituksen jatkuvien palvelujen rajauksessa ei hyväksytä säännöllisenä raha-avustuspalveluna. Lähde: https://www.hausjarvenseurakunta.fi/apua-ja-tukea/diakonia"
+    },
+    {
+      "id": "hausjarvi-parish-donation-collection-not-recipient-service",
+      "municipality": "Hausjärvi",
+      "categories": [
+        "Ruoka-apu",
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Nykyisen diakoniasivun maininta elintarvikkeiden, vaatteiden ja kodin tarve-esineiden lahjoittamisesta koskee lahjoittajia, ei vastaanottajille tarjottavaa palvelua; ei kirjata avustuspalveluksi. Lähde: https://www.hausjarvenseurakunta.fi/apua-ja-tukea/diakonia"
+    },
+    {
+      "id": "janakkala-parish-one-time-financial-aid",
+      "municipality": "Janakkala",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Janakkalan seurakunnan taloudellinen diakonia-apu on pienimuotoista apua yllättävässä tiukassa tilanteessa; sivu sanoo, ettei säännöllistä taloudellista avustusta tai lainaa anneta. Kertaluonteista tukea ei hyväksytä jatkuvien palvelujen rekisteriin. Lähde: https://janakkalanseurakunta.fi/apua-ja-tukea/taloudellinen-apu/"
+    },
+    {
+      "id": "jokilaani-paid-community-meal-5-euro",
+      "municipality": "Humppila ja Jokioinen",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Jokiläänin seurakunnan kaikille avoimen yhteisöruokailun normaalihinta on 5 euroa; maksullista ruokailua ei hyväksytä maksuttomaksi palveluksi. Mahdollinen diakonin myöntämä ruokalippu ja maksuton leivänjako pidetään erillisinä avoimina havaintoina. Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/taloudellinen-apu"
+    },
+    {
+      "id": "jokilaani-christmas-family-aid-2026",
+      "municipality": "Humppila ja Jokioinen (alueellinen palvelu; kattaa myös Ypäjän)",
+      "categories": [
+        "Raha",
+        "Ruoka-apu",
+        "Tavarat"
+      ],
+      "detail": "Jokiläänin seurakunnan 1.–20.11.2026 haettava lapsiperheiden jouluavustus on kausiluonteinen joulutuki, joten se rajataan pois jatkuvien palvelujen rekisteristä. Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/lapsiperheiden-avustus"
+    },
+    {
+      "id": "loppi-municipal-residents-fund-not-individual-aid",
+      "municipality": "Loppi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Loppilaisten rahaston avustukset myönnetään loppilaisille toimijoille asukkaiden hyväksi järjestettävään toimintaan, eivät suoraan yksityishenkilöiden henkilökohtaiseksi avustukseksi; ei lisätä henkilökohtaisten avustuspalvelujen rekisteriin. Lähde: https://www.loppi.fi/ajankohtaista/tiedotteet/loppilaisten-rahastosta-myonnettiin-avustuksia-kuntalaisten-hyvinvointiin-ja-harrastustoimintaan/"
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 8,
+    "total_municipalities": 11,
+    "category_checks": 48,
+    "new_accepted_service_records": 7,
+    "cumulative_accepted_service_records": 20,
+    "new_pending_leads": 9,
+    "cumulative_pending_leads": 12,
+    "new_excluded_observations": 6,
+    "cumulative_excluded_observations": 16,
+    "municipalities_fully_completed": 0
+  },
+  "next_checkpoint": "Kanta-Häme / Riihimäki / Ruoka-apu"
+}
