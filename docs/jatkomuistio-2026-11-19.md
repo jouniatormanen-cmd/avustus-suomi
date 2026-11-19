@@ -10,7 +10,7 @@ Kanta-Hämeen maakuntakierros jatkuu. Repon aiempi jatkokohta 18.11.2026 oli **K
 - Uudet kuntakategoriatarkistukset: **36**
 - Kanta-Hämeen ensimmäisen kierroksen kattavuus: **8/11 kuntaa, 48/66 kategoriaa**
 - Uudet hyväksytyt palvelut: **7**
-- Avoimet täsmennykset Kanta-Hämeessä yhteensä: **12**
+- Avoimet täsmennykset Kanta-Hämeessä yhteensä: **13**
 - Poissuljetut havainnot Kanta-Hämeessä yhteensä: **16**
 - Valmiiksi merkityt kunnat: **0**
 
