@@ -1,0 +1,515 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-20",
+  "province": "Kymenlaakso",
+  "update_type": "incremental_first_pass_municipal_screen",
+  "previous_checkpoint": "2026-11-20: Kanta-Häme / Ypäjä / Asuminen; Kanta-Hämeen ensimmäinen seulonta 11/11",
+  "source_checkpoint": "2026-11-20: Kymenlaakson ensimmäinen seulonta aloitettu aakkosjärjestyksessä Hamina, Kotka ja Kouvola; seuraava Miehikkälä / Ruoka-apu.",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Hamina",
+    "Kotka",
+    "Kouvola",
+    "Miehikkälä",
+    "Pyhtää",
+    "Virolahti"
+  ],
+  "municipalities_screened_first_pass": [
+    "Hamina",
+    "Kotka",
+    "Kouvola"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Hamina",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_pending",
+      "finding": "Sinisataman arkiaamupala on vahvistettu maksuttomaksi Haminan seurakunnan palvelusivulla; Sininauhan oma sivu vahvistaa sijainnin ja aamiaisen klo 9–10.30. Leipäkirkon maanantain ylijäämäruokajako on olemassa, mutta sen maksuttomuus pitää vielä vahvistaa.",
+      "service_ids": [
+        "sinisatama-maksuton-aamupala-hamina-2026"
+      ],
+      "pending_ids": [
+        "hamina-leipakirkon-ruoanjako-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Kotiapu",
+      "status": "pending_regional_fee_terms",
+      "finding": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa ja välttämättömiä arjen askareita, mutta maksuttomuutta ei vahvisteta palvelusivulla; palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut jatkuvaa maksutonta vaatepalvelua Haminassa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Tavarat",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut jatkuvaa maksutonta tavara-apupalvelua Haminassa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Raha",
+      "status": "pending_terms",
+      "finding": "Haminan seurakunnalla on säännölliset diakoniavastaanottoajat ja taloudellisen avun asiointi, mutta avustuksen ehdot ja maksuttomuus eivät selviä palvelusivulta riittävästi hyväksymiseen.",
+      "service_ids": [],
+      "pending_ids": [
+        "hamina-seurakunnan-diakonian-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Asuminen",
+      "status": "accepted_free_recurring",
+      "finding": "Kaakkois-Suomen Sininauhan Kotikoodi auttaa asunnottomia, puutteellisissa oloissa asuvia ja häätöuhan alla olevia löytämään asunnon sekä hakemaan tukia. Maksuton, matalan kynnyksen palvelu kattaa Haminan ja Kotkan yhdellä yhteisellä tietueella.",
+      "service_ids": [
+        "kotikoodi-hamina-kotka-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Ruoka-apu",
+      "status": "pending_free_confirmation",
+      "finding": "Silmut ry:n oma sivu vahvistaa ruokakassien jaon ma–pe klo 11–11.45 ja yhden kassin viikossa/talous, mutta ei ilmoita maksuttomuutta. Sini-Kotkan arkiaamupala on tarjolla, mutta järjestäjän sivu ei ilmoita hintaa.",
+      "service_ids": [],
+      "pending_ids": [
+        "silmut-kotka-ruoka-apu-maksuttomuus-2026",
+        "sini-kotka-aamupala-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "silmut-kotka-5e-lounas"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Kotiapu",
+      "status": "pending_regional_fee_terms",
+      "finding": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa ja kodin askareita, mutta asiakasmaksua ei eritellä; palvelusetelistä voi jäädä omavastuu. Silmut ry:n kotitaloustyöt eivät ole tässä seulonnassa vahvistettuja maksuttomiksi.",
+      "service_ids": [],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut jatkuvaa maksutonta vaatepalvelua Kotkassa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Tavarat",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut jatkuvaa maksutonta tavara-apupalvelua Kotkassa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Raha",
+      "status": "no_local_service_verified_first_pass",
+      "finding": "Kotkan kaupungin asumisneuvonta ohjaa asumiseen liittyvissä tuissa, mutta erillistä jatkuvaa paikallista raha-avustuspalvelua ei tässä seulonnassa vahvistettu. Kymenlaakson hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki tarkistetaan alueellisena palveluna erillisessä lähdekierroksessa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Asuminen",
+      "status": "accepted_free_recurring",
+      "finding": "Kotkan kaupunki tarjoaa kaikille kotkalaisille maksutonta asumisneuvontaa. Avoin vastaanotto maanantaisin klo 10–13 Karhulan Eagle-talossa; muina aikoina yhteydenotolla sovitaan tapaaminen. Lisäksi Kotikoodi on yhteinen maksuton alueellinen palvelu.",
+      "service_ids": [
+        "kotka-maksuton-asumisneuvonta-2026",
+        "kotikoodi-hamina-kotka-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_pending",
+      "finding": "Sini-Raiteen aamupala on järjestäjän mukaan maksuton ma–pe klo 9–11. Kouvolan Kipinä ry:n ruoka-apukassien jako on ma ja pe klo 14.30, mutta järjestäjän sivu ei ilmoita maksuttomuutta; myös koulujen ylijäämäruoan jakelun tarkat noutopaikat vaihtelevat.",
+      "service_ids": [
+        "sini-raide-maksuton-aamupala-kouvola-2026"
+      ],
+      "pending_ids": [
+        "kouvolan-kipina-ruokakassi-maksuttomuus-2026",
+        "kouvolan-kipina-koulujen-ylijaamaruoka-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Kotiapu",
+      "status": "excluded_paid_service",
+      "finding": "Kouvolan Kipinä ry:n kodin pienet korjaus- ja kohennustyöt maksavat pienen maksun, joten niitä ei hyväksytä maksuttomaksi kotiavuksi. Seurakunnan Pikkuhelppi-sivun ajantasaiset palveluehdot eivät vahvistuneet tässä kierroksessa.",
+      "service_ids": [],
+      "pending_ids": [
+        "kouvolan-seurakuntien-pikkuhelppi-ajantasaiset-ehdot"
+      ],
+      "excluded_ids": [
+        "kouvolan-kipina-kodin-korjausapu-maksullinen"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Vaatteet",
+      "status": "pending_free_terms",
+      "finding": "Hope Kouvolan paikallistoimisto tarjoaa vähävaraisille lapsiperheille vaateapua, mutta vuoden 2026 asiakkaiden hakuehdot ja maksuttomuus on vielä vahvistettava suoraan toimistolta. Asiakasajat ovat sopimuksen mukaan.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kouvola-vaate-ja-tavara-apu-ehdot-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Tavarat",
+      "status": "pending_free_terms",
+      "finding": "Hope Kouvolan paikallistoimisto tarjoaa tavaralahjoituksia lapsiperheille; asiakkaiden hakuehdot, maksuttomuus ja vuoden 2026 vastaanoton jatkuvuus on vielä vahvistettava. Asiakasajat ovat sopimuksen mukaan.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kouvola-vaate-ja-tavara-apu-ehdot-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Raha",
+      "status": "pending_free_terms_and_eligibility",
+      "finding": "Kouvolan seurakunnan taloudellisen avun vastaanotto on tiistaisin ajanvarauksella Savonkatu 40:ssä, vain Kouvolan seurakunnan alueella asuville. Lisäksi vähävaraisille kirkon työhön opiskeleville on stipendihaku kahdesti vuodessa. Avustusten tarkat ehdot, summat ja maksuttomuus vahvistetaan ennen hyväksymistä.",
+      "service_ids": [],
+      "pending_ids": [
+        "kouvolan-seurakunnan-taloudellinen-apu-2026",
+        "kouvolan-seurakunnan-opiskelustipendit-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Asuminen",
+      "status": "accepted_free_recurring",
+      "finding": "Kouvolan kaupungin asumisneuvonta on maksutonta ja luottamuksellista kaikille Kouvolassa asuville tai sinne muuttaville asumismuodosta riippumatta. Yhteydenotto puhelimitse/WhatsAppilla tai sähköpostitse, tapaaminen sovitaan; asumisneuvoja tavoitettavissa parhaiten aamupäivisin.",
+      "service_ids": [
+        "kouvola-maksuton-asumisneuvonta-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "sinisatama-maksuton-aamupala-hamina-2026",
+      "name": "Sinisatama – maksuton arkiaamupala",
+      "organizer": "Kaakkois-Suomen Sininauha ry (maksuttomuus vahvistettu Haminan seurakunnan palvelusivulta)",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hamina"
+      ],
+      "location": "Isoympyräkatu 20, liikehuoneisto 10, 49400 Hamina (sisäänkäynti Torikadun puolelta).",
+      "regular_time": "Aamupala ma–pe klo 9.00–10.30. Toimipiste avoinna ma klo 9–13 ja ti–pe klo 9–12.",
+      "free_and_conditions": "Maksuton aamupala; matalan kynnyksen kohtaamispaikka kaikille yli 18-vuotiaille. Haminan seurakunnan sivu vahvistaa aamupalan maksuttomuuden; Sininauhan oma sivu vahvistaa sijainnin ja aikataulun.",
+      "contact": "Kaakkois-Suomen Sininauha ry, yleinen yhteys 050 356 5530.",
+      "source_urls": [
+        "https://www.ks-sininauha.fi/toimipisteet/sinisatama/",
+        "https://haminanseurakunta.fi/talous-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kotikoodi-hamina-kotka-2026",
+      "name": "Kotikoodi – maksuton asumisen palveluohjaus",
+      "organizer": "Kaakkois-Suomen Sininauha ry",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hamina",
+        "Kotka"
+      ],
+      "location": "Jalkautuva palvelu Kotkan ja Haminan alueella; tapaamiset ja kotikäynnit asiakkaan tarpeen mukaan.",
+      "regular_time": "Ei kiinteää vastaanottoaikaa; asiakas voi olla suoraan yhteydessä palveluohjaajaan tai ohjautua verkoston kautta.",
+      "free_and_conditions": "Maksuton, matalan kynnyksen palvelu asunnottomille, puutteellisissa asumisolosuhteissa asuville ja häätöuhan alla oleville. Auttaa asunnon etsimisessä, tukien hakemisessa ja uuden asumisen käynnistämisessä.",
+      "contact": "Kotka: Riika Kokkonen 044 763 9883, riika.kokkonen@ks-sininauha.fi. Hamina: Antti Hiekkanen 044 735 6239, antti.hiekkanen@ks-sininauha.fi.",
+      "source_urls": [
+        "https://www.ks-sininauha.fi/toimipisteet/kotikoodi/",
+        "https://www.ks-sininauha.fi/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kotka-maksuton-asumisneuvonta-2026",
+      "name": "Kotkan kaupungin maksuton asumisneuvonta",
+      "organizer": "Kotkan kaupunki",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kotka"
+      ],
+      "location": "Eagle-talo, Kyminlinnantie 6, sisäänkäynti 3, 7. kerros, Karhula.",
+      "regular_time": "Avoin vastaanotto maanantaisin klo 10–13 ilman ajanvarausta. Muina aikoina yhteydenotolla sovitaan oma tapaamisaika.",
+      "free_and_conditions": "Maksuton kaikille kotkalaisille asumismuodosta riippumatta. Neuvonta kattaa asumistukien hakemisen, uuden kodin etsimisen, vuokranmaksuvaikeudet, asunnon hoidon sekä häätö- ja häiriötilanteet.",
+      "contact": "Asumisneuvoja Heli Remes, 040 124 3316 (myös WhatsApp), asumisneuvonta@kotka.fi.",
+      "source_urls": [
+        "https://www.kotka.fi/hyvinvointi-ja-tyo/hyvinvoinnin-edistaminen/asumisneuvonta/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "sini-raide-maksuton-aamupala-kouvola-2026",
+      "name": "Sini-Raide – maksuton arkiaamupala ja matalan kynnyksen kohtaamispaikka",
+      "organizer": "Kaakkois-Suomen Sininauha ry",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kouvola"
+      ],
+      "location": "Käsityöläiskatu 2, huoneisto 43, 45100 Kouvola.",
+      "regular_time": "Aamupala ma–pe klo 9–11. Toimipiste avoinna ma–to klo 9–12 ja pe klo 9–13.",
+      "free_and_conditions": "Toiminta ja palvelut ovat kävijöille maksuttomia. Yli 18-vuotiaille; tarjolla aamupala, kahvia/teetä/mehua, digiasioinnin välineet, juttuseuraa ja arjen ohjausta.",
+      "contact": "Sonja Kujala 044 741 3922, sonja.kujala@ks-sininauha.fi; Iina Kiviranta 044 741 3351, iina.kiviranta@ks-sininauha.fi.",
+      "source_urls": [
+        "https://www.ks-sininauha.fi/toimipisteet/sini-raide/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kouvola-maksuton-asumisneuvonta-2026",
+      "name": "Kouvolan kaupungin maksuton asumisneuvonta",
+      "organizer": "Kouvolan kaupunki (palvelun tuottaa Kouvolan Asunnot Oy)",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kouvola"
+      ],
+      "location": "Tapaamiset sovitaan asumisneuvojan kanssa; palvelu palvelee Kouvolassa asuvia ja kaupunkiin muuttavia.",
+      "regular_time": "Asumisneuvoja tavoitettavissa parhaiten aamupäivisin puhelimitse, WhatsAppilla ja sähköpostilla; erikseen sovittava tapaaminen.",
+      "free_and_conditions": "Maksuton ja luottamuksellinen kaikille Kouvolassa asuville tai sinne muuttaville asumismuodosta riippumatta. Apua vuokranmaksuvaikeuksiin, tukien hakemiseen, häätöuhkaan, asunnon etsimiseen ja asumisen häiriötilanteisiin.",
+      "contact": "Sonja Ronkonen, 040 144 0423, asumisneuvonta@kouvola.fi.",
+      "source_urls": [
+        "https://www.kouvola.fi/ajankohtaiset/kouvolan-kaupungin-asumisneuvonta-auttaa-asumisen-pulmissa/",
+        "https://www.kouvola.fi/ajankohtaiset/asumisneuvonta-auttaa/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "kotikoodi-hamina-kotka-2026",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hamina",
+        "Kotka"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Kotikoodi kattaa molemmat kunnat yhdellä tietueella; ei kuntakohtaisia kopioita."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "hamina-leipakirkon-ruoanjako-maksuttomuus-2026",
+      "municipality": "Hamina",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Haminan seurakunta vahvistaa Leipäkirkon ylijäämäruoan jaon maanantaisin klo 16.30–17.00, Vallikatu 4. Maksuttomuus ja asiakkaiden ehdot on vahvistettava ennen hyväksymistä. Lähde: https://haminanseurakunta.fi/talous-ja-ruoka-apua/"
+    },
+    {
+      "id": "hamina-seurakunnan-diakonian-taloudellinen-apu-2026",
+      "municipality": "Hamina",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Haminan seurakunnalla on diakoniavastaanotto Haminassa ma, ti, to ja pe klo 9–10 ajanvarauksella sekä maanantaisin klo 13–14 ilman ajanvarausta. Taloudellisen avun tarkat ehdot, mahdolliset määrät ja maksuttomuus on vielä vahvistettava. Lähde: https://haminanseurakunta.fi/talous-ja-ruoka-apua/"
+    },
+    {
+      "id": "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026",
+      "municipality": "Kymenlaakso (alueellinen; kattaa Hamina, Kotka, Kouvola ja muut maakunnan kunnat)",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa sekä ruoanlaittoa, tiskausta, siivousta ja pyykkihuoltoa. Palvelusivulla ei ilmoiteta palvelun hintaa; palvelusetelistä voi jäädä asiakkaalle omavastuu. Maksuttomuus on varmistettava ennen hyväksymistä. Lähde: https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/"
+    },
+    {
+      "id": "silmut-kotka-ruoka-apu-maksuttomuus-2026",
+      "municipality": "Kotka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Silmut ry:n oma sivu vahvistaa ruokakassien jaon ma–pe klo 11.00–11.45, yksi kassi/talous kerran viikossa. Maksuttomuutta ei ilmoiteta järjestäjän sivulla, joten palvelu jää vahvistettavaksi. Lähde: https://www.silmutry.fi/ruoka-apu/"
+    },
+    {
+      "id": "sini-kotka-aamupala-maksuttomuus-2026",
+      "municipality": "Kotka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Sini-Kotkassa on aamupala arkisin klo 9.00–10.30, toimipiste avoinna ma–pe klo 9–12, Kotkankatu 14 lh 3. Järjestäjän sivu ei ilmoita aamupalan maksuttomuutta, joten palvelua ei vielä hyväksytty. Yhteys 044 745 1392. Lähde: https://www.ks-sininauha.fi/toimipisteet/sini-kotka/"
+    },
+    {
+      "id": "kouvolan-kipina-ruokakassi-maksuttomuus-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kouvolan Kipinä ry:n ruoka-apukassit vähävaraisille: Kouvolan jako maanantaisin ja perjantaisin klo 14.30, Päiväkeskus Brankkarin parkkipaikka, Hallituskatu 11. Tilaus tekstiviestillä/WhatsAppilla keskiviikkoisin klo 9.30–9.45, 041 327 0860. Järjestäjän sivu ei nimenomaisesti ilmoita maksuttomuutta; varmistettava. Lähde: https://kouvolankipina.fi/palvelut/ruokakassi/"
+    },
+    {
+      "id": "kouvolan-kipina-koulujen-ylijaamaruoka-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kouvolan Kipinä ry jakaa koulujen ylijäämäruokaa arkipäivisin noin klo 13.00–13.30, jos ruokaa saadaan. Tarkka jakopaikka vaihtelee; maksuttomuus ja noutopaikat tarkistettava ennen hyväksymistä. Lähde: https://www.kouvola.fi/hyvinvointi-ja-terveys/voi-hyvin/ikaantyneet/arjen-apu/"
+    },
+    {
+      "id": "kouvolan-seurakuntien-pikkuhelppi-ajantasaiset-ehdot",
+      "municipality": "Kouvola",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Kouvolan seurakuntien sivuilla on PikkuHelppi-linkki Kouvolaan, mutta paikallisen sivun ajantasaiset palveluehdot, maksuttomuus ja säännöllisyys eivät vahvistuneet. Lähde: https://www.kouvolanseurakunnat.fi/lapset/pikkuhelppi/kouvola"
+    },
+    {
+      "id": "hope-kouvola-vaate-ja-tavara-apu-ehdot-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Hope Kouvolan paikallistoimisto auttaa vähävaraisia ja kriisin kokeneita lapsiperheitä; asiakasajat sovitaan erikseen ja avunpyyntö tehdään lomakkeella. Vuoden 2026 maksuttomuus- ja hakuehdot sekä vastaanottokäytännön jatkuminen tarkistetaan vielä suoraan toimistolta. Yhteys kouvola@hopeyhdistys.fi, Savonkatu 23, 45100 Kouvola. Lähde: https://hopeyhdistys.fi/paikallistoimisto/kouvola/"
+    },
+    {
+      "id": "kouvolan-seurakunnan-taloudellinen-apu-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kouvolan seurakunnan taloudellisen avun vastaanotto tiistaisin Savonkatu 40, ajanvaraus 0400 374 996 tai diakonia.kouvola@evl.fi, vain Kouvolan seurakunnan alueella asuville. Avustusten tarkat ehdot ja maksuttomuus vahvistettava. Lähde: https://www.kouvolanseurakunnat.fi/diakoniakouvola"
+    },
+    {
+      "id": "kouvolan-seurakunnan-opiskelustipendit-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kouvolan seurakunta myöntää vähävaraisille opiskelijoille stipendejä kirkon työhön opiskeluun. Hakujaksot 1.–28.2. ja 1.–30.9.; tarkat ehdot, summat ja vuoden 2026 hakukelpoisuus vahvistettava. Lähde: https://www.kouvolanseurakunnat.fi/diakoniakouvola"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "silmut-kotka-5e-lounas",
+      "municipality": "Kotka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Silmut ry:n lounaspajan lämmin ruoka maksaa 5 euroa maanantaisin ja keskiviikkoisin klo 11–12; maksullinen ruokailu rajataan pois. Lähde: https://www.silmutry.fi/lounas-ja-kahvio/"
+    },
+    {
+      "id": "kouvolan-kipina-kodin-korjausapu-maksullinen",
+      "municipality": "Kouvola",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Kouvolan Kipinä ry:n kodin pienistä korjaus- ja kohennustöistä peritään pieni maksu; ei maksuton palvelu. Lähde: https://www.kouvola.fi/hyvinvointi-ja-terveys/voi-hyvin/ikaantyneet/arjen-apu/"
+    },
+    {
+      "id": "hope-kouvola-joulukerays-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Vaatteet",
+        "Tavarat",
+        "Ruoka-apu"
+      ],
+      "detail": "Hope Kouvolan joulukeräys ja joululahjojen kokoaminen ovat kausiluonteista joulutoimintaa; ei sisälly jatkuvien palveluiden rekisteriin. Lähde: https://hopeyhdistys.fi/paikallistoimisto/kouvola/"
+    },
+    {
+      "id": "kouvolan-seurakunnan-joulupuuro-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "16.12.2026 järjestettävä maksuton joulupuuro on yksittäinen joulutapahtuma, ei jatkuva palvelu. Lähde: https://www.kouvolanseurakunnat.fi/diakoniakouvola"
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 3,
+    "total_municipalities": 6,
+    "category_checks": 18,
+    "new_accepted_service_records": 5,
+    "cumulative_accepted_service_records": 5,
+    "new_pending_leads": 9,
+    "cumulative_pending_leads": 9,
+    "new_excluded_observations": 4,
+    "cumulative_excluded_observations": 4,
+    "municipalities_fully_completed": 0
+  },
+  "next_checkpoint": "Kymenlaakso / Miehikkälä / Ruoka-apu"
+}
