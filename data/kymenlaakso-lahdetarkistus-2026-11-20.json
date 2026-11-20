@@ -45,9 +45,11 @@
     {
       "municipality": "Hamina",
       "category": "Kotiapu",
-      "status": "pending_regional_fee_terms",
-      "finding": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa ja välttämättömiä arjen askareita, mutta maksuttomuutta ei vahvisteta palvelusivulla; palvelusetelistä voi jäädä omavastuu.",
-      "service_ids": [],
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
       "pending_ids": [
         "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
       ],
@@ -116,9 +118,11 @@
     {
       "municipality": "Kotka",
       "category": "Kotiapu",
-      "status": "pending_regional_fee_terms",
-      "finding": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa ja kodin askareita, mutta asiakasmaksua ei eritellä; palvelusetelistä voi jäädä omavastuu. Silmut ry:n kotitaloustyöt eivät ole tässä seulonnassa vahvistettuja maksuttomiksi.",
-      "service_ids": [],
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
       "pending_ids": [
         "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
       ],
@@ -186,11 +190,13 @@
     {
       "municipality": "Kouvola",
       "category": "Kotiapu",
-      "status": "excluded_paid_service",
-      "finding": "Kouvolan Kipinä ry:n kodin pienet korjaus- ja kohennustyöt maksavat pienen maksun, joten niitä ei hyväksytä maksuttomaksi kotiavuksi. Seurakunnan Pikkuhelppi-sivun ajantasaiset palveluehdot eivät vahvistuneet tässä kierroksessa.",
-      "service_ids": [],
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
       "pending_ids": [
-        "kouvolan-seurakuntien-pikkuhelppi-ajantasaiset-ehdot"
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
       ],
       "excluded_ids": [
         "kouvolan-kipina-kodin-korjausapu-maksullinen"
@@ -261,7 +267,7 @@
       "location": "Isoympyräkatu 20, liikehuoneisto 10, 49400 Hamina (sisäänkäynti Torikadun puolelta).",
       "regular_time": "Aamupala ma–pe klo 9.00–10.30. Toimipiste avoinna ma klo 9–13 ja ti–pe klo 9–12.",
       "free_and_conditions": "Maksuton aamupala; matalan kynnyksen kohtaamispaikka kaikille yli 18-vuotiaille. Haminan seurakunnan sivu vahvistaa aamupalan maksuttomuuden; Sininauhan oma sivu vahvistaa sijainnin ja aikataulun.",
-      "contact": "Kaakkois-Suomen Sininauha ry, yleinen yhteys 050 356 5530.",
+      "contact": "Sanna Niemelä, kohtaamispaikkavastaava, 040 867 0688, sanna.niemela@ks-sininauha.fi",
       "source_urls": [
         "https://www.ks-sininauha.fi/toimipisteet/sinisatama/",
         "https://haminanseurakunta.fi/talous-ja-ruoka-apua/"
@@ -306,7 +312,7 @@
       "location": "Eagle-talo, Kyminlinnantie 6, sisäänkäynti 3, 7. kerros, Karhula.",
       "regular_time": "Avoin vastaanotto maanantaisin klo 10–13 ilman ajanvarausta. Muina aikoina yhteydenotolla sovitaan oma tapaamisaika.",
       "free_and_conditions": "Maksuton kaikille kotkalaisille asumismuodosta riippumatta. Neuvonta kattaa asumistukien hakemisen, uuden kodin etsimisen, vuokranmaksuvaikeudet, asunnon hoidon sekä häätö- ja häiriötilanteet.",
-      "contact": "Asumisneuvoja Heli Remes, 040 124 3316 (myös WhatsApp), asumisneuvonta@kotka.fi.",
+      "contact": "Asumisneuvonta, 040 124 3316 (myös WhatsApp), asumisneuvonta@kotka.fi",
       "source_urls": [
         "https://www.kotka.fi/hyvinvointi-ja-tyo/hyvinvoinnin-edistaminen/asumisneuvonta/"
       ],
@@ -356,6 +362,28 @@
       "checked_date": "2026-11-20",
       "status": "accepted",
       "publication_ready": true
+    },
+    {
+      "id": "kymenhva-perhetyo-maksuton-2026",
+      "name": "Kymenlaakson hyvinvointialueen maksuton perhetyö kotikäynnein",
+      "organizer": "Kymenlaakson hyvinvointialue",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kymenlaakso"
+      ],
+      "location": "Perheen koti Kymenlaakson alueella; palvelu toteutetaan kotikäynnein perheen tarpeen mukaan.",
+      "regular_time": "Ei yleistä vastaanottoaikaa. Palvelu alkaa palvelutarpeen arvioinnin ja päätöksen jälkeen; tapaamiset sovitaan perheen kanssa.",
+      "free_and_conditions": "Maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille. Perhetyö voi alkaa jo palvelutarpeen arvioinnin aikana. Tavoitteena tukea perheen arkea, vanhemmuutta ja voimavaroja; kotikäynneillä voidaan tehdä asioita yhdessä ja tarjota konkreettista tukea. Tämä ei ole siivous- tai kodinhoitopalvelu.",
+      "contact": "Kymenlaakson sosiaalihuollon asiakasneuvonta 05 220 6000, ma–pe klo 9–14 (lasten ja perheiden asiat, valitse 4); Oma Kymenlaakso -chat ma–to klo 10–15.",
+      "source_urls": [
+        "https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true,
+      "availability_note": "Regional service with a social-work eligibility decision; do not confuse with the separate home-help service whose customer charges are not yet confirmed."
     }
   ],
   "regional_service_reuse": [
@@ -370,6 +398,17 @@
       ],
       "status": "single_shared_regional_record",
       "note": "Kotikoodi kattaa molemmat kunnat yhdellä tietueella; ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "kymenhva-perhetyo-maksuton-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kymenlaakso"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Maksuton perhetyö kotikäynnein; yksi maakunnallinen tietue, ei kuntakohtaisia kopioita."
     }
   ],
   "pending_leads": [
@@ -503,10 +542,10 @@
     "municipalities_screened_first_pass": 3,
     "total_municipalities": 6,
     "category_checks": 18,
-    "new_accepted_service_records": 5,
-    "cumulative_accepted_service_records": 5,
-    "new_pending_leads": 9,
-    "cumulative_pending_leads": 9,
+    "new_accepted_service_records": 6,
+    "cumulative_accepted_service_records": 6,
+    "new_pending_leads": 11,
+    "cumulative_pending_leads": 11,
     "new_excluded_observations": 4,
     "cumulative_excluded_observations": 4,
     "municipalities_fully_completed": 0
