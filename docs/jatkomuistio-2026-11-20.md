@@ -12,8 +12,8 @@ Luin ennen työn jatkamista repon viimeisimmän jatkomuistion ja Kanta-Hämeen J
 - Kymenlaakson ensimmäinen seulonta: **3/6 kuntaa, 18/36 kategoriaa**
 - Uudet hyväksytyt palvelutietueet: **9**
 - Kanta-Hämeen hyväksytyt palvelutietueet yhteensä: **24**
-- Kymenlaakson hyväksytyt palvelutietueet tässä ensimmäisessä seulonnassa: **5**
-- Uudet avoimet täsmennykset: **15**
+- Kymenlaakson hyväksytyt palvelutietueet tässä ensimmäisessä seulonnassa: **6**
+- Uudet avoimet täsmennykset: **17**
 - Uudet poissuljetut havainnot: **6**
 - Lopullisesti valmiiksi merkityt kunnat: **0**
 
@@ -30,6 +30,7 @@ Luin ennen työn jatkamista repon viimeisimmän jatkomuistion ja Kanta-Hämeen J
 - Kotkan kaupungin maksuton asumisneuvonta, maanantaisin klo 10–13 avoin vastaanotto.
 - Sini-Raiteen maksuton aamupala Kouvolassa, ma–pe klo 9–11.
 - Kouvolan kaupungin maksuton asumisneuvonta.
+- Kymenlaakson hyvinvointialueen maksuton perhetyö kotikäynnein lapsiperheiden sosiaalityön asiakkaille (yksi maakunnallinen tietue; ei siivouspalvelu).
 
 ## Avoimet ja poissuljetut
 
