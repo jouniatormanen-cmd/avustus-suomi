@@ -10,7 +10,7 @@ Luin ennen työn jatkamista repon viimeisimmän jatkomuistion ja Kanta-Hämeen J
 - Uudet kuntakategoriatarkistukset: **36**
 - Kanta-Hämeen ensimmäinen seulonta: **11/11 kuntaa, 66/66 kategoriaa**
 - Kymenlaakson ensimmäinen seulonta: **3/6 kuntaa, 18/36 kategoriaa**
-- Uudet hyväksytyt palvelutietueet: **9**
+- Uudet hyväksytyt palvelutietueet: **10**
 - Kanta-Hämeen hyväksytyt palvelutietueet yhteensä: **24**
 - Kymenlaakson hyväksytyt palvelutietueet tässä ensimmäisessä seulonnassa: **6**
 - Uudet avoimet täsmennykset: **17**
