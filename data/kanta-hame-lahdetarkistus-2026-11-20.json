@@ -1,0 +1,501 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-20",
+  "province": "Kanta-Häme",
+  "update_type": "incremental_first_pass_municipal_screen",
+  "previous_checkpoint": "2026-11-19: Kanta-Häme / Riihimäki / Ruoka-apu",
+  "source_checkpoint": "2026-11-20: first-pass screening completed in order Riihimäki, Tammela, Ypäjä; Kanta-Häme first pass now screened 11/11 municipalities. Next province started at Kymenlaakso / Hamina.",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Forssa",
+    "Hattula",
+    "Hausjärvi",
+    "Hämeenlinna",
+    "Humppila",
+    "Janakkala",
+    "Jokioinen",
+    "Loppi",
+    "Riihimäki",
+    "Tammela",
+    "Ypäjä"
+  ],
+  "municipalities_screened_first_pass": [
+    "Forssa",
+    "Hattula",
+    "Hausjärvi",
+    "Hämeenlinna",
+    "Humppila",
+    "Janakkala",
+    "Jokioinen",
+    "Loppi",
+    "Riihimäki",
+    "Tammela",
+    "Ypäjä"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Riihimäki",
+      "category": "Ruoka-apu",
+      "status": "pending_current_service_terms",
+      "finding": "Tässä lähdekierroksessa ei vahvistunut järjestäjän ajantasaiselta palvelusivulta säännöllistä ruoka-apua, jonka maksuttomuus, hakuehdot ja jakorytmi olisivat kaikki todennettavissa.",
+      "service_ids": [],
+      "pending_ids": [
+        "riihimaki-diakonia-ruoka-apu-current-terms"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Riihimäki",
+      "category": "Kotiapu",
+      "status": "pending_free_terms",
+      "finding": "Riihimäen seurakunnan diakoninen perhetyö voi sisältää pientä käytännön apua kodeissa ja sosiaalista/taloudellista tukea. Palvelun maksuttomuutta, tarkkaa sisältöä ja säännöllisyyttä ei eritellä; Oma Hämeen alueellinen lapsiperheiden kotipalvelu käytetään olemassa olevalla tietueella.",
+      "service_ids": [],
+      "pending_ids": [
+        "riihimaki-diakoninen-perhetyo-kotiapu-raha"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Riihimäki",
+      "category": "Vaatteet",
+      "status": "accepted_free_recurring",
+      "finding": "Riihimäen seurakunnan vaatekierrätyksestä voi noutaa maksutta vaatteita ja kenkiä. Auki ti 11–14, ke 10–12 erityisesti maahanmuuttajille ja to 16–18.",
+      "service_ids": [
+        "riihimaki-seurakunnan-maksuton-vaatekierratys-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Riihimäki",
+      "category": "Tavarat",
+      "status": "pending_free_terms",
+      "finding": "Vaatekierrätys ottaa vastaan astioita ja liinavaatteita ja antaa niitä edelleen tarvitseville, mutta järjestäjän sivu ei vahvista näiden tavaroiden maksuttomuutta yhtä selvästi kuin vaatteiden ja kenkien. Hope Hyvinkään alueellinen lahjoituspalvelu hyväksyttiin erillisellä yhteisellä tietueella Riihimäelle ja Lopelle.",
+      "service_ids": [
+        "hope-hyvinkaa-vaate-tavara-apu-riihimaki-loppi-2026"
+      ],
+      "pending_ids": [
+        "riihimaki-seurakunnan-astiavaatekierratys-maksuttomuus"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Riihimäki",
+      "category": "Raha",
+      "status": "accepted_and_pending",
+      "finding": "Hope Hyvinkään harrastustuki kattaa Riihimäen alueen; se maksetaan seuralle ja hakulomake avautuu uudelleen 4.1.2027. Seurakunnan diakonisen perhetyön taloudellisen tuen ehdot jäävät avoimiksi.",
+      "service_ids": [
+        "hope-hyvinkaa-harrastustuki-riihimaki-loppi-2026"
+      ],
+      "pending_ids": [
+        "riihimaki-diakoninen-perhetyo-kotiapu-raha"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Riihimäki",
+      "category": "Asuminen",
+      "status": "existing_regional_services_reused",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus sekä valtakunnalliset VTKL:n korjausneuvonta ja Varken korjausavustus säilytetään yhteisinä tietueina; uutta kuntakohtaista kopiota ei tehty.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Tammela",
+      "category": "Ruoka-apu",
+      "status": "accepted_free_recurring",
+      "finding": "Tammelan seurakunnan diakonia-avun pääasiallinen muoto on 30 euron henkilökohtainen osto-osoitus Tammelan S-marketiin. Yksin asuva ilman alaikäisiä huollettavia voi saada kolme vuodessa; perheille tapauskohtaisesti. Käytettävä yhtenä ostona kuukauden sisällä myöntämisestä; vain Tammelassa vakituisesti asuville ja viimesijaisesti.",
+      "service_ids": [
+        "tammela-seurakunnan-ruokaostotosite-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Tammela",
+      "category": "Kotiapu",
+      "status": "existing_regional_service_reused",
+      "finding": "Oma Hämeen maksuton lapsiperheiden kotipalvelu 1.6.2026 alkaen kattaa maakunnan; käytetään olemassa olevaa alueellista tietuetta.",
+      "service_ids": [
+        "omahame-lapsiperheiden-kotipalvelu-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Tammela",
+      "category": "Vaatteet",
+      "status": "no_local_recipient_service_verified",
+      "finding": "Järjestäjän sivulta ei vahvistunut jatkuvaa maksutonta vaatepalvelua vastaanottajille. Diakonia ottaa vastaan lahjoituksia, mutta lahjoittajakanava ei ole itsessään palvelutietue.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "tammela-seurakunnan-pienimuotoinen-tavaralahjoitusten-vastaanotto-ei-vastaanottajapalvelu"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Tammela",
+      "category": "Tavarat",
+      "status": "excluded_donor_channel_not_recipient_service",
+      "finding": "Seurakunta ottaa tällä hetkellä vastaan tavaralahjoituksia vain hyvin pienimuotoisesti; kyse ei ole yksilöidystä jatkuvasta vastaanottajille tarjottavasta maksuttomasta palvelusta.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "tammela-seurakunnan-pienimuotoinen-tavaralahjoitusten-vastaanotto-ei-vastaanottajapalvelu"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Tammela",
+      "category": "Raha",
+      "status": "no_separate_cash_grant_verified",
+      "finding": "Diakonian vahvistettu apu on ruokakaupan osto-osoitus, joka kirjataan Ruoka-apu-kategoriaan. Erillistä jatkuvaa käteisenä maksettavaa avustusta ei vahvistettu; asumiskuluihin seurakunta ei myönnä avustusta.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Tammela",
+      "category": "Asuminen",
+      "status": "existing_regional_services_reused",
+      "finding": "Oma Hämeen aikuissosiaalityön asumisen ohjaus sekä VTKL:n ja Varken valtakunnalliset asumisen tuet säilytetään alueellisina/valtakunnallisina tietueina.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+        "av-0029",
+        "varke-korjausavustus-iakkaat-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Ypäjä",
+      "category": "Ruoka-apu",
+      "status": "pending_free_schedule_and_eligibility",
+      "finding": "Jokiläänin seurakunnan sivu kuvaa Ypäjällä yhteisruokailun yhteydessä tapahtuvaa leipäjakoa ja kaksi kertaa vuodessa annettavaa ruoka-avustusta, mutta jakorytmin, maksuttomuuden ja hakuehtojen ajantasaiset yksityiskohdat eivät ole riittävät hyväksymiseen. Tavallinen yhteisöruokailu maksaa 5 euroa.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-ypaja-ruoka-apu-ja-leipajako-2026"
+      ],
+      "excluded_ids": [
+        "jokilaani-ypaja-5e-yhteisoruokailu"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Ypäjä",
+      "category": "Kotiapu",
+      "status": "pending_free_terms",
+      "finding": "Jokiläänin seurakunta kertoo tarjoavansa lapsiperheille tilapäistä apua lastenhoidossa ja kodinhoidossa 1–5 kertaa vuodessa. Maksuttomuutta ja tarkkoja ehtoja ei ole vahvistettu.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-ypaja-tilapainen-kotiapu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Ypäjä",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut Ypäjällä toimivaa jatkuvaa maksutonta vaatepalvelua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Ypäjä",
+      "category": "Tavarat",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut Ypäjällä toimivaa jatkuvaa maksutonta tavara-apupalvelua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Ypäjä",
+      "category": "Raha",
+      "status": "pending_criteria_and_current_application",
+      "finding": "Jokiläänin seurakunnan sivu mainitsee kriisitilanteiden avun ja harrastusavustuksen. Avustuksen tarkat kohderyhmät, summat, hakurytmi ja vuoden 2026 ehdot eivät vahvistuneet. Kaksi kertaa vuodessa annettava ruoka-apu käsitellään erikseen Ruoka-apu-kategoriassa.",
+      "service_ids": [],
+      "pending_ids": [
+        "jokilaani-ypaja-kriisi-ja-harrastusavustus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Ypäjä",
+      "category": "Asuminen",
+      "status": "pending_current_local_service_details",
+      "finding": "Vanhemmassa Kanta-Hämeen hyvinvointisuunnitelmassa mainitaan Ypäjän asumisneuvonnan järjestäminen muun toiminnan yhteydessä, mutta nykyistä palveluntuottajaa, yhteystietoa ja maksuttomia asiointiehtoja ei vahvistettu. Oma Hämeen alueellinen asumisen ohjaus säilyy erillisenä tietueena.",
+      "service_ids": [
+        "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki"
+      ],
+      "pending_ids": [
+        "ypaja-asumisneuvonta-nykytila-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "hope-hyvinkaa-vaate-tavara-apu-riihimaki-loppi-2026",
+      "name": "Hope Hyvinkää – maksuton vaate- ja tavara-apu lapsiperheille",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry, Hyvinkään paikallistoimisto",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "coverage": [
+        "Riihimäki",
+        "Loppi"
+      ],
+      "location": "Asiakaskäynnit sopimuksen mukaan: Hyvinkäänkatu 2, 05800 Hyvinkää. Toiminta-alueeseen kuuluvat Riihimäki ja Loppi.",
+      "regular_time": "Asiakaskäynti sovitaan sen jälkeen, kun avunpyyntölomake on käsitelty. Uusien avunpyyntöjen lomake on suljettu ja avautuu 4.1.2027. Lahjoitusten vastaanotto keskiviikkoisin klo 18–19 ei ole asiakkaiden asiointiaika.",
+      "free_and_conditions": "Vähävaraisille tai äkillisen kriisin kohdanneille lapsiperheille, joilla on alle 18-vuotiaita lapsia. Vaatteet ja tavarat jaetaan lahjoituksina; palvelu ei ole myyntiä eikä asiakkaalta peritä maksua. Avunpyyntölomake on tilapäisesti suljettu 4.1.2027 asti.",
+      "contact": "Eija Rautiainen, 044 781 2251 (arkisin klo 10–18), hyvinkaa@hopeyhdistys.fi",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/hyvinkaa/",
+        "https://hopeyhdistys.fi/tarvitsen-apua/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": false,
+      "availability_note": "Ongoing regional service, but new applications are temporarily paused until 2027-01-04."
+    },
+    {
+      "id": "hope-hyvinkaa-harrastustuki-riihimaki-loppi-2026",
+      "name": "Hope Hyvinkää – lasten harrastustuki",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry, Hyvinkään paikallistoimisto",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Riihimäki",
+        "Loppi"
+      ],
+      "location": "Hyvinkään paikallistoimisto; tuki maksetaan suoraan harrastusseuralle.",
+      "regular_time": "Hakeminen avunpyyntölomakkeella; ei kiinteää vastaanottopäivää. Lomake avautuu uudelleen 4.1.2027.",
+      "free_and_conditions": "6–17-vuotiaille lapsille, joiden harrastus on vaarassa keskeytyä tai jotka eivät vähävaraisuuden vuoksi voi aloittaa harrastusta. Tuki kohdistuu seuramaksuihin eikä sitä makseta käteisenä perheelle. Hakulomake on tilapäisesti suljettu 4.1.2027 asti.",
+      "contact": "harrastukset.hyvinkaa@hopeyhdistys.fi; yleinen puhelin 044 781 2251",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/hyvinkaa/",
+        "https://hopeyhdistys.fi/tarvitsen-apua/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": false,
+      "availability_note": "Ongoing annual support, temporarily not accepting new applications until 2027-01-04."
+    },
+    {
+      "id": "riihimaki-seurakunnan-maksuton-vaatekierratys-2026",
+      "name": "Riihimäen seurakunnan maksuton vaatekierrätys",
+      "organizer": "Riihimäen seurakunta",
+      "categories": [
+        "Vaatteet"
+      ],
+      "coverage": [
+        "Riihimäki"
+      ],
+      "location": "Hämeenkatu 14, Riihimäki (samassa talossa Kamerapisteen kanssa, ei diakoniakeskuksessa).",
+      "regular_time": "Tiistai klo 11–14; keskiviikko klo 10–12 erityisesti maahanmuuttajille; torstai klo 16–18.",
+      "free_and_conditions": "Seurakunnan apua ja tukea -sivu vahvistaa, että vaatteita ja kenkiä voi noutaa maksutta. Kierrätykseen otetaan ehjiä, puhtaita ja ajanmukaisia vaatteita, kenkiä ja liinavaatteita; ei huonekaluja. Astioita otetaan vastaan, mutta niiden maksuttomuutta ei hyväksytty erikseen tässä tietueessa.",
+      "contact": "Tiina Heiskanen, 050 323 7964, tiina.heiskanen@evl.fi",
+      "source_urls": [
+        "https://www.riihimaenseurakunta.fi/apua-ja-tukea",
+        "https://www.riihimaenseurakunta.fi/tule-mukaan/diakoniatyo/vaatekierratys"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "tammela-seurakunnan-ruokaostotosite-2026",
+      "name": "Tammelan seurakunnan diakonia – ruokakaupan osto-osoitus",
+      "organizer": "Tammelan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Tammela"
+      ],
+      "location": "Diakonin vastaanotto, Tammelantie 29, Tammela.",
+      "regular_time": "Ajanvarauksella diakonin vastaanotolla; ei yleistä viikoittaista jakopäivää.",
+      "free_and_conditions": "30 euron henkilökohtainen osto-osoitus Tammelan S-marketiin, käytettävä yhtenä ostona kuukauden kuluessa myöntämisestä. Yksin asuva ilman alaikäisiä huollettavia voi saada kolme osto-osoitusta kalenterivuodessa; perheille tapauskohtaisesti. Vakituisen asuinpaikan on oltava Tammelassa. Ensin on haettava yhteiskunnan ja Kelan avustukset; mukaan tulo- ja menotositteet sekä erääntyneet laskut. Ei avustusta asumisen kuluihin.",
+      "contact": "Sari Tenhami, diakoni, 040 804 9533; perhetyö Heidi Sippo 050 383 3391",
+      "source_urls": [
+        "https://www.tammelanseurakunta.fi/tule-mukaan/diakonia1"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "omahame-lapsiperheiden-kotipalvelu-maksuton-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_regional_record_reused",
+      "note": "Oma Hämeen maksuton lapsiperheiden kotipalvelu 1.6.2026 alkaen; yksi alueellinen tietue."
+    },
+    {
+      "id": "omahame-taydentava-ja-ehkaiseva-toimeentulotuki",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_regional_record_reused",
+      "note": "Täydentävä ja ehkäisevä toimeentulotuki; yksi alueellinen tietue."
+    },
+    {
+      "id": "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kanta-Häme"
+      ],
+      "status": "existing_regional_record_reused",
+      "note": "Oma Hämeen aikuissosiaalityön asumisen järjestämisen ohjaus; yksi alueellinen tietue."
+    },
+    {
+      "id": "av-0029",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "VTKL:n maksuton korjausneuvonta; ei kuntakohtaista kopiota."
+    },
+    {
+      "id": "varke-korjausavustus-iakkaat-vammaiset",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_record_reused",
+      "note": "Varken korjausavustus ikääntyneiden ja vammaisten henkilöiden asuntojen korjauksiin; ei kuntakohtaista kopiota."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "riihimaki-diakoninen-perhetyo-kotiapu-raha",
+      "municipality": "Riihimäki",
+      "categories": [
+        "Kotiapu",
+        "Raha"
+      ],
+      "detail": "Riihimäen seurakunnan diakoninen perhetyö voi sisältää pientä käytännön apua kodeissa sekä sosiaalista ja taloudellista tukea. Maksuttomuus, tarkat rajat ja säännöllisyys on vahvistettava ennen hyväksymistä. Yhteys: diakoni Tiina Heiskanen 050 323 7964, tiina.heiskanen@evl.fi. Lähde: https://www.riihimaenseurakunta.fi/tule-mukaan/diakoniatyo/perhetyo"
+    },
+    {
+      "id": "riihimaki-seurakunnan-astiavaatekierratys-maksuttomuus",
+      "municipality": "Riihimäki",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Vaatekierrätys ottaa vastaan astioita ja antaa niitä edelleen tarvitseville, mutta tavaroiden maksuttomuutta ei vahvisteta yhtä selvästi kuin vaatteiden ja kenkien maksuttomuutta. Lähde: https://www.riihimaenseurakunta.fi/tule-mukaan/diakoniatyo/vaatekierratys"
+    },
+    {
+      "id": "jokilaani-ypaja-ruoka-apu-ja-leipajako-2026",
+      "municipality": "Ypäjä",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Jokiläänin seurakunnan sivu kertoo Ypäjän yhteisöruokailun yhteydessä jaettavasta leivästä sekä kaksi kertaa vuodessa annettavasta ruoka-avusta. Tarkka Ypäjän jakopäivä, maksuttomuus, ehdot ja hakureitti on varmistettava. Yhteys Marja Lamminen 040 553 6362. Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/taloudellinen-apu"
+    },
+    {
+      "id": "jokilaani-ypaja-tilapainen-kotiapu-2026",
+      "municipality": "Ypäjä",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Jokiläänin seurakunta mainitsee lapsiperheille tilapäisen lastenhoito- ja kodinhoitoavun 1–5 kertaa vuodessa. Maksuttomuus ja tarkat ehdot on vahvistettava. Yhteys Marja Lamminen 040 553 6362. Lähde: https://www.jokilaaninseurakunta.fi/lapsille-ja-lapsiperheille/tukea-lapsiperheille"
+    },
+    {
+      "id": "jokilaani-ypaja-kriisi-ja-harrastusavustus-2026",
+      "municipality": "Ypäjä",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Jokiläänin seurakunnan sivu mainitsee kriisitilanteiden avun ja harrastusavustuksen, mutta vuoden 2026 hakuehdot, summat ja myöntörytmi eivät ilmene riittävästi. Yhteys Marja Lamminen 040 553 6362. Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/taloudellinen-apu"
+    },
+    {
+      "id": "ypaja-asumisneuvonta-nykytila-2026",
+      "municipality": "Ypäjä",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Vanhemmassa Kanta-Hämeen hyvinvointisuunnitelmassa mainitaan Ypäjän asumisneuvonnan järjestäminen muun toiminnan yhteydessä. Nykyinen palveluntuottaja, yhteystieto, säännöllinen asiointiaika ja maksuttomuus on vahvistettava."
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "tammela-seurakunnan-pienimuotoinen-tavaralahjoitusten-vastaanotto-ei-vastaanottajapalvelu",
+      "municipality": "Tammela",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Seurakunta ottaa vastaan tavaralahjoituksia vain hyvin pienimuotoisesti. Tämä on lahjoittajakanava, ei eritelty jatkuva vastaanottajille tarjottava palvelu. Lähde: https://www.tammelanseurakunta.fi/tule-mukaan/diakonia1"
+    },
+    {
+      "id": "jokilaani-ypaja-5e-yhteisoruokailu",
+      "municipality": "Ypäjä",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Jokiläänin yhteisöruokailun tavallinen hinta on 5 euroa; diakonin kautta voi saada ruokalipun. Maksullista ruokailua ei hyväksytä maksuttomana palveluna. Lähde: https://www.jokilaaninseurakunta.fi/apua-ja-tukea/diakonia/taloudellinen-apu"
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 11,
+    "total_municipalities": 11,
+    "category_checks": 18,
+    "new_accepted_service_records": 4,
+    "cumulative_accepted_service_records": 24,
+    "new_pending_leads": 6,
+    "cumulative_pending_leads": 19,
+    "new_excluded_observations": 2,
+    "cumulative_excluded_observations": 18,
+    "municipalities_fully_completed": 0
+  },
+  "next_checkpoint": "Kymenlaakso / Miehikkälä / Ruoka-apu"
+}
