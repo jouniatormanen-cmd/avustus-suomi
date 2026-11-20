@@ -6,8 +6,8 @@ Aloitin Kymenlaakson ensimmäisen kuntaseulonnan aakkosjärjestyksessä ja käsi
 
 - Uudet kunnat: 3/6
 - Kuntakategoriatarkistukset: 18
-- Uudet hyväksytyt palvelutietueet: 5
-- Avoimet palveluvihjeet ja täsmennykset: 9
+- Uudet hyväksytyt palvelutietueet: 6
+- Avoimet palveluvihjeet ja täsmennykset: 11
 - Poissuljetut havainnot: 4
 - Lopullisesti valmiiksi merkityt kunnat: 0
 
@@ -18,12 +18,13 @@ Aloitin Kymenlaakson ensimmäisen kuntaseulonnan aakkosjärjestyksessä ja käsi
 3. **Kotkan kaupungin maksuton asumisneuvonta.** Kaikille kotkalaisille asumismuodosta riippumatta. Avoin vastaanotto maanantaisin klo 10–13 Eagle-talossa, Kyminlinnantie 6, Karhula. Heli Remes 040 124 3316, asumisneuvonta@kotka.fi.
 4. **Sini-Raide – maksuton arkiaamupala, Kouvola.** Käsityöläiskatu 2. Aamupala ma–pe klo 9–11; toimipiste ma–to 9–12 ja pe 9–13. Yli 18-vuotiaille; kaikki toiminta ja palvelut maksuttomia. Sonja Kujala 044 741 3922, Iina Kiviranta 044 741 3351.
 5. **Kouvolan kaupungin maksuton asumisneuvonta.** Kaikille Kouvolassa asuville tai kaupunkiin muuttaville, asumismuodosta riippumatta. Yhteys parhaiten aamupäivisin; tapaaminen sovitaan. Sonja Ronkonen 040 144 0423, asumisneuvonta@kouvola.fi.
+6. **Kymenlaakson hyvinvointialueen maksuton perhetyö kotikäynnein.** Lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille. Palvelu on maksuton ja sisältää kotikäyntejä sekä konkreettista arjen ja vanhemmuuden tukea; se ei ole siivouspalvelu. Yksi alueellinen tietue kattaa koko Kymenlaakson. Sosiaalihuollon asiakasneuvonta 05 220 6000, ma–pe 9–14.
 
 ## Avoimet täsmennykset (9)
 
 - Haminan Leipäkirkon maanantain ylijäämäruokajaon maksuttomuus.
 - Haminan seurakunnan diakonisen taloudellisen avun tarkat ehdot.
-- Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelun asiakasmaksu ja palvelusetelin omavastuu.
+- Kymenlaakson hyvinvointialueen erillisen lapsiperheiden kotipalvelun asiakasmaksu ja palvelusetelin omavastuu. Maksuton perhetyö on hyväksytty erillisenä palveluna.
 - Silmut ry:n Kotkan ruoka-apukassien maksuttomuus.
 - Sini-Kotkan aamupalan maksuttomuus.
 - Kouvolan Kipinä ry:n ruoka-apukassien maksuttomuus.
