@@ -736,6 +736,25 @@
     {
       "id": "spr-aineellisen-avun-maksukortit-2026-syys-marras",
       "coverage": [
+        "Enontekiö",
+        "Inari (Ivalo)",
+        "Kemi",
+        "Kemijärvi",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio",
         "Hamina",
         "Kotka",
         "Kouvola",
@@ -743,7 +762,7 @@
         "Virolahti"
       ],
       "status": "pending_local_distribution_details",
-      "note": "Yksi yhteinen SPR:n ohjelmatietue kaikille ilmoitetuille jakelupaikoille; paikallisia kuntakohtaisia kopioita ei luoda."
+      "note": "Yksi yhteinen SPR-ohjelmatietue kaikille syys–marraskuun 2026 jakelupaikkalistassa mainituille kunnille; paikallisia kuntakohtaisia kaksoiskappaleita ei luoda."
     },
     {
       "id": "varke-korjausavustus-ikaantyneet-vammaiset",
@@ -859,8 +878,27 @@
     },
     {
       "id": "spr-aineellisen-avun-maksukortit-2026-syys-marras",
-      "municipality": "Hamina, Kotka, Kouvola, Miehikkälä ja Virolahti (yksi yhteinen valtakunnallinen ohjelma)",
+      "municipality": "SPR:n syys–marraskuun 2026 aineellisen avun maksukorttien valtakunnallinen jakeluverkosto",
       "coverage": [
+        "Enontekiö",
+        "Inari (Ivalo)",
+        "Kemi",
+        "Kemijärvi",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio",
         "Hamina",
         "Kotka",
         "Kouvola",
@@ -870,7 +908,7 @@
       "categories": [
         "Tavarat"
       ],
-      "detail": "SPR:n maksuton aineellisen avun maksukorttiohjelma: 40 euron kortti elintarvikkeisiin ja muihin välttämättömiin perustarvikkeisiin K- ja S-ryhmän kaupoissa. Korttia ei voi vaihtaa käteiseksi eikä käyttää alkoholiin, tupakkaan tai rahapeleihin. Kaakkois-Suomen syys–marraskuun 2026 jakelupaikkalistassa ovat Hamina, Kotka, Kouvola ja Virolahti–Miehikkälä. Kortteja on rajallinen määrä ja paikallinen jakeluaika sekä hakumenettely vaihtelevat; siksi paikalliset käytännöt ovat vielä vahvistamatta. Yhteys: emmi-riika.seppala@redcross.fi. Lähde: https://www.redcross.fi/get-help-and-support/support-from-food-aid/",
+      "detail": "SPR:n maksuton aineellisen avun maksukorttiohjelma: 40 euron kortti elintarvikkeisiin ja muihin välttämättömiin perustarvikkeisiin K- ja S-ryhmän kaupoissa. Korttia ei voi vaihtaa käteiseksi eikä käyttää alkoholiin, tupakkaan tai rahapeleihin. Syys–marraskuun 2026 jakelupaikkalistassa ovat seuraavat Lapin kunnat: Enontekiö, Inari (Ivalo), Kemi, Kemijärvi, Kittilä, Kolari, Muonio, Pelkosenniemi, Pello, Posio, Ranua, Rovaniemi, Salla, Savukoski, Sodankylä, Tervola, Tornio, Utsjoki ja Ylitornio; sekä Kymenlaaksosta Hamina, Kotka, Kouvola ja Virolahti–Miehikkälä. Kortteja on rajallinen määrä ja paikallinen jakeluaika sekä hakumenettely vaihtelevat; tarkat paikalliset käytännöt on vahvistettava osastoittain. Lapin yhteys: hanna-leena.martin@redcross.fi. Kaakkois-Suomen yhteys: emmi-riika.seppala@redcross.fi.",
       "status": "pending_local_distribution_schedule_and_procedure",
       "checked_date": "2026-11-21",
       "source_urls": [
