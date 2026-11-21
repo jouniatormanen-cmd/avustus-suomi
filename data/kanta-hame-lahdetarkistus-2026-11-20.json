@@ -113,7 +113,7 @@
       "service_ids": [
         "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
         "av-0029",
-        "varke-korjausavustus-iakkaat-vammaiset"
+        "varke-korjausavustus-ikaantyneet-vammaiset"
       ],
       "pending_ids": [],
       "excluded_ids": [],
@@ -185,7 +185,7 @@
       "service_ids": [
         "omahame-aikuissosiaalityon-ensilinjan-asumisen-tuki",
         "av-0029",
-        "varke-korjausavustus-iakkaat-vammaiset"
+        "varke-korjausavustus-ikaantyneet-vammaiset"
       ],
       "pending_ids": [],
       "excluded_ids": [],
@@ -404,7 +404,7 @@
       "note": "VTKL:n maksuton korjausneuvonta; ei kuntakohtaista kopiota."
     },
     {
-      "id": "varke-korjausavustus-iakkaat-vammaiset",
+      "id": "varke-korjausavustus-ikaantyneet-vammaiset",
       "categories": [
         "Asuminen"
       ],
