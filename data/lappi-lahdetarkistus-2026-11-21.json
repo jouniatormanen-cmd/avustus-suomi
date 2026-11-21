@@ -1,0 +1,1474 @@
+{
+  "schema_version": "1.0",
+  "province": "Lappi",
+  "checked_date": "2026-11-21",
+  "update_type": "first_pass_municipal_screen_increment",
+  "previous_checkpoint": "Kymenlaakso / ensimmäinen kuntaseulonta valmis",
+  "next_checkpoint": "Lappi / Muonio / Ruoka-apu",
+  "municipality_order": [
+    "Enontekiö",
+    "Inari",
+    "Kemi",
+    "Kemijärvi",
+    "Keminmaa",
+    "Kittilä",
+    "Kolari",
+    "Muonio",
+    "Pelkosenniemi",
+    "Pello",
+    "Posio",
+    "Ranua",
+    "Rovaniemi",
+    "Salla",
+    "Savukoski",
+    "Simo",
+    "Sodankylä",
+    "Tervola",
+    "Tornio",
+    "Utsjoki",
+    "Ylitornio"
+  ],
+  "municipalities_screened_first_pass": [
+    "Enontekiö",
+    "Inari",
+    "Kemi",
+    "Kemijärvi",
+    "Keminmaa",
+    "Kittilä",
+    "Kolari"
+  ],
+  "municipalities_fully_completed": [],
+  "first_pass_screening_complete": false,
+  "final_verification_complete": false,
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "category_checks": [
+    {
+      "municipality": "Enontekiö",
+      "category": "Ruoka-apu",
+      "status": "no_qualifying_regular_service_verified",
+      "finding": "Ensisijaisista lähteistä ei vahvistunut jatkuvaa maksutonta ruokajakoa; 17.9.2026 yksittäinen ruokailu rajattiin pois.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "enontekio-spr-yksittainen-yhteisoruokailu-2026-09-17"
+      ],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free_service",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu kattaa Enontekiön; maksuton vain palvelutarpeen arvioinnissa määritellyissä sosiaalityön, vammaispalvelun, lastensuojelun tai toimeentulotuen tilanteissa.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatepalvelua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Tavarat",
+      "status": "accepted_and_shared_pending",
+      "finding": "Kirkkopalvelujen maksuton 40 euron aineellisen avun kortti on käytössä Enontekiön seurakunnan kautta; erillinen SPR:n korttiohjelma on yhteinen avoin tietue.",
+      "service_ids": [
+        "kirkkopalvelut-yhdessa-tehden-aineellinen-apu-maksukortti-2025-2027"
+      ],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Raha",
+      "status": "accepted_regional_services",
+      "finding": "Seurakunnan maksuton taloudellinen kriisiapu ja Lapin Talousneuvola ovat käytettävissä.",
+      "service_ids": [
+        "enontekion-seurakunta-maksuton-diakonian-taloudellinen-apu-2026",
+        "lapha-talousneuvola-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Asuminen",
+      "status": "accepted_national_service_reused",
+      "finding": "VARKEn valtakunnallinen ikääntyneiden ja vammaisten korjausavustus on käytettävissä ehtojen täyttyessä; ei kuntakohtaista kaksoiskappaletta.",
+      "service_ids": [
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status_confirmation",
+      "finding": "Osallisuuskeskuksen arkipäiväinen hävikkiruoan jako on vahvistettu, mutta järjestäjän sivu ei ilmoita maksuttomuutta yksiselitteisesti.",
+      "service_ids": [],
+      "pending_ids": [
+        "inari-kunnan-havikkiruoka-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free_service",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu kattaa Inarin; maksuton vain julkaistujen erityisehtojen täyttyessä.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Vaatteet",
+      "status": "no_qualifying_regular_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatepalvelua ei vahvistunut; 7.9.–30.11.2026 rajattu vaatekampanja suljettiin jatkuvien palvelujen ulkopuolelle.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "inari-lahjoita-lampoa-kampanja-2026"
+      ],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Tavarat",
+      "status": "shared_pending_program_and_ended_local_project",
+      "finding": "SPR:n 2026 aineellisen avun korttiohjelman paikallinen jakelu on vahvistamatta; Inarin seurakunnan aiempi korttihanke on päättynyt.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [
+        "inari-vanha-aineellinen-apu-maksukortti-paattynyt"
+      ],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Raha",
+      "status": "accepted_regional_services",
+      "finding": "Inarin seurakunnan maksuton taloudellinen tuki ja Lapin Talousneuvola ovat käytettävissä.",
+      "service_ids": [
+        "inarin-seurakunta-maksuton-diakonian-taloudellinen-tuki-2026",
+        "lapha-talousneuvola-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Asuminen",
+      "status": "accepted_national_service_reused",
+      "finding": "VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä.",
+      "service_ids": [
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Ruoka-apu",
+      "status": "accepted_local_free_service",
+      "finding": "Kemin kulttuurikeskuksen ruokajako on maksuton; uusien asiakkaiden yhteydenotto tiistaisin ja varsinainen noutoaika tekstiviestillä.",
+      "service_ids": [
+        "kemi-spr-kemin-seurakunta-mll-ruokajakelu-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free_service",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu kattaa Kemin; maksuton vain erityisehtojen täyttyessä.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_verified",
+      "finding": "Maksutonta jatkuvaa vaatejakelua ei vahvistunut; Goodwillin ja kierrätyskeskuksen myynti rajattiin pois.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "kemi-goodwill-maksullinen-kirpputori-2026",
+        "kemi-kierratyskeskus-maksullinen-myynti-2026"
+      ],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Tavarat",
+      "status": "shared_pending_program",
+      "finding": "SPR:n aineellisen avun maksukorttiohjelma on listannut Kemin, mutta paikallinen jakeluaika ja hakumenettely ovat avoinna.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Raha",
+      "status": "pending_free_status_and_terms",
+      "finding": "Seurakunta vahvistaa kriisiluonteisen taloudellisen avun, mutta jatkuvan avun maksuttomuus ja ehdot eivät käy lähteestä riittävän tarkasti ilmi.",
+      "service_ids": [],
+      "pending_ids": [
+        "kemin-seurakunnan-diakonian-taloudellinen-apu-ehdot-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Asuminen",
+      "status": "accepted_national_service_reused",
+      "finding": "VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä.",
+      "service_ids": [
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemijärvi",
+      "category": "Ruoka-apu",
+      "status": "accepted_free_diaconia_service",
+      "finding": "Seurakunnan maksuton diakoninen kriisiapu on pääosin ruoka-apua ja sovitaan henkilökohtaisesti.",
+      "service_ids": [
+        "kemijarven-seurakunta-maksuton-diakonia-ruoka-ja-taloudellinen-apu-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemijärvi",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free_service",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu kattaa Kemijärven; maksuton vain erityisehtojen täyttyessä.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemijärvi",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatepalvelua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemijärvi",
+      "category": "Tavarat",
+      "status": "shared_pending_program",
+      "finding": "SPR:n aineellisen avun maksukorttiohjelman listassa on Kemijärvi; paikallinen jakelu ja ajankohtainen saatavuus vahvistamatta.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemijärvi",
+      "category": "Raha",
+      "status": "accepted_free_diaconia_service",
+      "finding": "Seurakunnan maksuton, kriisiluonteinen taloudellinen apu on ensisijaisesti ruoka-apua; tarve arvioidaan tapauskohtaisesti.",
+      "service_ids": [
+        "kemijarven-seurakunta-maksuton-diakonia-ruoka-ja-taloudellinen-apu-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kemijärvi",
+      "category": "Asuminen",
+      "status": "accepted_national_service_reused",
+      "finding": "VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä; maksullinen opiskelija-asuminen rajattiin pois.",
+      "service_ids": [
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "kemijarvi-opiskelija-asuminen-omavastuullinen-2026"
+      ],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Keminmaa",
+      "category": "Ruoka-apu",
+      "status": "accepted_local_free_service",
+      "finding": "Keminmaan seurakunnan maksuton hävikkiruokajako Pulssissa perjantaisin; ensimmäinen käynti ilmoittautumalla, jatkossa tekstiviestikutsu.",
+      "service_ids": [
+        "keminmaan-seurakunta-maksuton-havikkiruokajako-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Keminmaa",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free_service",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu kattaa Keminmaan; maksuton vain erityisehtojen täyttyessä.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Keminmaa",
+      "category": "Vaatteet",
+      "status": "no_local_free_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatejakelua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Keminmaa",
+      "category": "Tavarat",
+      "status": "accepted_shared_material_aid_card",
+      "finding": "Kirkkopalvelujen Yhdessä tehden -hankkeen maksuton 40 euron aineellisen avun kortti jaetaan Keminmaan seurakunnan diakoniatyön kautta.",
+      "service_ids": [
+        "kirkkopalvelut-yhdessa-tehden-aineellinen-apu-maksukortti-2025-2027"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Keminmaa",
+      "category": "Raha",
+      "status": "accepted_free_diaconia_service",
+      "finding": "Keminmaan seurakunnan maksuton taloudellinen diakonia-apu; keskiviikkoisin puhelinaika ja avoin vastaanotto.",
+      "service_ids": [
+        "keminmaan-seurakunta-maksuton-diakonian-taloudellinen-tuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Keminmaa",
+      "category": "Asuminen",
+      "status": "accepted_national_service_reused",
+      "finding": "VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä.",
+      "service_ids": [
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kittilä",
+      "category": "Ruoka-apu",
+      "status": "accepted_local_free_service_and_pending_meal",
+      "finding": "Seurakunnan maksuton ruokajako Serkussa tiistaisin klo 11. Ystävyyden lounaan hinta jää vahvistettavaksi.",
+      "service_ids": [
+        "kittilan-seurakunta-ruokajako-serkku-2026"
+      ],
+      "pending_ids": [
+        "kittila-ystavyyden-lounas-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kittilä",
+      "category": "Kotiapu",
+      "status": "accepted_local_and_regional_services",
+      "finding": "Lapin hyvinvointialueen ehdollisesti maksuton lapsiperheiden kotipalvelu, Kittilän maksuton Perhejelppi sekä yli 70-vuotiaiden vuosittainen talvikunnossapitoavustus.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026",
+        "kittila-perhejelppi-maksuton-2026",
+        "kittila-yli-70-talvikunnossapitoavustus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kittilä",
+      "category": "Vaatteet",
+      "status": "accepted_local_free_service",
+      "finding": "Neuvolassa on maksuton vauva- ja lastenvaatteiden vaihtorekki, josta voi ottaa ja johon voi tuoda vaatteita.",
+      "service_ids": [
+        "kittila-neuvolan-vaaterekki-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kittilä",
+      "category": "Tavarat",
+      "status": "accepted_and_pending",
+      "finding": "Vihreän Ahman maksuton harrastusvälinelainaamo palvelee kuntalaisia; kierrätyskeskuksen hyväntekeväisyyslahjoitusten yksityishenkilöiden hakumenettely on vielä avoin.",
+      "service_ids": [
+        "kittila-harrastusvalinelainaamo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kittila-kierratyskeskuksen-hyvantekevaisyyslahjoitukset-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kittilä",
+      "category": "Raha",
+      "status": "accepted_services_and_pending_duplicate",
+      "finding": "Maksuton seurakunnan diakonia-apu, Lapin Talousneuvola, oikeusaputoimiston talous- ja velkaneuvonta sekä vuosittainen omaishoitajien virkistysavustus. Kirjaston kuukausittaisen talousneuvonnan järjestäjä/mahdollinen päällekkäisyys avoin.",
+      "service_ids": [
+        "kittilan-seurakunta-maksuton-diakonian-taloudellinen-apu-2026",
+        "lapha-talousneuvola-maksuton-2026",
+        "oikeuspalveluvirasto-talous-ja-velkaneuvonta-kittila-2026",
+        "kittila-omaishoitajien-virkistysavustus-2026"
+      ],
+      "pending_ids": [
+        "kittila-kirjaston-talousneuvonta-maarittely-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kittilä",
+      "category": "Asuminen",
+      "status": "accepted_local_and_national_services",
+      "finding": "Kunnan maksuton asumisneuvonta palvelee kuntalaisia ja kuntaan muuttavia; lisäksi VARKEn valtakunnallinen korjausavustus.",
+      "service_ids": [
+        "kittila-kunnan-asumisneuvonta-maksuton-2026",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kolari",
+      "category": "Ruoka-apu",
+      "status": "pending_current_diaconia_details",
+      "finding": "Kolarin seurakunnan diakoniatyön nykyinen ruoka-avun käytäntö ja yhteyshenkilö ovat vahvistamatta henkilöstötilanteen vuoksi.",
+      "service_ids": [],
+      "pending_ids": [
+        "kolari-seurakunnan-diakonia-ruoka-ja-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kolari",
+      "category": "Kotiapu",
+      "status": "accepted_regional_conditional_free_service",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu kattaa Kolarin; maksuton vain erityisehtojen täyttyessä.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kolari",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatepalvelua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kolari",
+      "category": "Tavarat",
+      "status": "shared_pending_program",
+      "finding": "SPR:n aineellisen avun maksukorttiohjelman syys–marraskuun 2026 listassa on Kolari; paikallinen jakeluaika ja hakumenettely avoinna.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kolari",
+      "category": "Raha",
+      "status": "accepted_student_grant_and_pending_diaconia",
+      "finding": "Kunnan vuosittainen 400 euron opiskelija-avustus on vahvistettu; seurakunnan diakonia-avun ajantasaiset ehdot ja yhteyshenkilö ovat avoinna.",
+      "service_ids": [
+        "kolari-opiskelija-avustus-2026"
+      ],
+      "pending_ids": [
+        "kolari-seurakunnan-diakonia-ruoka-ja-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kolari",
+      "category": "Asuminen",
+      "status": "accepted_national_service_reused",
+      "finding": "VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä.",
+      "service_ids": [
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026",
+      "name": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu – maksuton palvelu tietyin ehdoin",
+      "organizer": "Lapin hyvinvointialue",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "location": "Perheen koti kaikissa Lapin hyvinvointialueen 21 kunnassa.",
+      "regular_time": "Tarpeen arvioinnin ja palvelusuunnitelman perusteella; yhteydenotot puhelimitse arkipäivisin. Ei yhtä maakunnallista vastaanottoaikaa.",
+      "free_and_conditions": "Konkreettista apua lastenhoitoon, ruoanvalmistukseen, vaatehuoltoon, siivoukseen ja muihin kotiaskareisiin. Palvelu on maksuton, jos se kuuluu lapsiperheiden sosiaalityön, vammaispalvelun tai lastensuojelun asiakkaan palvelutarpeen arvioinnin mukaisiin palveluihin tai asiakasperhe saa toimeentulotukea. Muissa tilanteissa tilapäisestä kotipalvelusta peritään 18–52 €/vuorokausi; säännöllisestä palvelusta tulosidonnainen kuukausimaksu. Hyväksytty vain nimenomaisesti maksuttomien ehtojen osalta.",
+      "contact": "Enontekiö/Muonio: 040 484 1467, 040 154 6298, 040 489 5157. Inari: 040 186 4349, 040 672 5265, 040 154 7616. Kemi: palveluesihenkilö 050 427 5650, työntekijät 040 746 2331 / 040 619 4660 / 040 485 4528 / 040 539 8331 (esihenkilön soittoajat ma–pe 9–11). Kemijärvi: 040 188 3527, 040 354 7366. Keminmaa: 040 167 7774. Kittilä: 040 487 8328, 040 587 0304, 040 489 5543. Kolari: 040 716 2882, 040 766 1549, 040 486 0781, 040 078 5593.",
+      "source_urls": [
+        "https://lapha.fi/fi/web/guest/perheiden-kotipalvelut"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted_conditional_free",
+      "publication_ready": true
+    },
+    {
+      "id": "enontekion-seurakunta-maksuton-diakonian-taloudellinen-apu-2026",
+      "name": "Enontekiön seurakunnan maksuton diakonian taloudellinen kriisiapu",
+      "organizer": "Enontekiön seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enontekiö"
+      ],
+      "location": "Enontekiön seurakunnan diakoniatyö; tapaaminen seurakunnan tiloissa tai tarvittaessa kotikäynti.",
+      "regular_time": "Ajanvarauksella; ei kiinteää yleistä vastaanottoaikaa.",
+      "free_and_conditions": "Maksutonta ja luottamuksellista. Tarkoitettu kaikille apua tarvitseville, ei edellytä kirkkoon kuulumista. Taloudellinen apu on tilapäistä ja kriisiluonteista; avuntarve arvioidaan henkilökohtaisesti.",
+      "contact": "Diakoni Sointu Jokiniemi 040 632 9017, sointu.jokiniemi@evl.fi; seurakunnan vaihde 040 770 2073.",
+      "source_urls": [
+        "https://www.enontekionseurakunta.fi/apua-ja-tukea/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kirkkopalvelut-yhdessa-tehden-aineellinen-apu-maksukortti-2025-2027",
+      "name": "Kirkkopalvelut ry:n Yhdessä tehden – aineellisen avun maksukortti",
+      "organizer": "Kirkkopalvelut ry; paikallisina jakajina Enontekiön ja Keminmaan seurakunnat",
+      "categories": [
+        "Tavarat"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Keminmaa"
+      ],
+      "location": "Enontekiön ja Keminmaan seurakuntien diakoniatyö; kortti haetaan paikallisen diakoniatyön kautta.",
+      "regular_time": "Hankkeen korttierät jaetaan jaksoittain vuosina 2025–2027; viides erä oli tulossa marraskuun 2026 alussa. Paikallinen saatavuus ja tapaamisajat sovitaan diakoniatyöntekijän kanssa.",
+      "free_and_conditions": "Maksuton 40 euron aineellisen avun maksukortti vähävaraisille ja heikoimmassa asemassa oleville. Korttia voi käyttää ruokaan ja välttämättömiin perustarvikkeisiin K- ja S-ryhmän kaupoissa; ei alkoholiin, tupakkaan tai rahapeleihin. Henkilökohtainen tarveharkinta diakoniatyössä; kortteja on rajallinen määrä.",
+      "contact": "Enontekiö: Sointu Jokiniemi 040 632 9017, sointu.jokiniemi@evl.fi. Keminmaa: diakoniatyöntekijät Rauni Juntti 040 145 5715 ja Aila Helander 040 482 4006.",
+      "source_urls": [
+        "https://www.enontekionseurakunta.fi/apua-ja-tukea/",
+        "https://www.keminmaanseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "inarin-seurakunta-maksuton-diakonian-taloudellinen-tuki-2026",
+      "name": "Inarin seurakunnan maksuton diakonian taloudellinen tuki",
+      "organizer": "Inarin seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Inari"
+      ],
+      "location": "Inarin seurakunnan diakoniatyö, Ivalo ja muut seurakunnan alueen palvelupisteet; tapaamiset sovitaan työntekijän kanssa.",
+      "regular_time": "Puhelinaika arkisin klo 10–12; tapaamiset ajanvarauksella.",
+      "free_and_conditions": "Maksutonta ja luottamuksellista tukea sekä neuvontaa kaikenikäisille. Sisältää taloudellista tukea yksilöllisen tilanteen arvioinnin perusteella; tarkkaa avustussummaa tai tulorajaa ei julkaista.",
+      "contact": "Anu Huhtamella 040 507 1713, anu.huhtamella@evl.fi; Anja Karhula 040 750 6286, anja.karhula@evl.fi.",
+      "source_urls": [
+        "https://www.inarinseurakunta.fi/apua-ja-tukea"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kemi-spr-kemin-seurakunta-mll-ruokajakelu-2026",
+      "name": "Kemin maksuton ruokajakelu vähävaraisille",
+      "organizer": "Suomen Punainen Risti / Lapin piiri, Kemin seurakunta ja MLL Kemin yhdistys",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kemi"
+      ],
+      "location": "Kemin kulttuurikeskus, 94100 Kemi.",
+      "regular_time": "Ruokajakelu on jatkuvaa ja yhteydenotot keskitetään tiistaille klo 9.30–14; uusien asiakkaiden ilmoittautuminen tiistaisin klo 12–14. Varsinainen noutopäivä ja -aika ilmoitetaan tekstiviestillä.",
+      "free_and_conditions": "Maksuton ruokajako taloudellisesti vaikeassa tilanteessa oleville. Uusi asiakas ottaa yhteyttä ilmoitettuna aikana; jaon tarkka noutoaika vahvistetaan tekstiviestillä.",
+      "contact": "040 744 0948; tekstiviesti käy myös puhelinajan ulkopuolella.",
+      "source_urls": [
+        "https://www.keminseurakunta.fi/",
+        "https://www.redcross.fi/get-help-and-support/support-from-food-aid/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kemijarven-seurakunta-maksuton-diakonia-ruoka-ja-taloudellinen-apu-2026",
+      "name": "Kemijärven seurakunnan maksuton diakonian ruoka- ja taloudellinen apu",
+      "organizer": "Kemijärven seurakunta",
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "coverage": [
+        "Kemijärvi"
+      ],
+      "location": "Kemijärven seurakunnan diakoniatyö, Esaiaksenkatu 2, 98100 Kemijärvi; tapaamiset myös sovitusti.",
+      "regular_time": "Ajanvarauksella diakoniatyöntekijältä; ei kiinteää viikoittaista jakeluaikaa.",
+      "free_and_conditions": "Diakonian apu on maksutonta ja tarkoitettu kaikille, myös kirkkoon kuulumattomille. Taloudellinen apu on kriisiluonteista ja pääosin ruoka-apua. Avuntarve selvitetään; hakijalta voidaan pyytää tulo- ja menolaskelma sekä kahden kuukauden tiliotteet ja ensisijaisten tukien päätökset.",
+      "contact": "Diakoniatyöntekijä Annica Åberg 040 643 2609; seurakunnan toimisto 040 867 2703.",
+      "source_urls": [
+        "https://www.kemijarvenseurakunta.fi/apua-ja-tukea/diakonia"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "keminmaan-seurakunta-maksuton-havikkiruokajako-2026",
+      "name": "Keminmaan seurakunnan maksuton hävikkiruokajako",
+      "organizer": "Keminmaan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Keminmaa"
+      ],
+      "location": "Pulssi, Rantatie 26, Keminmaa.",
+      "regular_time": "Perjantaisin klo 15.15–16. Ensimmäisellä kerralla voi tulla paikalle ilmoittautumaan; jatkossa kutsu jaon ajankohdasta lähetetään tekstiviestillä muutaman viikon välein. Ylijäämäruokaa voi tulla hakemaan myös klo 15.45.",
+      "free_and_conditions": "Maksuton diakonian hävikkiruokajako. Ensimmäisellä kerralla ilmoitetaan nimi ja puhelinnumero; tämän jälkeen asiakkaalle ilmoitetaan tekstiviestillä seuraavasta jakokerrasta.",
+      "contact": "Diakoniatyö 040 185 2498; puhelinaika keskiviikkoisin klo 8.30–10.30.",
+      "source_urls": [
+        "https://www.keminmaanseurakunta.fi/",
+        "https://perhekeskus.lapha.fi/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "keminmaan-seurakunta-maksuton-diakonian-taloudellinen-tuki-2026",
+      "name": "Keminmaan seurakunnan maksuton diakonian taloudellinen tuki",
+      "organizer": "Keminmaan seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Keminmaa"
+      ],
+      "location": "Keminmaan seurakunnan diakoniatyö, Rantatie 61, Keminmaa.",
+      "regular_time": "Diakoniatyön puhelinaika keskiviikkoisin klo 8.30–10.30; avoin vastaanotto keskiviikkoisin klo 11–13. Taloudellista apua varten voidaan sopia erillinen tapaaminen.",
+      "free_and_conditions": "Maksutonta ja luottamuksellista diakonian apua. Taloudellinen apu on tapauskohtaista ja painottuu akuutteihin tilanteisiin; käytössä voi olla ruokakauppaan tarkoitettu maksukortti. Avuntarve ja käytettävissä olevat ensisijaiset etuudet selvitetään.",
+      "contact": "Diakoniatyö 040 185 2498; paikalliset diakoniatyöntekijät Rauni Juntti 040 145 5715 ja Aila Helander 040 482 4006.",
+      "source_urls": [
+        "https://www.keminmaanseurakunta.fi/",
+        "https://perhekeskus.lapha.fi/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kittilan-seurakunta-ruokajako-serkku-2026",
+      "name": "Kittilän seurakunnan maksuton ruokajako Serkussa",
+      "organizer": "Kittilän seurakunta, Kittilän Maanpuolustusnaiset ja vapaaehtoiset",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Serkku, Valtatie 26, 99100 Kittilä.",
+      "regular_time": "Joka tiistai klo 11 alkaen 25.8.2026. Seurakunnan yleissivu kertoo myös ruokapussien ja ystävyyden aterian vuorottelusta tiistaisin; viikkokohtainen sisältö tarkistetaan ilmoituksesta.",
+      "free_and_conditions": "Maksuton ruokajako vähävaraisille ja ruoka-avun tarpeessa oleville; ruoka saadaan paikallisista lahjoituksista. Tarkka määrä riippuu lahjoituksista.",
+      "contact": "Kittilän seurakunnan diakoniatyö 040 726 8205; seurakunnan yleinen yhteys kittila.seurakunta@evl.fi.",
+      "source_urls": [
+        "https://kittila.fi/talous",
+        "https://www.kittilanseurakunta.fi/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kittilan-seurakunta-maksuton-diakonian-taloudellinen-apu-2026",
+      "name": "Kittilän seurakunnan maksuton diakonian taloudellinen kriisiapu",
+      "organizer": "Kittilän seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Kittilän seurakunnan diakoniatoimisto; tapaaminen ajanvarauksella.",
+      "regular_time": "Ajanvarauksella; yhteydenotto puhelimitse, tekstiviestillä tai sähköpostilla.",
+      "free_and_conditions": "Diakonian palvelut ovat maksuttomia kaikille eikä kirkkoon kuulumista edellytetä. Akuutissa hätätilanteessa voidaan myöntää taloudellista apua henkilökohtaisen tarvekartoituksen perusteella. Sisältää myös keskustelu- ja kriisiapua sekä raha- ja velkaneuvontaa.",
+      "contact": "Diakoniatyöntekijä 040 726 8205; Kittilän seurakunnan yleinen yhteys kittila.seurakunta@evl.fi.",
+      "source_urls": [
+        "https://kittila.fi/arki-nuorille",
+        "https://kittila.fi/talous"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "lapha-talousneuvola-maksuton-2026",
+      "name": "Lapin hyvinvointialueen maksuton Talousneuvola",
+      "organizer": "Lapin hyvinvointialue; asiantuntijoina sosiaaliohjaaja, talous- ja velkaneuvoja sekä Kelan virkailija",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "location": "Puhelinpalvelu koko Lapin hyvinvointialueelle; lähivastaanotto Oikeuspalveluvirasto, Hallituskatu 3 B, 96100 Rovaniemi.",
+      "regular_time": "Lähivastaanotto joka kuukauden ensimmäisenä keskiviikkona klo 13.30–15.30; syksyn 2026 päivät 19.8., 2.9., 7.10., 4.11. ja 2.12. Puhelinpalvelu ja sähköpostiyhteys.",
+      "free_and_conditions": "Maksuton matalan kynnyksen palvelu kaikille Lapin hyvinvointialueen asukkaille, joilla on pieniä tai suuria raha-asioihin liittyviä kysymyksiä. Ei ajanvarausta; voi asioida nimettömänä.",
+      "contact": "040 684 9992, talousneuvola@lapha.fi.",
+      "source_urls": [
+        "https://lapha.fi/talousneuvola"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "oikeuspalveluvirasto-talous-ja-velkaneuvonta-kittila-2026",
+      "name": "Oikeuspalveluviraston maksuton talous- ja velkaneuvonta Kittilässä",
+      "organizer": "Lapin oikeusaputoimisto / Oikeuspalveluvirasto",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Kittilän toimipaikka, Valtatie 60; lisäksi puhelin, chat ja sähköinen asiointi.",
+      "regular_time": "Kittilän toimipaikka joka kuukauden toinen keskiviikko; kunnan sivu ilmoittaa lisäksi kuukausittaisen avoimen neuvonta-ajan klo 15–17 kunnantalon aulassa.",
+      "free_and_conditions": "Maksutonta talous- ja velkaneuvontaa kaikenikäisille, myös ilman velkaa oleville. Apua budjetointiin, rahankäytön suunnitteluun, velkoihin ja ylivelkaantumiseen; voi asioida nimettömästi.",
+      "contact": "029 56 61567, lappi.velkaneuvonta@oikeus.fi.",
+      "source_urls": [
+        "https://kittila.fi/arki-nuorille"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kittila-perhejelppi-maksuton-2026",
+      "name": "Kittilän Perhejelppi – maksuton lapsiperheen arjen apu",
+      "organizer": "Kittilän kunnan perhekeskus",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Perheen koti tai erikseen sovittu tapaamispaikka Kittilässä.",
+      "regular_time": "Enintään kolmen kuukauden jakso, yleensä kerran viikossa kolme tuntia; ajanvarauksella.",
+      "free_and_conditions": "Maksuton palvelu raskaana oleville ja perheille, joissa on alle kouluikäisiä lapsia; ensisijaisesti vanhempien ollessa kotona. Tarjoaa käytännön tukea ja ohjausta arkeen sekä lastenhoitoapua. Ei siivousyrityksen palvelu eikä maksullinen kotihoito.",
+      "contact": "Perhekeskuskoordinaattori Ritva Helin 040 635 3176, ritva.helin@kittila.fi, Valtatie 15, 99100 Kittilä.",
+      "source_urls": [
+        "https://kittila.fi/perhejelppi"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kittila-neuvolan-vaaterekki-maksuton-2026",
+      "name": "Kittilän neuvolan maksuton vauva- ja lastenvaatteiden vaihtorekki",
+      "organizer": "Lapin hyvinvointialue / Kittilän neuvola",
+      "categories": [
+        "Vaatteet"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Kittilän neuvola, Sairaalantie 2, 99100 Kittilä; vaatevaihtorekki neuvolan ylätasanteella.",
+      "regular_time": "Neuvolan aukioloaikoina; vaatteita voi tuoda ja ottaa ilman ajanvarausta.",
+      "free_and_conditions": "Maksuton vauvojen ja lasten vaatteiden kierrätysrekki. Kuka tahansa voi tuoda hyväkuntoisia vaatteita ja ottaa sopivia; ei tarveharkintaa.",
+      "contact": "Kittilän neuvola 040 774 2406.",
+      "source_urls": [
+        "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kevat-2026.pdf"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kittila-harrastusvalinelainaamo-maksuton-2026",
+      "name": "Kittilän maksuton harrastusvälinelainaamo",
+      "organizer": "Kittilän kunta / Vihreä Ahma",
+      "categories": [
+        "Tavarat"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Vihreä Ahma, Kittilän kirkonkylä.",
+      "regular_time": "Ma–to klo 10–17 ja pe klo 10–15; laina-aika enintään kaksi viikkoa. Välineitä ei voi varata etukäteen.",
+      "free_and_conditions": "Kuntalaisille maksuton harrastusvälineiden lainaus. Valikoimassa mm. hiihto- ja luisteluvälineitä, lumikengät, kahvakuulat, retkeilyvälineitä, ompelukone ja kitara.",
+      "contact": "Vihreä Ahma 040 671 9951; myymälävastaava 040 541 0699.",
+      "source_urls": [
+        "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kev%C3%A4t%202026_0.pdf"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kittila-yli-70-talvikunnossapitoavustus-2026",
+      "name": "Kittilän yli 70-vuotiaiden talvikunnossapitoavustus",
+      "organizer": "Kittilän kunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Kittilän vakituisessa omakotitalossa asuvat yli 70-vuotiaat kuntalaiset.",
+      "regular_time": "Vuosittainen haku; vuonna 2026 hakuaika 27.4.–7.6.2026 on päättynyt. Seuraavan vuoden hakuaika tarkistettava erikseen.",
+      "free_and_conditions": "150 € takaisinmaksuton avustus kotipihan ja yksityisen pihatien talvikunnossapidon järjestämiseen. Hakijan tulee olla yli 70-vuotias Kittilän asukas; yksi avustus kotitaloutta kohti. Vuoden 2026 haku on suljettu.",
+      "contact": "Hyvinvointikoordinaattori Emma Luukko 040 596 0953, emma.luukko@kittila.fi; Kittilän kunta, Valtatie 15, 99100 Kittilä.",
+      "source_urls": [
+        "https://kittila.fi/lomakkeet",
+        "https://kittila.fi/2026/yli-70-vuotiaiden-talvikunnossapitoavustus-2026"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true,
+      "availability_note": "Vuoden 2026 haku suljettu; seuraavan vuosikierroksen päivät eivät vielä tiedossa."
+    },
+    {
+      "id": "kittila-omaishoitajien-virkistysavustus-2026",
+      "name": "Kittilän omaishoitajien virkistysavustus",
+      "organizer": "Kittilän kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Kittilän kunnan asukkaat, hakemus kunnantalolle tai sähköisesti.",
+      "regular_time": "Vuosittainen haku; vuonna 2026 hakuaika 15.10.–15.11.2026 on päättynyt.",
+      "free_and_conditions": "100 €/kuukausi omaishoitajalle, jolla on ollut voimassa Lapin hyvinvointialueen omaishoitosopimus joulukuun 2025 ja lokakuun 2026 välisenä aikana; enintään 1 100 €/hakija. Tarkoitettu varsinaisille omaishoitajille, ei sijaisomaishoitajille. Avustus on veronalaista tuloa. Vuoden 2026 haku on suljettu.",
+      "contact": "Hyvinvointikoordinaattori Emma Luukko 040 596 0953, emma.luukko@kittila.fi; Valtatie 15, 99100 Kittilä.",
+      "source_urls": [
+        "https://kittila.fi/2026/omaishoitaja-hae-virkistysavustusta-15112026-mennessa"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true,
+      "availability_note": "Vuoden 2026 hakuaika päättynyt 15.11.2026; seuraavan vuoden haku vahvistettava."
+    },
+    {
+      "id": "kittila-kunnan-asumisneuvonta-maksuton-2026",
+      "name": "Kittilän kunnan maksuton asumisneuvonta",
+      "organizer": "Kittilän kunta",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kittilä"
+      ],
+      "location": "Kittilän kunnan asumisneuvonta; etä- ja tapaamisneuvonta.",
+      "regular_time": "Ajanvarauksella; yhteydenotto puhelimitse tai sähköpostilla.",
+      "free_and_conditions": "Maksuton asumisneuvonta kaikille kuntalaisille, kuntaan muuttaville ja muuttoa harkitseville. Palvelee vuokra- ja omistusasukkaita sekä vuokranantajia suomeksi ja englanniksi; tarvittaessa tulkkaus.",
+      "contact": "Asumisneuvonta 040 186 3766, asumisneuvonta@kittila.fi.",
+      "source_urls": [
+        "https://kittila.fi/arki-nuorille",
+        "https://kittila.fi/asumisneuvonta"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kolari-opiskelija-avustus-2026",
+      "name": "Kolarin kunnan opiskelija-avustus",
+      "organizer": "Kolarin kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kolari"
+      ],
+      "location": "Kolarin kunnan asukkaat; hakemus kunnanvirastolle.",
+      "regular_time": "Kaksi hakukierrosta vuodessa; syksyn 2026 hakuaika päättyi 27.9.2026. Kevään 2027 päivät eivät vielä julkaistu.",
+      "free_and_conditions": "400 €/vuosi, maksetaan 200 € kevät- ja syyslukukaudelta. 18–25-vuotiaalle, jonka kotikunta on Kolari ja joka opiskelee päätoimisesti toisella paikkakunnalla lukiossa, ammatillisessa oppilaitoksessa tai korkeakoulussa. Etä- ja monimuoto-opinnot sekä oppisopimuskoulutus eivät kuulu avustukseen. Avustus on takaisinmaksuton.",
+      "contact": "Kolarin kunnan kirjaamo, kirjaamo@kolari.fi, Isopalontie 2, 95900 Kolari.",
+      "source_urls": [
+        "https://kolari.fi/avustukset/opiskelija-avustus/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true,
+      "availability_note": "Syksyn 2026 hakuaika päättynyt; kevään 2027 hakuaika tarkistettava."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "inari-kunnan-havikkiruoka-maksuttomuus-2026",
+      "municipality": "Inari",
+      "coverage": [
+        "Inari"
+      ],
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Inarin kunnan osallisuuskeskuksessa jaetaan kouluruokailun hävikkiruokaa arkipäivisin noin klo 11.45–13.00. Hakijalla tulee olla oma astia; yksi annos henkilöä kohti; ei koululomien aikana; määrä vaihtelee. Osoite Rantatie 10 B, Ivalo. Maksuttomuutta ei sanota lähdesivulla yksiselitteisesti, joten tietue jää vahvistettavaksi.",
+      "contact": "040 728 9698, osallisuuskeskus@inari.fi.",
+      "status": "pending_free_status_confirmation",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.inari.fi/fi/osallistu-ja-vaikuta/osallisuuskeskus.html"
+      ]
+    },
+    {
+      "id": "kemin-seurakunnan-diakonian-taloudellinen-apu-ehdot-2026",
+      "municipality": "Kemi",
+      "coverage": [
+        "Kemi"
+      ],
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kemin seurakunta kertoo taloudellisen auttamisen olevan kriisiluonteista. Puhelinaika maanantaisin klo 9–11; joulun 2.–21.11.2026 haku on erillinen kausiluonteinen avustus eikä sitä hyväksytä. Jatkuvan taloudellisen avun maksuttomuus, ehdot ja mahdollinen avustustapa eivät käy riittävän tarkasti ilmi.",
+      "contact": "Diakoniatyö 040 831 2379; seurakunnan toimisto Kirkkopuistokatu 11, Kemi.",
+      "status": "pending_free_status_and_eligibility_confirmation",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.keminseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "kolari-seurakunnan-diakonia-ruoka-ja-taloudellinen-apu-2026",
+      "municipality": "Kolari",
+      "coverage": [
+        "Kolari"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "detail": "Kolarin seurakunnan diakoniatyöntekijän tehtävästä on julkaistu rekrytointi, jossa tehtäviin kuuluu diakonia- ja taloudellisen avun työ. Nykyinen paikallinen vastaanotto, mahdollinen sijaisjärjestely, maksuttomuus, avustusehdot ja ruokajaon säännöllisyys eivät kuitenkaan vahvistu julkaistusta lähteestä. Ei hyväksytä ennen ajantasaisen järjestäjäyhteyden ja palvelun käytännön varmistusta.",
+      "contact": "Kolarin seurakunta, 040 538 6943, kolari@evl.fi, Pappilantie 4 B, 95900 Kolari.",
+      "status": "pending_current_contact_and_service_terms",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.kolarinseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "kittila-ystavyyden-lounas-maksuttomuus-2026",
+      "municipality": "Kittilä",
+      "coverage": [
+        "Kittilä"
+      ],
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Serkun Toivon torstain ystävyyden lounas järjestetään torstaisin klo 11; julkaistut päivät 24.9., 8.10., 22.10., 5.11., 19.11., 3.12. ja 10.12.2026. Järjestäjinä SPR Kittilän osasto ja Kittilän seurakunta. Hinta tai maksuttomuus ei käy sivulta selvästi ilmi, joten palvelu jää vahvistettavaksi.",
+      "contact": "Kittilän seurakunta, kittila.seurakunta@evl.fi; SPR Kittilän osasto.",
+      "status": "pending_free_status_confirmation",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/talous"
+      ]
+    },
+    {
+      "id": "kittila-kirjaston-talousneuvonta-maarittely-2026",
+      "municipality": "Kittilä",
+      "coverage": [
+        "Kittilä"
+      ],
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kittilän perhekeskuksen Talous-sivu ilmoittaa kuukausittaisen talousneuvonnan kirjaston kokouskuutiossa klo 15–17 (14.10., 11.11. ja 9.12.2026), ilman ajanvarausta ja nimettömänä. Järjestäjä ja suhde Lapin Talousneuvolaan sekä oikeusaputoimiston talous- ja velkaneuvontaan on epäselvä; kaksoiskappaleen estämiseksi ei hyväksytä erillisenä ennen järjestäjän vahvistusta.",
+      "contact": "Kittilän perhekeskuskoordinaattori Ritva Helin 040 635 3176, ritva.helin@kittila.fi.",
+      "status": "pending_provider_and_duplicate_check",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/talous"
+      ]
+    },
+    {
+      "id": "kittila-kierratyskeskuksen-hyvantekevaisyyslahjoitukset-2026",
+      "municipality": "Kittilä",
+      "coverage": [
+        "Kittilä"
+      ],
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Kittilän kierrätyskeskus kertoo lahjoittavansa osan tavaroista hyväntekeväisyyskohteisiin, pääasiassa paikallisille avuntarvitsijoille, lapsiperheille ja yleishyödylliseen toimintaan. Suora yksityishenkilön hakumenettely, valintaperusteet ja jatkuva saatavuus eivät käy lähteestä ilmi. Myymälän maksullista myyntiä ei hyväksytä avuksi.",
+      "contact": "Kittilän kierrätyskeskus 040 830 8803; työvalmentaja Mirva Lindström 040 678 5546.",
+      "status": "pending_individual_access_and_eligibility",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kev%C3%A4t%202026_0.pdf"
+      ]
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "inari-evastellaan-yhdessa-vapaaehtoinen-maksu-2026",
+      "municipality": "Inari",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kuukausittainen yhteisateria, jossa osallistumismaksu on vapaaehtoinen; maksuttomuutta ei voida taata.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.inarinseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "inari-lahjoita-lampoa-kampanja-2026",
+      "municipality": "Inari",
+      "categories": [
+        "Vaatteet"
+      ],
+      "detail": "7.9.–30.11.2026 rajattu Lahjoita lämpöä -kampanja jakaa lämpimiä asusteita, mutta kyse on määräaikaisesta kampanjasta eikä jatkuvasta palvelusta.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.inari.fi/"
+      ]
+    },
+    {
+      "id": "inari-vanha-aineellinen-apu-maksukortti-paattynyt",
+      "municipality": "Inari",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Inarin seurakunnan aiempi aineellisen avun maksukorttihanke on päättynyt; sitä ei käsitellä nykyisenä palveluna. SPR:n erillinen 2026 korttiohjelma jää erilliseksi avoimeksi yhteiseksi tietueeksi.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.inarinseurakunta.fi/apua-ja-tukea"
+      ]
+    },
+    {
+      "id": "kemi-hopealyhty-vapaaehtoinen-maksu-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Hopealyhdyn ruokailussa osallistumismaksu on vapaaehtoinen, joten maksuttomuutta ei voida taata.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.keminseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "kemi-goodwill-maksullinen-kirpputori-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Goodwillin kierrätysmyymälä myy tavaroita; kyse ei ole maksuttomasta avustusjaosta.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.goodwill.fi/"
+      ]
+    },
+    {
+      "id": "kemi-kierratyskeskus-maksullinen-myynti-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Kemin kierrätyskeskuksen myynti ei ole maksutonta avustusta; lahjoitusten vastaanotto ei tarkoita ilmaista jakelua.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.kemi.fi/"
+      ]
+    },
+    {
+      "id": "kemi-tipula-yksittainen-maksullinen-tapahtuma-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Tipulan yksittäinen tavaramyyntitapahtuma on maksullinen ja kertaluonteinen.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.kemi.fi/"
+      ]
+    },
+    {
+      "id": "kemijarvi-opiskelija-asuminen-omavastuullinen-2026",
+      "municipality": "Kemijärvi",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Opiskelija-asumisen pilotissa asukkaalta peritään 150–300 €/kk omavastuu; ei maksuton asumispalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.kemijarvi.fi/"
+      ]
+    },
+    {
+      "id": "enontekio-kunnan-avustukset-yhdistyksille-2027",
+      "municipality": "Enontekiö",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Vuoden 2027 avustukset on suunnattu yhdistyksille ja yhteisöille, eivät yksittäisten kotitalouksien avustuksiksi.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://enontekio.fi/"
+      ]
+    },
+    {
+      "id": "enontekio-spr-yksittainen-yhteisoruokailu-2026-09-17",
+      "municipality": "Enontekiö",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "17.9.2026 ilmoitettu yksittäinen yhteisöruokailu on kertaluonteinen tapahtuma, ei jatkuva ruokapalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.punainenristi.fi/"
+      ]
+    },
+    {
+      "id": "lapha-tilapaismajoitus-maksullinen-2026",
+      "municipality": "Kaikki Lapin hyvinvointialueen kunnat",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "Lapin hyvinvointialueen sosiaalihuollon tilapäismajoituksesta peritään 5,35 €/vrk vuoden 2026 asiakasmaksuhinnaston mukaan; maksullinen vaihtoehto rajataan pois.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://lapha.fi/asiakasmaksut"
+      ]
+    },
+    {
+      "id": "kittila-perhekahvila-edullinen-lounas-2026",
+      "municipality": "Kittilä",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Perhekahvilan lounas on edullinen/maksullinen, ei vahvistettu maksuttomaksi; ei hyväksytä ruoka-apuna.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/lapsiperheet"
+      ]
+    },
+    {
+      "id": "kittila-vauvaraha-kertaluonteinen-2026",
+      "municipality": "Kittilä",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Vuoden 2026 vauvaraha on 1 000 euron kertaluonteinen maksu vuonna 2025 syntyneelle lapselle; hakuaika päättynyt 31.3.2026. Rajataan pois kertaluonteisena avustuksena tämän kartoituksen jatkuvien palvelujen rajauksella.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/2026/kittilassa-tuetaan-vauvaperheita",
+        "https://kittila.fi/lomakkeet"
+      ]
+    },
+    {
+      "id": "kittila-seniorikuntosalikortti-alennettu-maksullinen-2026",
+      "municipality": "Kittilä",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Yli 63-vuotiaiden kuntosalikortti on 50 % alennettu mutta edelleen maksullinen; ei maksuton palvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/2026/kuntosalikortti-puoleen-hintaan-yli-63-vuotiaille-vuoden-2026-ajan"
+      ]
+    },
+    {
+      "id": "kittila-vihrea-ahma-maksullinen-myyntimyymala-2026",
+      "municipality": "Kittilä",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Vihreä Ahma myy käytettyjä vaatteita ja tavaroita; maksullista myyntiä ei hyväksytä. Samassa tilassa toimiva maksuton harrastusvälinelainaamo on erillinen hyväksytty palvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kittila.fi/sites/default/files/2026-01/Lasten%2C%20nuorten%20ja%20perheiden%20palveluiden%20ja%20toiminnan%20opas%20kev%C3%A4t%202026_0.pdf"
+      ]
+    },
+    {
+      "id": "keminmaa-ystavantupa-vapaaehtoinen-maksu-2026",
+      "municipality": "Keminmaa",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Ystäväntuvan kahvi- ja ruokatoiminnassa osallistumismaksu on vapaaehtoinen; maksuttomuutta ei voida taata.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.keminmaanseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "keminmaa-lahetyskirppis-maksullinen-2026",
+      "municipality": "Keminmaa",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Lähetyskirppis myy vaatteita ja tavaroita; ei maksuton avustuspalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.keminmaanseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "kolari-yhdistysavustukset-ei-yksityishenkiloille-2026",
+      "municipality": "Kolari",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kunnan yleiset yhdistys- ja toimintaryhmäavustukset eivät ole yksityishenkilöiden avustuspalveluja.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://kolari.fi/avustukset/"
+      ]
+    },
+    {
+      "id": "kolari-ikaihmisten-syntymapaivajuhla-kertaluonteinen-2026",
+      "municipality": "Kolari",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Yksittäinen ikäihmisten juhlatilaisuus on kertaluonteinen tapahtuma, ei jatkuva maksuton ruoka-apupalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.kolarinseurakunta.fi/"
+      ]
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "lapha-lapsiperheiden-kotipalvelu-ehdollisesti-maksuton-2026",
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "status": "accepted_conditional_free",
+      "note": "Yksi alueellinen tietue; yhteystiedot kunnittain samassa tietueessa."
+    },
+    {
+      "id": "lapha-talousneuvola-maksuton-2026",
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "status": "accepted",
+      "note": "Yksi alueellinen maksuton talousneuvola, ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "varke-korjausavustus-ikaantyneet-vammaiset",
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_service_reused",
+      "note": "Sama kanoninen valtakunnallinen tunniste kuin Etelä-Pohjanmaan ja Kymenlaakson auditoinneissa."
+    },
+    {
+      "id": "spr-aineellisen-avun-maksukortit-2026-syys-marras",
+      "coverage": [
+        "Enontekiö",
+        "Inari (Ivalo)",
+        "Kemi",
+        "Kemijärvi",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio",
+        "Hamina",
+        "Kotka",
+        "Kouvola",
+        "Miehikkälä",
+        "Virolahti"
+      ],
+      "status": "pending_shared_national_record",
+      "note": "Yksi yhteinen SPR:n 40 euron aineellisen avun korttiohjelman tietue on Kymenlaakson auditointitiedostossa; tässä viitataan samaan tunnisteeseen ilman toista kopiota."
+    }
+  ],
+  "summary": {
+    "municipalities_total": 21,
+    "municipalities_screened_first_pass": 7,
+    "category_checks_total": 42,
+    "new_accepted_service_records": 19,
+    "pending_local_leads": 6,
+    "shared_pending_service_refs": 1,
+    "excluded_observations": 19,
+    "municipalities_fully_completed": 0,
+    "note": "Seitsemän ensimmäistä kuntaa on käyty läpi kuudessa kategoriassa. Ensimmäinen seulonta ei ole lopullinen kuntakohtainen hyväksyntä; avoimet, maksulliset ja kertaluonteiset havainnot pidetään erillään."
+  }
+}
