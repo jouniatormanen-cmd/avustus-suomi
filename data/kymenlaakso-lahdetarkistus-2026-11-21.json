@@ -461,15 +461,15 @@
     {
       "municipality": "Virolahti",
       "category": "Raha",
-      "status": "accepted_and_pending_regional_diaconia",
-      "finding": "65+ väestön hyvinvointihankkeisiin on jatkuva kunnan avustushaku. Haminan seurakunnan alueellinen diakonian taloudellinen apu on olemassa, mutta sen maksuttomuus ja ehdot vaativat täsmennystä.",
-      "service_ids": [
-        "virolahti-iakkaan-vaeston-hyvinvointiavustus-2026"
-      ],
+      "status": "pending_regional_diaconia_only",
+      "finding": "Haminan seurakunnan alueellinen diakonian taloudellinen apu on olemassa, mutta sen maksuttomuus ja ehdot vaativat täsmennystä. Virolahden yli 65-vuotiaiden hyvinvointiavustus on hankerahoitusta, ei henkilökohtaista rahallista apua, joten se on poissuljettu.",
+      "service_ids": [],
       "pending_ids": [
         "hamina-seurakunnan-diakonian-taloudellinen-apu-2026"
       ],
-      "excluded_ids": [],
+      "excluded_ids": [
+        "virolahti-iakkaan-vaeston-hyvinvointiavustus-2026"
+      ],
       "checked_date": "2026-11-21"
     },
     {
