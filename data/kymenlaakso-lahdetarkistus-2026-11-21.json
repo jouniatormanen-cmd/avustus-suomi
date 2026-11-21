@@ -1,0 +1,1018 @@
+{
+  "schema_version": "1.0",
+  "checked_date": "2026-11-21",
+  "province": "Kymenlaakso",
+  "update_type": "first_pass_municipal_screen_completed",
+  "previous_checkpoint": "Kymenlaakso / Miehikkälä / Ruoka-apu",
+  "source_checkpoint": "2026-11-20: Kymenlaakson ensimmäinen seulonta aloitettu aakkosjärjestyksessä Hamina, Kotka ja Kouvola; seuraava Miehikkälä / Ruoka-apu.",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Hamina",
+    "Kotka",
+    "Kouvola",
+    "Miehikkälä",
+    "Pyhtää",
+    "Virolahti"
+  ],
+  "municipalities_screened_first_pass": [
+    "Hamina",
+    "Kotka",
+    "Kouvola",
+    "Miehikkälä",
+    "Pyhtää",
+    "Virolahti"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Hamina",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_pending",
+      "finding": "Sinisataman arkiaamupala on vahvistettu maksuttomaksi Haminan seurakunnan palvelusivulla; Sininauhan oma sivu vahvistaa sijainnin ja aamiaisen klo 9–10.30. Leipäkirkon maanantain ylijäämäruokajako on olemassa, mutta sen maksuttomuus pitää vielä vahvistaa.",
+      "service_ids": [
+        "sinisatama-maksuton-aamupala-hamina-2026"
+      ],
+      "pending_ids": [
+        "hamina-leipakirkon-ruoanjako-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut jatkuvaa maksutonta vaatepalvelua Haminassa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Tavarat",
+      "status": "pending_regional_material_aid_card",
+      "finding": "SPR:n 40 euron aineellisen avun maksukorttiohjelman syys–marraskuun 2026 jakelupaikkalistassa on tämä kunta; paikallinen jakeluaika ja hakumenettely on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Raha",
+      "status": "pending_terms",
+      "finding": "Haminan seurakunnalla on säännölliset diakoniavastaanottoajat ja taloudellisen avun asiointi, mutta avustuksen ehdot ja maksuttomuus eivät selviä palvelusivulta riittävästi hyväksymiseen.",
+      "service_ids": [],
+      "pending_ids": [
+        "hamina-seurakunnan-diakonian-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Hamina",
+      "category": "Asuminen",
+      "status": "accepted_free_recurring",
+      "finding": "Kaakkois-Suomen Sininauhan Kotikoodi auttaa asunnottomia, puutteellisissa oloissa asuvia ja häätöuhan alla olevia löytämään asunnon sekä hakemaan tukia. Maksuton, matalan kynnyksen palvelu kattaa Haminan ja Kotkan yhdellä yhteisellä tietueella.",
+      "service_ids": [
+        "kotikoodi-hamina-kotka-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Ruoka-apu",
+      "status": "pending_free_confirmation",
+      "finding": "Silmut ry:n oma sivu vahvistaa ruokakassien jaon ma–pe klo 11–11.45 ja yhden kassin viikossa/talous, mutta ei ilmoita maksuttomuutta. Sini-Kotkan arkiaamupala on tarjolla, mutta järjestäjän sivu ei ilmoita hintaa.",
+      "service_ids": [],
+      "pending_ids": [
+        "silmut-kotka-ruoka-apu-maksuttomuus-2026",
+        "sini-kotka-aamupala-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "silmut-kotka-5e-lounas"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei tässä seulonnassa vahvistunut jatkuvaa maksutonta vaatepalvelua Kotkassa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Tavarat",
+      "status": "pending_regional_material_aid_card",
+      "finding": "SPR:n 40 euron aineellisen avun maksukorttiohjelman syys–marraskuun 2026 jakelupaikkalistassa on tämä kunta; paikallinen jakeluaika ja hakumenettely on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Raha",
+      "status": "no_local_service_verified_first_pass",
+      "finding": "Kotkan kaupungin asumisneuvonta ohjaa asumiseen liittyvissä tuissa, mutta erillistä jatkuvaa paikallista raha-avustuspalvelua ei tässä seulonnassa vahvistettu. Kymenlaakson hyvinvointialueen täydentävä ja ehkäisevä toimeentulotuki tarkistetaan alueellisena palveluna erillisessä lähdekierroksessa.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kotka",
+      "category": "Asuminen",
+      "status": "accepted_free_recurring",
+      "finding": "Kotkan kaupunki tarjoaa kaikille kotkalaisille maksutonta asumisneuvontaa. Avoin vastaanotto maanantaisin klo 10–13 Karhulan Eagle-talossa; muina aikoina yhteydenotolla sovitaan tapaaminen. Lisäksi Kotikoodi on yhteinen maksuton alueellinen palvelu.",
+      "service_ids": [
+        "kotka-maksuton-asumisneuvonta-2026",
+        "kotikoodi-hamina-kotka-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_pending",
+      "finding": "Sini-Raiteen aamupala on järjestäjän mukaan maksuton ma–pe klo 9–11. Kouvolan Kipinä ry:n ruoka-apukassien jako on ma ja pe klo 14.30, mutta järjestäjän sivu ei ilmoita maksuttomuutta; myös koulujen ylijäämäruoan jakelun tarkat noutopaikat vaihtelevat.",
+      "service_ids": [
+        "sini-raide-maksuton-aamupala-kouvola-2026"
+      ],
+      "pending_ids": [
+        "kouvolan-kipina-ruokakassi-maksuttomuus-2026",
+        "kouvolan-kipina-koulujen-ylijaamaruoka-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "kouvolan-kipina-kodin-korjausapu-maksullinen"
+      ],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Vaatteet",
+      "status": "pending_free_terms",
+      "finding": "Hope Kouvolan paikallistoimisto tarjoaa vähävaraisille lapsiperheille vaateapua, mutta vuoden 2026 asiakkaiden hakuehdot ja maksuttomuus on vielä vahvistettava suoraan toimistolta. Asiakasajat ovat sopimuksen mukaan.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kouvola-vaate-ja-tavara-apu-ehdot-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Tavarat",
+      "status": "pending_regional_material_aid_card",
+      "finding": "SPR:n 40 euron aineellisen avun maksukorttiohjelman syys–marraskuun 2026 jakelupaikkalistassa on tämä kunta; paikallinen jakeluaika ja hakumenettely on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "hope-kouvola-vaate-ja-tavara-apu-ehdot-2026",
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Raha",
+      "status": "pending_free_terms_and_eligibility",
+      "finding": "Kouvolan seurakunnan taloudellisen avun vastaanotto on tiistaisin ajanvarauksella Savonkatu 40:ssä, vain Kouvolan seurakunnan alueella asuville. Lisäksi vähävaraisille kirkon työhön opiskeleville on stipendihaku kahdesti vuodessa. Avustusten tarkat ehdot, summat ja maksuttomuus vahvistetaan ennen hyväksymistä.",
+      "service_ids": [],
+      "pending_ids": [
+        "kouvolan-seurakunnan-taloudellinen-apu-2026",
+        "kouvolan-seurakunnan-opiskelustipendit-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Kouvola",
+      "category": "Asuminen",
+      "status": "accepted_free_recurring",
+      "finding": "Kouvolan kaupungin asumisneuvonta on maksutonta ja luottamuksellista kaikille Kouvolassa asuville tai sinne muuttaville asumismuodosta riippumatta. Yhteydenotto puhelimitse/WhatsAppilla tai sähköpostitse, tapaaminen sovitaan; asumisneuvoja tavoitettavissa parhaiten aamupäivisin.",
+      "service_ids": [
+        "kouvola-maksuton-asumisneuvonta-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-20"
+    },
+    {
+      "municipality": "Miehikkälä",
+      "category": "Ruoka-apu",
+      "status": "no_local_service_verified",
+      "finding": "Järjestäjien ensisijaisista lähteistä ei vahvistunut Miehikkälään säännöllistä maksutonta ruokajakoa. Haminan seurakunnan Leipäkirkon jako on Haminassa, ei Miehikkälässä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Miehikkälä",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen maksuton perhetyö kattaa maakunnan; erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi palvelusetelin mahdollisen omavastuun vuoksi.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Miehikkälä",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatejakelua ei vahvistunut järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Miehikkälä",
+      "category": "Tavarat",
+      "status": "pending_regional_material_aid_card",
+      "finding": "SPR:n 40 euron aineellisen avun maksukorttiohjelman syys–marraskuun 2026 jakelupaikkalistassa on Virolahti–Miehikkälä; paikallinen jakeluaika ja hakumenettely on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Miehikkälä",
+      "category": "Raha",
+      "status": "accepted_and_pending_regional_diaconia",
+      "finding": "Kunnan Lahja lapselle -raha on vahvistettu. Haminan seurakunnan alueellinen diakonian taloudellinen apu on olemassa, mutta maksuttomuus ja avustusehdot eivät ole riittävän tarkat.",
+      "service_ids": [
+        "miehikkala-lahja-lapselle-2026"
+      ],
+      "pending_ids": [
+        "hamina-seurakunnan-diakonian-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Miehikkälä",
+      "category": "Asuminen",
+      "status": "accepted_local_and_regional_services",
+      "finding": "Ensiasunnon hankinta-avustus on vahvistettu; lisäksi Kotikoodi kattaa Miehikkälän ja VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä.",
+      "service_ids": [
+        "miehikkala-ensiasunnon-hankinta-avustus-2026",
+        "kotikoodi-hamina-kotka-2026",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Pyhtää",
+      "category": "Ruoka-apu",
+      "status": "pending_free_status_confirmation",
+      "finding": "Pyhtään seurakunnan diakoniatyön apu on ensisijaisesti ruoka-apua; maksuttomuutta ja käytännön jakelutapaa ei vahvisteta yksiselitteisesti. Keskiviikon 5 euron ruokailu rajattiin pois.",
+      "service_ids": [],
+      "pending_ids": [
+        "pyhtaa-seurakunnan-diakonia-ruoka-ja-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [
+        "pyhtaa-keskiviikon-keitokset-5e-2026"
+      ],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Pyhtää",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen maksuton perhetyö kattaa Pyhtään; erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Pyhtää",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatepalvelua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Pyhtää",
+      "category": "Tavarat",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta tavara-apua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Pyhtää",
+      "category": "Raha",
+      "status": "pending_free_status_confirmation",
+      "finding": "Seurakunnan diakonia voi myöntää tapauskohtaista taloudellista apua sosiaalitoimen ja Kelan päätösten sekä tiliotteen perusteella; avun maksuttomuus on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "pyhtaa-seurakunnan-diakonia-ruoka-ja-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Pyhtää",
+      "category": "Asuminen",
+      "status": "accepted_regional_services",
+      "finding": "Maksuton Kotikoodi-asumisohjaus kattaa Pyhtään; VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä.",
+      "service_ids": [
+        "kotikoodi-hamina-kotka-2026",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Virolahti",
+      "category": "Ruoka-apu",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta ruokajakoa ei vahvistunut Virolahdelle. 27.11.2026 järjestettävä yksittäinen puuropäivä rajattiin pois.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Virolahti",
+      "category": "Kotiapu",
+      "status": "accepted_regional_service_and_pending_home_service_fee",
+      "finding": "Kymenlaakson hyvinvointialueen maksuton perhetyö kattaa Virolahden; erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi.",
+      "service_ids": [
+        "kymenhva-perhetyo-maksuton-2026"
+      ],
+      "pending_ids": [
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Virolahti",
+      "category": "Vaatteet",
+      "status": "no_local_service_verified",
+      "finding": "Jatkuvaa maksutonta vaatepalvelua ei vahvistunut ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Virolahti",
+      "category": "Tavarat",
+      "status": "pending_regional_material_aid_card",
+      "finding": "SPR:n 40 euron aineellisen avun maksukorttiohjelman syys–marraskuun 2026 jakelupaikkalistassa on Virolahti–Miehikkälä; paikallinen jakeluaika ja hakumenettely on vielä vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "spr-aineellisen-avun-maksukortit-2026-syys-marras"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Virolahti",
+      "category": "Raha",
+      "status": "accepted_and_pending_regional_diaconia",
+      "finding": "65+ väestön hyvinvointihankkeisiin on jatkuva kunnan avustushaku. Haminan seurakunnan alueellinen diakonian taloudellinen apu on olemassa, mutta sen maksuttomuus ja ehdot vaativat täsmennystä.",
+      "service_ids": [
+        "virolahti-iakkaan-vaeston-hyvinvointiavustus-2026"
+      ],
+      "pending_ids": [
+        "hamina-seurakunnan-diakonian-taloudellinen-apu-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-21"
+    },
+    {
+      "municipality": "Virolahti",
+      "category": "Asuminen",
+      "status": "accepted_local_and_regional_services",
+      "finding": "Nuorten ensiasunnon hankinta-avustus on vahvistettu; lisäksi Kotikoodi kattaa Virolahden ja VARKEn valtakunnallinen korjausavustus on käytettävissä ehtojen täyttyessä. Kolmen ilmaisen vuokrakuukauden kampanja rajattiin pois määräaikaisena markkinointikampanjana.",
+      "service_ids": [
+        "virolahti-ensiasunnon-hankinta-avustus-2026",
+        "kotikoodi-hamina-kotka-2026",
+        "varke-korjausavustus-ikaantyneet-vammaiset"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "virolahti-asumiskampanja-3-ilmaista-kuukautta-2026"
+      ],
+      "checked_date": "2026-11-21"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "sinisatama-maksuton-aamupala-hamina-2026",
+      "name": "Sinisatama – maksuton arkiaamupala",
+      "organizer": "Kaakkois-Suomen Sininauha ry (maksuttomuus vahvistettu Haminan seurakunnan palvelusivulta)",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Hamina"
+      ],
+      "location": "Isoympyräkatu 20, liikehuoneisto 10, 49400 Hamina (sisäänkäynti Torikadun puolelta).",
+      "regular_time": "Aamupala ma–pe klo 9.00–10.30. Toimipiste avoinna ma klo 9–13 ja ti–pe klo 9–12.",
+      "free_and_conditions": "Maksuton aamupala; matalan kynnyksen kohtaamispaikka kaikille yli 18-vuotiaille. Haminan seurakunnan sivu vahvistaa aamupalan maksuttomuuden; Sininauhan oma sivu vahvistaa sijainnin ja aikataulun.",
+      "contact": "Sanna Niemelä, kohtaamispaikkavastaava, 040 867 0688, sanna.niemela@ks-sininauha.fi",
+      "source_urls": [
+        "https://www.ks-sininauha.fi/toimipisteet/sinisatama/",
+        "https://haminanseurakunta.fi/talous-ja-ruoka-apua/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kotikoodi-hamina-kotka-2026",
+      "name": "Kotikoodi – maksuton asumisen palveluohjaus",
+      "organizer": "Kaakkois-Suomen Sininauha ry",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hamina",
+        "Kotka",
+        "Miehikkälä",
+        "Pyhtää",
+        "Virolahti"
+      ],
+      "location": "Jalkautuva palvelu Kotkan, Haminan, Miehikkälän, Pyhtään ja Virolahden alueella; tapaamiset ja kotikäynnit asiakkaan tarpeen mukaan.",
+      "regular_time": "Ei kiinteää vastaanottoaikaa; yhteydenotto suoraan palveluohjaajaan tai verkoston kautta.",
+      "free_and_conditions": "Maksuton palvelu 18–99-vuotiaille. Tarkoitettu asunnottomille, puutteellisissa asumisolosuhteissa eläville ja häätöuhan alla oleville. Auttaa asunnon etsimisessä, tukien hakemisessa ja asumisen käynnistämisessä.",
+      "contact": "Kotka ja Pyhtää: Riika Kokkonen 044 763 9883, riika.kokkonen@ks-sininauha.fi. Hamina, Miehikkälä ja Virolahti: Antti Hiekkanen 044 735 6239, antti.hiekkanen@ks-sininauha.fi.",
+      "source_urls": [
+        "https://www.ks-sininauha.fi/toimipisteet/kotikoodi/",
+        "https://www.ks-sininauha.fi/",
+        "https://perhekeskus.kymenhva.fi/ajankohtaista/palveluhakemisto/kotikoodi/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kotka-maksuton-asumisneuvonta-2026",
+      "name": "Kotkan kaupungin maksuton asumisneuvonta",
+      "organizer": "Kotkan kaupunki",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kotka"
+      ],
+      "location": "Eagle-talo, Kyminlinnantie 6, sisäänkäynti 3, 7. kerros, Karhula.",
+      "regular_time": "Avoin vastaanotto maanantaisin klo 10–13 ilman ajanvarausta. Muina aikoina yhteydenotolla sovitaan oma tapaamisaika.",
+      "free_and_conditions": "Maksuton kaikille kotkalaisille asumismuodosta riippumatta. Neuvonta kattaa asumistukien hakemisen, uuden kodin etsimisen, vuokranmaksuvaikeudet, asunnon hoidon sekä häätö- ja häiriötilanteet.",
+      "contact": "Asumisneuvonta, 040 124 3316 (myös WhatsApp), asumisneuvonta@kotka.fi",
+      "source_urls": [
+        "https://www.kotka.fi/hyvinvointi-ja-tyo/hyvinvoinnin-edistaminen/asumisneuvonta/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "sini-raide-maksuton-aamupala-kouvola-2026",
+      "name": "Sini-Raide – maksuton arkiaamupala ja matalan kynnyksen kohtaamispaikka",
+      "organizer": "Kaakkois-Suomen Sininauha ry",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kouvola"
+      ],
+      "location": "Käsityöläiskatu 2, huoneisto 43, 45100 Kouvola.",
+      "regular_time": "Aamupala ma–pe klo 9–11. Toimipiste avoinna ma–to klo 9–12 ja pe klo 9–13.",
+      "free_and_conditions": "Toiminta ja palvelut ovat kävijöille maksuttomia. Yli 18-vuotiaille; tarjolla aamupala, kahvia/teetä/mehua, digiasioinnin välineet, juttuseuraa ja arjen ohjausta.",
+      "contact": "Sonja Kujala 044 741 3922, sonja.kujala@ks-sininauha.fi; Iina Kiviranta 044 741 3351, iina.kiviranta@ks-sininauha.fi.",
+      "source_urls": [
+        "https://www.ks-sininauha.fi/toimipisteet/sini-raide/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kouvola-maksuton-asumisneuvonta-2026",
+      "name": "Kouvolan kaupungin maksuton asumisneuvonta",
+      "organizer": "Kouvolan kaupunki (palvelun tuottaa Kouvolan Asunnot Oy)",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kouvola"
+      ],
+      "location": "Tapaamiset sovitaan asumisneuvojan kanssa; palvelu palvelee Kouvolassa asuvia ja kaupunkiin muuttavia.",
+      "regular_time": "Asumisneuvoja tavoitettavissa parhaiten aamupäivisin puhelimitse, WhatsAppilla ja sähköpostilla; erikseen sovittava tapaaminen.",
+      "free_and_conditions": "Maksuton ja luottamuksellinen kaikille Kouvolassa asuville tai sinne muuttaville asumismuodosta riippumatta. Apua vuokranmaksuvaikeuksiin, tukien hakemiseen, häätöuhkaan, asunnon etsimiseen ja asumisen häiriötilanteisiin.",
+      "contact": "Sonja Ronkonen, 040 144 0423, asumisneuvonta@kouvola.fi.",
+      "source_urls": [
+        "https://www.kouvola.fi/ajankohtaiset/kouvolan-kaupungin-asumisneuvonta-auttaa-asumisen-pulmissa/",
+        "https://www.kouvola.fi/ajankohtaiset/asumisneuvonta-auttaa/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "kymenhva-perhetyo-maksuton-2026",
+      "name": "Kymenlaakson hyvinvointialueen maksuton perhetyö kotikäynnein",
+      "organizer": "Kymenlaakson hyvinvointialue",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kymenlaakso"
+      ],
+      "location": "Perheen koti Kymenlaakson alueella; palvelu toteutetaan kotikäynnein perheen tarpeen mukaan.",
+      "regular_time": "Ei yleistä vastaanottoaikaa. Palvelu alkaa palvelutarpeen arvioinnin ja päätöksen jälkeen; tapaamiset sovitaan perheen kanssa.",
+      "free_and_conditions": "Maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille. Perhetyö voi alkaa jo palvelutarpeen arvioinnin aikana. Tavoitteena tukea perheen arkea, vanhemmuutta ja voimavaroja; kotikäynneillä voidaan tehdä asioita yhdessä ja tarjota konkreettista tukea. Tämä ei ole siivous- tai kodinhoitopalvelu.",
+      "contact": "Kymenlaakson sosiaalihuollon asiakasneuvonta 05 220 6000, ma–pe klo 9–14 (lasten ja perheiden asiat, valitse 4); Oma Kymenlaakso -chat ma–to klo 10–15.",
+      "source_urls": [
+        "https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/"
+      ],
+      "checked_date": "2026-11-20",
+      "status": "accepted",
+      "publication_ready": true,
+      "availability_note": "Regional service with a social-work eligibility decision; do not confuse with the separate home-help service whose customer charges are not yet confirmed."
+    },
+    {
+      "id": "miehikkala-lahja-lapselle-2026",
+      "name": "Miehikkälän kunnan Lahja lapselle -raha",
+      "organizer": "Miehikkälän kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Miehikkälä"
+      ],
+      "location": "Miehikkälän kunnan asukkaat; hakemus kunnanvirastolle, Keskustie 4 A, 49700 Miehikkälä.",
+      "regular_time": "Jokainen vuosierä haetaan erikseen; hakemus 30.11. mennessä, jotta maksu voidaan tehdä 31.12. Hakeminen on vuosittaista.",
+      "free_and_conditions": "Takaisinmaksuton 1 000 €/vuosi. 1.1.2018–31.12.2025 syntyneille enintään 10 peräkkäistä vuotta (yhteensä enintään 10 000 €); 1.1.2026 tai sen jälkeen syntyneille enintään 5 vuotta (yhteensä enintään 5 000 €). Lapsen ja vähintään yhden huoltajan tulee olla kirjoilla Miehikkälässä 1.1. kunakin maksuvuonna; syntymä-/adoptiovuonna huoltajan tulee olla kirjoilla Miehikkälässä lapsen syntymän/adoption hetkellä. Tuki ei ole saajalle tuloveronalaista tuloa.",
+      "contact": "Kunnanjohtaja Anne Ukkonen, 050 349 9571. Kunnanvirasto, Keskustie 4 A, 49700 Miehikkälä.",
+      "source_urls": [
+        "https://www.miehikkala.fi/asuminen/lainat-ja-avustukset/lahja-lapselle/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "miehikkala-ensiasunnon-hankinta-avustus-2026",
+      "name": "Miehikkälän ensiasunnon hankinta-avustus",
+      "organizer": "Miehikkälän kunta",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Miehikkälä"
+      ],
+      "location": "Miehikkälän kunnan alueelta hankittava tai hankittu ensiasunto.",
+      "regular_time": "Vuosittainen haku; hakemus kuluvan vuoden lokakuun loppuun mennessä. Vuoden 2026 määräaika 31.10.2026 on jo päättynyt; seuraavan hakuvuoden aikataulu tarkistettava.",
+      "free_and_conditions": "Takaisinmaksuton avustus 10 % kauppahinnasta, enintään 4 000 €/talous. Hakija 18–39-vuotias; asunto Miehikkälässä ja hakijan tai puolison ensimmäinen omaksi hankittu asunto. Avustusta voi saada osakeasunnon tai omakotitalon hankintaan tai omakotitalon rakentamiseen. Hakijan tulee olla kirjoilla Miehikkälässä hakemusvuoden 1.1. Avustus on saajalle veronalaista tuloa.",
+      "contact": "Kunnanjohtaja Anne Ukkonen, 050 349 9571.",
+      "source_urls": [
+        "https://www.miehikkala.fi/asuminen/lainat-ja-avustukset/ensi-asunnon-hankinta-avustus/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true,
+      "availability_note": "Vuoden 2026 hakuaika päättynyt; ohjelman säännöt koskevat vuonna 2025 ja sen jälkeen jätettäviä hakemuksia."
+    },
+    {
+      "id": "virolahti-ensiasunnon-hankinta-avustus-2026",
+      "name": "Virolahden nuorten ensiasunnon hankinta-avustus",
+      "organizer": "Virolahden kunta",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Virolahti"
+      ],
+      "location": "Virolahden kunnan alueelta hankittava ensiasunto tai Virolahdelle rakennettava omakotitalo.",
+      "regular_time": "Hakemus heti myöntämiskriteerien täytyttyä, viimeistään 12 kuukauden kuluessa kaupanteosta tai omakotitalon valmistumisesta.",
+      "free_and_conditions": "Takaisinmaksuton avustus: 3 000 € osakehuoneiston tai omakotitalon hankintaan, 5 000 € omakotitalon rakentamiseen. Hakija 18–39-vuotias kaupantekohetkellä, ensiasunto, omistusosuus vähintään 50 %, vakituinen asuminen kohteessa. Avustus on veronalaista tuloa ja määrärahasidonnainen.",
+      "contact": "Virolahden kunnan keskustoimisto, 040 710 7304, kirjaamo@virolahti.fi, Virojoentie 7, 49900 Virolahti.",
+      "source_urls": [
+        "https://virolahti.fi/asiointi-ja-paatoksenteko/avustukset/avustus-nuorten-ensiasuntoon/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    },
+    {
+      "id": "virolahti-iakkaan-vaeston-hyvinvointiavustus-2026",
+      "name": "Virolahden avustus iäkkään väestön hyvinvoinnin edistämiseen",
+      "organizer": "Virolahden kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Virolahti"
+      ],
+      "location": "Virolahden kunnanvirasto, Virojoentie 7, 49900 Virolahti.",
+      "regular_time": "Jatkuva haku; vapaamuotoinen hakemus tai kunnan lomake.",
+      "free_and_conditions": "Yli 65-vuotiaan väestön toimintaa tukevaan terveyttä ja hyvinvointia edistävään hankkeeseen. Hakemuksen voi tehdä yksittäinen kuntalainen, ikääntyneiden toimintaryhmä, kunnan toimiala tai yhdistys/järjestö. Yksittäisellä hakemuksella ei ole ala- eikä ylärajaa; perintövaroja voidaan käyttää enintään 10 000 €/vuosi. Tämä ei ole yleinen henkilökohtainen toimeentulotuki, vaan hyvinvointia edistävän toiminnan/hankkeen avustus.",
+      "contact": "Lisätietoja hyvinvointijohtajalta; hakemukset kirjaamo@virolahti.fi. Kunnan keskustoimisto 040 710 7304.",
+      "source_urls": [
+        "https://virolahti.fi/asiointi-ja-paatoksenteko/avustukset/avustus-iakkaan-vaeston-hyvinvoinnin-edistamiseen/"
+      ],
+      "checked_date": "2026-11-21",
+      "status": "accepted",
+      "publication_ready": true
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "kotikoodi-hamina-kotka-2026",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Hamina",
+        "Kotka",
+        "Miehikkälä",
+        "Pyhtää",
+        "Virolahti"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Yksi yhteinen maksuton palvelutietue; laajennettu 21.11.2026 virallisen perhekeskushakemiston perusteella."
+    },
+    {
+      "id": "kymenhva-perhetyo-maksuton-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kymenlaakso"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Maksuton perhetyö kotikäynnein; yksi maakunnallinen tietue, ei kuntakohtaisia kopioita."
+    },
+    {
+      "id": "spr-aineellisen-avun-maksukortit-2026-syys-marras",
+      "coverage": [
+        "Hamina",
+        "Kotka",
+        "Kouvola",
+        "Miehikkälä",
+        "Virolahti"
+      ],
+      "status": "pending_local_distribution_details",
+      "note": "Yksi yhteinen SPR:n ohjelmatietue kaikille ilmoitetuille jakelupaikoille; paikallisia kuntakohtaisia kopioita ei luoda."
+    },
+    {
+      "id": "varke-korjausavustus-ikaantyneet-vammaiset",
+      "coverage": [
+        "Koko Suomi"
+      ],
+      "status": "existing_national_service_reused",
+      "note": "VARKEn valtakunnallinen korjausavustus viitataan samalla kanonisella tunnisteella; Kanta-Hämeen aiempi kirjoitusasu normalisoidaan tähän tunnisteeseen."
+    },
+    {
+      "id": "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026",
+      "coverage": [
+        "Koko Kymenlaakso"
+      ],
+      "status": "pending_single_regional_record",
+      "note": "Yksi avoin maakunnallinen tarkistustietue; ei kuntakohtaisia kaksoiskappaleita."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "hamina-leipakirkon-ruoanjako-maksuttomuus-2026",
+      "municipality": "Hamina",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Haminan seurakunta vahvistaa Leipäkirkon ylijäämäruoan jaon maanantaisin klo 16.30–17.00, Vallikatu 4. Maksuttomuus ja asiakkaiden ehdot on vahvistettava ennen hyväksymistä. Lähde: https://haminanseurakunta.fi/talous-ja-ruoka-apua/"
+    },
+    {
+      "id": "hamina-seurakunnan-diakonian-taloudellinen-apu-2026",
+      "municipality": "Hamina, Miehikkälä ja Virolahti (yksi yhteinen seurakunta-alue)",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Haminan seurakunnan diakonia-alue kattaa Haminan, Miehikkälän ja Virolahden. Taloudellista tukea voi tiedustella diakoniavastaanotolta; vastaanotto ma, ti, to ja pe klo 9–10 ajanvarauksella. Haminan toimisto palvelee myös Miehikkälän ja Virolahden asukkaita. Avun tarkat ehdot ja maksuttomuus eivät käy riittävän selvästi ilmi, joten palvelu pysyy vahvistettavana. Lähteet: https://haminanseurakunta.fi/talous-ja-ruoka-apua/ ja https://haminanseurakunta.fi/yhteystiedot-aukioloajat/",
+      "coverage": [
+        "Hamina",
+        "Miehikkälä",
+        "Virolahti"
+      ]
+    },
+    {
+      "id": "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026",
+      "municipality": "Kymenlaakso (alueellinen; kattaa Hamina, Kotka, Kouvola ja muut maakunnan kunnat)",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa sekä ruoanlaittoa, tiskausta, siivousta ja pyykkihuoltoa. Palvelusivulla ei ilmoiteta palvelun hintaa; palvelusetelistä voi jäädä asiakkaalle omavastuu. Maksuttomuus on varmistettava ennen hyväksymistä. Lähde: https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/"
+    },
+    {
+      "id": "silmut-kotka-ruoka-apu-maksuttomuus-2026",
+      "municipality": "Kotka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Silmut ry:n oma sivu vahvistaa ruokakassien jaon ma–pe klo 11.00–11.45, yksi kassi/talous kerran viikossa. Maksuttomuutta ei ilmoiteta järjestäjän sivulla, joten palvelu jää vahvistettavaksi. Lähde: https://www.silmutry.fi/ruoka-apu/"
+    },
+    {
+      "id": "sini-kotka-aamupala-maksuttomuus-2026",
+      "municipality": "Kotka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Sini-Kotkassa on aamupala arkisin klo 9.00–10.30, toimipiste avoinna ma–pe klo 9–12, Kotkankatu 14 lh 3. Järjestäjän sivu ei ilmoita aamupalan maksuttomuutta, joten palvelua ei vielä hyväksytty. Yhteys 044 745 1392. Lähde: https://www.ks-sininauha.fi/toimipisteet/sini-kotka/"
+    },
+    {
+      "id": "kouvolan-kipina-ruokakassi-maksuttomuus-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kouvolan Kipinä ry:n ruoka-apukassit vähävaraisille: Kouvolan jako maanantaisin ja perjantaisin klo 14.30, Päiväkeskus Brankkarin parkkipaikka, Hallituskatu 11. Tilaus tekstiviestillä/WhatsAppilla keskiviikkoisin klo 9.30–9.45, 041 327 0860. Järjestäjän sivu ei nimenomaisesti ilmoita maksuttomuutta; varmistettava. Lähde: https://kouvolankipina.fi/palvelut/ruokakassi/"
+    },
+    {
+      "id": "kouvolan-kipina-koulujen-ylijaamaruoka-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kouvolan Kipinä ry jakaa koulujen ylijäämäruokaa arkipäivisin noin klo 13.00–13.30, jos ruokaa saadaan. Tarkka jakopaikka vaihtelee; maksuttomuus ja noutopaikat tarkistettava ennen hyväksymistä. Lähde: https://www.kouvola.fi/hyvinvointi-ja-terveys/voi-hyvin/ikaantyneet/arjen-apu/"
+    },
+    {
+      "id": "kouvolan-seurakuntien-pikkuhelppi-ajantasaiset-ehdot",
+      "municipality": "Kouvola",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Kouvolan seurakuntien sivuilla on PikkuHelppi-linkki Kouvolaan, mutta paikallisen sivun ajantasaiset palveluehdot, maksuttomuus ja säännöllisyys eivät vahvistuneet. Lähde: https://www.kouvolanseurakunnat.fi/lapset/pikkuhelppi/kouvola"
+    },
+    {
+      "id": "hope-kouvola-vaate-ja-tavara-apu-ehdot-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Vaatteet",
+        "Tavarat"
+      ],
+      "detail": "Hope Kouvolan paikallistoimisto auttaa vähävaraisia ja kriisin kokeneita lapsiperheitä; asiakasajat sovitaan erikseen ja avunpyyntö tehdään lomakkeella. Vuoden 2026 maksuttomuus- ja hakuehdot sekä vastaanottokäytännön jatkuminen tarkistetaan vielä suoraan toimistolta. Yhteys kouvola@hopeyhdistys.fi, Savonkatu 23, 45100 Kouvola. Lähde: https://hopeyhdistys.fi/paikallistoimisto/kouvola/"
+    },
+    {
+      "id": "kouvolan-seurakunnan-taloudellinen-apu-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kouvolan seurakunnan taloudellisen avun vastaanotto tiistaisin Savonkatu 40, ajanvaraus 0400 374 996 tai diakonia.kouvola@evl.fi, vain Kouvolan seurakunnan alueella asuville. Avustusten tarkat ehdot ja maksuttomuus vahvistettava. Lähde: https://www.kouvolanseurakunnat.fi/diakoniakouvola"
+    },
+    {
+      "id": "kouvolan-seurakunnan-opiskelustipendit-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kouvolan seurakunta myöntää vähävaraisille opiskelijoille stipendejä kirkon työhön opiskeluun. Hakujaksot 1.–28.2. ja 1.–30.9.; tarkat ehdot, summat ja vuoden 2026 hakukelpoisuus vahvistettava. Lähde: https://www.kouvolanseurakunnat.fi/diakoniakouvola"
+    },
+    {
+      "id": "spr-aineellisen-avun-maksukortit-2026-syys-marras",
+      "municipality": "Hamina, Kotka, Kouvola, Miehikkälä ja Virolahti (yksi yhteinen valtakunnallinen ohjelma)",
+      "coverage": [
+        "Hamina",
+        "Kotka",
+        "Kouvola",
+        "Miehikkälä",
+        "Virolahti"
+      ],
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "SPR:n maksuton aineellisen avun maksukorttiohjelma: 40 euron kortti elintarvikkeisiin ja muihin välttämättömiin perustarvikkeisiin K- ja S-ryhmän kaupoissa. Korttia ei voi vaihtaa käteiseksi eikä käyttää alkoholiin, tupakkaan tai rahapeleihin. Kaakkois-Suomen syys–marraskuun 2026 jakelupaikkalistassa ovat Hamina, Kotka, Kouvola ja Virolahti–Miehikkälä. Kortteja on rajallinen määrä ja paikallinen jakeluaika sekä hakumenettely vaihtelevat; siksi paikalliset käytännöt ovat vielä vahvistamatta. Yhteys: emmi-riika.seppala@redcross.fi. Lähde: https://www.redcross.fi/get-help-and-support/support-from-food-aid/",
+      "status": "pending_local_distribution_schedule_and_procedure",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.redcross.fi/get-help-and-support/support-from-food-aid/"
+      ]
+    },
+    {
+      "id": "pyhtaa-seurakunnan-diakonia-ruoka-ja-taloudellinen-apu-2026",
+      "municipality": "Pyhtää",
+      "coverage": [
+        "Pyhtää"
+      ],
+      "categories": [
+        "Ruoka-apu",
+        "Raha"
+      ],
+      "detail": "Pyhtään seurakunnan diakoniatyö kertoo taloudellisen ahdingon avun olevan ensisijaisesti ruoka-apua. Ennen yhteydenottoa tulee hakea apua oman paikkakunnan sosiaalitoimesta; taloudellista apua varten esitetään sosiaalitoimen ja Kelan päätökset sekä koko kuukauden tiliote. Taloudellisen avun aika varataan etukäteen. Diakonimottagningens drop-in on maanantaisin ja keskiviikkoisin klo 9–10. Avun maksuttomuutta ei vahvisteta riittävän yksiselitteisesti sivulla, joten tietue jää avoimeksi. Yhteys: Anne Koskinen, 044 743 1105, anne.koskinen@evl.fi. Diakoniatoimiston osoite: Motellikuja 4, 2. krs, 49220 Siltakylä. Lähteet: https://www.pyhtaanseurakunta.fi/apua-ja-tukea/diakoniatyo ja https://www.pyhtaanseurakunta.fi/yhteystiedot",
+      "status": "pending_free_status_confirmation",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.pyhtaanseurakunta.fi/apua-ja-tukea/diakoniatyo",
+        "https://www.pyhtaanseurakunta.fi/yhteystiedot"
+      ]
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "silmut-kotka-5e-lounas",
+      "municipality": "Kotka",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Silmut ry:n lounaspajan lämmin ruoka maksaa 5 euroa maanantaisin ja keskiviikkoisin klo 11–12; maksullinen ruokailu rajataan pois. Lähde: https://www.silmutry.fi/lounas-ja-kahvio/"
+    },
+    {
+      "id": "kouvolan-kipina-kodin-korjausapu-maksullinen",
+      "municipality": "Kouvola",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Kouvolan Kipinä ry:n kodin pienistä korjaus- ja kohennustöistä peritään pieni maksu; ei maksuton palvelu. Lähde: https://www.kouvola.fi/hyvinvointi-ja-terveys/voi-hyvin/ikaantyneet/arjen-apu/"
+    },
+    {
+      "id": "hope-kouvola-joulukerays-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Vaatteet",
+        "Tavarat",
+        "Ruoka-apu"
+      ],
+      "detail": "Hope Kouvolan joulukeräys ja joululahjojen kokoaminen ovat kausiluonteista joulutoimintaa; ei sisälly jatkuvien palveluiden rekisteriin. Lähde: https://hopeyhdistys.fi/paikallistoimisto/kouvola/"
+    },
+    {
+      "id": "kouvolan-seurakunnan-joulupuuro-2026",
+      "municipality": "Kouvola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "16.12.2026 järjestettävä maksuton joulupuuro on yksittäinen joulutapahtuma, ei jatkuva palvelu. Lähde: https://www.kouvolanseurakunnat.fi/diakoniakouvola"
+    },
+    {
+      "id": "pyhtaa-keskiviikon-keitokset-5e-2026",
+      "municipality": "Pyhtää",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Pyhtään seurakunnan keskiviikkoruokailun aikuishinta on 5 euroa; maksullinen ruokailu rajataan pois.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.pyhtaanseurakunta.fi/"
+      ]
+    },
+    {
+      "id": "pyhtaa-seurakunnan-jouluavustus-2025",
+      "municipality": "Pyhtää",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Sivulla oleva joulun 2025 avustushaku on vanhentunut ja kausiluonteinen; sitä ei käsitellä jatkuvana palveluna.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://www.pyhtaanseurakunta.fi/apua-ja-tukea/diakoniatyo"
+      ]
+    },
+    {
+      "id": "virolahti-puuropaiva-2026-11-27",
+      "municipality": "Virolahti",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "27.11.2026 järjestettävä yksittäinen puuropäivä on kertaluonteinen tapahtuma, ei jatkuva ruokapalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://virolahti.fi/"
+      ]
+    },
+    {
+      "id": "virolahti-tyollisyystilaisuus-lounas-2026-11-27",
+      "municipality": "Virolahti",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "27.11.2026 työllisyystilaisuuden yhteydessä tarjottava lounas on kertaluonteinen tapahtuma, ei jatkuva ruoka-apupalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://virolahti.fi/"
+      ]
+    },
+    {
+      "id": "virolahti-asumiskampanja-3-ilmaista-kuukautta-2026",
+      "municipality": "Virolahti",
+      "categories": [
+        "Asuminen"
+      ],
+      "detail": "1.10.–31.12.2026 voimassa oleva kolmen maksuttoman vuokrakuukauden kampanja on määräaikainen vuokrauksen markkinointietu, ei jatkuva avustuspalvelu.",
+      "checked_date": "2026-11-21",
+      "source_urls": [
+        "https://virolahti.fi/"
+      ]
+    }
+  ],
+  "summary": {
+    "municipalities_total": 6,
+    "municipalities_screened_first_pass": 6,
+    "category_checks_total": 36,
+    "new_accepted_service_records": 4,
+    "accepted_service_records_cumulative": 10,
+    "pending_leads_cumulative": 13,
+    "new_pending_leads": 2,
+    "excluded_observations_cumulative": 9,
+    "new_excluded_observations": 5,
+    "municipalities_fully_completed": 0,
+    "note": "Maakunnan kaikkien kuntien ensimmäinen kuuden kategorian seulonta on tehty. Tämä ei ole lopullinen lähdevarmistus; avoimet ja maksuttomuudeltaan epäselvät tietueet pysyvät erillään."
+  },
+  "next_checkpoint": "Lappi / Enontekiö / Ruoka-apu",
+  "first_pass_screening_complete": true,
+  "final_verification_complete": false,
+  "id_alias_normalization": [
+    {
+      "canonical_id": "varke-korjausavustus-ikaantyneet-vammaiset",
+      "previous_alias": "varke-korjausavustus-iakkaat-vammaiset",
+      "note": "Kanta-Hämeen 20.11.2026 auditointitiedoston tunniste normalisoidaan samaan valtakunnalliseen palveluun."
+    }
+  ]
+}
