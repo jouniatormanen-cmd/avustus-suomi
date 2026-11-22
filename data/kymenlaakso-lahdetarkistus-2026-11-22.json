@@ -403,13 +403,14 @@
       "municipality": "Virolahti",
       "category": "Ruoka-apu",
       "status": "pending_and_excluded",
-      "finding": "Haminan seurakunnan alueellinen diakonia- ja ruoka-apu voi palvella virolahtelaisia, mutta maksuttomuus ja paikallinen jakelutapa ovat avoinna. SPR:n 27.11.2026 puuropäivä on kertaluonteinen ja suljettiin pois.",
+      "finding": "Haminan seurakunnan alueellinen diakonia- ja ruoka-apu voi palvella virolahtelaisia, mutta maksuttomuus ja paikallinen jakelutapa ovat avoinna. SPR:n 27.11.2026 puuropäivä on kertaluonteinen ja suljettiin pois. Lisäksi 27.11.2026 järjestettävä maksuton työttömien lounastilaisuus on kertaluonteinen ja rajattu pois.",
       "service_ids": [],
       "pending_ids": [
         "hamina-seurakunnan-diakonian-taloudellinen-apu-2026"
       ],
       "excluded_ids": [
-        "virolahti-miehikkala-spr-puuropaiva-kertaluonteinen-2026"
+        "virolahti-miehikkala-spr-puuropaiva-kertaluonteinen-2026",
+        "virolahti-tyottomien-maksuton-lounastilaisuus-kertaluonteinen-2026-11-27"
       ],
       "checked_date": "2026-11-22"
     },
@@ -683,7 +684,7 @@
       "location": "Virolahden kunnanvirasto, Virojoentie 7, 49900 Virolahti",
       "regular_time": "Jatkuva haku; hakemuksia vastaanotetaan ympäri vuoden. Kunnan käytettävissä oleva summa enintään 10 000 €/vuosi.",
       "free_and_conditions": "Maksuton hakea. Hakijana voi olla yksittäinen vähintään 65-vuotias kuntalainen, ikääntyneiden toimintaryhmä, kunnan toimiala tai yhdistys. Avustuksen käyttötarkoituksen tulee tukea ikääntyvien toimintaa sekä terveyttä ja hyvinvointia edistävää hanketta. Yksittäiselle hakemukselle ei ole ala- eikä ylärajaa; kokonaismääräraha on rajallinen. Ei yleinen vapaasti käytettävä toimeentuloavustus.",
-      "contact": "Hyvinvointijohtaja Outi Silander 040 549 3335; hakemus kirjaamo@virolahti.fi tai Virojoentie 7, 49900 Virolahti",
+      "contact": "Virolahden kunnan hyvinvointijohtaja; kunnan keskustoimisto 040 710 7304, kirjaamo@virolahti.fi; Virojoentie 7, 49900 Virolahti.",
       "source_urls": [
         "https://virolahti.fi/asiointi-ja-paatoksenteko/avustukset/avustus-iakkaan-vaeston-hyvinvoinnin-edistamiseen/",
         "https://virolahti.fi/yhteystiedot/"
@@ -914,6 +915,14 @@
         "Ruoka-apu"
       ],
       "detail": "SPR Virolahti-Miehikkälän osaston Puuropäivä 27.11.2026 klo 11–13 Rajasalissa, Itätie 1, Virolahti on yksittäinen tapahtuma, ei säännöllinen palvelu. Rajataan pois kertaluonteisena. Lähde: https://virolahti.fi/2026/11/17/spr-virolahti-miehikkalan-osasto-puuropaiva-27-11-2026-klo-11-13/"
+    },
+    {
+      "id": "virolahti-tyottomien-maksuton-lounastilaisuus-kertaluonteinen-2026-11-27",
+      "municipality": "Virolahti",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Virolahden kunnan maksuton työllisyystilaisuus ja yhteinen lounas Tyynen puodissa 27.11.2026 klo 9.30–11.30 on yksittäinen tilaisuus, ei säännöllinen avustuspalvelu. Rajataan pois kertaluonteisena. Lähde: https://virolahti.fi/2026/11/10/oletko-tyoton-tyonhakija-tai-kiinnostunut-tyollistymisen-mahdollisuuksista/"
     }
   ],
   "summary": {
@@ -924,8 +933,8 @@
     "cumulative_accepted_service_records": 11,
     "new_pending_leads": 1,
     "cumulative_pending_leads": 12,
-    "new_excluded_observations": 2,
-    "cumulative_excluded_observations": 6,
+    "new_excluded_observations": 3,
+    "cumulative_excluded_observations": 7,
     "municipalities_fully_completed": 0
   },
   "next_checkpoint": "Lappi / Enontekiö / Ruoka-apu",
