@@ -16,11 +16,12 @@ Uudet hyväksytyt tietueet tässä ajossa:
 - Virolahden nuorten ensiasunnon avustus
 - Virolahden iäkkään väestön hyvinvoinnin edistämisen avustus
 - Kymenlaakson HVA:n täydentävä ja ehkäisevä toimeentulotuki (yksi alueellinen tietue, kaikki kuusi kuntaa)
+- Kymenlaakson HVA:n lapsiperheiden kotipalvelun maksuton toteutus (omien työntekijöiden tuotanto; palvelusetelin mahdollinen omavastuu rajataan pois)
 
 Avoinna:
 - Haminan seurakunnan alueellisen ruoka- ja talousavun maksuttomuus ja paikallinen jakelutapa
 - Pyhtään seurakunnan ruoka- ja talousavun maksuttomuus sekä jakelurytmi
-- Kymenlaakson lapsiperheiden kotipalvelun mahdollinen omavastuu
+- Palvelusetelituottajan 30 €/h ylittävä omavastuu ei kuulu maksuttomaan tietueeseen; omien työntekijöiden toteutus on hyväksytty
 
 Poissuljettu:
 - Pyhtään maksullinen Keskiviikon keitokset -ruokailu
@@ -60,8 +61,8 @@ Poissuljettu:
 
 - Tässä ajossa käsitellyt uudet kunnat: 6 (3 Kymenlaaksossa ja 3 Lapissa)
 - Uudet kuntakategoriatarkistukset: 54
-- Uudet hyväksytyt palvelutietueet: 9
-- Avoimet vahvistukset näissä maakuntatiedostoissa: 16
+- Uudet hyväksytyt palvelutietueet: 10
+- Avoimet vahvistukset näissä maakuntatiedostoissa: 15
 - Poissuljetut havainnot näissä maakuntatiedostoissa: 11
 - Kymenlaakson ensimmäinen kierros: 6/6
 - Lapin ensimmäinen kierros: 3/21
