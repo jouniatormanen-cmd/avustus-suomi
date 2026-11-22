@@ -3,9 +3,9 @@
   "province": "Lappi",
   "checked_date": "2026-11-22",
   "update_type": "continued_first_pass",
-  "source_checkpoint": "docs/jatkomuistio-2026-11-22.md: Lappi / Kemijärvi / Ruoka-apu; viiden seuraavan kunnan ensisijaislähdetarkistus tehty tässä päivityksessä.",
-  "previous_checkpoint": "Lappi / Kemijärvi / Ruoka-apu",
-  "next_checkpoint": "Lappi / Pelkosenniemi / Ruoka-apu",
+  "source_checkpoint": "docs/jatkomuistio-2026-11-22.md: Lappi / Pelkosenniemi / Ruoka-apu; Pelkosenniemi ja Pello tarkistettu kaikissa kuudessa kategoriassa tässä päivityksessä.",
+  "previous_checkpoint": "Lappi / Pelkosenniemi / Ruoka-apu",
+  "next_checkpoint": "Lappi / Posio / Ruoka-apu",
   "category_order": [
     "Ruoka-apu",
     "Kotiapu",
@@ -45,7 +45,9 @@
     "Keminmaa",
     "Kittilä",
     "Kolari",
-    "Muonio"
+    "Muonio",
+    "Pelkosenniemi",
+    "Pello"
   ],
   "municipalities_fully_completed": [],
   "category_checks": [
@@ -475,7 +477,7 @@
       "finding": "Seurakunnan diakoninen taloudellinen tuki on maksutonta kaikille. Kunnan omaishoitajien virkistysavustus on vuosittainen 100 €/kk avustus sopimusomaishoitajille; vuoden 2026 hakuaika päättyi 15.11. Lisäksi kaikenikäisille on maksuton talous- ja velkaneuvonta kerran kuussa.",
       "service_ids": [
         "kittila-seurakunnan-diakoninen-taloudellinen-tuki-2026",
-        "kittila-talous-ja-velkaneuvonta-kittila-kuukausittain-2026",
+        "lapin-oikeusaputoimisto-talous-ja-velkaneuvonta-kittila-pello-2026",
         "kittila-omaishoitajien-virkistysavustus-2026",
         "lapha-taydentava-ehkaiseva-toimeentulotuki-2026"
       ],
@@ -632,6 +634,145 @@
       "finding": "Muonion kunnan maksuton ja luottamuksellinen asumisneuvonta palvelee kaikkia kuntalaisia, myös vuokranantajia. Lisäksi Lapin HVA:n vammaispalvelulain mukainen asumisen tuki kattaa Muonion.",
       "service_ids": [
         "muonio-asumisneuvonta-maksuton-2026",
+        "lapha-asumisen-tuki-vammaisille-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pelkosenniemi",
+      "category": "Ruoka-apu",
+      "status": "pending",
+      "finding": "Pelkosenniemen seurakunta jakaa kaupan hävikkiruokaa apua tarvitseville. Nykyinen tapahtumakalenteri näyttää tiistaisin klo 14 (10.11. ja 24.11.), mutta seurakunnan yleinen ohjesivu ilmoittaa keskiviikon klo 12. Maksuttomuus ja ajantasainen säännöllinen rytmi on vahvistettava.",
+      "service_ids": [],
+      "pending_ids": [
+        "pelkosenniemen-seurakunnan-havikkiruokajako-aika-ja-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pelkosenniemi",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelun maksuton ehtopolku kattaa Pelkosenniemen; maksuttomuus edellyttää palvelutarpeen arviointiin perustuvaa päätöstä tai toimeentulotuen saamista.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pelkosenniemi",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista vaateapua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pelkosenniemi",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista tavara-apua tai lainaamoa ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pelkosenniemi",
+      "category": "Raha",
+      "status": "accepted_and_pending",
+      "finding": "Lapin HVA:n täydentävä/ehkäisevä toimeentulotuki kattaa Pelkosenniemen. Seurakunta vahvistaa tarveharkintaisen taloudellisen avustamisen, pääosin ruoka-apuna, mutta maksuttomuutta ei ilmaista sivulla.",
+      "service_ids": [
+        "lapha-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [
+        "pelkosenniemen-diakonian-taloudellisen-avun-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pelkosenniemi",
+      "category": "Asuminen",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen vammaispalvelulain mukainen asumisen tuki kattaa Pelkosenniemen; maksuton tukipalvelu edellyttää yksilöllistä palvelutarpeen arviointia.",
+      "service_ids": [
+        "lapha-asumisen-tuki-vammaisille-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pello",
+      "category": "Ruoka-apu",
+      "status": "no_verified_free_service",
+      "finding": "Pellon seurakunnan ja kunnan lähteistä löytyneet maksuttomat ateriat olivat yksittäisiä tapahtumia tai joulun kausitoimintaa, eivät säännöllisiä palveluja.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pello",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelun maksuton ehtopolku kattaa Pellon; maksuttomuus edellyttää palvelutarpeen arviointiin perustuvaa päätöstä tai toimeentulotuen saamista.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pello",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista vaateapua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pello",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista tavara-apua tai lainaamoa ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pello",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "finding": "Lapin HVA:n täydentävä/ehkäisevä toimeentulotuki ja maksuton talous- ja velkaneuvonta ovat käytettävissä. Pellon seurakunnan diakoninen taloudellinen avustus on sivun mukaan pääsääntöisesti kertaluonteista ja rajattiin pois.",
+      "service_ids": [
+        "lapha-taydentava-ehkaiseva-toimeentulotuki-2026",
+        "lapin-oikeusaputoimisto-talous-ja-velkaneuvonta-kittila-pello-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "pello-seurakunnan-kertaluonteinen-diakonia-avustus-2026"
+      ],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Pello",
+      "category": "Asuminen",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen vammaispalvelulain mukainen asumisen tuki kattaa Pellon; maksuton tukipalvelu edellyttää yksilöllistä palvelutarpeen arviointia.",
+      "service_ids": [
         "lapha-asumisen-tuki-vammaisille-2026"
       ],
       "pending_ids": [],
@@ -952,26 +1093,27 @@
       "publication_note": "Talousapu on harkinnanvaraista ja akuuttiin tarpeeseen; ei säännöllinen kuukausietuus."
     },
     {
-      "id": "kittila-talous-ja-velkaneuvonta-kittila-kuukausittain-2026",
-      "name": "Talous- ja velkaneuvonta – Kittilän toimipaikka",
+      "id": "lapin-oikeusaputoimisto-talous-ja-velkaneuvonta-kittila-pello-2026",
+      "name": "Talous- ja velkaneuvonta – Kittilän ja Pellon toimipaikat",
       "organizer": "Lapin oikeusaputoimisto / Oikeuspalveluvirasto",
       "categories": [
         "Raha"
       ],
       "coverage": [
-        "Kittilä"
+        "Kittilä",
+        "Pello"
       ],
-      "location": "Kittilän kunnantalo, Valtatie 60, 99100 Kittilä; lisäksi valtakunnallinen puhelin- ja verkkopalvelu",
-      "regular_time": "Kerran kuukaudessa kuukauden toisena keskiviikkona klo 15–17 kunnantalon aulassa. Keskusteluun voi tulla ilman ajanvarausta; erillisen tapaamisajan voi sopia.",
-      "free_and_conditions": "Maksuton talous- ja velkaneuvonta kaikenikäisille, myös ilman velkoja oleville. Neuvoja arjen talouden suunnitteluun, budjetointiin ja velkaongelmiin; keskustelu luottamuksellisesti ja haluttaessa nimettömänä.",
-      "contact": "029 566 1567; lappi.velkaneuvonta@oikeus.fi.",
+      "location": "Kittilä: kunnantalon aula, Valtatie 60, 99100 Kittilä. Pello: Pellon toimipaikka, Kunnantie 4, 95700 Pello.",
+      "regular_time": "Kittilä: kerran kuussa kuukauden toisena keskiviikkona klo 15–17, kunnantalon aulassa. Pello: vain ajanvarauksella.",
+      "free_and_conditions": "Maksuton talous- ja velkaneuvonta kaikenikäisille; yhteydenotto ei edellytä velkaa. Neuvoja arjen talouteen, budjetointiin ja velka-asioihin. Keskustelu on luottamuksellista ja Kittilässä haluttaessa nimetöntä.",
+      "contact": "029 566 1567; lappi.velkaneuvonta@oikeus.fi. Kittilän kuukausikäynti Valtatie 60; Pellon toimipaikka Kunnantie 4.",
       "source_urls": [
         "https://kittila.fi/arki-nuorille",
-        "https://oikeus.fi/talousjavelkaneuvonta/lapinoikeusaputoimisto/fi/index.html"
+        "https://www.oikeus.fi/yhteystiedot/"
       ],
       "checked_date": "2026-11-22",
       "status": "accepted",
-      "publication_note": "Kittilän paikallinen kuukausikäynti lisätään yhteen alueelliseen talous- ja velkaneuvontapalveluun, ei erilliseksi kuntakohtaiseksi oikeuspalvelun kaksoiskappaleeksi."
+      "publication_note": "Yksi alueellisen oikeusaputoimiston tietue kahdelle vahvistetulle paikalliselle toimipaikalle. Kittilän kuukausikäynti ja Pellon ajanvarauspalvelu kuvataan samassa tietueessa, ei kaksoiskappaleita."
     },
     {
       "id": "kittila-omaishoitajien-virkistysavustus-2026",
@@ -1168,6 +1310,22 @@
         "Ruoka-apu"
       ],
       "detail": "SOS-Lapsikylä vahvistaa Hyvinvoiva vanhemmuus -hankkeen Mummun ja vaarin tupa -toiminnan kattavan Kittilän, Muonion, Kolarin ja Enontekiön 1.12.2026–30.4.2028. Kittilän ja Muonion paikalliset ajat ja paikat vahvistuivat; Enontekiön ja Kolarin paikalliset tilat, ajat ja ilmoittautumisohjeet on vielä tarkistettava ennen kuntakohtaista julkaisua. Hankkeen yhteyshenkilö Piritta Minkkinen 044 754 7822, piritta.minkkinen@sos-lapsikyla.fi. Lähde: https://www.sos-lapsikyla.fi/sos-lapsikylan-mummun-ja-vaarin-tupia-aukeaa-lisaa-ympari-suomea/"
+    },
+    {
+      "id": "pelkosenniemen-seurakunnan-havikkiruokajako-aika-ja-maksuttomuus-2026",
+      "municipality": "Pelkosenniemi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Pelkosenniemen seurakunnan nykyinen tapahtumakalenteri näyttää Hävikkiruokajakelu-tapahtumat tiistaisin klo 14 Pelkosenniemen seurakuntatalolla (10.11. ja 24.11.2026). Seurakunnan yleinen Apua ja tukea -sivu ilmoittaa kuitenkin jakelun keskiviikkoisin klo 12. Ruoka on kaupan hävikkiä vähävaraisille, mutta maksuttomuutta ei ilmaista nimenomaisesti. Aika ja nollamaksu vahvistettava ennen hyväksymistä. Lähteet: https://www.pelkosenniemenseurakunta.fi/apua-ja-tukea ja https://www.pelkosenniemenseurakunta.fi/tapahtumat/2026-11-24/havikkiruokajakelu1"
+    },
+    {
+      "id": "pelkosenniemen-diakonian-taloudellisen-avun-maksuttomuus-2026",
+      "municipality": "Pelkosenniemi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Pelkosenniemen seurakunta kertoo taloudellisen avustamisen kuuluvan diakoniatyöhön ja olevan pääosin ruoka-apua; tarve arvioidaan yksilöllisesti. Diakoniatyöntekijä Kaisa Pulska 040 512 0767. Maksuttomuutta ja mahdollisen avustuksen ehtoja ei ilmaista täsmällisesti. Lähde: https://www.pelkosenniemenseurakunta.fi/apua-ja-tukea"
     }
   ],
   "excluded_observations": [
@@ -1254,6 +1412,30 @@
         "Kotiapu"
       ],
       "detail": "Meän tuokio on maksuton toimintakykyä tukeva ryhmä yli 65-vuotiaille, mutta se ei ole ruoka- tai kotiapupalvelu; Kyläpirtin kahvitarjoilu maksaa 2 €. Rajataan avustuspalveluluokituksen ulkopuolelle. Lähde: https://www.muonio.fi/tapahtumat/mean-tuokio-kylapirtilla-42.html"
+    },
+    {
+      "id": "pello-seurakunnan-kertaluonteinen-diakonia-avustus-2026",
+      "municipality": "Pello",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Pellon seurakunta kertoo diakonisen taloudellisen avun olevan pääsääntöisesti kertaluonteista. Rajataan pois jatkuvien palveluiden kartoituksesta käyttäjän kertaluonteisia palveluja koskevan rajauksen vuoksi. Lähde: https://www.pellonseurakunta.fi/apua-ja-tukea"
+    },
+    {
+      "id": "pello-yksittaiset-ja-joulun-ruokailut-2025-2026",
+      "municipality": "Pello",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kaikenikäisten kirkkopyhä 5.10.2025 ja Vanhustenviikon juhla 7.10.2026 olivat yksittäisiä tapahtumia; diakonian jouluateria 22.12.2025 oli joulun kausitapahtuma. Vaikka ateriat olivat maksuttomia, ne eivät ole säännöllisiä avustuspalveluja. Lähteet: https://www.pello.fi/ajankohtaista/tapahtumat/kaikenikaisten-kirkkopyha.html, https://www.pello.fi/ajankohtaista/tapahtumat/vanhustenviikon-tapahtuma-juhla-arjen-keskella.html, https://www.pello.fi/ajankohtaista/tapahtumat/diakonian-jouluateria-2.html"
+    },
+    {
+      "id": "pello-kunnan-harkinnanvaraiset-avustukset-yhdistyksille-2027",
+      "municipality": "Pello",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Pellon kunnan vuoden 2027 harkinnanvaraiset avustukset on tarkoitettu Pelloon rekisteröidyille yhdistyksille, järjestöille ja järjestäytyneille yleishyödyllisille toimijoille, ei yksittäisille avuntarvitsijoille. Rajataan henkilökohtaisen avun palveluista pois. Lähde: https://www.pello.fi/ajankohtaista/uutiset/harkinnanvaraisten-avustusten-haku-avoinna-myos-kylarahat-ja-tieavustukset.html"
     }
   ],
   "regional_service_reuse": [
@@ -1379,27 +1561,44 @@
         "https://kittila.fi/mummun-ja-vaarin-tupa",
         "https://www.muonio.fi/tapahtumat/sos-lapsikylan-mummun-ja-vaarin-tupa-2.html"
       ]
+    },
+    {
+      "id": "lapin-oikeusaputoimisto-talous-ja-velkaneuvonta-kittila-pello-2026",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kittilä",
+        "Pello"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Lapin oikeusaputoimiston maksuton talous- ja velkaneuvonta. Kittilässä kuukausittainen vastaanotto, Pellossa ajanvarauksella; yksi yhteinen tietue, ei kuntakohtaisia kopioita.",
+      "source_urls": [
+        "https://kittila.fi/arki-nuorille",
+        "https://www.oikeus.fi/yhteystiedot/"
+      ]
     }
   ],
   "summary": {
-    "municipalities_screened_first_pass": 8,
+    "municipalities_screened_first_pass": 10,
     "total_municipalities": 21,
-    "category_checks": 48,
-    "new_accepted_service_records": 12,
+    "category_checks": 60,
+    "new_accepted_service_records": 0,
     "cumulative_accepted_service_records": 16,
-    "new_pending_leads": 9,
-    "cumulative_pending_leads": 13,
-    "new_excluded_observations": 6,
-    "cumulative_excluded_observations": 10,
+    "new_pending_leads": 2,
+    "cumulative_pending_leads": 15,
+    "new_excluded_observations": 3,
+    "cumulative_excluded_observations": 13,
     "municipalities_fully_completed": 0
   },
   "notes": [
-    "Ensimmäisen kierroksen kuntia on nyt kahdeksan: Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari ja Muonio. Kaikki kuusi kategoriaa tarkistettiin viidessä uudessa kunnassa.",
-    "Lapin hyvinvointialueen kolme hyväksyttyä palvelua (lapsiperheiden kotipalvelun maksuton ehtopolku, täydentävä/ehkäisevä toimeentulotuki ja vammaispalvelulain mukainen asumisen tuki) säilytetään yhtenä alueellisena tietueena; niitä ei monisteta kuntakohtaisesti.",
-    "SOS-Lapsikylän Mummun ja vaarin tupa lisättiin yhdeksi alueelliseksi tietueeksi Kittilälle, Muoniolle, Kolarille ja Enontekiölle. Paikalliset ajat vahvistuivat Kittilässä ja Muoniossa; Kolari ja Enontekiö pysyvät pending-tilassa.",
-    "Keminmaan hävikkiruokajaon, diakonisen talousavun ja Pikkuhelpin maksuttomuutta ei ilmaista järjestäjän sivuilla; niitä ei hyväksytty ennen nimenomaista vahvistusta.",
-    "Kittilän maksuton harrastusvälinelainaamo hyväksyttiin, mutta Vihreä Ahman myymälämyynti rajattiin pois. Kierrätyskeskuksen avuntarvitsijoille tehtävien lahjoitusten hakutapa on vielä avoin.",
-    "Kittilän ja Muonion asumisneuvonnan sekä Muonion aurausavustuksen jatkoehdot on erotettu hyväksytyistä palveluista: Kittilän asumisneuvonnan maksuttomuutta ja aurausavustuksen vuosittaista jatkuvuutta ei vahvistettu.",
+    "Ensimmäisen kierroksen kuntia on nyt kymmenen: Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkosenniemi ja Pello. Kaikki kuusi kategoriaa tarkistettiin kahdessa uudessa kunnassa.",
+    "Lapin hyvinvointialueen kolme hyväksyttyä palvelua säilytetään yhtenä alueellisena tietueena; niitä ei monisteta kuntakohtaisesti.",
+    "SOS-Lapsikylän Mummun ja vaarin tupa säilytetään yhtenä alueellisena tietueena Kittilälle, Muoniolle, Kolarille ja Enontekiölle. Paikalliset ajat vahvistettu Kittilässä ja Muoniossa; Kolari ja Enontekiö pending.",
+    "Lapin oikeusaputoimiston talous- ja velkaneuvonta yhdistettiin yhdeksi tietueeksi Kittilän ja Pellon toimipaikoille; Kittilän kuukausikäynti ja Pellon ajanvaraus eivät ole erillisiä palveluita.",
+    "Pelkosenniemen seurakunnan hävikkiruokajaon aikataulussa on ristiriita: yleinen sivu ilmoittaa keskiviikon klo 12, tapahtumakalenteri tiistain klo 14. Maksuttomuus ja oikea rytmi odottavat vahvistusta.",
+    "Pelkosenniemen seurakunnan taloudellinen avustaminen on vahvistettu, mutta maksuttomuus ja ehdot eivät ilmene sivulta; tietue pysyy pending-tilassa.",
+    "Pellon seurakunnan taloudellinen apu on pääsääntöisesti kertaluonteista, joten se rajattiin pois. Pellon maksuton oikeudellinen talous- ja velkaneuvonta yhdistettiin Kittilän kanssa samaan alueelliseen tietueeseen.",
     "Yhtään kuntaa ei merkitty lopullisesti valmiiksi. Julkisen sivuston ulkoasua eikä päärekistereitä muutettu."
   ]
 }
