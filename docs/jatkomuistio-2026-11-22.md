@@ -13,7 +13,7 @@ Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkose
 - Kuntakategoriatarkistuksia: 60/126
 - Lapin kartoitustiedoston hyväksytyt palvelutietueet: 16
 - Avoimet vahvistukset: 15
-- Poissuljetut havainnot: 13
+- Poissuljetut havainnot: 14
 - Lopullisesti valmiiksi merkittyjä kuntia: 0
 
 ## Tämän päivityksen merkittävimmät tulokset
@@ -22,6 +22,7 @@ Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkose
 - Pellon maksuton talous- ja velkaneuvonta vahvistui; Pellon toimipaikka yhdistettiin Kittilän kuukausikäynnin kanssa yhdeksi Lapin oikeusaputoimiston tietueeksi.
 - Pellon seurakunnan taloudellinen avustus rajattiin pois, koska se on pääsääntöisesti kertaluonteista.
 - Pellon yksittäiset maksuttomat ateriat ja joulun ruokailu rajattiin pois jatkuvien palveluiden kartoituksesta.
+- Muonion keskuskeittiön hävikkiruoan myynti 3,20 €/7,5 dl rajattiin pois maksullisena; se erotettiin maksuttomasta kunnan tapahtumakalenterin hävikkiruoan jaosta.
 - Lapin HVA:n alueelliset kotipalvelu-, toimeentulotuki- ja asumisen tukipalvelut säilyvät yhtenä maakunnallisena tietueena kukin.
 - SOS-Lapsikylän Mummun ja vaarin tupa säilyy yhtenä alueellisena tietueena; Kittilän ja Muonion paikalliset ajat vahvistettu, Kolari ja Enontekiö pending.
 
