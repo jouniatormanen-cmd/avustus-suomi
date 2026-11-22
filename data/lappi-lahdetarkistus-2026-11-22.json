@@ -113,13 +113,12 @@
     {
       "municipality": "Inari",
       "category": "Ruoka-apu",
-      "status": "accepted_and_pending",
-      "finding": "Inarin seurakunnan ja Marttojen kuukausittainen kotiruokalounas on avoin kaikille ja maksu vapaaehtoinen; lisäksi kunta ilmoittaa arkisesta hävikkiruoan jaosta, jonka maksuttomuus ja järjestäjä pitää vielä vahvistaa.",
-      "service_ids": [
-        "inari-evastellaan-yhdessa-maksuton-osallistuminen-2026"
-      ],
+      "status": "pending",
+      "finding": "Inarin seurakunnan ja Marttojen kuukausittainen yhteisruokailu on toistuva, mutta järjestäjän ilmoittama vapaamuotoinen hinta ei vahvista nollamaksun mahdollisuutta. Myös kunnan ilmoittaman arkisen hävikkiruoan jaon maksuttomuus ja järjestäjä on vahvistettava.",
+      "service_ids": [],
       "pending_ids": [
-        "inari-havikkiruoan-jako-maksuttomuus-2026"
+        "inari-havikkiruoan-jako-maksuttomuus-2026",
+        "inari-evastellaan-yhdessa-maksuttomuus-2026"
       ],
       "excluded_ids": [],
       "checked_date": "2026-11-22"
@@ -188,13 +187,16 @@
     {
       "municipality": "Kemi",
       "category": "Ruoka-apu",
-      "status": "pending",
-      "finding": "Kemin ruokajakelu vähävaraisille on järjestäjien yhteinen palvelu, mutta maksuttomuutta ja säännöllistä jakorytmiä ei vahvistettu. Uusien asiakkaiden yhteydenotto tiistaisin klo 12–14.",
+      "status": "pending_and_excluded",
+      "finding": "Kemin ruokajakelu vähävaraisille on järjestäjien yhteinen palvelu, mutta maksuttomuutta ja säännöllistä jakorytmiä ei vahvistettu. Uusien asiakkaiden yhteydenotto tiistaisin klo 12–14. Lisäksi Kemin seurakunnan Soppa ja sutina- ja Hopealyhty-ruokailut ovat maksullisia; Hopealyhdyn päivittäinen ruokailu päättyi 2025.",
       "service_ids": [],
       "pending_ids": [
         "kemin-spr-ruokajakelu-maksuttomuus-ja-rytmi-2026"
       ],
-      "excluded_ids": [],
+      "excluded_ids": [
+        "kemin-soppa-ja-sutina-maksullinen-ruokailu-2026",
+        "kemin-hopealyhty-maksullinen-ja-lopetettu-ruokailu-2026"
+      ],
       "checked_date": "2026-11-22"
     },
     {
@@ -232,7 +234,7 @@
     {
       "municipality": "Kemi",
       "category": "Raha",
-      "status": "accepted_and_pending",
+      "status": "accepted_and_pending_and_excluded",
       "finding": "Lapin hyvinvointialueen täydentävä/ehkäisevä toimeentulotuki on maksuton hakijalle; Kemin seurakunnan kriisiluonteisen diakonisen talousavun maksuttomuus ja ehdot ovat vielä avoinna.",
       "service_ids": [
         "lapha-taydentava-ehkaiseva-toimeentulotuki-2026"
@@ -386,28 +388,6 @@
       "publication_note": "Tietue kattaa maksuttoman tuen, ei asumisyksikön vuokraa, aterioita tai ylläpitomaksuja."
     },
     {
-      "id": "inari-evastellaan-yhdessa-maksuton-osallistuminen-2026",
-      "name": "Evästellään yhdessä – kuukausittainen kotiruokalounas",
-      "organizer": "Inarin seurakunta ja Inarin Martat",
-      "categories": [
-        "Ruoka-apu"
-      ],
-      "coverage": [
-        "Inari"
-      ],
-      "location": "Ivalon kirkon seurakuntasali, Kirkkokuja 1 D, 99800 Ivalo",
-      "regular_time": "Kerran kuukaudessa, klo 11–13; lokakuun ja marraskuun 2026 toteutukset vahvistavat jatkuvuuden.",
-      "free_and_conditions": "Kaikille avoin kotiruokalounas. Maksu on vapaaehtoinen ja osallistuja voi maksaa itselleen sopivan summan; palveluun ei ole määrättyä pakollista hintaa. Ei tarveharkintaa.",
-      "contact": "Diakonissa Anu Huhtamella 040 507 1713; Kirkkokuja 1 D, 99800 Ivalo.",
-      "source_urls": [
-        "https://www.inarinseurakunta.fi/tapahtumat/2026-11-10/evastellaan-yhdessa",
-        "https://www.inarinseurakunta.fi/tapahtumat/2026-10-06/evastellaan-yhdessa"
-      ],
-      "checked_date": "2026-11-22",
-      "status": "accepted",
-      "publication_note": "Vapaaehtoinen maksu; osallistumisesta ei peritä kiinteää maksua."
-    },
-    {
       "id": "inari-seurakunnan-maksuton-diakoninen-taloudellinen-tuki-2026",
       "name": "Inarin seurakunnan maksuton diakoninen taloudellinen tuki",
       "organizer": "Inarin seurakunta",
@@ -423,7 +403,7 @@
       "contact": "Anu Huhtamella 040 507 1713; saamelaisdiakonissa Anja Karhula 040 750 6286; Sairaalantie 5, 99800 Ivalo.",
       "source_urls": [
         "https://www.inarinseurakunta.fi/apua-ja-tukea",
-        "https://www.inarinseurakunta.fi/yhteystiedot/diakoniatyontekij at"
+        "https://www.inarinseurakunta.fi/yhteystiedot/diakoniatyontekijat"
       ],
       "checked_date": "2026-11-22",
       "status": "accepted",
@@ -454,6 +434,14 @@
         "Raha"
       ],
       "detail": "Kemin seurakunta kertoo diakonisen taloudellisen auttamisen olevan kriisiluonteista. Puhelinpäivystys 040 831 2379 maanantaisin klo 9–11. Maksuttomuutta, myöntämisperusteita ja avun muotoa ei ilmoiteta, joten palvelu jää vahvistettavaksi. Lähde: https://www.keminseurakunta.fi/fi/apua-ja-tukea/taloudellinen-tuki"
+    },
+    {
+      "id": "inari-evastellaan-yhdessa-maksuttomuus-2026",
+      "municipality": "Inari",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Inarin seurakunnan ja Inarin Marttojen kuukausittainen kotiruokalounas Ivalon kirkon seurakuntasalissa (Kirkkokuja 1 D, 99800 Ivalo), klo 11–13 kerran kuukaudessa. Järjestäjän ilmoittama 'vapaamuotoinen hinta' tarkoittaa, että osallistuja voi maksaa itselleen sopivan summan; sivu ei kuitenkaan sano yksiselitteisesti, että nollamaksu hyväksytään. Maksuttomuus on vahvistettava ennen hyväksymistä. Yhteys: diakonissa Anu Huhtamella 040 507 1713. Lähde: https://www.inarinseurakunta.fi/tapahtumat/2026-11-10/evastellaan-yhdessa"
     }
   ],
   "excluded_observations": [
@@ -474,6 +462,22 @@
         "Ruoka-apu"
       ],
       "detail": "Kemin seurakunnan jouluavustusten hakuaika oli 2.–21.11.2026; kyseessä kausittainen joulun avustus, joka rajataan pois pysyvästä palvelukartoituksesta. Lähde: https://www.keminseurakunta.fi/fi/apua-ja-tukea/taloudellinen-tuki"
+    },
+    {
+      "id": "kemin-soppa-ja-sutina-maksullinen-ruokailu-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kemin seurakunnan Soppa ja sutina -kerhon lounas maksaa 6 € paikan päällä ja 4 € kotiin; kyseessä on maksullinen ruokailu, ei maksuton ruoka-apu. Lähde: https://www.keminseurakunta.fi/tapahtumat/2026-11-06/soppa-ja-sutina-kerho"
+    },
+    {
+      "id": "kemin-hopealyhty-maksullinen-ja-lopetettu-ruokailu-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Hopealyhdyn eläkeläislounas oli maksullinen (eläkeläiselle 9,50 €, vierailijalle 14 €), ja seurakunnan 23.5.2025 tiedote vahvisti päivittäisen ruokailutoiminnan päättyvän vuoden 2025 lopussa. Ei maksuton eikä aktiivinen säännöllinen avustuspalvelu. Lähteet: https://www.keminseurakunta.fi/etusivu/hopealyhdyn-ruokalista ja https://www.keminseurakunta.fi/documents/d/www.keminseurakunta.fi/tiedote-nettisivulle-23052025-1-pdf"
     }
   ],
   "regional_service_reuse": [
@@ -586,12 +590,12 @@
     "municipalities_screened_first_pass": 3,
     "total_municipalities": 21,
     "category_checks": 18,
-    "new_accepted_service_records": 5,
-    "cumulative_accepted_service_records": 5,
-    "new_pending_leads": 3,
-    "cumulative_pending_leads": 3,
-    "new_excluded_observations": 2,
-    "cumulative_excluded_observations": 2,
+    "new_accepted_service_records": 4,
+    "cumulative_accepted_service_records": 4,
+    "new_pending_leads": 4,
+    "cumulative_pending_leads": 4,
+    "new_excluded_observations": 4,
+    "cumulative_excluded_observations": 4,
     "municipalities_fully_completed": 0
   },
   "notes": [
@@ -600,6 +604,8 @@
     "Alueelliset Lapha-palvelut tallennetaan kerran, ei kuntakohtaisina kaksoiskappaleina.",
     "Lapsiperheiden kotipalvelusta hyväksyttiin vain maksuton ehtopolku; muissa tilanteissa palvelu on maksullinen.",
     "Vammaisten asumisen tuen tukipalvelu on maksuton, mutta asumisyksiköiden ylläpito ja ateriat voivat olla maksullisia.",
-    "Inarin seurakunnan maksukorttihanke on päättynyt; erillinen maksuton diakoninen taloudellinen tuki jatkuu."
+    "Inarin seurakunnan maksukorttihanke on päättynyt; erillinen maksuton diakoninen taloudellinen tuki jatkuu.",
+    "Inarin kuukausittainen Evästellään yhdessä -ruokailu siirrettiin avoimeksi, koska vapaamuotoinen hinta ei yksiselitteisesti vahvista maksutonta osallistumista.",
+    "Kemin seurakunnan maksulliset Soppa ja sutina- ja Hopealyhty-ruokailut rajattiin pois; Hopealyhdyn päivittäinen ruokailu päättyi vuoden 2025 lopussa."
   ]
 }
