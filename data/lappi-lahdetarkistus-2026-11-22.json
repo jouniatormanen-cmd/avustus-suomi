@@ -1,0 +1,605 @@
+{
+  "schema_version": 1,
+  "province": "Lappi",
+  "checked_date": "2026-11-22",
+  "update_type": "first_pass_started",
+  "source_checkpoint": "docs/jatkomuistio-2026-11-20.md: Kymenlaakso / Miehikkälä / Ruoka-apu. Kymenlaakson ensimmäinen kierros completed in this run; next alphabetical province Lappi.",
+  "previous_checkpoint": "Lappi / Enontekiö / Ruoka-apu",
+  "next_checkpoint": "Lappi / Kemijärvi / Ruoka-apu",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Enontekiö",
+    "Inari",
+    "Kemi",
+    "Kemijärvi",
+    "Keminmaa",
+    "Kittilä",
+    "Kolari",
+    "Muonio",
+    "Pelkosenniemi",
+    "Pello",
+    "Posio",
+    "Ranua",
+    "Rovaniemi",
+    "Salla",
+    "Savukoski",
+    "Simo",
+    "Sodankylä",
+    "Tervola",
+    "Tornio",
+    "Utsjoki",
+    "Ylitornio"
+  ],
+  "municipalities_screened_first_pass": [
+    "Enontekiö",
+    "Inari",
+    "Kemi"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Enontekiö",
+      "category": "Ruoka-apu",
+      "status": "no_verified_free_service",
+      "finding": "Ensisijaisista paikallisista lähteistä ei löytynyt säännöllistä maksutonta ruokajakelua tai yhteisruokailua.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu voi sisältää lastenhoitoa, ruoanlaittoa, siivousta ja pyykkihuoltoa. Se on maksuton vain palvelutarpeen arvioinnissa/palvelusuunnitelmassa määritellyille sosiaalityön, vammaispalvelun tai lastensuojelun asiakasperheille tai toimeentulotukea saavalle perheelle.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista vaateapua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista tavara-apua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Raha",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen täydentävää tai ehkäisevää toimeentulotukea voi hakea Kelan perustoimeentulotukipäätöksen jälkeen; hakeminen on maksutonta ja myöntäminen harkinnanvaraista.",
+      "service_ids": [
+        "lapha-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Enontekiö",
+      "category": "Asuminen",
+      "status": "accepted",
+      "finding": "Vammaispalvelulain mukainen asumisen tuki on maksuton, kun vammainen henkilö tarvitsee apua päivittäisissä toimissa ja palvelu määritellään yksilöllisessä suunnitelmassa. Asumisyksikön ylläpito ja ateriat voivat olla maksullisia.",
+      "service_ids": [
+        "lapha-asumisen-tuki-vammaisille-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_pending",
+      "finding": "Inarin seurakunnan ja Marttojen kuukausittainen kotiruokalounas on avoin kaikille ja maksu vapaaehtoinen; lisäksi kunta ilmoittaa arkisesta hävikkiruoan jaosta, jonka maksuttomuus ja järjestäjä pitää vielä vahvistaa.",
+      "service_ids": [
+        "inari-evastellaan-yhdessa-maksuton-osallistuminen-2026"
+      ],
+      "pending_ids": [
+        "inari-havikkiruoan-jako-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu voi sisältää konkreettisia kotiaskareita. Maksuton vain palvelutarpeen arvioinnissa/palvelusuunnitelmassa määritellyille sosiaalityön, vammaispalvelun tai lastensuojelun asiakasperheille tai toimeentulotukea saavalle perheelle.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista vaateapua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista tavara-apua ei vahvistettu. Aiempi 40 euron maksukorttihanke on päättynyt.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "inari-seurakunnan-40e-maksukorttihanke-paattynyt-2026"
+      ],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Raha",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen täydentävä/ehkäisevä toimeentulotuki on maksuton hakijalle. Inarin seurakunta tarjoaa lisäksi maksutonta, henkilökohtaisesti arvioitavaa diakonista taloudellista tukea.",
+      "service_ids": [
+        "lapha-taydentava-ehkaiseva-toimeentulotuki-2026",
+        "inari-seurakunnan-maksuton-diakoninen-taloudellinen-tuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "inari-seurakunnan-40e-maksukorttihanke-paattynyt-2026"
+      ],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Inari",
+      "category": "Asuminen",
+      "status": "accepted",
+      "finding": "Vammaispalvelulain mukainen asumisen tuki on maksuton itse tukipalveluna; asumisyksikön ylläpito- ja ateriakulut ovat erillisiä maksuja.",
+      "service_ids": [
+        "lapha-asumisen-tuki-vammaisille-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Ruoka-apu",
+      "status": "pending",
+      "finding": "Kemin ruokajakelu vähävaraisille on järjestäjien yhteinen palvelu, mutta maksuttomuutta ja säännöllistä jakorytmiä ei vahvistettu. Uusien asiakkaiden yhteydenotto tiistaisin klo 12–14.",
+      "service_ids": [],
+      "pending_ids": [
+        "kemin-spr-ruokajakelu-maksuttomuus-ja-rytmi-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Kotiapu",
+      "status": "accepted",
+      "finding": "Lapin hyvinvointialueen lapsiperheiden kotipalvelu voi sisältää lastenhoitoa ja kotiaskareita. Maksuton vain palvelutarpeen arvioinnissa/palvelusuunnitelmassa määritellyille sosiaalityön, vammaispalvelun tai lastensuojelun asiakasperheille tai toimeentulotukea saavalle perheelle.",
+      "service_ids": [
+        "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista vaateapua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "finding": "Säännöllistä maksutonta paikallista tavara-apua ei vahvistettu järjestäjien ensisijaisista lähteistä.",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Raha",
+      "status": "accepted_and_pending",
+      "finding": "Lapin hyvinvointialueen täydentävä/ehkäisevä toimeentulotuki on maksuton hakijalle; Kemin seurakunnan kriisiluonteisen diakonisen talousavun maksuttomuus ja ehdot ovat vielä avoinna.",
+      "service_ids": [
+        "lapha-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [
+        "kemin-seurakunnan-diakonian-taloudellinen-apu-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "kemin-seurakunnan-jouluavustushaku-2026"
+      ],
+      "checked_date": "2026-11-22"
+    },
+    {
+      "municipality": "Kemi",
+      "category": "Asuminen",
+      "status": "accepted",
+      "finding": "Vammaispalvelulain mukainen asumisen tuki on maksuton itse tukipalveluna. Kemin ryhmäkotien ylläpito- ja ateriakulut ovat erillisiä maksuja.",
+      "service_ids": [
+        "lapha-asumisen-tuki-vammaisille-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-22"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026",
+      "name": "Lapsiperheiden kotipalvelu – maksuton tietyin ehdoin",
+      "organizer": "Lapin hyvinvointialue",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "location": "Perheen oma koti koko Lapin hyvinvointialueella",
+      "regular_time": "Tilapäinen, palvelutarpeen arvioinnin ja päätöksen mukaan; yhteydenotot puhelimitse arkipäivisin tai DigiLaphan kautta.",
+      "free_and_conditions": "Palvelu sisältää konkreettista apua lastenhoitoon, ruoanlaittoon, vaatehuoltoon, siivoukseen ja muihin kotiaskareisiin. Maksuton, jos palvelu kuuluu lapsiperheiden sosiaalityön, vammaispalvelun tai lastensuojelun asiakkaan palvelutarpeen arvioinnin/palvelusuunnitelman mukaisiin palveluihin tai perhe saa toimeentulotukea. Muussa tapauksessa tilapäinen palvelu maksaa 18–52 €/päivä ja jatkuvasta palvelusta peritään kuukausimaksu; maksullista reittiä ei sisällytetä maksuttomaan tietueeseen.",
+      "contact": "Enontekiö ja Inari: yhteinen perheohjaaja 040 515 2356; Enontekiö 040 484 1467 / 040 154 6298 / 040 489 5157; Inari 040 186 4349 / 040 672 5265 / 040 154 7616; Kemi ja lähikunnat palveluvastaava 040 614 7073. DigiLapha.",
+      "source_urls": [
+        "https://lapha.fi/fi/web/guest/perheiden-kotipalvelut",
+        "https://lapha.fi/fi/asiakasmaksut"
+      ],
+      "checked_date": "2026-11-22",
+      "status": "accepted",
+      "publication_note": "Maksuttomuus koskee vain lueteltuja palvelutarpeen arviointiin tai toimeentulotukeen perustuvia tilanteita. Muut asiakasmaksulliset kotipalvelut rajataan pois."
+    },
+    {
+      "id": "lapha-taydentava-ehkaiseva-toimeentulotuki-2026",
+      "name": "Täydentävä tai ehkäisevä toimeentulotuki",
+      "organizer": "Lapin hyvinvointialue",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "location": "Koko Lapin hyvinvointialue; DigiLapha ja kuntakohtaiset sosiaalipalvelujen toimipisteet",
+      "regular_time": "Hakemus tilanteen mukaan; yhteydenotot kuntakohtaisille työikäisten sosiaalipalvelujen työntekijöille arkipäivisin. DigiLapha käytettävissä verkossa.",
+      "free_and_conditions": "Hakeminen on maksutonta. Ensin tarvitaan Kelan perustoimeentulotuen päätös; täydentävää tai ehkäisevää tukea voi hakea sekä myönteisen että kielteisen Kela-päätöksen perusteella. Tuki on viimesijainen ja harkinnanvarainen, ja sillä voidaan turvata toimeentuloa ja itsenäistä selviytymistä esimerkiksi tilapäisessä kriisissä tai erityisissä menoissa.",
+      "contact": "Enontekiö: sosiaalityöntekijä 040 824 0351, sosiaaliohjaaja 040 674 1163. Inari: sosiaaliohjaaja 040 482 4743, sosiaalityöntekijä 040 483 7432. Kemi: sosiaalipalvelujen neuvonta 050 370 7951 (ma 9–15, ti 9–13, ke 9–15, to 9–13, pe 9–15).",
+      "source_urls": [
+        "https://lapha.fi/fi/toimeentulotuki",
+        "https://lapha.fi/tyoikaisten-sosiaalipalvelut"
+      ],
+      "checked_date": "2026-11-22",
+      "status": "accepted",
+      "publication_note": "Tuen myöntäminen ei ole automaattista; Kela-päätös ja yksilöllinen arvio tarvitaan."
+    },
+    {
+      "id": "lapha-asumisen-tuki-vammaisille-2026",
+      "name": "Asumisen tuki vammaisille",
+      "organizer": "Lapin hyvinvointialue",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "location": "Vammaisen henkilön oma koti tai yksilöllisesti suunniteltu asumispalvelun toteutus koko Lapin hyvinvointialueella",
+      "regular_time": "Yksilöllisen palvelutarpeen ja palvelusuunnitelman mukaan; vammaispalvelujen puhelinajat arkipäivisin.",
+      "free_and_conditions": "Vammaispalvelulain mukainen asumisen tuki ja siihen sisältyvä apu ovat maksuttomia, kun palvelu myönnetään vammaispalveluna. Tuki edellyttää päivittäisissä toimissa avun tai tuen tarvetta ja yksilöllistä palvelusuunnitelmaa. Asumisyksiköissä voidaan periä erillisiä ylläpito- ja ateriakuluja (esim. 30–45 €/kk ylläpito sekä ateriat); nämä maksulliset asumisen osat eivät kuulu maksuttomaan tukipalveluun. Omassa kodissa annettava tuki on maksuton.",
+      "contact": "Enontekiö: vammaispalvelujen sosiaalityöntekijä 016 328 2043 (ma–pe 9–10), sosiaaliohjaaja 016 328 2004 (ma–pe 9–10). Inari: sosiaalityöntekijä 016 328 2042 (ma–pe 9–10), palveluvastaava 040 072 9806. Kemi: sosiaalityöntekijät 016 860 2015 ja 016 860 2023, sosiaaliohjaajat 016 860 2021 ja 016 860 2022 (ma–pe 9–10); yleinen vammaispalvelujen neuvonta 046 923 6604 (ma–pe 10–14).",
+      "source_urls": [
+        "https://lapha.fi/fi/web/guest/asumisen-tuki-vammaisille",
+        "https://lapha.fi/fi/asiakasmaksut"
+      ],
+      "checked_date": "2026-11-22",
+      "status": "accepted",
+      "publication_note": "Tietue kattaa maksuttoman tuen, ei asumisyksikön vuokraa, aterioita tai ylläpitomaksuja."
+    },
+    {
+      "id": "inari-evastellaan-yhdessa-maksuton-osallistuminen-2026",
+      "name": "Evästellään yhdessä – kuukausittainen kotiruokalounas",
+      "organizer": "Inarin seurakunta ja Inarin Martat",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Inari"
+      ],
+      "location": "Ivalon kirkon seurakuntasali, Kirkkokuja 1 D, 99800 Ivalo",
+      "regular_time": "Kerran kuukaudessa, klo 11–13; lokakuun ja marraskuun 2026 toteutukset vahvistavat jatkuvuuden.",
+      "free_and_conditions": "Kaikille avoin kotiruokalounas. Maksu on vapaaehtoinen ja osallistuja voi maksaa itselleen sopivan summan; palveluun ei ole määrättyä pakollista hintaa. Ei tarveharkintaa.",
+      "contact": "Diakonissa Anu Huhtamella 040 507 1713; Kirkkokuja 1 D, 99800 Ivalo.",
+      "source_urls": [
+        "https://www.inarinseurakunta.fi/tapahtumat/2026-11-10/evastellaan-yhdessa",
+        "https://www.inarinseurakunta.fi/tapahtumat/2026-10-06/evastellaan-yhdessa"
+      ],
+      "checked_date": "2026-11-22",
+      "status": "accepted",
+      "publication_note": "Vapaaehtoinen maksu; osallistumisesta ei peritä kiinteää maksua."
+    },
+    {
+      "id": "inari-seurakunnan-maksuton-diakoninen-taloudellinen-tuki-2026",
+      "name": "Inarin seurakunnan maksuton diakoninen taloudellinen tuki",
+      "organizer": "Inarin seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Inari"
+      ],
+      "location": "Diakoniatyöntekijän vastaanotto ajanvarauksella, Sairaalantie 5, 99800 Ivalo",
+      "regular_time": "Ajanvaraus arkipäivisin klo 10–12 puhelimitse; tapaamisaika sovitaan erikseen.",
+      "free_and_conditions": "Seurakunta ilmoittaa diakonisen hengellisen, henkisen ja taloudellisen tuen ja neuvonnan maksuttomaksi ja kaikenikäisille. Taloudellisen tuen tarve käsitellään henkilökohtaisesti diakoniatyöntekijän kanssa. Vuonna 2026 aiempi 40 euron aineellisen avun maksukorttihanke on päättynyt; tämä tietue koskee erillistä diakonista taloudellista tukea, ei päättynyttä maksukorttijakelua.",
+      "contact": "Anu Huhtamella 040 507 1713; saamelaisdiakonissa Anja Karhula 040 750 6286; Sairaalantie 5, 99800 Ivalo.",
+      "source_urls": [
+        "https://www.inarinseurakunta.fi/apua-ja-tukea",
+        "https://www.inarinseurakunta.fi/yhteystiedot/diakoniatyontekij at"
+      ],
+      "checked_date": "2026-11-22",
+      "status": "accepted",
+      "publication_note": "Tuen määrää, tulorajoja ja myöntämisperusteita ei julkaista; ne selvitetään henkilökohtaisesti. Päättynyttä 40 € maksukorttihanketta ei pidä sekoittaa tähän palveluun."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "inari-havikkiruoan-jako-maksuttomuus-2026",
+      "municipality": "Inari",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Inarin kunnan perhekeskuksen sivu ilmoittaa hävikkiruoan jaosta arkisin (ei koulujen loma-aikoina) klo 12.15–13 Monitoimitalo Kuulaassa, vanhassa lukiossa, Rantatie 10, Ivalo. Sivulla ei vahvisteta maksuttomuutta eikä kerrota selkeästi jakelun järjestäjää; vahvistus pyydetään ennen hyväksymistä. Lähde: https://www.inari.fi/fi/perhekeskus/apu-tuki-ja-hata/perheen-talous.html"
+    },
+    {
+      "id": "kemin-spr-ruokajakelu-maksuttomuus-ja-rytmi-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Punaisen Ristin Lapin piirin, Kemin seurakunnan ja MLL:n Kemin yhdistyksen ruokajakelu vähävaraisille Kemin kulttuurikeskuksessa, 94100 Kemi. Yhteydenotot tiistaisin klo 9.30–14, puh. 040 744 0948; uutena asiakkaana tiistaisin klo 12–14. Varsinainen noutoaika ja -paikka ilmoitetaan tekstiviestillä jakopäivänä. Maksuttomuutta ja säännöllistä jakorytmiä ei vahvisteta sivulla, joten tietue jää avoimeksi. Lähde: https://www.keminseurakunta.fi/fi/apua-ja-tukea/taloudellinen-tuki"
+    },
+    {
+      "id": "kemin-seurakunnan-diakonian-taloudellinen-apu-maksuttomuus-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Kemin seurakunta kertoo diakonisen taloudellisen auttamisen olevan kriisiluonteista. Puhelinpäivystys 040 831 2379 maanantaisin klo 9–11. Maksuttomuutta, myöntämisperusteita ja avun muotoa ei ilmoiteta, joten palvelu jää vahvistettavaksi. Lähde: https://www.keminseurakunta.fi/fi/apua-ja-tukea/taloudellinen-tuki"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "inari-seurakunnan-40e-maksukorttihanke-paattynyt-2026",
+      "municipality": "Inari",
+      "categories": [
+        "Tavarat",
+        "Raha"
+      ],
+      "detail": "Inarin seurakunnan Aineellista apua vähävaraisille -maksukorttihankkeen jakelu ja valtakunnallinen hanke ovat seurakunnan sivun mukaan päättyneet; jatkokaudesta ei ole vahvistusta. Ei aktiivinen palvelu. Lähde: https://www.inarinseurakunta.fi/apua-ja-tukea"
+    },
+    {
+      "id": "kemin-seurakunnan-jouluavustushaku-2026",
+      "municipality": "Kemi",
+      "categories": [
+        "Raha",
+        "Ruoka-apu"
+      ],
+      "detail": "Kemin seurakunnan jouluavustusten hakuaika oli 2.–21.11.2026; kyseessä kausittainen joulun avustus, joka rajataan pois pysyvästä palvelukartoituksesta. Lähde: https://www.keminseurakunta.fi/fi/apua-ja-tukea/taloudellinen-tuki"
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "lapha-lapsiperheiden-kotipalvelu-maksuton-ehdoin-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Lapha lapsiperheiden kotipalvelu kattaa koko hyvinvointialueen; vain maksuton ehtopolku on hyväksytty. Ei kuntakohtaisia kopioita.",
+      "source_urls": [
+        "https://lapha.fi/fi/web/guest/perheiden-kotipalvelut",
+        "https://lapha.fi/fi/asiakasmaksut"
+      ]
+    },
+    {
+      "id": "lapha-taydentava-ehkaiseva-toimeentulotuki-2026",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Täydentävä ja ehkäisevä toimeentulotuki on yksi Lapin hyvinvointialueen palvelu koko maakunnassa; yksi yhteinen tietue.",
+      "source_urls": [
+        "https://lapha.fi/fi/toimeentulotuki"
+      ]
+    },
+    {
+      "id": "lapha-asumisen-tuki-vammaisille-2026",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Enontekiö",
+        "Inari",
+        "Kemi",
+        "Kemijärvi",
+        "Keminmaa",
+        "Kittilä",
+        "Kolari",
+        "Muonio",
+        "Pelkosenniemi",
+        "Pello",
+        "Posio",
+        "Ranua",
+        "Rovaniemi",
+        "Salla",
+        "Savukoski",
+        "Simo",
+        "Sodankylä",
+        "Tervola",
+        "Tornio",
+        "Utsjoki",
+        "Ylitornio"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Vammaispalvelulain mukainen asumisen tuki on alueellinen palvelu; yksi yhteinen tietue. Asumisyksiköiden ylläpito- ja ateriakulut eivät kuulu maksuttomaan tukipalveluun.",
+      "source_urls": [
+        "https://lapha.fi/fi/web/guest/asumisen-tuki-vammaisille",
+        "https://lapha.fi/fi/asiakasmaksut"
+      ]
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 3,
+    "total_municipalities": 21,
+    "category_checks": 18,
+    "new_accepted_service_records": 5,
+    "cumulative_accepted_service_records": 5,
+    "new_pending_leads": 3,
+    "cumulative_pending_leads": 3,
+    "new_excluded_observations": 2,
+    "cumulative_excluded_observations": 2,
+    "municipalities_fully_completed": 0
+  },
+  "notes": [
+    "Maakuntajärjestys jatkuu Kymenlaakson jälkeen Lappiin. Lappi on ensimmäisen seulontakierroksen alussa.",
+    "Kolme ensimmäistä kuntaa (Enontekiö, Inari, Kemi) tarkistettu kaikissa kuudessa kategoriassa; 18 kuntakategoriatarkistusta.",
+    "Alueelliset Lapha-palvelut tallennetaan kerran, ei kuntakohtaisina kaksoiskappaleina.",
+    "Lapsiperheiden kotipalvelusta hyväksyttiin vain maksuton ehtopolku; muissa tilanteissa palvelu on maksullinen.",
+    "Vammaisten asumisen tuen tukipalvelu on maksuton, mutta asumisyksiköiden ylläpito ja ateriat voivat olla maksullisia.",
+    "Inarin seurakunnan maksukorttihanke on päättynyt; erillinen maksuton diakoninen taloudellinen tuki jatkuu."
+  ]
+}
