@@ -20,15 +20,19 @@ Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkose
 - **Maksuton talous- ja velkaneuvonta** on vahvistettu Pellon toimipaikassa, Kunnantie 4, vain ajanvarauksella. Puhelin 029 566 1567, lappi.velkaneuvonta@oikeus.fi.
 - Pellon toimipaikka yhdistettiin samaan Lapin oikeusaputoimiston tietueeseen Kittilän kuukausittaisen vastaanoton kanssa; kaksoiskappaletta ei luotu.
 - Pellon seurakunnan diakoninen taloudellinen avustus on pääsääntöisesti kertaluonteista ja rajattiin pois.
-- Lapin HVA:n kolme alueellista palvelua kattavat myös Pellon.
+- Pellon yksittäiset maksuttomat ateriat ja joulun ruokailu rajattiin pois jatkuvien palveluiden kartoituksesta.
+
+### Muonio – maksullisen ja maksuttoman ruokatoiminnan erottelu
+
+Muonion kunnan tapahtumakalenterin **Hävikkiruoan jakaminen** on maksuton palvelu, ja se säilyy hyväksyttynä. Se on eri palvelu kuin kunnan keskuskeittiön koulupäivinä myymä hävikkiruoka, jonka hinta on 3,20 €/7,5 dl rasia. Myynti rajattiin pois maksullisena. Lähteet: https://www.muonio.fi/tapahtumat/havikkiruoan-jakaminen-105.html ja https://www.muonio.fi/uutiset/uutiset/kuntatiedote-marraskuu-2026.html.
 
 ## Päivitetyt alueelliset tietueet
 
 - Lapin HVA:n lapsiperheiden kotipalvelun maksuton ehtopolku, täydentävä/ehkäisevä toimeentulotuki ja vammaispalvelulain mukainen asumisen tuki säilyvät kukin yhtenä koko maakunnan tietueena.
-- SOS-Lapsikylän Mummun ja vaarin tupa säilyy yhtenä tietueena Kittilälle, Muoniolle, Kolarille ja Enontekiölle; paikalliset aikataulut ovat vahvistettu Kittilässä ja Muoniossa, mutta Kolari ja Enontekiö ovat pending.
+- SOS-Lapsikylän Mummun ja vaarin tupa säilyy yhtenä tietueena Kittilälle, Muoniolle, Kolarille ja Enontekiölle; paikalliset ajat ovat vahvistettu Kittilässä ja Muoniossa, mutta Kolari ja Enontekiö ovat pending.
 - Lapin oikeusaputoimiston talous- ja velkaneuvonta on yksi yhteinen tietue Kittilän ja Pellon toimipaikoille.
 
-## Avoimet vahvistukset (11)
+## Avoimet vahvistukset (15)
 
 1. Keminmaan hävikkiruokajaon maksuttomuus.
 2. Keminmaan diakonisen talousavun maksuttomuus.
@@ -42,12 +46,13 @@ Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkose
 10. SOS-Lapsikylän Mummun ja vaarin tuvan paikalliset ajat ja tilat Kolarissa.
 11. Pelkosenniemen seurakunnan hävikkiruokajaon oikea ajankohta ja maksuttomuus sekä diakonisen talousavun maksuttomuus.
 
-## Poissuljetut havainnot (13)
+## Poissuljetut havainnot (14)
 
-Aiemmat kuusi poissulkua säilyvät. Tässä päivityksessä lisättiin:
+Aiemmat poissulut säilyvät. Tähän päivitykseen lisättiin:
 - Pellon seurakunnan pääsääntöisesti kertaluonteinen diakonia-avustus.
 - Pellon yksittäiset maksuttomat ateriat 2025–2026 ja joulun 2025 diakonian jouluateria.
 - Pellon kunnan harkinnanvaraiset avustukset, jotka on suunnattu yhdistyksille ja järjestäytyneille yleishyödyllisille toimijoille, eivät yksittäisille avuntarvitsijoille.
+- Muonion keskuskeittiön hävikkiruoan myynti 3,20 €/7,5 dl; maksullinen myynti erotetaan maksuttomasta hävikkiruoan jakamisesta.
 
 ## Tilanne ja seuraava askel
 
@@ -55,7 +60,7 @@ Aiemmat kuusi poissulkua säilyvät. Tässä päivityksessä lisättiin:
 - Kuntakategoriatarkistukset: 60/126
 - Lapin kartoitustiedoston hyväksytyt palvelutietueet: 16
 - Avoimet vahvistukset: 15
-- Poissuljetut havainnot: 13
+- Poissuljetut havainnot: 14
 - Lopullisesti valmiiksi merkittyjä kuntia: 0
 
 **Seuraava tarkka jatkokohta: Lappi / Posio / Ruoka-apu**, sen jälkeen Kotiapu, Vaatteet, Tavarat, Raha ja Asuminen; seuraavina Ranua, Rovaniemi, Salla, Savukoski, Simo, Sodankylä, Tervola, Tornio, Utsjoki ja Ylitornio.
