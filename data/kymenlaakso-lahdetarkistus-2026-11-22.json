@@ -41,14 +41,13 @@
     {
       "municipality": "Hamina",
       "category": "Kotiapu",
-      "status": "accepted_regional_service_and_pending_home_service_fee",
-      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "status": "accepted",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu. Kymenlaakson lapsiperheiden kotipalvelun maksuton toteutus vahvistui: omat työntekijät ensisijaisia; palvelusetelissä 30 €/h ylittävä osuus voi jäädä asiakkaalle, ellei erityispalvelun päätös kata kustannusta.",
       "service_ids": [
-        "kymenhva-perhetyo-maksuton-2026"
+        "kymenhva-perhetyo-maksuton-2026",
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026"
       ],
-      "pending_ids": [
-        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
-      ],
+      "pending_ids": [],
       "excluded_ids": [],
       "checked_date": "2026-11-20"
     },
@@ -116,14 +115,13 @@
     {
       "municipality": "Kotka",
       "category": "Kotiapu",
-      "status": "accepted_regional_service_and_pending_home_service_fee",
-      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "status": "accepted",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu. Kymenlaakson lapsiperheiden kotipalvelun maksuton toteutus vahvistui: omat työntekijät ensisijaisia; palvelusetelissä 30 €/h ylittävä osuus voi jäädä asiakkaalle, ellei erityispalvelun päätös kata kustannusta.",
       "service_ids": [
-        "kymenhva-perhetyo-maksuton-2026"
+        "kymenhva-perhetyo-maksuton-2026",
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026"
       ],
-      "pending_ids": [
-        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
-      ],
+      "pending_ids": [],
       "excluded_ids": [],
       "checked_date": "2026-11-20"
     },
@@ -190,14 +188,13 @@
     {
       "municipality": "Kouvola",
       "category": "Kotiapu",
-      "status": "accepted_regional_service_and_pending_home_service_fee",
-      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu.",
+      "status": "accepted",
+      "finding": "Kymenlaakson hyvinvointialueen perhetyö on maksuton lapsiperheille, joita voidaan myöntää lapsiperheiden sosiaalityössä asioiville perheille; työ sisältää kotikäyntejä ja konkreettista arjen tukea, mutta ei ole siivouspalvelu. Erillisen lapsiperheiden kotipalvelun maksuttomuus jää avoimeksi, koska palvelusetelistä voi jäädä omavastuu. Kymenlaakson lapsiperheiden kotipalvelun maksuton toteutus vahvistui: omat työntekijät ensisijaisia; palvelusetelissä 30 €/h ylittävä osuus voi jäädä asiakkaalle, ellei erityispalvelun päätös kata kustannusta.",
       "service_ids": [
-        "kymenhva-perhetyo-maksuton-2026"
+        "kymenhva-perhetyo-maksuton-2026",
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026"
       ],
-      "pending_ids": [
-        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
-      ],
+      "pending_ids": [],
       "excluded_ids": [
         "kouvolan-kipina-kodin-korjausapu-maksullinen"
       ],
@@ -269,14 +266,13 @@
     {
       "municipality": "Miehikkälä",
       "category": "Kotiapu",
-      "status": "accepted_and_pending",
-      "finding": "Kymenlaakson hyvinvointialueen maksuton perhetyö kotikäynnein on saatavissa sosiaalihuollon asiakasperheille; se ei ole siivouspalvelu. Lapsiperheiden kotipalvelun maksuton toteutustapa ja mahdollinen omavastuu vaativat vielä varmistuksen.",
+      "status": "accepted",
+      "finding": "Kymenlaakson hyvinvointialueen maksuton perhetyö kotikäynnein on saatavissa sosiaalihuollon asiakasperheille; se ei ole siivouspalvelu. Lapsiperheiden kotipalvelun maksuton toteutustapa ja mahdollinen omavastuu vaativat vielä varmistuksen. Kymenlaakson lapsiperheiden kotipalvelun maksuton toteutus vahvistui: omat työntekijät ensisijaisia; palvelusetelissä 30 €/h ylittävä osuus voi jäädä asiakkaalle, ellei erityispalvelun päätös kata kustannusta.",
       "service_ids": [
-        "kymenhva-perhetyo-maksuton-2026"
+        "kymenhva-perhetyo-maksuton-2026",
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026"
       ],
-      "pending_ids": [
-        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
-      ],
+      "pending_ids": [],
       "excluded_ids": [],
       "checked_date": "2026-11-22"
     },
@@ -344,14 +340,13 @@
     {
       "municipality": "Pyhtää",
       "category": "Kotiapu",
-      "status": "accepted_and_pending",
-      "finding": "Maksuton HVA:n perhetyö kotikäynnein on tarjolla sosiaalihuollon asiakasperheille; varsinainen lapsiperheiden kotipalvelu voi sisältää omavastuun, joten sen maksuton polku on avoin.",
+      "status": "accepted",
+      "finding": "Maksuton HVA:n perhetyö kotikäynnein on tarjolla sosiaalihuollon asiakasperheille; varsinainen lapsiperheiden kotipalvelu voi sisältää omavastuun, joten sen maksuton polku on avoin. Kymenlaakson lapsiperheiden kotipalvelun maksuton toteutus vahvistui: omat työntekijät ensisijaisia; palvelusetelissä 30 €/h ylittävä osuus voi jäädä asiakkaalle, ellei erityispalvelun päätös kata kustannusta.",
       "service_ids": [
-        "kymenhva-perhetyo-maksuton-2026"
+        "kymenhva-perhetyo-maksuton-2026",
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026"
       ],
-      "pending_ids": [
-        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
-      ],
+      "pending_ids": [],
       "excluded_ids": [],
       "checked_date": "2026-11-22"
     },
@@ -417,14 +412,13 @@
     {
       "municipality": "Virolahti",
       "category": "Kotiapu",
-      "status": "accepted_and_pending",
-      "finding": "Maksuton HVA:n perhetyö kotikäynnein on saatavissa sosiaalihuollon asiakasperheille; varsinainen lapsiperheiden kotipalvelu voi aiheuttaa omavastuun palvelusetelillä, joten maksuton toteutustapa vaatii vielä tarkistuksen.",
+      "status": "accepted",
+      "finding": "Maksuton HVA:n perhetyö kotikäynnein on saatavissa sosiaalihuollon asiakasperheille; varsinainen lapsiperheiden kotipalvelu voi aiheuttaa omavastuun palvelusetelillä, joten maksuton toteutustapa vaatii vielä tarkistuksen. Kymenlaakson lapsiperheiden kotipalvelun maksuton toteutus vahvistui: omat työntekijät ensisijaisia; palvelusetelissä 30 €/h ylittävä osuus voi jäädä asiakkaalle, ellei erityispalvelun päätös kata kustannusta.",
       "service_ids": [
-        "kymenhva-perhetyo-maksuton-2026"
+        "kymenhva-perhetyo-maksuton-2026",
+        "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026"
       ],
-      "pending_ids": [
-        "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026"
-      ],
+      "pending_ids": [],
       "excluded_ids": [],
       "checked_date": "2026-11-22"
     },
@@ -718,6 +712,34 @@
       "checked_date": "2026-11-22",
       "status": "accepted",
       "publication_note": "Tuki on harkinnanvaraista; palvelun maksuttomuus ei tarkoita automaattista tuen myöntämistä."
+    },
+    {
+      "id": "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026",
+      "name": "Lapsiperheiden kotipalvelu – maksuton toteutus",
+      "organizer": "Kymenlaakson hyvinvointialue",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Hamina",
+        "Kotka",
+        "Kouvola",
+        "Miehikkälä",
+        "Pyhtää",
+        "Virolahti"
+      ],
+      "location": "Perheen oma koti koko Kymenlaakson hyvinvointialueella",
+      "regular_time": "Tilapäinen ja yksilöllinen palvelutarpeen arvioinnin perusteella; keskimäärin käynti noin kerran viikossa, 2–4 tuntia, mutta kesto ja tiheys sovitaan perheen tarpeen mukaan.",
+      "free_and_conditions": "Maksuton palvelu ensisijaisesti hyvinvointialueen omien työntekijöiden toteuttamana. Perheessä tulee olla alle 18-vuotias lapsi ja tarve liittyy toimintakykyä alentavaan syyhyn tai erityiseen perhe-/elämäntilanteeseen; työstä tai opiskelusta johtuvaan tarpeeseen palvelua ei myönnetä. Palvelusetelin arvo on 30 €/h; jos valitun tuottajan hinta ylittää sen, erotus jää asiakkaan omavastuuksi. Palvelusetelin kustannukset katetaan kokonaan, jos asiakkaalla on lapsiperheiden sosiaalipalvelujen sosiaalityöntekijän/sosiaaliohjaajan päätös tai hän on erityispalvelujen asiakas. Maksullinen omavastuuosuus ei kuulu tähän maksuttomaan tietueeseen.",
+      "contact": "Sosiaalihuollon asiakasneuvonta 05 220 6000, ma–pe 9–14; chat ma–to 10–15. Hakemus digitaalisesti Omapalvelussa.",
+      "source_urls": [
+        "https://perhekeskus.kymenhva.fi/ajankohtaista/palveluhakemisto/lapsiperheiden-kotipalvelu/",
+        "https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/",
+        "https://kymenhva.fi/wp-content/uploads/2026/01/Lapsiperheiden-kotipalvelun-palvelusetelin-saantokirjan-palvelukohtainen-osa-2026.pdf"
+      ],
+      "checked_date": "2026-11-22",
+      "status": "accepted",
+      "publication_note": "Vain maksuton toteutus hyväksytään. Palvelusetelituottajan 30 €/h ylittävä omavastuu rajataan pois; omien työntekijöiden toteutus on ensisijainen."
     }
   ],
   "regional_service_reuse": [
@@ -762,6 +784,27 @@
       "source_urls": [
         "https://hyvinvointia.kymenhva.fi/palveluhakemisto/taydentava-ja-ehkaiseva-toimeentulotuki-7/"
       ]
+    },
+    {
+      "id": "kymenhva-lapsiperheiden-kotipalvelu-maksuton-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Hamina",
+        "Kotka",
+        "Kouvola",
+        "Miehikkälä",
+        "Pyhtää",
+        "Virolahti"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Maksuton lapsiperheiden kotipalvelu koko Kymenlaaksossa; omat työntekijät ensisijaisia. Palvelusetelin 30 €/h ylittävä omavastuu ei kuulu maksuttomaan tietueeseen.",
+      "source_urls": [
+        "https://perhekeskus.kymenhva.fi/ajankohtaista/palveluhakemisto/lapsiperheiden-kotipalvelu/",
+        "https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/",
+        "https://kymenhva.fi/wp-content/uploads/2026/01/Lapsiperheiden-kotipalvelun-palvelusetelin-saantokirjan-palvelukohtainen-osa-2026.pdf"
+      ]
     }
   ],
   "pending_leads": [
@@ -781,14 +824,6 @@
         "Ruoka-apu"
       ],
       "detail": "Haminan seurakunta kattaa Haminan, Miehikkälän ja Virolahden; seurakunnan sivun mukaan alueen asukas voi asioida missä tahansa alueen palvelupisteessä. Diakoniavastaanotto Haminassa Simeon-talossa, Pikkuympyräkatu 34: ajanvaraus ma, ti, to ja pe klo 9–10 numerosta 0440 999 443; ilman ajanvarausta ma klo 13–14. Taloudellista tukea hakevan tulee tuoda tulo- ja menotositteet. Seurakunta kertoo myös ruoka-avusta, mutta maksuttomuutta ja Miehikkälän/Virolahden paikallista jakelutapaa ei ole vahvistettu. Lähteet: https://haminanseurakunta.fi/talous-ja-ruoka-apua/ ja https://haminanseurakunta.fi/home/"
-    },
-    {
-      "id": "kymenhva-lapsiperheiden-kotipalvelu-maksuttomuus-2026",
-      "municipality": "Kymenlaakso (alueellinen; kattaa Hamina, Kotka, Kouvola ja muut maakunnan kunnat)",
-      "categories": [
-        "Kotiapu"
-      ],
-      "detail": "Kymenlaakson hyvinvointialueen lapsiperheiden kotipalvelu sisältää lastenhoitoa sekä ruoanlaittoa, tiskausta, siivousta ja pyykkihuoltoa. Palvelusivulla ei ilmoiteta palvelun hintaa; palvelusetelistä voi jäädä asiakkaalle omavastuu. Maksuttomuus on varmistettava ennen hyväksymistä. Lähde: https://kymenhva.fi/palvelut-ja-ajanvaraus/lasten-ja-perheiden-palvelut/tukea-vanhemmuuteen/apua-lapsiperheen-kotiin/"
     },
     {
       "id": "silmut-kotka-ruoka-apu-maksuttomuus-2026",
@@ -929,10 +964,10 @@
     "municipalities_screened_first_pass": 6,
     "total_municipalities": 6,
     "category_checks": 36,
-    "new_accepted_service_records": 5,
-    "cumulative_accepted_service_records": 11,
+    "new_accepted_service_records": 6,
+    "cumulative_accepted_service_records": 12,
     "new_pending_leads": 1,
-    "cumulative_pending_leads": 12,
+    "cumulative_pending_leads": 11,
     "new_excluded_observations": 3,
     "cumulative_excluded_observations": 7,
     "municipalities_fully_completed": 0
@@ -940,6 +975,7 @@
   "next_checkpoint": "Lappi / Enontekiö / Ruoka-apu",
   "notes": [
     "Kymenlaakson ensimmäinen kuuden kunnan seulontakierros on nyt tehty. Kuntia ei merkitty lopullisesti valmiiksi, koska Haminan seurakunnan ja Pyhtään diakonian maksuttomuus sekä Kymenlaakson lapsiperheiden kotipalvelun omavastuut ovat vielä avoimia.",
-    "Miehikkälän ja Virolahden kuntien jatkuvat henkilökohtaiset avustukset on lisätty omiksi tietueikseen; alueelliset HVA-palvelut säilytetään yhtenä yhteisenä tietueena."
+    "Miehikkälän ja Virolahden kuntien jatkuvat henkilökohtaiset avustukset on lisätty omiksi tietueikseen; alueelliset HVA-palvelut säilytetään yhtenä yhteisenä tietueena.",
+    "Kymenlaakson lapsiperheiden kotipalvelu siirrettiin vahvistamattomista hyväksyttyihin maksuttoman toteutuksen osalta. Palvelu on ensisijaisesti hyvinvointialueen omien työntekijöiden tuottama; palvelusetelin 30 €/h ylittävä omavastuu rajataan pois."
   ]
 }
