@@ -1,3 +1,7 @@
+> **Uusin jatkokohta 22.11.2026:** Tämä muistio on korvattu tiedostolla [jatkomuistio-2026-11-22.md](jatkomuistio-2026-11-22.md). Seuraava työvaihe on Lappi / Kemijärvi / Ruoka-apu. Kymenlaakson ensimmäinen kuntakierros 6/6 on tehty; Lapissa on seulottu Enontekiö, Inari ja Kemi.
+
+---
+
 # Avustus Suomi – valtakunnallinen jatkomuistio 2026-11-20
 
 ## Repon todellinen jatkokohta
