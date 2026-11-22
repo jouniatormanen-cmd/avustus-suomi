@@ -2,7 +2,7 @@
 
 ## Toteutunut kierros
 
-Ensimmäinen kuntakohtainen seulontakierros on tehty kaikissa kuudessa kunnassa: Hamina, Kotka, Kouvola, Miehikkälä, Pyhtää ja Virolahti. Tässä jatkossa käsiteltiin kolme viimeistä kuntaa, 18 uutta kategoriaa. Yhteensä maakunnassa on nyt 36/36 kuntakategoriatarkistusta.
+Ensimmäinen kuntakohtainen seulontakierros on tehty kaikissa kuudessa kunnassa: Hamina, Kotka, Kouvola, Miehikkälä, Pyhtää ja Virolahti. Tässä jatkossa käsiteltiin kolme viimeistä kuntaa, 18 uutta kategoriaa. Yhteensä maakunnassa on 36/36 kuntakategoriatarkistusta.
 
 ## Uudet hyväksytyt palvelut (5)
 
@@ -14,14 +14,15 @@ Ensimmäinen kuntakohtainen seulontakierros on tehty kaikissa kuudessa kunnassa:
 
 ## Avoimet
 
-- Haminan seurakunnan diakoninen ruoka- ja talousapu palvelee seurakunnan koko aluetta (Hamina, Miehikkälä, Virolahti), mutta rahallisen avun ja ruoka-avun maksuttomuus sekä paikallinen jakelutapa on vahvistettava.
+- Haminan seurakunnan diakoninen ruoka- ja talousapu palvelee seurakunnan aluetta (Hamina, Miehikkälä, Virolahti), mutta rahallisen avun ja ruoka-avun maksuttomuus sekä paikallinen jakelutapa on vahvistettava.
 - Pyhtään seurakunnan diakonia kertoo avun olevan ensisijaisesti ruoka-apua; maksuttomuutta, jakelupaikkaa ja rytmiä ei ole ilmoitettu.
 - Kymenlaakson lapsiperheiden kotipalvelu voi sisältää palvelusetelin omavastuun; maksutonta toteutustapaa ei ole vielä vahvistettu.
 
 ## Poissuljetut
 
-- Pyhtään Keskiviikon keitokset: aikuisille 5 €, joten maksullinen ruokailu pois.
+- Pyhtään Keskiviikon keitokset: aikuisille 5 €, joten maksullinen ruokailu pois; yksittäinen 4.11.2026 tapahtumasivu ei myöskään vahvista jatkuvaa jakelua.
 - SPR Virolahti–Miehikkälän Puuropäivä 27.11.2026: kertaluonteinen tapahtuma pois.
+- Virolahden kunnan työttömille järjestämä maksuton lounas- ja työllisyystilaisuus 27.11.2026: kertaluonteinen tapahtuma pois.
 
 ## Tilanne
 
@@ -29,7 +30,7 @@ Ensimmäinen kuntakohtainen seulontakierros on tehty kaikissa kuudessa kunnassa:
 - Kuntakategoriatarkistukset: 36/36
 - Hyväksytyt palvelutietueet yhteensä: 11
 - Avoimet vahvistukset: 12
-- Poissuljetut havainnot: 6
+- Poissuljetut havainnot: 7
 - Lopullisesti valmiiksi merkittyjä kuntia: 0
 
 Kuntia ei merkitä lopullisesti valmiiksi ennen avoimien maksuttomuus- ja ehtotarkistusten ratkaisua. Alueelliset palvelut on pidetty yhtenäisinä tietueina.
