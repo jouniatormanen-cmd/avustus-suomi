@@ -572,13 +572,15 @@
       "municipality": "Muonio",
       "category": "Ruoka-apu",
       "status": "accepted",
-      "finding": "Muonion kunnan maksuton hävikkiruoan jako toistuu tiistaisin klo 11.30–13 ja torstaisin klo 18.30–19. Lisäksi SOS-Lapsikylän Mummun ja vaarin tuvalla tarjotaan maksuton lämmin ruoka kuukausittain.",
+      "finding": "Muonion kunnan tapahtumakalenterin erillinen Hävikkiruoan jakaminen on maksuton ja toistuu tiistaisin klo 11.30–13 ja torstaisin klo 18.30–19; SOS-Lapsikylän Mummun ja vaarin tuvalla on maksuton lämmin ruoka kuukausittain. Keskuskeittiön koulupäivinä myymä hävikkiruoka (3,20 €/7,5 dl) on eri, maksullinen palvelu ja rajataan pois.",
       "service_ids": [
         "muonio-havikkiruoan-jako-maksuton-2026",
         "sos-lapsikyla-mummun-ja-vaarin-tupa-tunturi-lappi-2026-2028"
       ],
       "pending_ids": [],
-      "excluded_ids": [],
+      "excluded_ids": [
+        "muonio-keskuskeittio-myy-havikkiruokaa-maksullinen-2026"
+      ],
       "checked_date": "2026-11-22"
     },
     {
@@ -1436,6 +1438,14 @@
         "Raha"
       ],
       "detail": "Pellon kunnan vuoden 2027 harkinnanvaraiset avustukset on tarkoitettu Pelloon rekisteröidyille yhdistyksille, järjestöille ja järjestäytyneille yleishyödyllisille toimijoille, ei yksittäisille avuntarvitsijoille. Rajataan henkilökohtaisen avun palveluista pois. Lähde: https://www.pello.fi/ajankohtaista/uutiset/harkinnanvaraisten-avustusten-haku-avoinna-myos-kylarahat-ja-tieavustukset.html"
+    },
+    {
+      "id": "muonio-keskuskeittio-myy-havikkiruokaa-maksullinen-2026",
+      "municipality": "Muonio",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Muonion keskuskeittiön koulupäivinä myymä hävikkiruoka maksaa 3,20 €/7,5 dl rasia ja on siten maksullinen. Tämä on eri palvelu kuin kunnan tapahtumakalenterissa erikseen maksuttomaksi merkitty Hävikkiruoan jakaminen, joka säilyy hyväksyttynä. Lähteet: https://www.muonio.fi/uutiset/uutiset/kuntatiedote-marraskuu-2026.html ja https://www.muonio.fi/uutiset/uutiset/kuntatiedote-lokakuu-2026.html"
     }
   ],
   "regional_service_reuse": [
@@ -1587,9 +1597,10 @@
     "cumulative_accepted_service_records": 16,
     "new_pending_leads": 2,
     "cumulative_pending_leads": 15,
-    "new_excluded_observations": 3,
-    "cumulative_excluded_observations": 13,
-    "municipalities_fully_completed": 0
+    "new_excluded_observations": 4,
+    "cumulative_excluded_observations": 14,
+    "municipalities_fully_completed": 0,
+    "new_excluded_service_records": 1
   },
   "notes": [
     "Ensimmäisen kierroksen kuntia on nyt kymmenen: Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkosenniemi ja Pello. Kaikki kuusi kategoriaa tarkistettiin kahdessa uudessa kunnassa.",
@@ -1599,6 +1610,7 @@
     "Pelkosenniemen seurakunnan hävikkiruokajaon aikataulussa on ristiriita: yleinen sivu ilmoittaa keskiviikon klo 12, tapahtumakalenteri tiistain klo 14. Maksuttomuus ja oikea rytmi odottavat vahvistusta.",
     "Pelkosenniemen seurakunnan taloudellinen avustaminen on vahvistettu, mutta maksuttomuus ja ehdot eivät ilmene sivulta; tietue pysyy pending-tilassa.",
     "Pellon seurakunnan taloudellinen apu on pääsääntöisesti kertaluonteista, joten se rajattiin pois. Pellon maksuton oikeudellinen talous- ja velkaneuvonta yhdistettiin Kittilän kanssa samaan alueelliseen tietueeseen.",
-    "Yhtään kuntaa ei merkitty lopullisesti valmiiksi. Julkisen sivuston ulkoasua eikä päärekistereitä muutettu."
+    "Yhtään kuntaa ei merkitty lopullisesti valmiiksi. Julkisen sivuston ulkoasua eikä päärekistereitä muutettu.",
+    "Muonion kunnan maksuton Hävikkiruoan jakaminen erotettiin keskuskeittiön maksullisesta hävikkiruoan myynnistä (3,20 €/7,5 dl); maksullista myyntiä ei sisällytetä hyväksyttyyn tietueeseen."
   ]
 }
