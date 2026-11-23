@@ -38,3 +38,12 @@ Enontekiö, Inari, Kemi, Kemijärvi, Keminmaa, Kittilä, Kolari, Muonio, Pelkose
 **Seuraava tarkka jatkokohta: Lappi / Posio / Ruoka-apu.** Etene sen jälkeen Kotiapu, Vaatteet, Tavarat, Raha ja Asuminen; seuraava kunta Ranua.
 
 Julkisen sivuston ulkoasua ja päärekistereitä ei muutettu.
+
+
+---
+
+## Päivitys 23.11.2026 – Lappi / Savukoski seuraavaksi
+
+Posio, Ranua, Rovaniemi ja Salla käsiteltiin kaikissa kuudessa kategoriassa. Lappi on nyt 14/21 kuntaa ja 84/126 kuntakategoriatarkistusta ensimmäisellä kierroksella. Lisättiin 8 hyväksyttyä palvelutietuetta, 5 pending-selvitystä ja 8 poissuljettua havaintoa. Yhtään kuntaa ei merkitty lopullisesti valmiiksi.
+
+**Seuraava tarkka kohta: Lappi / Savukoski / Ruoka-apu.** Tämän jälkeen Simo, Sodankylä, Tervola, Tornio, Utsjoki ja Ylitornio. Alueelliset palvelut pidetään yhteisinä tietueina; Lapin oikeusaputoimiston maksuton talous- ja velkaneuvonta vahvistettiin kattamaan kaikki 21 Lapin kuntaa.
