@@ -10,8 +10,8 @@ Kunnat: Halsua, Kannus, Kaustinen, Kokkola, Lestijärvi, Perho, Toholampi, Vetel
 
 ## Keski-Pohjanmaan tulos
 
-- Hyväksytyt palvelutietueet: 18
-- Avoimet selvityskohteet: 8
+- Hyväksytyt palvelutietueet: 17
+- Avoimet selvityskohteet: 9
 - Poissuljetut havainnot: 11
 - Lopullisesti valmiiksi merkityt kunnat: 0
 
@@ -23,10 +23,9 @@ Keskeiset hyväksytyt löydöt:
 - Kaustisen seurakunnan ruoka-apu, maksuton diakoniaohjaus ja Pikkuhelppi; Kaustisen kunnan maksuton pihateiden auraus tai 125 euron avustus.
 - Kokkolan Soiten päiväkeskus ja rajattu maksuton asumisneuvonta, Hope Kokkola sekä Ruksin viikoittainen ruoka-apu.
 - Perhon seurakunnan maksuton aamupala.
-- Toholammin vuoden 2027 opiskelijastipendi.
 - Lestijärven suljetulle syntymäkohortille maksettava lapsiraha ja muualla opiskelevien vuosistipendi.
 
-Avoimiksi jäivät mm. Toholammin ruoka-avun ristiriitainen viikonpäivä sekä Toholammin ja Vetelin aurauspalvelujen maksuttomuus. Näitä ei merkitty hyväksytyiksi.
+Avoimiksi jäivät mm. Toholammin ruoka-avun viikonpäivä, Toholammin ja Vetelin aurauspalvelujen maksuttomuus sekä Toholammin vuoden 2027 opiskelijastipendi. Kunnan löydetty opiskelijastipendi-ilmoitus koskee vuoden 2026 hakua (200 euroa, määräaika 31.1.2026), eikä vuoden 2027 hakua ole vahvistettu. Näitä ei merkitty hyväksytyiksi.
 
 ## Tallennetut tiedostot
 - data/keski-pohjanmaa-lahdetarkistus-2026-11-24.json
