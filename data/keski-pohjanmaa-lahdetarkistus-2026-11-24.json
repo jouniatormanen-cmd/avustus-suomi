@@ -1,0 +1,1295 @@
+{
+  "schema_version": "1.0",
+  "province": "Keski-Pohjanmaa",
+  "checked_date": "2026-11-24",
+  "update_type": "first_pass_complete",
+  "source_checkpoint": "Keski-Pohjanmaa / Halsua / Ruoka-apu",
+  "previous_checkpoint": "Lappi / Ylitornio / Ruoka-apu; Lapin ensimmäinen kuntaseulonta valmistui 2026-11-23. Keski-Pohjanmaa käsiteltiin nyt aakkosjärjestyksen mukaisena väliin jääneenä maakuntana.",
+  "next_checkpoint": "Keski-Suomi / Hankasalmi / Ruoka-apu",
+  "category_order": [
+    "Ruoka-apu",
+    "Kotiapu",
+    "Vaatteet",
+    "Tavarat",
+    "Raha",
+    "Asuminen"
+  ],
+  "municipality_order": [
+    "Halsua",
+    "Kannus",
+    "Kaustinen",
+    "Kokkola",
+    "Lestijärvi",
+    "Perho",
+    "Toholampi",
+    "Veteli"
+  ],
+  "municipalities_screened_first_pass": [
+    "Halsua",
+    "Kannus",
+    "Kaustinen",
+    "Kokkola",
+    "Lestijärvi",
+    "Perho",
+    "Toholampi",
+    "Veteli"
+  ],
+  "municipalities_fully_completed": [],
+  "category_checks": [
+    {
+      "municipality": "Halsua",
+      "category": "Ruoka-apu",
+      "status": "no_verified_free_service_and_excluded",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Halsua",
+      "category": "Kotiapu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "halsua-4h-siivouspalvelu-maksullinen-2026",
+        "halsua-kunnan-pihateiden-auraus-10e-kerta-2026",
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Halsua",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Halsua",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Halsua",
+      "category": "Raha",
+      "status": "accepted_and_pending_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [
+        "halsua-diakonia-maksuttomuus-ja-konkreettiset-avun-ehdot-2026"
+      ],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Halsua",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kannus",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "kannus-seurakunnan-havikkiruoka-apu-torstai-2026",
+        "kannus-seurakunnan-maksuton-aamupala-torstai-2026",
+        "kannus-seurakunnan-eu-aineellinen-apu-40e-kortti-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026",
+        "kannus-ruokatauko-yleinen-lounas-5e-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kannus",
+      "category": "Kotiapu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kannus",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kannus",
+      "category": "Tavarat",
+      "status": "accepted",
+      "service_ids": [
+        "kannus-seurakunnan-eu-aineellinen-apu-40e-kortti-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kannus",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kannus",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kaustinen",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "kaustinen-seurakunnan-havikkiruokajakelu-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kaustinen",
+      "category": "Kotiapu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026",
+        "kaustinen-seurakunnan-pikkuhelppi-2026",
+        "kaustinen-kunnan-maksuton-pihateiden-auraus-2026-2027"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kaustinen",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kaustinen",
+      "category": "Tavarat",
+      "status": "pending",
+      "service_ids": [],
+      "pending_ids": [
+        "kaustinen-hiekoitussepeli-maksuttomuus-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kaustinen",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
+        "kaustinen-seurakunnan-maksuton-diakoniaohjaus-2026",
+        "kaustinen-kunnan-maksuton-pihateiden-auraus-2026-2027"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kaustinen",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kokkola",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_pending_and_excluded",
+      "service_ids": [
+        "soite-paivakeskus-kokkola-2026",
+        "ruksi-kokkola-hyvakello-ruoka-apujako-2026"
+      ],
+      "pending_ids": [
+        "kokkola-ruksi-40e-maksukorttien-jakorytmi-2026",
+        "kokkola-seurakunnan-aikuisten-aamupala-ja-porinatupa-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kokkola",
+      "category": "Kotiapu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kokkola",
+      "category": "Vaatteet",
+      "status": "accepted",
+      "service_ids": [
+        "hope-kokkola-vaatteet-tavarat-harrastustuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kokkola",
+      "category": "Tavarat",
+      "status": "accepted_and_pending",
+      "service_ids": [
+        "hope-kokkola-vaatteet-tavarat-harrastustuki-2026"
+      ],
+      "pending_ids": [
+        "kokkola-ruksi-40e-maksukorttien-jakorytmi-2026"
+      ],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kokkola",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
+        "hope-kokkola-vaatteet-tavarat-harrastustuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Kokkola",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-asumisneuvonta-kokkola-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Lestijärvi",
+      "category": "Ruoka-apu",
+      "status": "no_verified_free_service_and_excluded",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Lestijärvi",
+      "category": "Kotiapu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Lestijärvi",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Lestijärvi",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Lestijärvi",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
+        "lestijarvi-lapsiraha-olemassaoleva-kohortti-2026",
+        "lestijarvi-opiskelijastipendi-200e-vuosittain-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Lestijärvi",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Perho",
+      "category": "Ruoka-apu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "perho-seurakunnan-maksuton-aamupala-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Perho",
+      "category": "Kotiapu",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Perho",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Perho",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Perho",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Perho",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Toholampi",
+      "category": "Ruoka-apu",
+      "status": "pending_and_excluded",
+      "service_ids": [],
+      "pending_ids": [
+        "toholampi-seurakunnan-ruoka-apujako-aikatauluristiriita-2026"
+      ],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Toholampi",
+      "category": "Kotiapu",
+      "status": "accepted_and_pending_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [
+        "toholampi-ikaihmisten-pihateiden-auraus-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Toholampi",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Toholampi",
+      "category": "Tavarat",
+      "status": "no_verified_free_service_and_excluded",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "toholampi-joulupuu-kausikerays-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Toholampi",
+      "category": "Raha",
+      "status": "accepted_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
+        "toholampi-opiskelijastipendi-2027"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026",
+        "toholampi-diakonian-tilapainen-taloudellinen-avustus-ei-jatkuva-2026",
+        "toholampi-reittilatujen-kunnossapitoavustus-yhteisoille-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Toholampi",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Veteli",
+      "category": "Ruoka-apu",
+      "status": "no_verified_free_service_and_excluded",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026",
+        "veteli-diakonian-jouluruokailu-kausitapahtuma-2026",
+        "veteli-diakoniapiiri-vapaaehtoinen-kahviraha-ei-ruoka-apu-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Veteli",
+      "category": "Kotiapu",
+      "status": "accepted_and_pending_and_excluded",
+      "service_ids": [
+        "soite-ekavauva-kolme-maksutonta-kotikayntia-2026"
+      ],
+      "pending_ids": [
+        "veteli-ikaihmisten-pihateiden-auraus-maksuttomuus-2026"
+      ],
+      "excluded_ids": [
+        "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+        "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Veteli",
+      "category": "Vaatteet",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Veteli",
+      "category": "Tavarat",
+      "status": "no_verified_free_service",
+      "service_ids": [],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Veteli",
+      "category": "Raha",
+      "status": "accepted_and_pending_and_excluded",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026"
+      ],
+      "pending_ids": [
+        "veteli-diakonia-taloudellisen-avun-maksuttomuus-ja-ehdot-2026"
+      ],
+      "excluded_ids": [
+        "soite-sosiaalinen-luototus-takaisinmaksettava-2026"
+      ],
+      "checked_date": "2026-11-24"
+    },
+    {
+      "municipality": "Veteli",
+      "category": "Asuminen",
+      "status": "accepted",
+      "service_ids": [
+        "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026"
+      ],
+      "pending_ids": [],
+      "excluded_ids": [],
+      "checked_date": "2026-11-24"
+    }
+  ],
+  "accepted_services": [
+    {
+      "id": "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+      "name": "Sosiaalineuvonta ja aikuisten palveluohjaus",
+      "organizer": "Keski-Pohjanmaan hyvinvointialue Soite",
+      "categories": [
+        "Raha",
+        "Asuminen"
+      ],
+      "coverage": [
+        "Halsua",
+        "Kannus",
+        "Kaustinen",
+        "Kokkola",
+        "Lestijärvi",
+        "Perho",
+        "Toholampi",
+        "Veteli"
+      ],
+      "location": "Soiten aikuissosiaalityön palvelupisteet Keski-Pohjanmaan kahdeksassa kunnassa; Lestijärven asiointi Toholammin toimipisteen kautta.",
+      "regular_time": "Puhelin ma–pe klo 7–15, numero 040 806 5093; takaisinsoittopyyntöön vastataan viimeistään seuraavana arkipäivänä. Kokkolan sosiaalipalveluiden toimipisteessä ilman ajanvarausta ti–ke klo 9–11 ja to klo 13–15. Alueelliset työntekijänumerot on jaettu Lestijokilaaksoon (Kannus, Lestijärvi, Toholampi) ja Perhonjokilaaksoon (Halsua, Kaustinen, Veteli, Perho).",
+      "free_and_conditions": "Maksuton sosiaaliohjaus ja palveluneuvonta Soiten vuoden 2026 asiakasmaksuhinnaston mukaan. Aikuinen voi keskustella ammattilaisen kanssa myös nimettömänä ja saada ohjausta etuuksiin, taloudellisiin vaikeuksiin, asumisen ongelmiin ja muihin sosiaalipalveluihin. Tämä on neuvonta- ja ohjauspalvelu, ei itsessään rahallinen etuus.",
+      "contact": "Sosiaalineuvonta 040 806 5093 (ma–pe 7–15). Lestijokilaakso: 040 804 4700, 040 804 2700, 040 804 2320. Perhonjokilaakso: 040 804 5700, 040 806 8055, 040 804 2178. Soite, Mariankatu 16–20, 67200 Kokkola.",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/sosiaalineuvonta/",
+        "https://soite.fi/wp-content/uploads/2026/05/Asiakas_ja_potilasmaksuhinnasto_2026_paivitys01062026_sivu3_lisapaivitys13052026.pdf"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Yksi alueellinen tietue kattaa kaikki kahdeksan kuntaa. Älä monista kuntakohtaisiksi kopioiksi."
+    },
+    {
+      "id": "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
+      "name": "Täydentävä ja ehkäisevä toimeentulotuki",
+      "organizer": "Keski-Pohjanmaan hyvinvointialue Soite",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Halsua",
+        "Kannus",
+        "Kaustinen",
+        "Kokkola",
+        "Lestijärvi",
+        "Perho",
+        "Toholampi",
+        "Veteli"
+      ],
+      "location": "Soiten aikuissosiaalityö koko Keski-Pohjanmaan hyvinvointialueella.",
+      "regular_time": "Hakeminen jatkuvasti sähköisesti Omapalvelussa tai lomakkeella; hakemuksen voi myös pyytää siirrettäväksi Kelasta Soitelle. Puhelinneuvonta sosiaalineuvonnasta ma–pe klo 7–15.",
+      "free_and_conditions": "Rahallinen, harkinnanvarainen tuki taloudellisiin vaikeuksiin. Hakemuksesta ei peritä maksua. Edellyttää voimassa olevaa Kelan perustoimeentulotukipäätöstä tai vireillä olevaa perustoimeentulotukihakemusta. Täydentävää tukea voidaan myöntää erityisiin menoihin ja ehkäisevää tukea välttämättömiin menoihin tai elämäntilanteen kohentamiseen. Ei takaisinmaksettava laina.",
+      "contact": "Sosiaalineuvonta 040 806 5093 (ma–pe 7–15); alueelliset aikuissosiaalityön numerot: Lestijokilaakso 040 804 4700 / 040 804 2700 / 040 804 2320; Perhonjokilaakso 040 804 5700 / 040 806 8055 / 040 804 2178.",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/aikuissosiaalityo-ja-taloudellinen-tuki/toimeentulotuki/",
+        "https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/sosiaalineuvonta/"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Yksi alueellinen tietue kaikille kahdeksalle kunnalle. Perustoimeentulotuki haetaan Kelasta; Soite käsittelee täydentävän ja ehkäisevän tuen."
+    },
+    {
+      "id": "soite-ekavauva-kolme-maksutonta-kotikayntia-2026",
+      "name": "Ekavauva – kolme maksutonta perhetyöntekijän kotikäyntiä",
+      "organizer": "Keski-Pohjanmaan hyvinvointialue Soite",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Halsua",
+        "Kannus",
+        "Kaustinen",
+        "Kokkola",
+        "Lestijärvi",
+        "Perho",
+        "Toholampi",
+        "Veteli"
+      ],
+      "location": "Ensimmäistä lastaan odottavan perheen oma koti koko Soiten alueella.",
+      "regular_time": "Kolmen käynnin sarja: yksi ennen vauvan syntymää ja kaksi vauvan syntymän jälkeen kolmen kuukauden sisällä. Ajat sovitaan perheen ja työntekijän kanssa.",
+      "free_and_conditions": "Maksuton ensimmäistä lastaan odottaville perheille. Käynneillä annetaan tietoa lapsiperheiden palveluista ja opastetaan käytännön vauvanhoidossa. Tämä on rajattu kolmen käynnin ennaltaehkäisevä kotikäyntipalvelu; se ei sisällä siivousta tai yleistä kodinhoitoa. Soiten muu lapsiperheiden kotipalvelu on erikseen maksullinen.",
+      "contact": "Halsua, Kaustinen ja Veteli: 040 804 5750 / 040 804 5730 (ma–pe 8–16). Kannus, Toholampi ja Lestijärvi: 040 806 5936 / 040 804 2730 (ma–pe 8–16). Kokkola: 040 804 2661 / 040 804 2662 / 040 804 2663 (ma–pe 8–9). Perho: 040 804 3733 / 040 804 3732 (ma–pe 8–16).",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/lasten-nuorten-ja-perheiden-palvelut/perhetukipalvelut/lapsiperheiden-kotipalvelu/",
+        "https://soite.fi/wp-content/uploads/2026/05/Asiakas_ja_potilasmaksuhinnasto_2026_paivitys01062026_sivu3_lisapaivitys13052026.pdf"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Yksi yhteinen alueellinen tietue; ei kuntakohtaisia kaksoiskappaleita. Vain Ekavauva-sarja hyväksytään maksuttomana, ei yleinen lapsiperheiden kotipalvelu."
+    },
+    {
+      "id": "soite-paivakeskus-kokkola-2026",
+      "name": "Soiten päiväkeskus",
+      "organizer": "Keski-Pohjanmaan hyvinvointialue Soite",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kokkola"
+      ],
+      "location": "Portti-rakennus, Terveystie 4, 67200 Kokkola.",
+      "regular_time": "Maanantaista keskiviikkoon klo 9–14.",
+      "free_and_conditions": "Kävijöille maksuton matalan kynnyksen palvelu yli 18-vuotiaille päihteitä käyttäville, asunnottomille ja muille palvelujen ulkopuolella oleville. Tarjolla syötävää ja kahvia, lepoa, suihku, pyykinpesu sekä pienimuotoista sosiaali- ja terveysneuvontaa. Ei lähetettä eikä ajanvarausta; asioida voi myös nimettömänä tai päihtyneenä.",
+      "contact": "Päiväkeskuksen ohjaajat 040 806 8115 aukioloaikoina.",
+      "source_urls": [
+        "https://soite.fi/2024/04/04/soiten-paivakeskus-avaa-ovensa-paihteiden-kayttajille-ja-asunnottomille/"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Päiväkeskus on jatkuva palvelu, ei yksittäinen tapahtuma. Ruoka-apu-kategoria kuvaa tarjolla olevaa maksutonta syötävää; suihku ja pyykinpesu ovat saman palvelun lisäsisältöä."
+    },
+    {
+      "id": "soite-asumisneuvonta-kokkola-2026",
+      "name": "Asumisneuvonta",
+      "organizer": "Keski-Pohjanmaan hyvinvointialue Soite ja Kokkolan Vuokra Asunnot Oy",
+      "categories": [
+        "Asuminen"
+      ],
+      "coverage": [
+        "Kokkola"
+      ],
+      "location": "Koivuhaan Soite-piste, Mäntynäädänkatu 6, 67800 Kokkola.",
+      "regular_time": "Puhelinpalvelu ma–pe klo 8–16.",
+      "free_and_conditions": "Maksuton palvelu vain Kokkolan Vuokra Asunnot Oy:n ja Kokkolan kaupungin vuokra-asunnoissa asuville. Apua vuokravelkoihin, häätöuhan ehkäisyyn, asumisen tukien hakemiseen, asuntohakemuksiin ja asumisen häiriötilanteisiin; tarvittaessa kotikäyntejä.",
+      "contact": "Asumisneuvoja 044 780 9973; asumisneuvonnan ohjaaja 044 780 9961.",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/asumisneuvonta/"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Rajattu Kokkolan kaupungin ja Kokkolan Vuokra Asunnot Oy:n vuokra-asukkaisiin; ei yleinen kaikille kuntalaisille tarkoitettu asumisneuvonta."
+    },
+    {
+      "id": "hope-kokkola-vaatteet-tavarat-harrastustuki-2026",
+      "name": "Hope Kokkola – vaate-, tavara- ja harrastustuki",
+      "organizer": "Hope – Yhdessä & Yhteisesti ry, Kokkolan paikallistoimija",
+      "categories": [
+        "Vaatteet",
+        "Tavarat",
+        "Raha"
+      ],
+      "coverage": [
+        "Kokkola"
+      ],
+      "location": "Paikallinen varasto Tehtaankatu 47 A-ovi, 67100 Kokkola; asiakasasiointi sähköpostilla tai Hopen Kaipaan apua -lomakkeella.",
+      "regular_time": "Asiakkaille ei ole julkista walk-in-aikaa; yhteydenotot sähköpostilla tai Kaipaan apua -lomakkeella. Lahjoitusten vastaanotto (ei asiakasaika) ti klo 17–19 ja ke klo 10–12.",
+      "free_and_conditions": "Maksutonta aineellista apua vähävaraisille ja kriisin kokeneille lapsiperheille lahjoitustilanteen mukaan: vaatteita, kenkiä, urheiluvälineitä, leluja, pelejä, kodin pientarvikkeita ja vauvanhoitotarvikkeita. Lisäksi lasten ja nuorten harrastustukea ja pääsylippuja. Ei suoria rahalahjoituksia. Apua voi saada paikallisen resurssin ja tilanteen mukaan yleensä 1–6 kertaa vuodessa.",
+      "contact": "kokkola@hopeyhdistys.fi. Paikallistiimin yhteydenotot sähköpostitse.",
+      "source_urls": [
+        "https://hopeyhdistys.fi/paikallistoimisto/kokkola/",
+        "https://hopeyhdistys.fi/hope/ukk/",
+        "https://hopeyhdistys.fi/yhteystiedot/",
+        "https://hopeyhdistys.fi/wp-content/uploads/2026/04/Hope_2025.pdf"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Asiakaspalvelua ei pidä sekoittaa lahjoitusten vastaanottoaikoihin. Avun saatavuus riippuu paikallisista lahjoituksista ja resurssista; tarkista vastaanottokyky sähköpostilla."
+    },
+    {
+      "id": "kannus-seurakunnan-havikkiruoka-apu-torstai-2026",
+      "name": "Kannuksen seurakunnan hävikkiruoka-apu",
+      "organizer": "Kannuksen seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kannus"
+      ],
+      "location": "Juhani Vuorisen koulun keittiön parkkipaikka/ovi, Kannus.",
+      "regular_time": "Joka torstai klo 19; arkipyhät voivat muuttaa jakopäivää tai aikaa.",
+      "free_and_conditions": "Maksuton ruoka-apu kauppojen ja kouluruokailun hävikkituotteista. Tarkoitettu ensisijaisesti kannuslaisille, mutta ruoka-apua voi hakea kuka tahansa apua tarvitseva. Hakijoilta ei kysytä tulo- ja menotietoja. Kassin sisältö vaihtelee eikä siihen voi vaikuttaa.",
+      "contact": "Diakoniatyöntekijä Ulla-Maija Karvonen 044 282 4514; Valtakatu 13, 69100 Kannus.",
+      "source_urls": [
+        "https://www.kannuksenseurakunta.fi/apua-ja-tukea/diakonia-tukea-vaikeisiin-elamantilanteisiin"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Ruoka-apu on jatkuva viikoittainen jakelu; juhlapyhien poikkeukset tarkistetaan seurakunnan ilmoituksista."
+    },
+    {
+      "id": "kannus-seurakunnan-maksuton-aamupala-torstai-2026",
+      "name": "Kannuksen seurakunnan maksuton aamupala",
+      "organizer": "Kannuksen seurakunta yhteistyössä Soiten kanssa",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kannus"
+      ],
+      "location": "Pappila, Valtakatu 13, 69100 Kannus.",
+      "regular_time": "Joka torstai klo 8.30–9.30.",
+      "free_and_conditions": "Nimenomaisesti maksuton aamupala: puuroa, voileipiä, mehua, kahvia ja teetä. Aamupalalla voi ilman ajanvarausta pyytää apua ja neuvoa seurakunnan diakoniatyöntekijältä ja Soiten sosiaaliohjaajalta.",
+      "contact": "Diakoniatyöntekijä Ulla-Maija Karvonen 044 282 4514.",
+      "source_urls": [
+        "https://www.kannuksenseurakunta.fi/apua-ja-tukea/diakonia-tukea-vaikeisiin-elamantilanteisiin"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Jatkuva viikoittainen aamupala, ei kertaluonteinen tapahtuma."
+    },
+    {
+      "id": "kannus-seurakunnan-eu-aineellinen-apu-40e-kortti-2026",
+      "name": "Kannuksen seurakunnan EU:n aineellisen avun 40 euron maksukortti",
+      "organizer": "Kannuksen seurakunta ja Kirkkopalvelut ry / ESR+ -hanke",
+      "categories": [
+        "Ruoka-apu",
+        "Tavarat"
+      ],
+      "coverage": [
+        "Kannus"
+      ],
+      "location": "Henkilökohtainen tapaaminen Kannuksen seurakunnan diakoniatyössä; paikallinen yhteysosoite Valtakatu 13, 69100 Kannus.",
+      "regular_time": "Jatkuva hankemuotoinen asiointi henkilökohtaisella tapaamisella; korttien määrä on rajallinen eikä julkista viikoittaista jakeluaikaa ole.",
+      "free_and_conditions": "Maksuton 40 euron maksukortti välttämättömiin elintarvikkeisiin ja hygieniatuotteisiin. Suunnattu erityisesti vähävaraisille työttömille ja työelämän ulkopuolella oleville aikuisille sekä heidän perheilleen. Edellyttää henkilökohtaista tapaamista ja avuntarpeen kartoitusta; kortteja saatavilla rajoitetusti.",
+      "contact": "Diakoniatyöntekijä Ulla-Maija Karvonen 044 282 4514.",
+      "source_urls": [
+        "https://www.kannuksenseurakunta.fi/apua-ja-tukea/diakonia-tukea-vaikeisiin-elamantilanteisiin/eu-n-aineellisen-avun-hanke"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Hankemuotoinen, edelleen käynnissä oleva aineellisen avun palvelu; ei käteistä rahaa eikä avoin jakelupiste."
+    },
+    {
+      "id": "kaustinen-seurakunnan-havikkiruokajakelu-2026",
+      "name": "Kaustisen ja Ullavan seurakunnan hävikkiruokajakelu",
+      "organizer": "Kaustisen ja Ullavan seurakunta",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kaustinen"
+      ],
+      "location": "Kaustisen seurakuntakeskus, Siltatie 3, 69600 Kaustinen.",
+      "regular_time": "Parittomien viikkojen maanantaisin klo 18.",
+      "free_and_conditions": "Kauppojen ylijäämäruoan maksuton jakelu valmiiksi pakattuina kasseina. Kassien sisältöön ei voi vaikuttaa. Apuun ovat oikeutettuja työttömät, opiskelijat, pienituloiset eläkeläiset, lapsiperheet, pitkäaikaissairaat ja ylivelkaantuneet.",
+      "contact": "Vs. diakoniatyöntekijä Heidi Hietalahti 050 314 7551.",
+      "source_urls": [
+        "https://www.kaustisenjaullavanseurakunta.fi/apua-ja-tukea/diakonia"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Säännöllinen viikoittain vuorotteleva ruoka-apu; sama seurakunta palvelee myös Ullavaa, mutta tässä maakuntatiedostossa palvelu kirjataan Kaustisen kunnalle."
+    },
+    {
+      "id": "kaustinen-seurakunnan-maksuton-diakoniaohjaus-2026",
+      "name": "Kaustisen ja Ullavan seurakunnan maksuton diakoniaohjaus",
+      "organizer": "Kaustisen ja Ullavan seurakunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Kaustinen"
+      ],
+      "location": "Kaustisen seurakuntakeskus, Siltatie 3, ja Ullavan seurakuntakoti; ajanvarauksella.",
+      "regular_time": "Vastaanotot ajanvarauksella; kotikäyntejä mahdollisuuksien mukaan pyydettäessä.",
+      "free_and_conditions": "Maksuton ja luottamuksellinen keskustelu-, ohjaus- ja neuvontapalvelu Kaustisella ja Ullavassa kirjoilla oleville. Taloudellisessa ahdingossa voidaan arvioida avun tarvetta ja antaa ohjausta. Varsinainen rahallinen avustus ei ole säännöllistä, joten hyväksyntä koskee maksutonta neuvontapalvelua, ei jatkuvaa rahallista etuutta.",
+      "contact": "Vs. diakoniatyöntekijä Heidi Hietalahti 050 314 7551.",
+      "source_urls": [
+        "https://www.kaustisenjaullavanseurakunta.fi/apua-ja-tukea/diakonia"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Raha-kategoriaan kirjataan maksuton taloudellisen tilanteen ohjaus. Seurakunnan yksittäisiä harkinnanvaraisia avustuksia ei kuvata jatkuvana tukena."
+    },
+    {
+      "id": "kaustinen-seurakunnan-pikkuhelppi-2026",
+      "name": "Pikkuhelppi",
+      "organizer": "Kaustisen ja Ullavan seurakunta",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Kaustinen"
+      ],
+      "location": "Perheen oma koti tai ulkona Kaustisen ja Ullavan alueella.",
+      "regular_time": "Arkipäivisin ajanvarauksella; yksi käynti noin kaksi tuntia; enintään kolme kertaa kaudessa tai kuusi kertaa vuodessa perhettä kohden.",
+      "free_and_conditions": "Maksuton lastenhoitoapu kaikille lapsiperheille Kaustisen ja Ullavan alueella. Ei sisällä sairaan lapsen hoitoa eikä kodinhoitoa.",
+      "contact": "Lastenohjaajat / ajanvaraus 050 3147 580.",
+      "source_urls": [
+        "https://www.kaustisenjaullavanseurakunta.fi/lapsille-ja-lapsiperheille/pikkuhelppi"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Rajattu lastenhoito- ja arjen tukipalvelu, ei siivous- tai kodinhoitopalvelu."
+    },
+    {
+      "id": "kaustinen-kunnan-maksuton-pihateiden-auraus-2026-2027",
+      "name": "Kaustisen kunnan maksuton pihateiden auraus tai 125 euron aurausavustus",
+      "organizer": "Kaustisen kunta",
+      "categories": [
+        "Kotiapu",
+        "Raha"
+      ],
+      "coverage": [
+        "Kaustinen"
+      ],
+      "location": "Hakijan vakituinen asuinkiinteistö Kaustisen kunnassa.",
+      "regular_time": "Hakemus vuosittain 1.9.–31.12.; talvikauden auraus lumisateen jälkeen, lähtökynnys 7 cm. Talvikausi 2026–2027.",
+      "free_and_conditions": "Yli 70-vuotias tai pysyvästi liikuntarajoitteinen voi hakea kunnalta maksutonta koneellista pihatien ja pihan aurausta tai vaihtoehtoisesti 125 euron rahallista avustusta aurauksen hankkimiseen. Rakennustyyppiä, pihatien käyttöä ja hakijan olosuhteita koskevat teknisen lautakunnan ehdot; asunto-osakeyhtiöille ei myönnetä.",
+      "contact": "Kaustisen kunta, Kappelintie 13, 69600 Kaustinen; neuvonta 040 652 7692; kaustisen.kunta@kaustinen.fi.",
+      "source_urls": [
+        "https://kaustinen.fi/ajankohtaista/pihatien-aurauspalvelun-hakeminen-yli-70-vuotiaat-ja-pysyvasti-liikuntarajoitteiset/",
+        "https://kaustinen.fi/wp-content/uploads/2025/08/Syyskuu-2025.pdf"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Maksuton palvelu on koneellinen auraus; 125 euron vaihtoehto on rahallinen avustus. Hakuaika 31.12.2026 asti."
+    },
+    {
+      "id": "perho-seurakunnan-maksuton-aamupala-2026",
+      "name": "Perhon aamupala",
+      "organizer": "Perhon seurakunta ja Soite",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Perho"
+      ],
+      "location": "Perhon seurakuntatalo, Sahintie 3, 69950 Perho.",
+      "regular_time": "Joka toinen keskiviikko parillisilla viikoilla klo 8–9; alkanut 2.9.2026.",
+      "free_and_conditions": "Nimenomaisesti maksuton aamupala. Avoin seurakuntatalolla järjestettävä aamupala; tapahtumasivu ei aseta tulorajoja.",
+      "contact": "Diakonissa Tiina Karhulahti 040 732 4117.",
+      "source_urls": [
+        "https://www.perhonseurakunta.fi/tapahtumat/2026-11-11/perhon-aamupala"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Tapahtumasivu vahvistaa toistuvan aikataulun syksystä 2026 alkaen; ei yksittäinen aamupalatapahtuma."
+    },
+    {
+      "id": "toholampi-opiskelijastipendi-2027",
+      "name": "Toholammin kunnan opiskelijastipendi 2027",
+      "organizer": "Toholammin kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Toholampi"
+      ],
+      "location": "Hakemus sähköisesti tai Toholammin kunnan kirjaamoon, Lampintie 5, 69300 Toholampi.",
+      "regular_time": "Vuoden 2027 haku käynnissä; hakemus viimeistään 31.1.2027. Kunnanhallitus varannut 30 stipendiä.",
+      "free_and_conditions": "500 euron rahallinen stipendi alle 30-vuotiaalle korkeakouluopiskelijalle, joka suorittaa toisen asteen jälkeisiä opintoja muualla ja jonka kotikunta on 31.12.2026 Toholampi. Hakemukseen liitetään opiskelijatodistus.",
+      "contact": "Toholammin kunta, vaihde 040 150 5200; kirjaamo, Lampintie 5, 69300 Toholampi.",
+      "source_urls": [
+        "https://www.toholampi.fi/opiskelijastipendit-2025-haettavana/"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Vuoden 2027 avustushaku on käynnissä 24.11.2026; ei kertaluonteinen tapahtuma vaan vuosittainen stipendiohjelma."
+    },
+    {
+      "id": "lestijarvi-lapsiraha-olemassaoleva-kohortti-2026",
+      "name": "Lestijärven kunnan lapsiraha – ennen 31.12.2022 syntyneiden kohortti",
+      "organizer": "Lestijärven kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Lestijärvi"
+      ],
+      "location": "Lestijärven kunnan sähköinen asiointi; varhaiskasvatus ja koulutoimisto.",
+      "regular_time": "Vuosittainen maksatus; vuoden 2025 lapsirahan maksupäivä oli 13.2.2026. Seuraavan, vuoden 2026 maksatuskierroksen tarkka hakuaika ei ollut vielä julkaistu tarkistuspäivänä.",
+      "free_and_conditions": "Veronalainen 1 000 euron vuosittainen rahallinen etuus, yhteensä 10 000 euroa kymmenen vuoden aikana. Oikeus vain ennen 31.12.2022 syntyneille lapsille, jotka olivat Lestijärvellä kirjoilla ja joiden äiti oli lapsen syntyessä kirjoilla Lestijärvellä; lapsen on säilytettävä kotikunta Lestijärvellä vuosittaisena tarkistuspäivänä. Uusia oikeuksia ei synny 1.1.2023 jälkeen syntyneille.",
+      "contact": "Varhaiskasvatuspäällikkö 050 5370 089; Lestijärven kunta, Lestintie 39, 69440 Lestijärvi.",
+      "source_urls": [
+        "https://lestijarvi.fi/ajankohtaista/lapsirahahakemus-2025/",
+        "https://lestijarvi.fi/lestijarvipaketti/"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Palvelu on aktiivinen vain jo oikeutetulle, suljetulle syntymäkohortille; sitä ei saa esitellä uusille lapsiperheille avoimena etuutena."
+    },
+    {
+      "id": "lestijarvi-opiskelijastipendi-200e-vuosittain-2026",
+      "name": "Lestijärven kunnan muualla opiskelevien vuosistipendi",
+      "organizer": "Lestijärven kunta",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Lestijärvi"
+      ],
+      "location": "Lestijärven kunta; hakeminen kunnan ohjeiden mukaan.",
+      "regular_time": "Vuosittainen stipendi; vuoden 2026 hakukauden tarkkaa määräaikaa ei löytynyt julkaistusta palvelukuvauksesta.",
+      "free_and_conditions": "200 euron vuosittainen rahallinen stipendi lestijärveläisille, jotka opiskelevat muualla ja säilyttävät kotikuntansa Lestijärvellä; koskee keskiasteen jälkeisiä opintoja. Ei takaisinmaksettava.",
+      "contact": "Kunnanjohtaja 040 1591 584; Lestijärven kunta, kirjaamo@lestijarvi.fi.",
+      "source_urls": [
+        "https://lestijarvi.fi/lestijarvipaketti/"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Kunnan ajantasaisessa Lestijärvi-paketissa kuvattu vuosittaisena etuutena; hakukauden tarkka määräaika on vielä täydennettävä."
+    },
+    {
+      "id": "ruksi-kokkola-hyvakello-ruoka-apujako-2026",
+      "name": "Ruksi Kokkola – Hyväkello-ryhmän ruoka-apujako",
+      "organizer": "Kokkolan Helluntaiseurakunta / Ruksi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "coverage": [
+        "Kokkola"
+      ],
+      "location": "Ruksi, Hakalahdenkatu 88, 67100 Kokkola.",
+      "regular_time": "Joka maanantai klo 16–17; ennen jakelua vapaaehtoinen hartaus klo 15.30.",
+      "free_and_conditions": "Ruoka-apujakelu Kokkolan vähävaraisille; jaetaan ruoanlahjoittajien ylijäämäruokaa. Järjestäjän sivu ei ilmoita maksua tai vapaaehtoista maksua, joten tietue käsitellään maksuttomana ruoka-apuna.",
+      "contact": "Ruoka-apujaon yhteyshenkilöt Jouko Wörlin 045 670 7018 ja Hannu Rekilä 040 757 7795.",
+      "source_urls": [
+        "https://www.ruksikokkola.fi/diakoniatyo",
+        "https://www.ruksikokkola.fi/yhteystiedot"
+      ],
+      "checked_date": "2026-11-24",
+      "status": "accepted",
+      "publication_note": "Ruoka-apu on viikoittainen jatkuva jakelu. Samalla sivulla kuvattu 40 euron korttijako on erillinen, ilmoituspäivinä toteutettava palvelu ja pidetään avoimena, kunnes säännöllinen jakorytmi varmistuu."
+    }
+  ],
+  "pending_leads": [
+    {
+      "id": "halsua-diakonia-maksuttomuus-ja-konkreettiset-avun-ehdot-2026",
+      "municipality": "Halsua",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Halsuan seurakunnan diakonia tekee kotikäyntejä ja tarjoaa tukea, mutta järjestäjän sivu ei yksilöi taloudellisen tai aineellisen avun maksuttomuutta, ehtoja eikä säännöllistä avustusmuotoa. Diakoniatyöntekijä Tiina Karhulahti 040 732 4117. Vahvistettava, onko tarjolla jatkuva maksuton avustuspalvelu vai vain tapauskohtainen tuki. Lähde: https://www.halsuanseurakunta.fi/apua-ja-tukea/diakonia"
+    },
+    {
+      "id": "kokkola-ruksi-40e-maksukorttien-jakorytmi-2026",
+      "municipality": "Kokkola",
+      "categories": [
+        "Ruoka-apu",
+        "Tavarat"
+      ],
+      "detail": "Ruksin Hyvällä sydämellä – apua arkeen -hankkeessa jaetaan 40 euron kortteja elintarvikkeisiin ja perustarvikkeisiin henkilökohtaisen tapaamisen jälkeen. Jakopäivä ja päivystyspuhelin ilmoitetaan erikseen; säännöllistä julkista aikataulua tai hankkeen paikallista päättymispäivää ei saatu vahvistettua. Päivystyspuhelin 040 445 6938 vain ilmoitettuna päivänä. Lähde: https://www.ruksikokkola.fi/diakoniatyo"
+    },
+    {
+      "id": "kokkola-seurakunnan-aikuisten-aamupala-ja-porinatupa-maksuttomuus-2026",
+      "municipality": "Kokkola",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kokkolan suomalaisen seurakunnan ruoka-apusivulla kuvataan aikuisten aamupalaa ja Porinatupaa, mutta palvelusivulta ei varmistunut, ovatko ateriat maksuttomia vai omavastuumaksullisia. Ei hyväksytä ennen maksuttomuuden vahvistusta. Lähde: https://www.kokkolansuomalainenseurakunta.fi/apua-ja-tukea/ruoka-apu"
+    },
+    {
+      "id": "kaustinen-hiekoitussepeli-maksuttomuus-2026",
+      "municipality": "Kaustinen",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Kaustisen kunta ilmoittaa jakavansa kuntalaisille pieniä määriä hiekoitussepeliä parillisten viikkojen keskiviikkoisin klo 9–11 osoitteessa Veikontie 5. Tiedotteessa ei yksiselitteisesti sanota, onko sepeli maksutonta tai onko nouto edelleen käynnissä 2026–2027 talvikaudella. Lähde: https://kaustinen.fi/wp-content/uploads/2025/08/Syyskuu-2025.pdf"
+    },
+    {
+      "id": "toholampi-seurakunnan-ruoka-apujako-aikatauluristiriita-2026",
+      "municipality": "Toholampi",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Toholammin seurakunnan virallisen sivun hakutulos näyttää nykyiseksi rytmiksi joka toisen torstain klo 10–11 (parilliset viikot), mutta avatun saman sivun välimuistiversio näyttää vanhaa maanantain klo 10–11 rytmiä (parittomat viikot). Jako tapahtuu seurakuntakodin ovelta, Lampintie 7. Maksuttomuus ja jatkuva toiminta ovat ruoka-apusivun perusteella uskottavia, mutta oikea nykyinen viikonpäivä on vahvistettava järjestäjältä ennen julkaisemista. Yhteys: Toholammin seurakunta 050 400 8052. Lähde: https://www.toholamminseurakunta.fi/apua-ja-tukea/diakonia"
+    },
+    {
+      "id": "toholampi-ikaihmisten-pihateiden-auraus-maksuttomuus-2026",
+      "municipality": "Toholampi",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Toholammin kunta järjestää talvikaudella 1.10.2026–30.4.2027 pihan aurausta yksin tai kaksin asuville, joilla on Soiten kotisairaanhoito tai joiden taloudessa toinen toimii omaishoitajana. Palvelun hinta/maksuttomuus ei käy ilmi sivulta. Yhteys toimistosihteeriin 040 150 5303. Lähde: https://www.toholampi.fi/aurauspalvelu-ikaihmisille/"
+    },
+    {
+      "id": "veteli-ikaihmisten-pihateiden-auraus-maksuttomuus-2026",
+      "municipality": "Veteli",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Vetelin kunnan pihateiden aurauspalvelua voivat hakea yli 75-vuotiaat ja pysyvästi liikuntarajoitteiset 31.12.2026 asti; hakemus tehdään vuosittain. Järjestäjän sivu ei ilmoita maksua. Yhteys Vetelin kunta 050 5790 100, Kivihyypäntie 1, 69700 Veteli. Lähde: https://veteli.fi/ajankohtaista/pihateiden-aurauspalvelu-ikaihmisille-haettavissa/"
+    },
+    {
+      "id": "veteli-diakonia-taloudellisen-avun-maksuttomuus-ja-ehdot-2026",
+      "municipality": "Veteli",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Vetelin seurakunnalla on diakoniatoimisto avoinna tiistaisin klo 10–11 ilman ajanvarausta ja diakoniatyöntekijä kertoo taloudellisen avun mahdollisuudesta. Avun maksuttomuus, kohderyhmä ja myöntämisen ehdot eivät ole sivulla yksilöityjä; lisäksi seurakunnan taloudellinen apu voi olla tapauskohtaista eikä jatkuvaa. Diakoni Susanna Heikkilä 040 561 8428, Torpantie 129, 69700 Veteli. Lähteet: https://www.vetelinseurakunta.fi/tapahtumat/2026-09-22/diakoniatoimisto-avoinna ja https://www.vetelinseurakunta.fi/apua-ja-tukea/arjen-ongelmat"
+    }
+  ],
+  "excluded_observations": [
+    {
+      "id": "halsua-4h-siivouspalvelu-maksullinen-2026",
+      "municipality": "Halsua",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Halsuan 4H-yhdistyksen siivouspalvelu on maksullinen: 30 €/h ilman arvonlisäveroa tai 37,65 €/h arvonlisäveroineen; vähimmäisveloitus yksi tunti. Ei kuulu maksuttomien palvelujen rekisteriin. Lähde: https://halsua.4h.fi/palvelut/siivouspalvelu/"
+    },
+    {
+      "id": "halsua-kunnan-pihateiden-auraus-10e-kerta-2026",
+      "municipality": "Halsua",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Halsuan kunnan pihateiden aurauspalvelu maksaa 10 €/aurauskerta, joten se ei ole maksuton. Ehdot koskevat vähintään 75-vuotiaita (kun taloudessa ei ole nuorempia) ja pitkäaikaisesti tai pysyvästi toimintarajoitteisia. Lähde: https://halsua.fi/rakennus-ja-ymparistotoimi/auraus/"
+    },
+    {
+      "id": "soite-lapsiperheiden-tavallinen-kotipalvelu-maksullinen-2026",
+      "municipality": "ALL",
+      "categories": [
+        "Kotiapu"
+      ],
+      "detail": "Soiten tavallinen lapsiperheiden kotipalvelu ei ole yleisesti maksuton: tilapäinen 0–2 tunnin käynti maksaa 16 €, 2–3 tunnin käynti 20 € ja pidempi käynti 9 €/h; pitkäaikaisesta palvelusta peritään maksukykyyn perustuva kuukausimaksu. Vain erillinen Ekavauva-palvelu on kolme maksutonta käyntiä, ja se on rekisteröity omana hyväksyttynä tietueenaan. Lähteet: https://soite.fi/palvelut-ja-yhteys/lasten-nuorten-ja-perheiden-palvelut/perhetukipalvelut/lapsiperheiden-kotipalvelu/ ja https://soite.fi/wp-content/uploads/2026/05/Asiakas_ja_potilasmaksuhinnasto_2026_paivitys01062026_sivu3_lisapaivitys13052026.pdf"
+    },
+    {
+      "id": "soite-sosiaalinen-luototus-takaisinmaksettava-2026",
+      "municipality": "ALL",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Soiten sosiaalinen luototus on takaisinmaksettava laina, ei avustus tai lahja. Rajattu pois maksuttomien avustusten rekisteristä. Lähde: https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/"
+    },
+    {
+      "id": "soite-kotiateria-ja-kotiin-jarjestettavat-tukipalvelut-maksulliset-2026",
+      "municipality": "ALL",
+      "categories": [
+        "Kotiapu",
+        "Ruoka-apu"
+      ],
+      "detail": "Soiten kotiin toimitettava kylmä kotiateria maksaa 8,60 €/ateria ja useat kotiin järjestettävät tukipalvelut ovat maksullisia. Näitä ei hyväksytä maksuttomiksi palveluiksi. Lähde: https://soite.fi/wp-content/uploads/2026/05/Asiakas_ja_potilasmaksuhinnasto_2026_paivitys01062026_sivu3_lisapaivitys13052026.pdf"
+    },
+    {
+      "id": "kannus-ruokatauko-yleinen-lounas-5e-2026",
+      "municipality": "Kannus",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Kannuksen seurakunnan Ruokatauko-yhteisölounaan normaali hinta on 5 €. Vähävaraiselle voidaan erillisellä diakoniapäätöksellä myöntää alennus tai maksuton ateria, mutta palvelun yleinen tarjonta on maksullinen eikä sitä rekisteröidä maksuttomana avoimena ruokapalveluna. Lähde: https://www.kannuksenseurakunta.fi/apua-ja-tukea/diakonia-tukea-vaikeisiin-elamantilanteisiin"
+    },
+    {
+      "id": "toholampi-diakonian-tilapainen-taloudellinen-avustus-ei-jatkuva-2026",
+      "municipality": "Toholampi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Toholammin seurakunnan taloudellinen diakonia-avustus on pienimuotoista ja tilapäistä, eikä sitä myönnetä toistuvasti jatkuvaan avuntarpeeseen. Yksittäinen harkinnanvarainen avustuspäätös ei täytä jatkuvan palvelun valintakriteeriä. Lähde: https://www.toholamminseurakunta.fi/apua-ja-tukea/diakonia"
+    },
+    {
+      "id": "veteli-diakonian-jouluruokailu-kausitapahtuma-2026",
+      "municipality": "Veteli",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Vetelin seurakunnan 17.12.2026 diakonian jouluruokailu on yksittäinen joulukauden tapahtuma, joten sitä ei lisätä jatkuvien palvelujen rekisteriin. Lähde: https://www.vetelinseurakunta.fi/tapahtumat/2026-12-17/diakonian-jouluruokailu"
+    },
+    {
+      "id": "veteli-diakoniapiiri-vapaaehtoinen-kahviraha-ei-ruoka-apu-2026",
+      "municipality": "Veteli",
+      "categories": [
+        "Ruoka-apu"
+      ],
+      "detail": "Vetelin diakoniapiirissä tarjotaan kahvia vapaaehtoista kahvirahaa vastaan; kyse ei ole vahvistetusta maksuttomasta ruoka-apupalvelusta. Lähde: https://www.vetelinseurakunta.fi/aikuisille/diakonia"
+    },
+    {
+      "id": "toholampi-joulupuu-kausikerays-2026",
+      "municipality": "Toholampi",
+      "categories": [
+        "Tavarat"
+      ],
+      "detail": "Toholammin seurakunnan ja kirjaston Joulupuu-keräys 23.11.–9.12.2026 on joulun kausikeräys, ei jatkuva tavara-apupalvelu. Lähde: https://www.toholampi.fi/ajankohtaista/"
+    },
+    {
+      "id": "toholampi-reittilatujen-kunnossapitoavustus-yhteisoille-2026",
+      "municipality": "Toholampi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Reittilatujen kunnossapitoavustus talvelle 2026–2027 on tarkoitettu talkootoimintaa järjestäville yhteisöille ja reittilatujen ylläpitäjille, ei yksittäisten kotitalouksien avustukseksi. Lähde: https://www.toholampi.fi/ajankohtaista/"
+    }
+  ],
+  "regional_service_reuse": [
+    {
+      "id": "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
+      "categories": [
+        "Raha",
+        "Asuminen"
+      ],
+      "coverage": [
+        "Halsua",
+        "Kannus",
+        "Kaustinen",
+        "Kokkola",
+        "Lestijärvi",
+        "Perho",
+        "Toholampi",
+        "Veteli"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Soiten maksuton sosiaalineuvonta ja aikuisten palveluohjaus kattaa kaikki kahdeksan jäsenkuntaa. Käytä alueellista tietuetta, älä kopioi kuntakohtaisesti.",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/sosiaalineuvonta/"
+      ]
+    },
+    {
+      "id": "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
+      "categories": [
+        "Raha"
+      ],
+      "coverage": [
+        "Halsua",
+        "Kannus",
+        "Kaustinen",
+        "Kokkola",
+        "Lestijärvi",
+        "Perho",
+        "Toholampi",
+        "Veteli"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Soiten täydentävä ja ehkäisevä toimeentulotuki on alueellinen rahallinen etuus. Yksi tietue kaikille kahdeksalle kunnalle.",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/aikuisten-sosiaalipalvelut/aikuissosiaalityo-ja-taloudellinen-tuki/toimeentulotuki/"
+      ]
+    },
+    {
+      "id": "soite-ekavauva-kolme-maksutonta-kotikayntia-2026",
+      "categories": [
+        "Kotiapu"
+      ],
+      "coverage": [
+        "Halsua",
+        "Kannus",
+        "Kaustinen",
+        "Kokkola",
+        "Lestijärvi",
+        "Perho",
+        "Toholampi",
+        "Veteli"
+      ],
+      "status": "single_shared_regional_record",
+      "note": "Soiten kolme maksutonta Ekavauva-käyntiä koskee kaikkia kahdeksaa jäsenkuntaa. Tavallinen lapsiperheiden kotipalvelu on maksullinen ja rajattu erikseen pois.",
+      "source_urls": [
+        "https://soite.fi/palvelut-ja-yhteys/lasten-nuorten-ja-perheiden-palvelut/perhetukipalvelut/lapsiperheiden-kotipalvelu/"
+      ]
+    }
+  ],
+  "summary": {
+    "municipalities_screened_first_pass": 8,
+    "total_municipalities": 8,
+    "category_checks": 48,
+    "new_accepted_service_records": 18,
+    "cumulative_accepted_service_records": 18,
+    "new_pending_leads": 8,
+    "cumulative_pending_leads": 8,
+    "new_excluded_observations": 11,
+    "cumulative_excluded_observations": 11,
+    "municipalities_fully_completed": 0,
+    "new_excluded_service_records": 11
+  },
+  "notes": [
+    "Kaikki kahdeksan kuntaa käytiin läpi ensimmäisellä seulontakierroksella ja jokaisesta tarkistettiin kaikki kuusi kategoriaa. Tämä ei tarkoita, että kunnat olisivat lopullisesti valmiita.",
+    "Soiten alueelliset palvelut kirjattiin yhteisinä tietueina; niitä ei monistettu kuntakohtaisiksi kaksoiskappaleiksi.",
+    "Hyväksytyt tietueet edellyttävät maksuttomuuden vahvistamista järjestäjän lähteestä. Epäselvät maksut, ristiriitaiset aikataulut ja puuttuvat ehdot jätettiin avoimiksi.",
+    "Päärekisteriä data/palvelut.json ja data/paarekisteri.json ei muutettu. Julkisen sivuston ulkoasuun ei koskettu.",
+    "Tarkistuspäivä kaikille tietueille: 2026-11-24."
+  ]
+}
