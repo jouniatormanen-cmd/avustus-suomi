@@ -533,13 +533,14 @@
     {
       "municipality": "Toholampi",
       "category": "Raha",
-      "status": "accepted_and_excluded",
+      "status": "accepted_and_pending",
       "service_ids": [
         "soite-sosiaalineuvonta-aikuisten-palveluohjaus-2026",
-        "soite-taydentava-ehkaiseva-toimeentulotuki-2026",
-        "toholampi-opiskelijastipendi-2027"
+        "soite-taydentava-ehkaiseva-toimeentulotuki-2026"
       ],
-      "pending_ids": [],
+      "pending_ids": [
+        "toholampi-opiskelijastipendi-2027-haku-ei-vahvistettu"
+      ],
       "excluded_ids": [
         "soite-sosiaalinen-luototus-takaisinmaksettava-2026",
         "toholampi-diakonian-tilapainen-taloudellinen-avustus-ei-jatkuva-2026",
@@ -962,27 +963,6 @@
       "publication_note": "Tapahtumasivu vahvistaa toistuvan aikataulun syksystä 2026 alkaen; ei yksittäinen aamupalatapahtuma."
     },
     {
-      "id": "toholampi-opiskelijastipendi-2027",
-      "name": "Toholammin kunnan opiskelijastipendi 2027",
-      "organizer": "Toholammin kunta",
-      "categories": [
-        "Raha"
-      ],
-      "coverage": [
-        "Toholampi"
-      ],
-      "location": "Hakemus sähköisesti tai Toholammin kunnan kirjaamoon, Lampintie 5, 69300 Toholampi.",
-      "regular_time": "Vuoden 2027 haku käynnissä; hakemus viimeistään 31.1.2027. Kunnanhallitus varannut 30 stipendiä.",
-      "free_and_conditions": "500 euron rahallinen stipendi alle 30-vuotiaalle korkeakouluopiskelijalle, joka suorittaa toisen asteen jälkeisiä opintoja muualla ja jonka kotikunta on 31.12.2026 Toholampi. Hakemukseen liitetään opiskelijatodistus.",
-      "contact": "Toholammin kunta, vaihde 040 150 5200; kirjaamo, Lampintie 5, 69300 Toholampi.",
-      "source_urls": [
-        "https://www.toholampi.fi/opiskelijastipendit-2025-haettavana/"
-      ],
-      "checked_date": "2026-11-24",
-      "status": "accepted",
-      "publication_note": "Vuoden 2027 avustushaku on käynnissä 24.11.2026; ei kertaluonteinen tapahtuma vaan vuosittainen stipendiohjelma."
-    },
-    {
       "id": "lestijarvi-lapsiraha-olemassaoleva-kohortti-2026",
       "name": "Lestijärven kunnan lapsiraha – ennen 31.12.2022 syntyneiden kohortti",
       "organizer": "Lestijärven kunta",
@@ -1113,6 +1093,14 @@
         "Raha"
       ],
       "detail": "Vetelin seurakunnalla on diakoniatoimisto avoinna tiistaisin klo 10–11 ilman ajanvarausta ja diakoniatyöntekijä kertoo taloudellisen avun mahdollisuudesta. Avun maksuttomuus, kohderyhmä ja myöntämisen ehdot eivät ole sivulla yksilöityjä; lisäksi seurakunnan taloudellinen apu voi olla tapauskohtaista eikä jatkuvaa. Diakoni Susanna Heikkilä 040 561 8428, Torpantie 129, 69700 Veteli. Lähteet: https://www.vetelinseurakunta.fi/tapahtumat/2026-09-22/diakoniatoimisto-avoinna ja https://www.vetelinseurakunta.fi/apua-ja-tukea/arjen-ongelmat"
+    },
+    {
+      "id": "toholampi-opiskelijastipendi-2027-haku-ei-vahvistettu",
+      "municipality": "Toholampi",
+      "categories": [
+        "Raha"
+      ],
+      "detail": "Toholammin kunnan viralliselta sivulta löytyi vain vuoden 2026 opiskelijastipendihaku: 200 euroa alle 30-vuotiaalle muualla korkeakoulussa opiskelevalle, jonka kotikunta oli Toholampi 31.12.2025; hakuaika päättyi 31.1.2026. Tämä kierros on päättynyt, eikä vuoden 2027 hakua vahvistettu 24.11.2026. Vuoden 2027 etuutta ei hyväksytä ennen uutta kunnan ilmoitusta. Lähde: https://www.toholampi.fi/opiskelijastipendit-2025-haettavana/"
     }
   ],
   "excluded_observations": [
@@ -1276,10 +1264,10 @@
     "municipalities_screened_first_pass": 8,
     "total_municipalities": 8,
     "category_checks": 48,
-    "new_accepted_service_records": 18,
-    "cumulative_accepted_service_records": 18,
-    "new_pending_leads": 8,
-    "cumulative_pending_leads": 8,
+    "new_accepted_service_records": 17,
+    "cumulative_accepted_service_records": 17,
+    "new_pending_leads": 9,
+    "cumulative_pending_leads": 9,
     "new_excluded_observations": 11,
     "cumulative_excluded_observations": 11,
     "municipalities_fully_completed": 0,
@@ -1290,6 +1278,7 @@
     "Soiten alueelliset palvelut kirjattiin yhteisinä tietueina; niitä ei monistettu kuntakohtaisiksi kaksoiskappaleiksi.",
     "Hyväksytyt tietueet edellyttävät maksuttomuuden vahvistamista järjestäjän lähteestä. Epäselvät maksut, ristiriitaiset aikataulut ja puuttuvat ehdot jätettiin avoimiksi.",
     "Päärekisteriä data/palvelut.json ja data/paarekisteri.json ei muutettu. Julkisen sivuston ulkoasuun ei koskettu.",
-    "Tarkistuspäivä kaikille tietueille: 2026-11-24."
+    "Tarkistuspäivä kaikille tietueille: 2026-11-24.",
+    "Korjaus 24.11.2026: Toholammin opiskelijastipendistä vahvistui vain vuoden 2026 haku (200 €, hakuaika päättyi 31.1.2026). Vuoden 2027 hakua ei ole vahvistettu, joten se siirrettiin hyväksytyistä avoimiin."
   ]
 }
