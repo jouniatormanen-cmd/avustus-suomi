@@ -1,0 +1,166 @@
+{
+  "maakunta": "Keski-Suomi",
+  "tarkistuspäivä": "2026-11-25",
+  "kierros": "ensimmäinen kuntakohtainen seulonta, osittainen lähdetarkistus",
+  "kunnat": [
+    {
+      "kunta": "Hankasalmi",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Joutsa",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Jyväskylä",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "osittain vahvistettu"
+    },
+    {
+      "kunta": "Kannonkoski",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Karstula",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Keuruu",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Kinnula",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    }
+  ],
+  "hyvaksytyt": [
+    {
+      "id": "ks-jkl-ruoka-apu-lyydia",
+      "nimi": "Ruoka-apu Lyydia",
+      "jarjestaja": "Jyväskylän Suvanto ry yhteistyössä Jyväskylän kaupungin, seurakunnan ja järjestöjen kanssa",
+      "paikka": "Seppälä, Ahjokatu 16, Jyväskylä sekä satelliittipisteet Jyväskylässä",
+      "aika": "Seppälässä keskiviikkoisin klo 11–13; satelliittipisteillä vuoroviikoin julkaistun jakeluaikataulun mukaan",
+      "maksuttomuus": "Maksuton; ruokakassin saaminen edellyttää Jyväskylän seurakunnan diakonin kirjoittamaa ruokaseteliä; kassi joka toinen viikko",
+      "yhteystiedot": "Ruoka-apu Lyydia / Jyväskylän seurakunnan diakoniatyö; koordinaattorin yhteystieto tarkistettava suoraan palvelun ajantasaiselta sivulta",
+      "lahde": "https://www.jyvaskylanseurakunta.fi/fi/apua-ja-tukea/diakoniasta-apua-arkeen/ruoka-apu",
+      "status": "hyväksytty",
+      "huomio": "Jyväskylän kuntaan kuuluva alueellinen palvelu; ei kopioida satelliittipisteittäin erillisiksi palveluiksi."
+    },
+    {
+      "id": "ks-jkl-diakonia-taloudellinen-apu",
+      "nimi": "Jyväskylän seurakunnan diakonian taloudellinen tuki ja ruoka-apu",
+      "jarjestaja": "Jyväskylän seurakunta",
+      "paikka": "Jyväskylän seurakunnan lähikirkkoalueet",
+      "aika": "Ajanvaraus oman alueen diakoniatyöntekijälle; ei yhtä kaikille yhteistä jakeluaikaa",
+      "maksuttomuus": "Diakoniatyö on maksutonta. Taloudellinen apu ja ruoka-apu ovat tarveharkintaisia ja tarkoitettu akuuttiin hätätilanteeseen; taloustilanteesta pyydetään selvityksiä.",
+      "yhteystiedot": "Oman lähikirkkoalueen diakoniatyöntekijä seurakunnan yhteystietosivun kautta",
+      "lahde": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen",
+      "status": "hyväksytty",
+      "huomio": "Yksi seurakunnan palvelutietue, ei erillisiä kuntakopioita."
+    }
+  ],
+  "vahvistamattomat": [
+    {
+      "kohde": "Hankasalmi, kaikki kuusi kategoriaa",
+      "syy": "Tässä ajossa ei löytynyt riittävää järjestäjän ensisijaista lähdevahvistusta palvelukohtaisiin tietoihin."
+    },
+    {
+      "kohde": "Joutsa, kaikki kuusi kategoriaa",
+      "syy": "Hakutuloksissa näkyneet kunnan avustukset kohdistuivat yhdistyksiin ja tapahtumiin; niitä ei hyväksytty henkilökohtaiseksi avustuspalveluksi."
+    },
+    {
+      "kohde": "Kannonkoski, kaikki kuusi kategoriaa",
+      "syy": "Kunnan sivuilla löytyi yhdistysten toiminta-avustus, joka ei ole asukkaalle annettava palvelu; muuta palvelua ei tässä ajossa vahvistettu."
+    },
+    {
+      "kohde": "Karstula, kaikki kuusi kategoriaa",
+      "syy": "Ei riittävää palvelukohtaista ensisijaista lähdevahvistusta tässä ajossa."
+    },
+    {
+      "kohde": "Keuruu, kaikki kuusi kategoriaa",
+      "syy": "Löytyneet tapahtumat olivat kertaluonteisia tai kaupallisia; jatkuvaa maksutonta avustuspalvelua ei vahvistettu."
+    },
+    {
+      "kohde": "Kinnula, kaikki kuusi kategoriaa",
+      "syy": "Kunnan yhteystiedoista löytyi ruoka- ja siivouspalvelupäällikkö, mutta se ei yksin vahvista maksutonta asukkaille tarkoitettua avustuspalvelua."
+    },
+    {
+      "kohde": "Jyväskylä: Kotiapu, Vaatteet, Tavarat ja Asuminen",
+      "syy": "Näissä kategorioissa tarvitaan vielä palvelukohtaiset järjestäjälähteet ja ehdot."
+    }
+  ],
+  "poissuljetut": [
+    {
+      "kohde": "Joutsa: kulttuuri- ja vapaa-aikatoimen sekä kylien kehittämisen avustukset",
+      "syy": "Avustuksen hakijoina yhdistykset/toimijat, ei suoraan palvelua tarvitsevat yksityishenkilöt.",
+      "lahde": "https://www.joutsa.fi/kulttuuri-ja-vapaa-aikatoimen-seka-kylien-kehittamisen-avustukset-haettavissa/"
+    },
+    {
+      "kohde": "Kannonkoski: yhdistysten ja seurojen toiminta-avustukset",
+      "syy": "Yhdistyksille ja toimintaryhmille myönnettävä toiminta-avustus, ei henkilökohtainen maksuton palvelu.",
+      "lahde": "https://kannonkoski.fi/yhdistysavustukset"
+    },
+    {
+      "kohde": "Keuruun yksittäiset pop-up-kahvilat ja tapahtumat",
+      "syy": "Kertaluonteisia tapahtumia, ei jatkuvaa avustuspalvelua.",
+      "lahde": "https://keuruu.fi/tapahtumat/neilikan-pop-up-kahvilamyymala/"
+    }
+  ],
+  "jatkokohta": "Keski-Suomi / Kannonkoski / Ruoka-apu; tämän jälkeen Karstula, Keuruu, Kinnula, Kivijärvi, Konnevesi, Laukaa, Luhanka, Multia, Muurame, Petäjävesi, Pihtipudas, Saarijärvi, Toivakka, Uurainen, Viitasaari ja Äänekoski.",
+  "rajaus": "Tämä tiedosto dokumentoi tämän ajon lähdehaun tulokset. Se ei merkitse kuntia valmiiksi eikä väitä, että kaikkien kuuden kategorian palvelut olisi tyhjentävästi kartoitettu."
+}
