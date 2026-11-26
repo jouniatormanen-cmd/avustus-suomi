@@ -1,6 +1,6 @@
 {
   "maakunta": "Keski-Suomi",
-  "tarkistuspäivä": "2026-11-25",
+  "tarkistuspäivä": "2026-11-26",
   "kierros": "ensimmäinen kuntakohtainen seulonta, osittainen lähdetarkistus",
   "kunnat": [
     {
@@ -86,6 +86,18 @@
         "Asuminen"
       ],
       "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Kivijärvi",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
     }
   ],
   "hyvaksytyt": [
@@ -112,6 +124,18 @@
       "lahde": "https://www.jyvaskylanseurakunta.fi/apua-ja-tukea/diakoniasta-apua-arkeen",
       "status": "hyväksytty",
       "huomio": "Yksi seurakunnan palvelutietue, ei erillisiä kuntakopioita."
+    },
+    {
+      "id": "ks-kinnula-diakonia-aineellisen-avun-maksukortit",
+      "nimi": "Diakoniatyön aineellisen avun maksukortit",
+      "jarjestaja": "Kinnulan seurakunta",
+      "paikka": "Kinnula; henkilökohtainen tapaaminen diakoniatyöntekijän kanssa",
+      "aika": "Ajanvarauksella; tapaamisajat sovitaan diakoniatyöntekijän kanssa",
+      "maksuttomuus": "Maksuton harkinnanvarainen aineellinen apu. Pieni erä maksukortteja vähävaraisille; elämäntilanne ja talous kartoitetaan henkilökohtaisesti. Ei automaattista oikeutta tai kaikille taattua saatavuutta.",
+      "yhteystiedot": "Diakoniatyöntekijä Hellevi, 040 352 7757; Kinnulan seurakunta, Kirkkotie 2, 43900 Kinnula",
+      "lahde": "https://www.kinnulanseurakunta.fi/apua-ja-tukea/taloudelliset-vaikeudet",
+      "status": "hyväksytty",
+      "huomio": "Luokiteltu Tavarat-kategoriaan aineellisen avun maksukorttina; ei lasketa rahana maksettavaksi tueksi."
     }
   ],
   "vahvistamattomat": [
@@ -142,6 +166,30 @@
     {
       "kohde": "Jyväskylä: Kotiapu, Vaatteet, Tavarat ja Asuminen",
       "syy": "Näissä kategorioissa tarvitaan vielä palvelukohtaiset järjestäjälähteet ja ehdot."
+    },
+    {
+      "kohde": "Kannonkoski: Ruoka-apu",
+      "syy": "Saarijärven seurakunnan Kannonkosken diakoniapäivystys on maanantaisin parittomilla viikoilla klo 10–12, mutta paikallista maksutonta ruoka-avun jakelua ja ehtoja ei vahvistettu. Yhteyshenkilö Mirja Salo 040 520 1451."
+    },
+    {
+      "kohde": "Karstula: Ruoka-apu",
+      "syy": "ViaDia ry:n Karstulan Vapaaseurakunnan ruokakohde ilmoittaa ruoan olevan maksutonta, mutta säännöllistä jakeluaikaa ja paikallista yhteydenottotapaa ei ilmoiteta riittävän tarkasti; jätetty avoimeksi."
+    },
+    {
+      "kohde": "Karstula: Kotiapu, Vaatteet, Tavarat, Raha ja Asuminen",
+      "syy": "Heikin Tupa on maksuton avoin yhteisötila, mutta se ei itsessään ole näiden kategorioiden yksilöllinen avustuspalvelu. Muiden palveluiden ehdot vaativat selvitystä."
+    },
+    {
+      "kohde": "Keuruu: Ruoka-apu, Kotiapu, Vaatteet, Tavarat, Raha ja Asuminen",
+      "syy": "Tässä kierroksessa ei saatu riittävää järjestäjän ensisijaista vahvistusta jatkuvista maksuttomista palveluista. Ystäväntupa/A-kilta tarjoaa maksutonta yhteisöllistä tukea, mutta ei vastaa suoraan määriteltyjä avustuskategorioita."
+    },
+    {
+      "kohde": "Kinnula: Ruoka-apu, Kotiapu, Vaatteet, Raha ja Asuminen",
+      "syy": "Seurakunnan aineellisen avun maksukortit hyväksyttiin Tavarat-kategoriaan. Muiden kategorioiden maksuttomia jatkuvia palveluja ei vahvistettu."
+    },
+    {
+      "kohde": "Kivijärvi: kaikki kuusi kategoriaa",
+      "syy": "Kunnan ja seurakunnan julkisista ensisijaisista lähteistä ei tässä ajossa saatu riittävästi palvelukohtaisia tietoja maksuttomista jatkuvista avustuspalveluista."
     }
   ],
   "poissuljetut": [
@@ -159,8 +207,18 @@
       "kohde": "Keuruun yksittäiset pop-up-kahvilat ja tapahtumat",
       "syy": "Kertaluonteisia tapahtumia, ei jatkuvaa avustuspalvelua.",
       "lahde": "https://keuruu.fi/tapahtumat/neilikan-pop-up-kahvilamyymala/"
+    },
+    {
+      "kohde": "Karstulan kunnan yleinen asiointiliikenne",
+      "syy": "Kuljetus on käyttäjälle maksullinen (3–5 euroa/suunta), joten ei täytä maksuttomuusrajausta.",
+      "lahde": "https://karstula.fi/terveys-ja-hyvinvointi/ikaihmisille/"
+    },
+    {
+      "kohde": "Kannonkosken iltaperhekerhon yhteisruokailu",
+      "syy": "Ruokailu maksaa 3 euroa aikuiselta ja 1 euro lapselta; lisäksi kyseinen sivu kuvaa yksittäisiä kokoontumispäiviä.",
+      "lahde": "https://www.saarijarvenseurakunta.fi/tapahtumat/2026-11-18/iltaperhekerho-kannonkoski"
     }
   ],
-  "jatkokohta": "Keski-Suomi / Kannonkoski / Ruoka-apu; tämän jälkeen Karstula, Keuruu, Kinnula, Kivijärvi, Konnevesi, Laukaa, Luhanka, Multia, Muurame, Petäjävesi, Pihtipudas, Saarijärvi, Toivakka, Uurainen, Viitasaari ja Äänekoski.",
-  "rajaus": "Tämä tiedosto dokumentoi tämän ajon lähdehaun tulokset. Se ei merkitse kuntia valmiiksi eikä väitä, että kaikkien kuuden kategorian palvelut olisi tyhjentävästi kartoitettu."
+  "jatkokohta": "Keski-Suomi / Kivijärvi / Ruoka-apu; tämän jälkeen Konnevesi, Laukaa, Luhanka, Multia, Muurame, Petäjävesi, Pihtipudas, Saarijärvi, Toivakka, Uurainen, Viitasaari ja Äänekoski.",
+  "rajaus": "Päivitetty 26.11.2026. Viisi uutta kuntaa (Kannonkoski, Karstula, Keuruu, Kinnula, Kivijärvi) seulottu kuudessa kategoriassa. Tämä ei ole kuntien täydellinen kartoitus eikä keskeneräisiä kuntia merkitä valmiiksi."
 }
