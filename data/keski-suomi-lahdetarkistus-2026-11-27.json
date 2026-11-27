@@ -1,0 +1,305 @@
+{
+  "maakunta": "Keski-Suomi",
+  "tarkistuspaiva": "2026-11-27",
+  "aineiston_tyyppi": "jatkoerä; täydentää 2026-11-25 JSON-aineistoa, ei korvaa sitä",
+  "kunnat": [
+    {
+      "kunta": "Kivijärvi",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Konnevesi",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Laukaa",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Luhanka",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Multia",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Muurame",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "osittain vahvistettu"
+    },
+    {
+      "kunta": "Petäjävesi",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "osittain vahvistettu"
+    },
+    {
+      "kunta": "Pihtipudas",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Saarijärvi",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Toivakka",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Uurainen",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "vahvistukset kesken"
+    },
+    {
+      "kunta": "Viitasaari",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "osittain vahvistettu"
+    },
+    {
+      "kunta": "Äänekoski",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "osittain vahvistettu"
+    }
+  ],
+  "hyvaksytyt": [
+    {
+      "id": "ks-muurame-mannatupa-ruokapankki",
+      "nimi": "Mannatuvan maksuton ruokapankki ja leipäjako",
+      "jarjestaja": "Muuramen Mannatupa ry yhteistyössä Muuramen seurakunnan kanssa",
+      "paikka": "Virastotie 2, 40950 Muurame",
+      "aika": "Ruokakassit ma, ke ja pe klo 10–11; ovet 9.45. Leipäjako la klo 17–17.30. Yksi ruokakassi viikossa.",
+      "maksuttomuus_ja_ehdot": "Maksuton Muuramen asukkaille. Tulotietoja ei kysytä, mutta keskustelu diakoniatyöntekijän kanssa on käytävä ensimmäisen kolmen kuukauden aikana. Flunssaoireisena ei saa tulla.",
+      "yhteystiedot": "Hanna Forsman 050 5943 226; Kirsti Kataikko 050 5943 225; Mannatupa 050 354 8844",
+      "lahde": "https://www.mannatupa.fi/toiminta/",
+      "tarkistettu": "2026-11-27",
+      "status": "hyväksytty"
+    },
+    {
+      "id": "ks-petajavesi-spr-ruokajako",
+      "nimi": "SPR Petäjäveden maksuton hävikkiruokajako",
+      "jarjestaja": "Suomen Punaisen Ristin Petäjäveden osasto; tiedot julkaisee Petäjäveden seurakunta",
+      "paikka": "Teollisuustie 6, Petäjävesi (entinen Valon talo)",
+      "aika": "Perjantaisin klo 10–11; lahjoitustilanteen vuoksi jakokertoja voidaan vähentää ja muutoksista ilmoitetaan.",
+      "maksuttomuus_ja_ehdot": "Kauppojen, koulun ja Petäjäkodin lahjoittamaa hävikkiruokaa. Maksuton ruoka-apu; saatavuus riippuu lahjoitusten määrästä.",
+      "yhteystiedot": "Airi Lindholm 040 823 9382; kiireellisessä ruoka-avussa seurakunnan diakoni Sairi 040 765 6176",
+      "lahde": "https://www.petajavedenseurakunta.fi/apua-ja-tukea/ruoka-apu",
+      "tarkistettu": "2026-11-27",
+      "status": "hyväksytty"
+    },
+    {
+      "id": "ks-viitasaari-ruokajako",
+      "nimi": "Viitasaaren seurakunnan maksuton ruokajako ja Eväsreppu",
+      "jarjestaja": "Viitasaaren seurakunta",
+      "paikka": "Seurakuntatalo, Pappilantie 6, Viitasaari; Takatasku seurakuntatalon alakerrassa",
+      "aika": "Ruokajako maanantaisin klo 9–10; perjantaisin Eväsreppu klo 9.30–11.",
+      "maksuttomuus_ja_ehdot": "Kauppojen ja koulujen ylijäämäruokaa tarvitseville; perjantaisin lisäksi maksuton aamupala. Omat astiat mukaan. Diakoniatoimiston päivystys ma ja to klo 9–11 tai henkilökohtainen aika.",
+      "yhteystiedot": "Diakoniatyöntekijät seurakunnan yhteystietosivun kautta; Takatasku seurakuntatalolla",
+      "lahde": "https://www.viitasaarenseurakunta.fi/apua-ja-tukea/arjen-ongelmat",
+      "tarkistettu": "2026-11-27",
+      "status": "hyväksytty"
+    },
+    {
+      "id": "ks-viitasaari-ilmaiskirpputori",
+      "nimi": "Viitasaaren seurakunnan ilmaiskirpputori",
+      "jarjestaja": "Viitasaaren seurakunta",
+      "paikka": "Seurakuntatalon alakerta, Takatasku, Pappilantie 6, Viitasaari",
+      "aika": "Perjantaisin Eväsrepun yhteydessä klo 9.30–11; muulloin sopimuksen mukaan.",
+      "maksuttomuus_ja_ehdot": "Maksutta vaatteita, kenkiä ja kodin tarvikkeita; huonekaluja tarvitseville erillisestä varastosta. Saatavuus lahjoitusten mukaan.",
+      "yhteystiedot": "Anneli Palonen 050 5884 906; Heidi Syvänen 050 5884 911",
+      "lahde": "https://www.viitasaarenseurakunta.fi/apua-ja-tukea/arjen-ongelmat",
+      "tarkistettu": "2026-11-27",
+      "status": "hyväksytty"
+    },
+    {
+      "id": "ks-aanekoski-ruokapankki",
+      "nimi": "Äänekosken seurakunnan maksuton ruokapankki",
+      "jarjestaja": "Äänekosken seurakunta",
+      "paikka": "Äänekoski; lisäksi diakoniatoimistot Suolahdessa, Sumiaisissa ja Konginkankaalla",
+      "aika": "Äänekosken ruokapankki ke ja pe klo 9–11.30. Muilla alueilla asiointi diakoniatoimiston päivystysaikana tai sopimuksen mukaan.",
+      "maksuttomuus_ja_ehdot": "Maksuton tilapäisesti vaikeassa elämäntilanteessa oleville kotitalouksille. Ensin henkilökohtainen diakoniatapaaminen ja taloustilanteen selvitys; ruokakassi haetaan lähetteellä.",
+      "yhteystiedot": "Äänekoski: Marjut Lahti 040 502 5481; Konginkangas: Jaana Muurikainen 050 400 6745; Suolahti: Jaana Sikorski 045 657 7665; Sumiainen: Susanna Halinen 040 726 3519",
+      "lahde": "https://www.aanekoskenseurakunta.fi/apua-ja-tukea/arjen-ongelmat",
+      "tarkistettu": "2026-11-27",
+      "status": "hyväksytty"
+    },
+    {
+      "id": "ks-aanekoski-diakoninen-aineellinen-apu",
+      "nimi": "Äänekosken seurakunnan diakoninen aineellinen ja taloudellinen apu",
+      "jarjestaja": "Äänekosken seurakunta",
+      "paikka": "Äänekoski, Suolahti, Sumiainen ja Konginkangas",
+      "aika": "Diakoniatoimistojen päivystys: Äänekoski ke ja pe klo 9–11; Suolahti ti ja to klo 10–12; Konginkangas ti ja to klo 9–11; Sumiainen ma klo 10–12. Ajanvaraus myös mahdollista.",
+      "maksuttomuus_ja_ehdot": "Maksuton, harkinnanvarainen aineellinen apu äkillisessä vaikeassa elämäntilanteessa, kun yhteiskunnan perusturva ei riitä. Tilanne arvioidaan henkilökohtaisesti.",
+      "yhteystiedot": "Äänekoski Marjut Lahti 040 502 5481; Konginkangas Jaana Muurikainen 050 400 6745; Suolahti Jaana Sikorski 045 657 7665; Sumiainen Susanna Halinen 040 726 3519",
+      "lahde": "https://www.aanekoskenseurakunta.fi/apua-ja-tukea/arjen-ongelmat",
+      "tarkistettu": "2026-11-27",
+      "status": "hyväksytty"
+    }
+  ],
+  "vahvistamattomat": [
+    {
+      "kohde": "Kivijärvi / kuusi kategoriaa",
+      "syy": "Kunnan ruokapalvelusivu kertoo Kivijärvenhelmi Oy:n toiminnan päättyneen ja kunnan valmistavan ruokaa 1.8.2026 alkaen vain koululle, varhaiskasvatukselle ja henkilöstölle. Maksutonta asukkaiden ruoka-apua ei löytynyt. Muissa kategorioissa ei saatu riittävää palvelukohtaista vahvistusta.",
+      "lahde": "https://www.kivijarvi.fi/tekninen/ruokapalvelut-kunta"
+    },
+    {
+      "kohde": "Konnevesi / kuusi kategoriaa",
+      "syy": "Kunnan maksuton Kelan asiointipiste ti ja to klo 9–12 auttaa lomakkeissa ja hakemuksissa, mutta ei itsessään ole kuuden määritellyn avustuskategorian palvelu. Muita palveluja ei tässä haussa vahvistettu.",
+      "lahde": "https://konnevesi.fi/asuminen-ja-ymparisto/muut-julkiset-palvelut/kelan-asiointipiste/"
+    },
+    {
+      "kohde": "Laukaa / ruoka-apu",
+      "syy": "Seurakunnan torstairuokapäivien sivu julkaisee ruokalistat ja ajat, mutta ei vahvista maksuttomuutta. Ei hyväksytty ilman maksuttomuustietoa.",
+      "lahde": "https://www.laukaanseurakunta.fi/apua-ja-tukea/ruokapaivat"
+    },
+    {
+      "kohde": "Luhanka ja Multia / kaikki kuusi kategoriaa",
+      "syy": "Tässä haussa ei saatu riittävää järjestäjän ensisijaista palvelukohtaista vahvistusta."
+    },
+    {
+      "kohde": "Toivakka / ruoka-apu",
+      "syy": "Majakan maksuttomasta keittopäivästä löytyi useita perjantain päivämääriä (mm. 16.10., 30.10. ja 27.11.2026), mutta pysyvää toistumisrytmiä ei ollut lähteessä ilmaistu. Jätetty avoimeksi, kunnes säännöllinen rytmi vahvistuu.",
+      "lahde": "https://www.jyvaskylanseurakunta.fi/tapahtumat/2026-11-27/keittopaiva-seurakuntakodilla"
+    },
+    {
+      "kohde": "Saarijärvi / ruoka-apu",
+      "syy": "Perhekerhossa tarjotaan maksuton aamupala, mutta kuukausittainen lounas on maksullinen. Erillistä säännöllistä maksutonta ruoka-avun jakelua ei tässä haussa vahvistettu.",
+      "lahde": "https://www.saarijarvenseurakunta.fi/lapsille-ja-lapsiperheille/perhekerho"
+    },
+    {
+      "kohde": "Uurainen / ruoka-apu",
+      "syy": "Seurakunnan tiistailounas maksaa 5 euroa; maksuton bingo ei ole ruoka-apua. Suljettu pois maksullisena.",
+      "lahde": "https://www.uuraistenseurakunta.fi/tapahtumat/2026-11-24/tiistailounas"
+    },
+    {
+      "kohde": "Petäjävesi / kotiapu, vaatteet, tavarat, raha ja asuminen",
+      "syy": "Tässä erässä vahvistettiin ruoka-apu. Seurakunnan diakoniasta voi tiedustella muuta taloudellista ja aineellista tukea, mutta erillisten palvelujen ehdot ja luokitus vaativat lisätarkistusta.",
+      "lahde": "https://www.petajavedenseurakunta.fi/apua-ja-tukea"
+    },
+    {
+      "kohde": "Viitasaari / kotiapu, raha ja asuminen",
+      "syy": "Ruoka-apu ja ilmaiskirpputori vahvistettiin. Muiden kategorioiden palvelut vaativat erillisen lähdetarkistuksen."
+    },
+    {
+      "kohde": "Äänekoski / kotiapu ja asuminen",
+      "syy": "Ruokapankki ja diakoninen aineellinen apu vahvistettiin. Erillistä maksutonta kotiapua tai asumispalvelua ei tässä erässä vahvistettu."
+    }
+  ],
+  "poissuljetut": [
+    {
+      "kohde": "Pihtiputaan vuoden 2025 jouluruokajaot ja keskiviikkokeitot",
+      "syy": "Kunnan julkaisu kuvaa vuoden 2025 määräpäiviä ja joulukauden toimintaa, ei varmennettua jatkuvaa palvelua.",
+      "lahde": "https://pihtipudas.fi/jouluapua-tarjolla/"
+    },
+    {
+      "kohde": "Uuraisten seurakunnan tiistailounas",
+      "syy": "Lounas ja kahvi maksavat 5 euroa; vain bingo on maksuton.",
+      "lahde": "https://www.uuraistenseurakunta.fi/tapahtumat/2026-11-24/tiistailounas"
+    },
+    {
+      "kohde": "Laukaan seurakunnan torstairuokapäivät",
+      "syy": "Maksuttomuutta ei lähteessä vahvisteta; ei hyväksytä maksuttomaksi palveluksi ennen järjestäjän vahvistusta.",
+      "lahde": "https://www.laukaanseurakunta.fi/apua-ja-tukea/ruokapaivat"
+    }
+  ],
+  "jatkokohta": "Keski-Suomi / Äänekoski / Kotiapu; tämän jälkeen täydennetään Äänekosken Vaatteet, Tavarat, Raha ja Asuminen sekä aiempien kuntien avoimet kohdat. Keski-Suomen ensimmäistä kierrosta ei ole merkitty valmiiksi.",
+  "rajaus": "Tarkistettu 27.11.2026. Tässä erässä käytiin läpi Kivijärvi sekä Konnevesi–Äänekoski -jatkohaun kunnat. Hyväksytyt palvelut on rajattu vain ensisijaisella järjestäjälähteellä ja maksuttomuustiedolla vahvistettuihin. Kuntien kuusi kategoriaa ovat seulontatarkistuksia, eivät täydellisyysvakuutus."
+}
