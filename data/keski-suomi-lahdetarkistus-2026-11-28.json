@@ -1,0 +1,97 @@
+{
+  "maakunta": "Keski-Suomi",
+  "tarkistuspaiva": "2026-11-28",
+  "aineiston_tyyppi": "jatkoerä; täydentää aiempia Keski-Suomen tiedostoja, ei korvaa niitä",
+  "kunnat": [
+    {
+      "kunta": "Äänekoski",
+      "kategoriat": [
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "osittain vahvistettu; aiemmat Ruoka-apu- ja Tavarat/Raha-tietueet säilytetään"
+    },
+    {
+      "kunta": "Jämsä",
+      "kategoriat": [
+        "Ruoka-apu",
+        "Kotiapu",
+        "Vaatteet",
+        "Tavarat",
+        "Raha",
+        "Asuminen"
+      ],
+      "tila": "ensimmäinen seulonta aloitettu; ei valmis"
+    }
+  ],
+  "hyvaksytyt": [
+    {
+      "id": "ks-aanekoski-pikkuhelppi-lastenhoitoapu",
+      "nimi": "PikkuHelppi – maksuton lyhytaikainen lastenhoitoapu",
+      "jarjestaja": "Äänekosken kaupunki / perhekeskus ja Äänekosken seurakunta",
+      "paikka": "Sovitusti perheen kotona tai ulkoillen lähialueella, Äänekoski",
+      "aika": "Sovitaan perheen kanssa; 1–3 kertaa toimintakaudessa, enintään 2,5 tuntia kerrallaan",
+      "maksuttomuus_ja_ehdot": "Maksuton alle kouluikäisten lasten lyhytaikainen hoito. Varataan perhekeskuksen varhaisen tuen ohjaajan kautta.",
+      "yhteystiedot": "Jaana Puumala, 040 842 2191, jaana.puumala@aanekoski.fi",
+      "lahde": "https://www.aanekoski.fi/lapsiperheet/perhekeskustoiminta/palveluhaku/pikkuhelppi-lastenhoitoapu",
+      "tarkistettu": "2026-11-28",
+      "status": "hyväksytty",
+      "kategoria": "Kotiapu"
+    },
+    {
+      "id": "ks-aanekoski-maahanmuuttaneiden-neuvontapiste-asuminen",
+      "nimi": "Maahanmuuttaneiden maksuton neuvontapiste – asumisneuvonta osana yleisneuvontaa",
+      "jarjestaja": "Äänekosken kaupunki",
+      "paikka": "Koskelan tilat, Rautatienkatu 25; Perhekeskus Kerkän tilat, Koulunmäenkatu 6A, Äänekoski",
+      "aika": "Tiistaisin klo 13.30–15.30 ja keskiviikkoisin klo 14–16, ilman ajanvarausta",
+      "maksuttomuus_ja_ehdot": "Maksuton neuvonta maahanmuuttaneille asumisesta ja muista arjen asioista. Ei yleinen kaikille asukkaille tarkoitettu asumisneuvonta.",
+      "yhteystiedot": "Almira Pakarinen 040 831 5073, immigrant.info@aanekoski.fi; Titta Veijanen 040 701 8642; Minna Aikio 040 737 8534",
+      "lahde": "https://app.aanekoski.fi/maahanmuuttaneet/maahanmuuttaneiden-neuvontapiste",
+      "tarkistettu": "2026-11-28",
+      "status": "hyväksytty",
+      "kategoria": "Asuminen"
+    }
+  ],
+  "vahvistamattomat": [
+    {
+      "kohde": "Äänekoski / Muksuparkki",
+      "syy": "Maksuton 0–5-vuotiaiden tilapäinen lastenhoito on vahvistettu, mutta lähdesivulta ei saatu säännöllistä toistumisaikaa eikä kattavia yhteystietoja. Ei vielä hyväksytty erilliseksi säännölliseksi palveluksi.",
+      "lahde": "https://www.aanekoski.fi/lapsiperheet/perhekeskustoiminta/palveluhaku/muksuparkki"
+    },
+    {
+      "kohde": "Äänekoski / lapsiperheiden kotipalvelu",
+      "syy": "Hyvinvointialueen palvelukuvaus vahvistaa kodinhoidolliset tehtävät ja lastenhoidon, mutta maksuttomuutta ei voitu vahvistaa. Asiakasmaksun perusteet tarkistettava.",
+      "lahde": "https://www.hyvaks.fi/palvelumme/lapsiperheiden-kotipalvelu"
+    },
+    {
+      "kohde": "Äänekoski / yleinen asumisneuvonta",
+      "syy": "Maksuton asumiseen liittyvä neuvonta vahvistui maahanmuuttaneiden neuvontapisteessä vain rajatulle kohderyhmälle; kaikille kuntalaisille suunnattua erillistä asumisneuvontaa ei vahvistettu."
+    },
+    {
+      "kohde": "Jämsä / vapaaehtoinen kauppa- ja asiointiapu",
+      "syy": "Kaupungin sivu nimeää SPR:n, Vapepan, seurakunnan ja paikallisia yhdistyksiä, mutta maksuttomuutta, jatkuvaa saatavuutta ja ehtoja ei vahvistettu. Osa kauppojen toimituksista on maksullisia.",
+      "lahde": "https://jamsa.fi/ajankohtaista/tiedotteet/vapaaehtoiset-avustavat-asioinnissa/"
+    },
+    {
+      "kohde": "Jämsä / ruoka-apu, kotiapu, vaatteet, tavarat ja raha",
+      "syy": "Ensimmäisessä seulonnassa ei vielä saatu riittäviä palvelukohtaisia ensisijaisia lähdevahvistuksia."
+    }
+  ],
+  "poissuljetut": [
+    {
+      "kohde": "Äänekosken Kirkon Olkkarin kahvitarjoilu",
+      "syy": "Kahvista pyydetään vapaaehtoinen maksu; ei hyväksytty yksiselitteisesti maksuttomana ruoka-apuna.",
+      "lahde": "https://www.aanekoskenseurakunta.fi/kirkot-ja-tilat/kirkon-olkkari1"
+    },
+    {
+      "kohde": "Jämsän joulupostia ikäihmisille -kampanja",
+      "syy": "Kausiluonteinen joulukampanja, ei jatkuva avustuspalvelu.",
+      "lahde": "https://jamsa.fi/ajankohtaista/tiedotteet/joulupostia-ikaihmisille-kampanja-kaynnistyy-jalleen/"
+    }
+  ],
+  "jatkokohta": "Keski-Suomi / Jämsä / Ruoka-apu. Jämsä on maakunnan kuntien aakkosjärjestyksessä jäänyt aiemmista eristä väliin ja käsitellään nyt ennen Kannonkosken jälkeisiä kuntia; sen jälkeen täydennetään Kuhmoinen ja Kyyjärvi sekä muut aiemmin ohitetut kunnat. Äänekosken seulonta ei ole valmis.",
+  "rajaus": "Tarkistettu 28.11.2026. Aiemman 27.11. jatkomuistion jatkokohta Äänekoski/Kotiapu käsiteltiin. Kuntien kategorioita ei merkitä valmiiksi ilman riittäviä lähdevahvistuksia. Alueellisia palveluita ei monisteta. Päärekistereitä ja julkisen sivuston ulkoasua ei muuteta."
+}
